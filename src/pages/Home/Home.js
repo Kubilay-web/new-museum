@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import "../css/css-1.css";
-import "../css/css-2.css";
+import "../../css/css-1.css";
+import "../../css/css-2.css";
 
 const Home = () => {
   // Dropdown menüsünün açılma/kapanma durumunu tutan state
@@ -103,15 +103,6 @@ const Home = () => {
           name="facebook-domain-verification"
           content="8rxgufrjnmm08rnfosf5ers9d1q7a5"
         />
-        {/* End Facebook domain verification */}
-        {/* Google Tag Manager (noscript) */}
-        <noscript>
-          &lt;iframe
-          src="https://www.googletagmanager.com/ns.html?id=GTM-MW5VCK"
-          height="0" width="0"
-          style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
-        </noscript>
-        {/* End Google Tag Manager (noscript) */}
         <div className="hidden">
           <svg
             xmlns="http://www.w3.org/2000/svg"
