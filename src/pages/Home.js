@@ -2099,32 +2099,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=73k-AqJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=sOrwHw5e 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=IkIcINR5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=frHfjMMM 1600w"
-                                                    data-focal-position="center center"
+                                                    src="/images/Silk-Roads-teaser-2000x1159.webp"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=73k-AqJa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=sOrwHw5e
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=IkIcINR5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=frHfjMMM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    alt="Procession of camels
-                                                    with lone figure leading in
-                                                    shadow against orange sky"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                             </div>
@@ -2181,35 +2158,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=bBQ9Fzq8 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=LMuBMahJ 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=L6qjUiGy 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=fhhOqZBV 1600w"
-                                                    data-focal-position="bottom center"
-                                                    alt="Bust of Queen, adorned with regalia of empire including skulls, tropical foliage, brass plaques, and replicas of military insignia including medals of imperial conflicts. "
+                                                    src="/images/Hew_Locke_Souvenir_20_1920x1080.jpg"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=bBQ9Fzq8
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=2U2LQ4z6
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=LMuBMahJ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=L6qjUiGy
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=fhhOqZBV
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=2U2LQ4z6"
-                                                    data-sizes="auto" alt="Bust
-                                                    of Queen, adorned with
-                                                    regalia of empire including
-                                                    skulls, tropical foliage,
-                                                    brass plaques, and replicas
-                                                    of military insignia
-                                                    including medals of imperial
-                                                    conflicts. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                             </div>
@@ -2266,34 +2217,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=4FLk7aFK"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=f2LwjbQc 400w, /sites/default/files/styles/16_9_media_small/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=4FLk7aFK 750w, /sites/default/files/styles/16_9_media_medium/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=AJ1rXJ5o 1000w, /sites/default/files/styles/16_9_media_large/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=fjPsUgQt 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=rjI-2OsI 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A colourful Picasso print in red, green, yellow and black showing a lightbulb from a ceiling lamp lighting up a table with apples and a goblet on it."
+                                                    src="/images/Picasso_teaser.jpg"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=f2LwjbQc
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=4FLk7aFK
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=AJ1rXJ5o
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=fjPsUgQt
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=rjI-2OsI
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=4FLk7aFK"
-                                                    data-sizes="auto" alt="A
-                                                    colourful Picasso print in
-                                                    red, green, yellow and black
-                                                    showing a lightbulb from a
-                                                    ceiling lamp lighting up a
-                                                    table with apples and a
-                                                    goblet on it." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                             </div>
@@ -2365,32 +2291,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&itok=2zEmMIkr"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&itok=ZedZVrPS 400w, /sites/default/files/styles/16_9_media_small/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&itok=2zEmMIkr 750w, /sites/default/files/styles/16_9_media_medium/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&itok=vV81sRtG 1000w, /sites/default/files/styles/16_9_media_large/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&itok=jae16yj3 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&itok=_LiGIgEs 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Woman in gallery space looking at a statue of a figure standing on right leg, dancing. "
+                                                    src="/images/room-33-china-south-asia-visitor-1920.webp"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&amp;itok=ZedZVrPS
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&amp;itok=2zEmMIkr
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&amp;itok=vV81sRtG
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&amp;itok=jae16yj3
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&amp;itok=_LiGIgEs
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-11/room-33-china-south-asia-visitor-1920.jpg?h=d1cb525d&amp;itok=2zEmMIkr"
-                                                    data-sizes="auto" alt="Woman
-                                                    in gallery space looking at
-                                                    a statue of a figure
-                                                    standing on right leg,
-                                                    dancing. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2429,30 +2332,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&itok=p-8AvfxJ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&itok=03MqeoSY 400w, /sites/default/files/styles/16_9_media_small/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&itok=p-8AvfxJ 750w, /sites/default/files/styles/16_9_media_medium/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&itok=JTQfcuMd 1000w, /sites/default/files/styles/16_9_media_large/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&itok=jFicCbIr 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&itok=1IpbtIDa 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The Great Court Restaurant."
+                                                    src="/images/great-court-restaurant-blog.jpg"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&amp;itok=03MqeoSY
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&amp;itok=p-8AvfxJ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&amp;itok=JTQfcuMd
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&amp;itok=jFicCbIr
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&amp;itok=1IpbtIDa
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-08/great-court-restaurant-blog.jpg?h=99b95e68&amp;itok=p-8AvfxJ"
-                                                    data-sizes="auto" alt="The
-                                                    Great Court Restaurant."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2489,32 +2371,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=3b6K4axH"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=oTNG_kF6 400w, /sites/default/files/styles/16_9_media_small/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=3b6K4axH 750w, /sites/default/files/styles/16_9_media_medium/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=jsZyktAO 1000w, /sites/default/files/styles/16_9_media_large/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=vQ0MlykK 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=ZpmrpPjX 1600w"
-                                                    data-focal-position="center left"
-                                                    alt="Visitors examining the Rosetta Stone in the Egyptian Sculpture gallery"
+                                                    src="/images/rosetta-stone-egyptian-sculpture-room-1920_0.jpg"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;itok=oTNG_kF6
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;itok=3b6K4axH
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;itok=jsZyktAO
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;itok=vQ0MlykK
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;itok=ZpmrpPjX
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;itok=3b6K4axH"
-                                                    data-sizes="auto"
-                                                    alt="Visitors examining the
-                                                    Rosetta Stone in the
-                                                    Egyptian Sculpture gallery"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2551,31 +2410,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&itok=5d7mz1bW"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&itok=q74Td-Yp 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&itok=5d7mz1bW 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&itok=Kw5vPZ-c 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&itok=1mij9Q1i 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&itok=eb37mZ2o 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A family looking at a sculpture in the Mausoleum of Halikarnassos"
+                                                    src="/images/R21 24b Ancient Greece Rome Americas.webp"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&amp;itok=q74Td-Yp
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&amp;itok=5d7mz1bW
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&amp;itok=Kw5vPZ-c
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&amp;itok=1mij9Q1i
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&amp;itok=eb37mZ2o
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R21%2024b%20Ancient%20Greece%20Rome%20Americas.jpg?h=f2b84de4&amp;itok=5d7mz1bW"
-                                                    data-sizes="auto" alt="A
-                                                    family looking at a
-                                                    sculpture in the Mausoleum
-                                                    of Halikarnassos" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2678,33 +2515,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=SwUqrX-P"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=2935mSGs 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=SwUqrX-P 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=yQd6AOBK 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=IyBkjhpa 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=yGltR8va 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Aerial view of the British Museum site at Bloomsbury, showing the main façade of the building and surrounding area."
+                                                    src="/images/Masterplan_aerial_view_teaser.jpg"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=2935mSGs
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=SwUqrX-P
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=yQd6AOBK
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=IyBkjhpa
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=yGltR8va
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=SwUqrX-P"
-                                                    data-sizes="auto"
-                                                    alt="Aerial view of the
-                                                    British Museum site at
-                                                    Bloomsbury, showing the main
-                                                    façade of the building and
-                                                    surrounding area." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2745,33 +2558,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=Bi6dsFe1"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=6ybVpU0A 400w, /sites/default/files/styles/16_9_media_small/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=Bi6dsFe1 750w, /sites/default/files/styles/16_9_media_medium/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=h1dO_3Ff 1000w, /sites/default/files/styles/16_9_media_large/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=andW-dsn 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=asaouhDh 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Matthew wears a black tshirt and points at hieroglyphs on a large ancient Egyptian sculpture."
+                                                    src="/images/Volunteers-blog-hero-1920x1080.jpg"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=6ybVpU0A
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=Bi6dsFe1
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=h1dO_3Ff
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=andW-dsn
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=asaouhDh
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=Bi6dsFe1"
-                                                    data-sizes="auto"
-                                                    alt="Matthew wears a black
-                                                    tshirt and points at
-                                                    hieroglyphs on a large
-                                                    ancient Egyptian sculpture."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2811,31 +2600,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&itok=M0Th2QzI"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&itok=e3w-sqQb 400w, /sites/default/files/styles/16_9_media_small/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&itok=M0Th2QzI 750w, /sites/default/files/styles/16_9_media_medium/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&itok=iy8fvgV6 1000w, /sites/default/files/styles/16_9_media_large/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&itok=V34ZEMNS 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&itok=YqUeYtlB 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Gold bangles, torcs and jewelled necklaces as well as other gold objects"
+                                                    src="/images/Roman-hoards-Hero-thetford-1920x1080.webp"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&amp;itok=e3w-sqQb
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&amp;itok=M0Th2QzI
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&amp;itok=iy8fvgV6
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&amp;itok=V34ZEMNS
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&amp;itok=YqUeYtlB
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Roman-hoards-Hero-thetford-1920x1080.png?h=d1cb525d&amp;itok=M0Th2QzI"
-                                                    data-sizes="auto" alt="Gold
-                                                    bangles, torcs and jewelled
-                                                    necklaces as well as other
-                                                    gold objects" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2876,32 +2643,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=Yo_njkdw"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=VqzwV7N_ 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=Yo_njkdw 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=72Box_wk 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=CUNknksV 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=42d2lgRT 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Hew Locke in the Prints and Drawings Study Room at the British Museum, 2024. Photo © Richard Cannon."
+                                                    src="/images/Who-is-Hew-Locke-teaser-1000x634.webp"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=VqzwV7N_
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=Yo_njkdw
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=72Box_wk
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=CUNknksV
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=42d2lgRT
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=Yo_njkdw"
-                                                    data-sizes="auto" alt="Hew
-                                                    Locke in the Prints and
-                                                    Drawings Study Room at the
-                                                    British Museum, 2024. Photo
-                                                    © Richard Cannon." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3004,30 +2748,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&itok=tG43Qyfa"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&itok=OevjSYjf 400w, /sites/default/files/styles/16_9_media_small/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&itok=tG43Qyfa 750w, /sites/default/files/styles/16_9_media_medium/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&itok=o2-ZR1Qp 1000w, /sites/default/files/styles/16_9_media_large/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&itok=32wnVrtJ 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&itok=IWTga4y2 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Scientist using a laser to clean a headdress."
+                                                    src="/images/laser-conservation-research-1000.jpg"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&amp;itok=OevjSYjf
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&amp;itok=tG43Qyfa
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&amp;itok=o2-ZR1Qp
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&amp;itok=32wnVrtJ
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&amp;itok=IWTga4y2
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-02/laser-conservation-research-1000.jpg?h=5dabf909&amp;itok=tG43Qyfa"
-                                                    data-sizes="auto"
-                                                    alt="Scientist using a laser
-                                                    to clean a headdress." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3065,31 +2788,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&itok=57qCJ_lT"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&itok=_SOM4eUj 400w, /sites/default/files/styles/16_9_media_small/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&itok=57qCJ_lT 750w, /sites/default/files/styles/16_9_media_medium/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&itok=pTKDGNXN 1000w, /sites/default/files/styles/16_9_media_large/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&itok=wHfkwmQ8 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&itok=rxcl_Xlj 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Four of the Lewis Chessmen on the board facing the viewer."
+                                                    src="/images/Lewis_Chessmen_British_Museum_2.jpg"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&amp;itok=_SOM4eUj
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&amp;itok=57qCJ_lT
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&amp;itok=pTKDGNXN
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&amp;itok=wHfkwmQ8
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&amp;itok=rxcl_Xlj
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-02/Lewis_Chessmen_British_Museum_2.jpg?h=5dabf909&amp;itok=57qCJ_lT"
-                                                    data-sizes="auto" alt="Four
-                                                    of the Lewis Chessmen on the
-                                                    board facing the viewer."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3126,31 +2827,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&itok=Xj2YjYHJ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&itok=Gyyu5Ujj 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&itok=Xj2YjYHJ 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&itok=KYpc3Iff 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&itok=4rUjc8dA 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&itok=Zy8_QbxX 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A visitor examines an exhibit in Courtly India, Room 47"
+                                                    src="/images/Courtly India (47).webp"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&amp;itok=Gyyu5Ujj
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&amp;itok=Xj2YjYHJ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&amp;itok=KYpc3Iff
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&amp;itok=4rUjc8dA
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&amp;itok=Zy8_QbxX
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Courtly%20India%20%2847%29.JPG?h=b2774bcf&amp;itok=Xj2YjYHJ"
-                                                    data-sizes="auto" alt="A
-                                                    visitor examines an exhibit
-                                                    in Courtly India, Room 47"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3188,30 +2867,9 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=aCbStcqZ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=ZU7FnGHF 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=aCbStcqZ 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=TLhvv2W8 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=fpvl8S_q 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=BebBrpSk 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A tour of the Museum, arranged under the Iraq Scheme"
+                                                    src="/images/iraq-scheme02.jpg"
+                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=ZU7FnGHF
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=aCbStcqZ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=TLhvv2W8
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=fpvl8S_q
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=BebBrpSk
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=aCbStcqZ"
-                                                    data-sizes="auto" alt="A
-                                                    tour of the Museum, arranged
-                                                    under the Iraq Scheme" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -4187,8 +3845,8 @@ const Home = () => {
                     <div className="footer__inner footer-spacer">
                       <img
                         className="footer__image not-full-width lazyload"
-                        data-src="/themes/custom/numiko/dist/img/footer-turtle.png"
-                        alt
+                        src="/images/footer-turtle.webp"
+                        alt="footer-turtle"
                       />
                       <div className="footer__content">
                         <div className="footer__info">

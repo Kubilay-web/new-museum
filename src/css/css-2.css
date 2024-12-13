@@ -1311,7 +1311,7 @@
   img.lazyload,
   picture.lazyload,
   svg.lazyload {
-    opacity: 0;
+    opacity: 1;
   }
   img.lazyloaded,
   picture.lazyloaded,
