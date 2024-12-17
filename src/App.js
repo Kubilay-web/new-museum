@@ -35,6 +35,30 @@ import ExistPatron from "./pages/ExistPatron/ExistPatron";
 import LeaveLegacy from "./pages/LeaveLegacy/LeaveLegacy";
 import BritishMuseum from "./pages/BritishMuseum/BritishMuseum";
 import Search from "./pages/Search/Search";
+import AboutUs from "./pages/AboutUs/AboutUs";
+import Govarnance from "./pages/Governance/Govarnance";
+import Story from "./pages/Story/Story";
+import Jobs from "./pages/Jobs/Jobs";
+import Press from "./pages/Press/Press";
+import Contact from "./pages/Contact/Contact";
+import OurWork from "./pages/OurWork/OurWork";
+import Departments from "./pages/Departments/Departments";
+import National from "./pages/National/National";
+import International from "./pages/International/International";
+import Borrow from "./pages/Borrow/Borrow";
+import Research from "./pages/Research/Research";
+import Projects from "./pages/Projects/Projects";
+import Publications from "./pages/Publications/Publications";
+import Science from "./pages/Science/Science";
+import Commercial from "./pages/Commercial/Commercial";
+import Hire from "./pages/Hire/Hire";
+import Filming from "./pages/Filming/Filming";
+import Licensing from "./pages/Licensing/Licensing";
+import CommercialPress from "./pages/CommercialPress/CommercialPress";
+import Travel from "./pages/Travel/Travel";
+import Resources from "./pages/Resources/Resources";
+import Study from "./pages/Study/Study";
+import Library from "./pages/Library/Library";
 
 function App() {
   return (
@@ -78,8 +102,43 @@ function App() {
         path="/support-us/american-friends-british-museum"
         element={<BritishMuseum />}
       />
-
       <Route path="/search" element={<Search />} />
+      <Route path="/about-us" element={<AboutUs />} />
+      <Route path="/about-us/governance" element={<Govarnance />} />
+      <Route path="/about-us/british-museum-story" element={<Story />} />
+      <Route path="/about-us/jobs" element={<Jobs />} />
+      <Route path="/about-us/press" element={<Press />} />
+      <Route path="/about-us/contact-us" element={<Contact />} />
+      <Route path="/our-work" element={<OurWork />} />
+      <Route path="/our-work/departments" element={<Departments />} />
+      <Route path="/our-work/national" element={<National />} />
+      <Route path="/our-work/international" element={<International />} />
+      <Route
+        path="/our-work/how-borrow-british-museum-objects"
+        element={<Borrow />}
+      />
+      <Route path="/research" element={<Research />} />
+      <Route path="/research/projects" element={<Projects />} />
+      <Route
+        path="/research/british-museum-publications"
+        element={<Publications />}
+      />
+      <Route
+        path="/scientific-study-british-museum-collection"
+        element={<Science />}
+      />
+      <Route path="/commercial" element={<Commercial />} />
+      <Route path="/commercial/commercial-hire" element={<Hire />} />
+      <Route path="/commercial/filming" element={<Filming />} />
+      <Route path="/commercial/licensing" element={<Licensing />} />
+      <Route
+        path="/commercial/british-museum-press"
+        element={<CommercialPress />}
+      />
+      <Route path="/commercial/travel-trade-tours" element={<Travel />} />
+      <Route path="/resources" element={<Resources />} />
+      <Route path="/resources/study-rooms" element={<Study />} />
+      <Route path="/resources/library-and-archive" element={<Library />} />
     </Routes>
   );
 }
