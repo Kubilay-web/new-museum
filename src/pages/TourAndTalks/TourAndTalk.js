@@ -37,7 +37,7 @@ const TourAndTalk = () => {
         />
         <meta
           property="og:image"
-          content="images/R04%2005%20Egyptian%20sculpture.jpg"
+          content="/images/TourAndTalk/R04%2005%20Egyptian%20sculpture.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const TourAndTalk = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/TourAndTalk/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/TourAndTalk/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/TourAndTalk/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/TourAndTalk/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const TourAndTalk = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/177A5280_1_1.jpg 1x"
+                            srcSet="/images/TourAndTalk/177A5280_1_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1067}
                           />
                           <source
-                            srcSet="images/177A5280_1_2.jpg 1x"
+                            srcSet="/images/TourAndTalk/177A5280_1_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={867}
                           />
                           <source
-                            srcSet="images/177A5280_1_3.jpg 1x"
+                            srcSet="/images/TourAndTalk/177A5280_1_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const TourAndTalk = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/177A5280_1.jpg"
+                            src="/images/TourAndTalk/177A5280_1.jpg"
                             alt="A tour in Room 33"
                           />
                         </picture>
@@ -932,11 +932,11 @@ const TourAndTalk = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/90-minutes_3.jpg 400w, images/90-minutes_1.jpg 750w, images/90-minutes_2.jpg 1000w"
+                                        srcSet="/images/TourAndTalk/90-minutes_3.jpg 400w, /images/TourAndTalk/90-minutes_1.jpg 750w, /images/TourAndTalk/90-minutes_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/90-minutes.jpg"
+                                        src="/images/TourAndTalk/90-minutes.jpg"
                                         alt="A group of visitors on a guided tour in the Mexico gallery."
                                       />
                                       <figcaption>
@@ -1024,11 +1024,11 @@ const TourAndTalk = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/LGBTQtour-1000x500_2.jpg 400w, images/LGBTQtour-1000x500_3.jpg 750w, images/LGBTQtour-1000x500_1.jpg 1000w"
+                                        srcSet="/images/TourAndTalk/LGBTQtour-1000x500_2.jpg 400w, /images/TourAndTalk/LGBTQtour-1000x500_3.jpg 750w, /images/TourAndTalk/LGBTQtour-1000x500_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/LGBTQtour-1000x500.jpg"
+                                        src="/images/TourAndTalk/LGBTQtour-1000x500.jpg"
                                         alt="Volunteer talking to Museum visitors"
                                       />
                                       <figcaption>
@@ -1106,11 +1106,11 @@ const TourAndTalk = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/New-Great-Court-2000-9SP5624_2.jpg 400w, images/New-Great-Court-2000-9SP5624_1.jpg 750w, images/New-Great-Court-2000-9SP5624_4.jpg 1000w, images/New-Great-Court-2000-9SP5624_3.jpg 1300w, images/New-Great-Court-2000-9SP5624.jpg 1600w"
+                                        srcSet="/images/TourAndTalk/New-Great-Court-2000-9SP5624_2.jpg 400w, /images/TourAndTalk/New-Great-Court-2000-9SP5624_1.jpg 750w, /images/TourAndTalk/New-Great-Court-2000-9SP5624_4.jpg 1000w, /images/TourAndTalk/New-Great-Court-2000-9SP5624_3.jpg 1300w, /images/TourAndTalk/New-Great-Court-2000-9SP5624.jpg 1600w"
                                         sizes="100vw"
                                         width={1600}
                                         height={1060}
-                                        src="images/New-Great-Court-2000-9SP5624.jpg"
+                                        src="/images/TourAndTalk/New-Great-Court-2000-9SP5624.jpg"
                                         alt="Close-up view of the external walls of the Round Reading Room with glass roof above. "
                                       />
                                       <figcaption>
@@ -1214,11 +1214,11 @@ const TourAndTalk = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/177A5012_0_4.jpg 400w, images/177A5012_0_1.jpg 750w, images/177A5012_0_2.jpg 1000w, images/177A5012_0_3.jpg 1300w, images/177A5012_0.jpg 1600w"
+                                        srcSet="/images/TourAndTalk/177A5012_0_4.jpg 400w, /images/TourAndTalk/177A5012_0_1.jpg 750w, /images/TourAndTalk/177A5012_0_2.jpg 1000w, /images/TourAndTalk/177A5012_0_3.jpg 1300w, /images/TourAndTalk/177A5012_0.jpg 1600w"
                                         sizes="100vw"
                                         width={1600}
                                         height={1067}
-                                        src="images/177A5012_0.jpg"
+                                        src="/images/TourAndTalk/177A5012_0.jpg"
                                         alt="A tour in the Enlightenment Gallery"
                                       />
                                       <figcaption>
@@ -1353,11 +1353,11 @@ const TourAndTalk = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/177A6361_0_4.jpg 400w, images/177A6361_0_2.jpg 750w, images/177A6361_0_3.jpg 1000w, images/177A6361_0_1.jpg 1300w, images/177A6361_0.jpg 1600w"
+                                        srcSet="/images/TourAndTalk/177A6361_0_4.jpg 400w, /images/TourAndTalk/177A6361_0_2.jpg 750w, /images/TourAndTalk/177A6361_0_3.jpg 1000w, /images/TourAndTalk/177A6361_0_1.jpg 1300w, /images/TourAndTalk/177A6361_0.jpg 1600w"
                                         sizes="100vw"
                                         width={1600}
                                         height={1067}
-                                        src="images/177A6361_0.jpg"
+                                        src="/images/TourAndTalk/177A6361_0.jpg"
                                         alt="Tour of the Islamic World Gallery"
                                       />
                                       <figcaption>
@@ -1500,11 +1500,11 @@ const TourAndTalk = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/177A2932%5B167%5D%201000x500_3.jpg 400w, images/177A2932%5B167%5D%201000x500_2.jpg 750w, images/177A2932%5B167%5D%201000x500_1.jpg 1000w"
+                                        srcSet="/images/TourAndTalk/177A2932%5B167%5D%201000x500_3.jpg 400w, /images/TourAndTalk/177A2932%5B167%5D%201000x500_2.jpg 750w, /images/TourAndTalk/177A2932%5B167%5D%201000x500_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/177A2932%5B167%5D%201000x500.jpg"
+                                        src="/images/TourAndTalk/177A2932%5B167%5D%201000x500.jpg"
                                         alt="A young boy holding an object at a Hands on desk"
                                       />
                                       <figcaption>

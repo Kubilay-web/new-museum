@@ -37,7 +37,7 @@ const FamilyVisit = () => {
         />
         <meta
           property="og:image"
-          content="images/R22%2021b%20Ancient%20Greece%20Rome%20Americas_2.jpg"
+          content="/images/FamilyVisit/R22%2021b%20Ancient%20Greece%20Rome%20Americas_2.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -82,24 +82,24 @@ const FamilyVisit = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/FamilyVisit/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/FamilyVisit/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/FamilyVisit/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/FamilyVisit/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -465,21 +465,21 @@ const FamilyVisit = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/R22%2021b%20Ancient%20Greece%20Rome%20Americas_1.jpg 1x"
+                            srcSet="/images/FamilyVisit/R22%2021b%20Ancient%20Greece%20Rome%20Americas_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={800}
                           />
                           <source
-                            srcSet="images/R22%2021b%20Ancient%20Greece%20Rome%20Americas_2.jpg 1x"
+                            srcSet="/images/FamilyVisit/R22%2021b%20Ancient%20Greece%20Rome%20Americas_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={650}
                           />
                           <source
-                            srcSet="images/R22%2021b%20Ancient%20Greece%20Rome%20Americas_3.jpg 1x"
+                            srcSet="/images/FamilyVisit/R22%2021b%20Ancient%20Greece%20Rome%20Americas_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -491,7 +491,7 @@ const FamilyVisit = () => {
                             width={750}
                             height={750}
                             data-focal-position="center right"
-                            src="images/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg"
+                            src="/images/FamilyVisit/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg"
                             alt="A father and son in Room 22"
                           />
                         </picture>

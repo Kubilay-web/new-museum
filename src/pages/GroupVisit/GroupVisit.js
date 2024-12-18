@@ -37,7 +37,7 @@ const GroupVisit = () => {
         />
         <meta
           property="og:image"
-          content="images/R04%2005%20Egyptian%20sculpture%20copy.jpg"
+          content="/images/GroupVisit/R04%2005%20Egyptian%20sculpture%20copy.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -82,24 +82,24 @@ const GroupVisit = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/GroupVisit/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/GroupVisit/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/GroupVisit/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/GroupVisit/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -465,21 +465,21 @@ const GroupVisit = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/177A5953_3.jpg 1x"
+                            srcSet="/images/GroupVisit/177A5953_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1067}
                           />
                           <source
-                            srcSet="images/177A5953_1.jpg 1x"
+                            srcSet="/images/GroupVisit/177A5953_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={867}
                           />
                           <source
-                            srcSet="images/177A5953_2.jpg 1x"
+                            srcSet="/images/GroupVisit/177A5953_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -491,7 +491,7 @@ const GroupVisit = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/177A5953.jpg"
+                            src="/images/GroupVisit/177A5953.jpg"
                             alt="A tour in the Money Gallery"
                           />
                         </picture>
@@ -1184,11 +1184,11 @@ const GroupVisit = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/egyptian-sculpture-british-museum-smaller_3.jpg 400w, images/egyptian-sculpture-british-museum-smaller_2.jpg 750w, images/egyptian-sculpture-british-museum-smaller_1.jpg 1000w"
+                                        srcSet="/images/GroupVisit/egyptian-sculpture-british-museum-smaller_3.jpg 400w, /images/GroupVisit/egyptian-sculpture-british-museum-smaller_2.jpg 750w, /images/GroupVisit/egyptian-sculpture-british-museum-smaller_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/egyptian-sculpture-british-museum-smaller.jpg"
+                                        src="/images/GroupVisit/egyptian-sculpture-british-museum-smaller.jpg"
                                         alt="Crowd of visitors around the Rosetta Stone."
                                       />
                                       <figcaption>
@@ -1595,11 +1595,11 @@ const GroupVisit = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/court-cafe-cakes-1000x500_1.jpg 400w, images/court-cafe-cakes-1000x500_3.jpg 750w, images/court-cafe-cakes-1000x500_2.jpg 1000w"
+                                        srcSet="/images/GroupVisit/court-cafe-cakes-1000x500_1.jpg 400w, /images/GroupVisit/court-cafe-cakes-1000x500_3.jpg 750w, /images/GroupVisit/court-cafe-cakes-1000x500_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/court-cafe-cakes-1000x500.jpg"
+                                        src="/images/GroupVisit/court-cafe-cakes-1000x500.jpg"
                                         alt="Court Café cakes"
                                       />
                                       <figcaption>

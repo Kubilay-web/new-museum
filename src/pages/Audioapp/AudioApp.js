@@ -37,7 +37,7 @@ const AudioApp = () => {
         />
         <meta
           property="og:image"
-          content="images/audio_app_hero_1920_0_2.jpg"
+          content="/images/Audio/audio_app_hero_1920_0_2.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -82,24 +82,24 @@ const AudioApp = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Audio/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Audio/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Audio/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Audio/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -465,21 +465,21 @@ const AudioApp = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/audio_app_hero_1920_0_1.jpg 1x"
+                            srcSet="/images/Audio/audio_app_hero_1920_0_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/audio_app_hero_1920_0_2.jpg 1x"
+                            srcSet="/images/Audio/audio_app_hero_1920_0_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/audio_app_hero_1920_0_3.jpg 1x"
+                            srcSet="/images/Audio/audio_app_hero_1920_0_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -491,7 +491,7 @@ const AudioApp = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/audio_app_hero_1920_0.jpg"
+                            src="/images/Audio/audio_app_hero_1920_0.jpg"
                             alt="Woman with headphones on using the British Museum Audio app."
                           />
                         </picture>
@@ -1035,11 +1035,11 @@ const AudioApp = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/audio_app_screenshot_gallery_300x690_1.jpg 300w"
+                                        srcSet="/images/Audio/audio_app_screenshot_gallery_300x690_1.jpg 300w"
                                         sizes="100vw"
                                         width={300}
                                         height={690}
-                                        src="images/audio_app_screenshot_gallery_300x690.jpg"
+                                        src="/images/Audio/audio_app_screenshot_gallery_300x690.jpg"
                                         alt="Screenshot of the Audio app from the British Museum."
                                       />
                                       <figcaption>
@@ -1089,11 +1089,11 @@ const AudioApp = () => {
                                         <img
                                           loading="eager"
                                           className="lazyload not-full-width"
-                                          srcSet="images/headphone_symbol_100%20%281%29_1.png 100w"
+                                          srcSet="/images/Audio/headphone_symbol_100%20%281%29_1.png 100w"
                                           sizes="100vw"
                                           width={100}
                                           height={100}
-                                          src="images/headphone_symbol_100%20%281%29.png"
+                                          src="/images/Audio/headphone_symbol_100%20%281%29.png"
                                           alt="Headphone symbol with the numbers 382 in the middle."
                                         />
                                       </div>
@@ -1152,11 +1152,11 @@ const AudioApp = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Dive_deeper_British_Museum_app_1.jpg 300w"
+                                        srcSet="/images/Audio/Dive_deeper_British_Museum_app_1.jpg 300w"
                                         sizes="100vw"
                                         width={300}
                                         height={649}
-                                        src="images/Dive_deeper_British_Museum_app.jpg"
+                                        src="/images/Audio/Dive_deeper_British_Museum_app.jpg"
                                         alt="Screenshot taken from the British Museum Audio app."
                                       />
                                       <figcaption>

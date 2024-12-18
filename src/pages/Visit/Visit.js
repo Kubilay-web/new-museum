@@ -29,7 +29,10 @@ const Visit = () => {
           property="og:description"
           content="Find opening times, entry, travel and facilities information and also details of our Museum activities. "
         />
-        <meta property="og:image" content="images/Great%20Court%2004_1.jpg" />
+        <meta
+          property="og:image"
+          content="/images/Visit/Great%20Court%2004_1.jpg"
+        />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
@@ -67,24 +70,24 @@ const Visit = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Visit/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Visit/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Visit/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Visit/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -450,21 +453,21 @@ const Visit = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Great%20Court%2004_3.jpg 1x"
+                            srcSet="/images/Visit/Great%20Court%2004_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={800}
                           />
                           <source
-                            srcSet="images/Great%20Court%2004_1.jpg 1x"
+                            srcSet="/images/Visit/Great%20Court%2004_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={650}
                           />
                           <source
-                            srcSet="images/Great%20Court%2004_2.jpg 1x"
+                            srcSet="/images/Visit/Great%20Court%2004_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -476,7 +479,7 @@ const Visit = () => {
                             width={750}
                             height={750}
                             data-focal-position="center right"
-                            src="images/Great%20Court%2004.jpg"
+                            src="/images/Visit/Great%20Court%2004.jpg"
                             alt="A wide shot of the Great Court with the roof and Reading Room in view"
                           />
                         </picture>
@@ -998,31 +1001,9 @@ const Visit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&itok=F2P248nF"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&itok=Ovw2OYuU 400w, /sites/default/files/styles/16_9_media_small/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&itok=F2P248nF 750w, /sites/default/files/styles/16_9_media_medium/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&itok=25jKgdgS 1000w, /sites/default/files/styles/16_9_media_large/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&itok=NIckVnoI 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&itok=kgVkB40A 1600w"
-                                                    data-focal-position="center center"
+                                                    src="/images/Visit/bep-gallery-lewis-chessmen-1920.webp"
                                                     alt="Woman looking at the Lewis Chessmen on a red and white chessboard."
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&amp;itok=Ovw2OYuU
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&amp;itok=F2P248nF
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&amp;itok=25jKgdgS
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&amp;itok=NIckVnoI
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&amp;itok=kgVkB40A
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-02/bep-gallery-lewis-chessmen-1920.jpg?h=d1cb525d&amp;itok=F2P248nF"
-                                                    data-sizes="auto" alt="Woman
-                                                    looking at the Lewis
-                                                    Chessmen on a red and white
-                                                    chessboard." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1059,30 +1040,9 @@ const Visit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&itok=iOjrJ66m"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&itok=YibwCFtV 400w, /sites/default/files/styles/16_9_media_small/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&itok=iOjrJ66m 750w, /sites/default/files/styles/16_9_media_medium/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&itok=xaYlX0q8 1000w, /sites/default/files/styles/16_9_media_large/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&itok=44P-usNz 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&itok=E2NfjKB- 1600w"
-                                                    data-focal-position="top right"
+                                                    src="/images/Visit/R27 Mexico family.jpg"
                                                     alt="A family looking at objects in Room 27: Mexico"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&amp;itok=YibwCFtV
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&amp;itok=iOjrJ66m
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&amp;itok=xaYlX0q8
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&amp;itok=44P-usNz
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&amp;itok=E2NfjKB-
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/R27%20Mexico%20family%20.jpg?h=1262f808&amp;itok=iOjrJ66m"
-                                                    data-sizes="auto" alt="A
-                                                    family looking at objects in
-                                                    Room 27: Mexico" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1123,32 +1083,9 @@ const Visit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=73k-AqJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=sOrwHw5e 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=IkIcINR5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=frHfjMMM 1600w"
-                                                    data-focal-position="center center"
+                                                    src="/images/Visit/Silk-Roads-teaser-2000x1159.webp"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=73k-AqJa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=sOrwHw5e
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=IkIcINR5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=frHfjMMM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    alt="Procession of camels
-                                                    with lone figure leading in
-                                                    shadow against orange sky"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -4036,11 +3973,11 @@ const Visit = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/British-Museum-aerial_3.jpg 400w, images/British-Museum-aerial_1.jpg 750w, images/British-Museum-aerial_2.jpg 1000w"
+                                        srcSet="/images/Visit/British-Museum-aerial_3.jpg 400w, /images/Visit/British-Museum-aerial_1.jpg 750w, /images/Visit/British-Museum-aerial_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/British-Museum-aerial.jpg"
+                                        src="/images/Visit/British-Museum-aerial.jpg"
                                         alt="Aerial photograph of the British Museum building."
                                       />
                                       <figcaption>
@@ -4339,11 +4276,11 @@ const Visit = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/edward-richards-bsl-tour-1000x500_0_1.jpg 400w, images/edward-richards-bsl-tour-1000x500_0_3.jpg 750w, images/edward-richards-bsl-tour-1000x500_0_2.jpg 1000w"
+                                        srcSet="/images/Visit/edward-richards-bsl-tour-1000x500_0_1.jpg 400w, /images/Visit/edward-richards-bsl-tour-1000x500_0_3.jpg 750w, /images/Visit/edward-richards-bsl-tour-1000x500_0_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={501}
-                                        src="images/edward-richards-bsl-tour-1000x500_0.jpg"
+                                        src="/images/Visit/edward-richards-bsl-tour-1000x500_0.jpg"
                                         alt="BSL tour at the American dream exhibition"
                                       />
                                       <figcaption>

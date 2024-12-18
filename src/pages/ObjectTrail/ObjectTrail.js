@@ -35,7 +35,10 @@ const ObjectTrail = () => {
           property="og:description"
           content="Choose a trail and go on a fascinating tour around the Museum that showcases the best objects on display."
         />
-        <meta property="og:image" content="images/royal-game-of-ur_1.jpg" />
+        <meta
+          property="og:image"
+          content="/images/ObjectTrail/royal-game-of-ur_1.jpg"
+        />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
@@ -74,24 +77,24 @@ const ObjectTrail = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/ObjectTrail/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/ObjectTrail/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/ObjectTrail/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/ObjectTrail/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -457,21 +460,21 @@ const ObjectTrail = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/royal-game-of-ur_3.jpg 1x"
+                            srcSet="/images/ObjectTrail/royal-game-of-ur_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/royal-game-of-ur_1.jpg 1x"
+                            srcSet="/images/ObjectTrail/royal-game-of-ur_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/royal-game-of-ur_2.jpg 1x"
+                            srcSet="/images/ObjectTrail/royal-game-of-ur_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -483,7 +486,7 @@ const ObjectTrail = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/royal-game-of-ur.jpg"
+                            src="/images/ObjectTrail/royal-game-of-ur.jpg"
                             alt="Royal Game of Ur board with a dice and two pieces"
                           />
                         </picture>

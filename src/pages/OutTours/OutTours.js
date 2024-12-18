@@ -37,7 +37,7 @@ const OutTours = () => {
         />
         <meta
           property="og:image"
-          content="images/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg"
+          content="/images/OutTours/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const OutTours = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/OutTours/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/OutTours/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/OutTours/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/OutTours/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const OutTours = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/BMImages_00957707001_SuperRes_1_1.jpg 1x"
+                            srcSet="/images/OutTours/BMImages_00957707001_SuperRes_1_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1250}
                           />
                           <source
-                            srcSet="images/BMImages_00957707001_SuperRes_1_2.jpg 1x"
+                            srcSet="/images/OutTours/BMImages_00957707001_SuperRes_1_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={1015}
                           />
                           <source
-                            srcSet="images/BMImages_00957707001_SuperRes_1_3.jpg 1x"
+                            srcSet="/images/OutTours/BMImages_00957707001_SuperRes_1_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const OutTours = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/BMImages_00957707001_SuperRes_1.jpg"
+                            src="/images/OutTours/BMImages_00957707001_SuperRes_1.jpg"
                             alt="Enlightenment Gallery"
                           />
                         </picture>
@@ -991,11 +991,11 @@ const OutTours = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/BMImages_00019570001_SuperRes_2.jpg 400w, images/BMImages_00019570001_SuperRes_1.jpg 750w"
+                                        srcSet="/images/OutTours/BMImages_00019570001_SuperRes_2.jpg 400w, /images/OutTours/BMImages_00019570001_SuperRes_1.jpg 750w"
                                         sizes="100vw"
                                         width={750}
                                         height={500}
-                                        src="images/BMImages_00019570001_SuperRes.jpg"
+                                        src="/images/OutTours/BMImages_00019570001_SuperRes.jpg"
                                         alt="Enlightenment Gallery"
                                       />
                                       <figcaption>
@@ -1105,11 +1105,11 @@ const OutTours = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/BMImages_00895929001_SuperRes_4.jpg 400w, images/BMImages_00895929001_SuperRes_1.jpg 750w, images/BMImages_00895929001_SuperRes_2.jpg 1000w, images/BMImages_00895929001_SuperRes_3.jpg 1300w, images/BMImages_00895929001_SuperRes.jpg 1600w"
+                                        srcSet="/images/OutTours/BMImages_00895929001_SuperRes_4.jpg 400w, /images/OutTours/BMImages_00895929001_SuperRes_1.jpg 750w, /images/OutTours/BMImages_00895929001_SuperRes_2.jpg 1000w, /images/OutTours/BMImages_00895929001_SuperRes_3.jpg 1300w, /images/OutTours/BMImages_00895929001_SuperRes.jpg 1600w"
                                         sizes="100vw"
                                         width={1600}
                                         height={1200}
-                                        src="images/BMImages_00895929001_SuperRes.jpg"
+                                        src="/images/OutTours/BMImages_00895929001_SuperRes.jpg"
                                         alt="Statue of Ramesses II in the Egyptian sculpture gallery "
                                       />
                                       <figcaption>
@@ -1247,11 +1247,11 @@ const OutTours = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/R61%2013_Ancient%20Egypt_1.jpg 400w, images/R61%2013_Ancient%20Egypt_2.jpg 750w, images/R61%2013_Ancient%20Egypt_3.jpg 1000w, images/R61%2013_Ancient%20Egypt_4.jpg 1300w, images/R61%2013_Ancient%20Egypt.jpg 1600w"
+                                        srcSet="/images/OutTours/R61%2013_Ancient%20Egypt_1.jpg 400w, /images/OutTours/R61%2013_Ancient%20Egypt_2.jpg 750w, /images/OutTours/R61%2013_Ancient%20Egypt_3.jpg 1000w, /images/OutTours/R61%2013_Ancient%20Egypt_4.jpg 1300w, /images/OutTours/R61%2013_Ancient%20Egypt.jpg 1600w"
                                         sizes="100vw"
                                         width={1600}
                                         height={800}
-                                        src="images/R61%2013_Ancient%20Egypt.jpg"
+                                        src="/images/OutTours/R61%2013_Ancient%20Egypt.jpg"
                                         alt="A visitor inspecting the Nebamun tomb paintings"
                                       />
                                       <figcaption>
@@ -1345,11 +1345,11 @@ const OutTours = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/joseph_hotung_gallery_1920_4.jpg 400w, images/joseph_hotung_gallery_1920_3.jpg 750w, images/joseph_hotung_gallery_1920_2.jpg 1000w, images/joseph_hotung_gallery_1920_1.jpg 1300w, images/joseph_hotung_gallery_1920.jpg 1600w"
+                                        srcSet="/images/OutTours/joseph_hotung_gallery_1920_4.jpg 400w, /images/OutTours/joseph_hotung_gallery_1920_3.jpg 750w, /images/OutTours/joseph_hotung_gallery_1920_2.jpg 1000w, /images/OutTours/joseph_hotung_gallery_1920_1.jpg 1300w, /images/OutTours/joseph_hotung_gallery_1920.jpg 1600w"
                                         sizes="100vw"
                                         width={1600}
                                         height={900}
-                                        src="images/joseph_hotung_gallery_1920.jpg"
+                                        src="/images/OutTours/joseph_hotung_gallery_1920.jpg"
                                         alt="View of the Sir Joseph Hotung Gallery of China and South Asia, Room 33."
                                       />
                                       <figcaption>
@@ -1488,11 +1488,11 @@ const OutTours = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/parthenon-sculptures-relief-british-museum_0_2.jpg 400w, images/parthenon-sculptures-relief-british-museum_0_3.jpg 750w, images/parthenon-sculptures-relief-british-museum_0_1.jpg 1000w"
+                                        srcSet="/images/OutTours/parthenon-sculptures-relief-british-museum_0_2.jpg 400w, /images/OutTours/parthenon-sculptures-relief-british-museum_0_3.jpg 750w, /images/OutTours/parthenon-sculptures-relief-british-museum_0_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/parthenon-sculptures-relief-british-museum_0.jpg"
+                                        src="/images/OutTours/parthenon-sculptures-relief-british-museum_0.jpg"
                                         alt="A relief with a crowd of people"
                                       />
                                       <figcaption>
