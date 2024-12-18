@@ -37,7 +37,7 @@ const LateOpen = () => {
         />
         <meta
           property="og:image"
-          content="images/Great_Court_2020_landscape.jpg"
+          content="/images/LateOpen/Great_Court_2020_landscape.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const LateOpen = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/LateOpen/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/LateOpen/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/LateOpen/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/LateOpen/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const LateOpen = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/British-Museum-Night_0_1.jpg 1x"
+                            srcSet="/images/LateOpen/British-Museum-Night_0_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={949}
                           />
                           <source
-                            srcSet="images/British-Museum-Night_0_3.jpg 1x"
+                            srcSet="/images/LateOpen/British-Museum-Night_0_3.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={771}
                           />
                           <source
-                            srcSet="images/British-Museum-Night_0_2.jpg 1x"
+                            srcSet="/images/LateOpen/British-Museum-Night_0_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const LateOpen = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/British-Museum-Night_0.jpg"
+                            src="/images/LateOpen/British-Museum-Night_0.jpg"
                             alt="Front of British Museum lit up at night"
                           />
                         </picture>
@@ -895,11 +895,11 @@ const LateOpen = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/court-cafe-cakes-1000x500_2.jpg 400w, images/court-cafe-cakes-1000x500_1.jpg 750w, images/court-cafe-cakes-1000x500_3.jpg 1000w"
+                                        srcSet="/images/LateOpen/court-cafe-cakes-1000x500_2.jpg 400w, /images/LateOpen/court-cafe-cakes-1000x500_1.jpg 750w, /images/LateOpen/court-cafe-cakes-1000x500_3.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/court-cafe-cakes-1000x500.jpg"
+                                        src="/images/LateOpen/court-cafe-cakes-1000x500.jpg"
                                         alt="Court Café cakes"
                                       />
                                       <figcaption>

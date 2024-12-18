@@ -37,7 +37,7 @@ const Accessibility = () => {
         />
         <meta
           property="og:image"
-          content="images/south-africa-object-handling-session_2.jpg"
+          content="/images/Accessibility/south-africa-object-handling-session_2.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -82,24 +82,24 @@ const Accessibility = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Accessibility/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Accessibility/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Accessibility/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Accessibility/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -465,21 +465,21 @@ const Accessibility = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/south-africa-object-handling-session_1.jpg 1x"
+                            srcSet="/images/Accessibility/south-africa-object-handling-session_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={901}
                           />
                           <source
-                            srcSet="images/south-africa-object-handling-session_2.jpg 1x"
+                            srcSet="/images/Accessibility/south-africa-object-handling-session_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={732}
                           />
                           <source
-                            srcSet="images/south-africa-object-handling-session_3.jpg 1x"
+                            srcSet="/images/Accessibility/south-africa-object-handling-session_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -491,7 +491,7 @@ const Accessibility = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/south-africa-object-handling-session.jpg"
+                            src="/images/Accessibility/south-africa-object-handling-session.jpg"
                             alt="Two people handling a pot at a South Africa object handling session. "
                           />
                         </picture>
@@ -929,11 +929,11 @@ const Accessibility = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/chisato-minamimura-hokusai-bsl-tour_4.jpg 400w, images/chisato-minamimura-hokusai-bsl-tour_2.jpg 750w, images/chisato-minamimura-hokusai-bsl-tour_1.jpg 1000w, images/chisato-minamimura-hokusai-bsl-tour_3.jpg 1300w, images/chisato-minamimura-hokusai-bsl-tour.jpg 1600w"
+                                        srcSet="/images/Accessibility/chisato-minamimura-hokusai-bsl-tour_4.jpg 400w, /images/Accessibility/chisato-minamimura-hokusai-bsl-tour_2.jpg 750w, /images/Accessibility/chisato-minamimura-hokusai-bsl-tour_1.jpg 1000w, /images/Accessibility/chisato-minamimura-hokusai-bsl-tour_3.jpg 1300w, /images/Accessibility/chisato-minamimura-hokusai-bsl-tour.jpg 1600w"
                                         sizes="100vw"
                                         width={1600}
                                         height={801}
-                                        src="images/chisato-minamimura-hokusai-bsl-tour.jpg"
+                                        src="/images/Accessibility/chisato-minamimura-hokusai-bsl-tour.jpg"
                                         alt="Chisato Minamimura - deaf-led BSL tour of the Hokusai exhibition"
                                       />
                                       <figcaption>
@@ -2278,11 +2278,11 @@ const Accessibility = () => {
                                         <img
                                           loading="eager"
                                           className="lazyload not-full-width"
-                                          srcSet="images/southafrica-object-handling-session_1.jpg 400w, images/southafrica-object-handling-session_4.jpg 750w, images/southafrica-object-handling-session_2.jpg 1000w, images/southafrica-object-handling-session_3.jpg 1300w, images/southafrica-object-handling-session.jpg 1600w"
+                                          srcSet="/images/Accessibility/southafrica-object-handling-session_1.jpg 400w, /images/Accessibility/southafrica-object-handling-session_4.jpg 750w, /images/Accessibility/southafrica-object-handling-session_2.jpg 1000w, /images/Accessibility/southafrica-object-handling-session_3.jpg 1300w, /images/Accessibility/southafrica-object-handling-session.jpg 1600w"
                                           sizes="100vw"
                                           width={1600}
                                           height={800}
-                                          src="images/southafrica-object-handling-session.jpg"
+                                          src="/images/Accessibility/southafrica-object-handling-session.jpg"
                                           alt="Two people handling a wooden object at a South Africa object handling session. "
                                         />
                                         <figcaption>
@@ -2422,11 +2422,11 @@ const Accessibility = () => {
                                         <img
                                           loading="eager"
                                           className="lazyload not-full-width"
-                                          srcSet="images/touch-tour-1000x500_3.jpg 400w, images/touch-tour-1000x500_2.jpg 750w, images/touch-tour-1000x500_1.jpg 1000w"
+                                          srcSet="/images/Accessibility/touch-tour-1000x500_3.jpg 400w, /images/Accessibility/touch-tour-1000x500_2.jpg 750w, /images/Accessibility/touch-tour-1000x500_1.jpg 1000w"
                                           sizes="100vw"
                                           width={1000}
                                           height={500}
-                                          src="images/touch-tour-1000x500.jpg"
+                                          src="/images/Accessibility/touch-tour-1000x500.jpg"
                                           alt="Two visitors on a Touch tour in the Egyptian sculpture gallery. "
                                         />
                                         <figcaption>

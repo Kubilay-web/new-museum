@@ -35,7 +35,10 @@ const FoodDrink = () => {
           property="og:description"
           content="Try the refined Great Court Restaurant, family-friendly pizzeria, or a quick bite to eat at one of our Great Court cafés."
         />
-        <meta property="og:image" content="images/cake-2000x1000.jpg" />
+        <meta
+          property="og:image"
+          content="/images/FoodDrink/cake-2000x1000.jpg"
+        />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
@@ -74,24 +77,24 @@ const FoodDrink = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/FoodDrink/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/FoodDrink/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/FoodDrink/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/FoodDrink/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -457,21 +460,21 @@ const FoodDrink = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/cakes-court-cafe-2000x1000_1.jpg 1x"
+                            srcSet="/images/FoodDrink/cakes-court-cafe-2000x1000_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={800}
                           />
                           <source
-                            srcSet="images/cakes-court-cafe-2000x1000_3.jpg 1x"
+                            srcSet="/images/FoodDrink/cakes-court-cafe-2000x1000_3.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={650}
                           />
                           <source
-                            srcSet="images/cakes-court-cafe-2000x1000_2.jpg 1x"
+                            srcSet="/images/FoodDrink/cakes-court-cafe-2000x1000_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -483,7 +486,7 @@ const FoodDrink = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/cakes-court-cafe-2000x1000.jpg"
+                            src="/images/FoodDrink/cakes-court-cafe-2000x1000.jpg"
                             alt="Cakes at the Court Café"
                           />
                         </picture>
@@ -853,11 +856,11 @@ const FoodDrink = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/court-cafe-cakes-1000x500_3.jpg 400w, images/court-cafe-cakes-1000x500_1.jpg 750w, images/court-cafe-cakes-1000x500_2.jpg 1000w"
+                                        srcSet="/images/FoodDrink/court-cafe-cakes-1000x500_3.jpg 400w, /images/FoodDrink/court-cafe-cakes-1000x500_1.jpg 750w, /images/FoodDrink/court-cafe-cakes-1000x500_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/court-cafe-cakes-1000x500.jpg"
+                                        src="/images/FoodDrink/court-cafe-cakes-1000x500.jpg"
                                         alt="Court Café cakes"
                                       />
                                       <figcaption>
@@ -933,11 +936,11 @@ const FoodDrink = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/great-court-restaurant-seating-1000x500_2.jpg 400w, images/great-court-restaurant-seating-1000x500_3.jpg 750w, images/great-court-restaurant-seating-1000x500_1.jpg 1000w"
+                                        srcSet="/images/FoodDrink/great-court-restaurant-seating-1000x500_2.jpg 400w, /images/FoodDrink/great-court-restaurant-seating-1000x500_3.jpg 750w, /images/FoodDrink/great-court-restaurant-seating-1000x500_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={501}
-                                        src="images/great-court-restaurant-seating-1000x500.jpg"
+                                        src="/images/FoodDrink/great-court-restaurant-seating-1000x500.jpg"
                                         alt="Great Court Restaurant seating"
                                       />
                                       <figcaption>
@@ -1006,11 +1009,11 @@ const FoodDrink = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/pizza-1000x500_1.jpg 400w, images/pizza-1000x500_2.jpg 750w, images/pizza-1000x500_3.jpg 1000w"
+                                        srcSet="/images/FoodDrink/pizza-1000x500_1.jpg 400w, /images/FoodDrink/pizza-1000x500_2.jpg 750w, /images/FoodDrink/pizza-1000x500_3.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/pizza-1000x500.jpg"
+                                        src="/images/FoodDrink/pizza-1000x500.jpg"
                                         alt="Pizza"
                                       />
                                       <figcaption>
@@ -1061,11 +1064,11 @@ const FoodDrink = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/salad-bowls-1000x500_1.jpg 400w, images/salad-bowls-1000x500_2.jpg 750w, images/salad-bowls-1000x500_3.jpg 1000w"
+                                        srcSet="/images/FoodDrink/salad-bowls-1000x500_1.jpg 400w, /images/FoodDrink/salad-bowls-1000x500_2.jpg 750w, /images/FoodDrink/salad-bowls-1000x500_3.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={501}
-                                        src="images/salad-bowls-1000x500.jpg"
+                                        src="/images/FoodDrink/salad-bowls-1000x500.jpg"
                                         alt="Salads"
                                       />
                                       <figcaption>
@@ -1124,11 +1127,11 @@ const FoodDrink = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/eating-outside-british-museum1000x500_3.jpg 400w, images/eating-outside-british-museum1000x500_2.jpg 750w, images/eating-outside-british-museum1000x500_1.jpg 1000w"
+                                        srcSet="/images/FoodDrink/eating-outside-british-museum1000x500_3.jpg 400w, /images/FoodDrink/eating-outside-british-museum1000x500_2.jpg 750w, /images/FoodDrink/eating-outside-british-museum1000x500_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/eating-outside-british-museum1000x500.jpg"
+                                        src="/images/FoodDrink/eating-outside-british-museum1000x500.jpg"
                                         alt="Eating outside the Museum"
                                       />
                                       <figcaption>
@@ -1196,11 +1199,11 @@ const FoodDrink = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/great-court-restaurant_3.jpg 400w, images/great-court-restaurant_2.jpg 750w, images/great-court-restaurant_1.jpg 1000w"
+                                        srcSet="/images/FoodDrink/great-court-restaurant_3.jpg 400w, /images/FoodDrink/great-court-restaurant_2.jpg 750w, /images/FoodDrink/great-court-restaurant_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/great-court-restaurant.jpg"
+                                        src="/images/FoodDrink/great-court-restaurant.jpg"
                                         alt="View of the bar at Great Court Restaurant."
                                       />
                                       <figcaption>

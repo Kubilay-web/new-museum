@@ -37,7 +37,7 @@ const MuseumMap = () => {
         />
         <meta
           property="og:image"
-          content="images/British%20Museum%20aerial%20view.jpg"
+          content="/images/MuseumMap/British%20Museum%20aerial%20view.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const MuseumMap = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/MuseumMap/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/MuseumMap/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/MuseumMap/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/MuseumMap/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const MuseumMap = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/R24%2027_Waddesdon%20Living%20and%20Dying1920x1080_3.jpg 1x"
+                            srcSet="/images/MuseumMap/R24%2027_Waddesdon%20Living%20and%20Dying1920x1080_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/R24%2027_Waddesdon%20Living%20and%20Dying1920x1080_1.jpg 1x"
+                            srcSet="/images/MuseumMap/R24%2027_Waddesdon%20Living%20and%20Dying1920x1080_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/R24%2027_Waddesdon%20Living%20and%20Dying1920x1080_2.jpg 1x"
+                            srcSet="/images/MuseumMap/R24%2027_Waddesdon%20Living%20and%20Dying1920x1080_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const MuseumMap = () => {
                             width={750}
                             height={750}
                             data-focal-position="top center"
-                            src="images/R24%2027_Waddesdon%20Living%20and%20Dying1920x1080.jpg"
+                            src="/images/MuseumMap/R24%2027_Waddesdon%20Living%20and%20Dying1920x1080.jpg"
                             alt="Two visitors looking at a map in the Living and Dying gallery (Room 24) "
                           />
                         </picture>
@@ -736,11 +736,11 @@ const MuseumMap = () => {
                                   <img
                                     loading="eager"
                                     className="lazyload not-full-width"
-                                    srcSet="images/Museum_Map_Ground_Floor_3.png 400w, images/Museum_Map_Ground_Floor_1.png 750w, images/Museum_Map_Ground_Floor_4.png 1000w, images/Museum_Map_Ground_Floor_2.png 1300w, images/Museum_Map_Ground_Floor.png 1600w"
+                                    srcSet="/images/MuseumMap/Museum_Map_Ground_Floor_3.png 400w, /images/MuseumMap/Museum_Map_Ground_Floor_1.png 750w, /images/MuseumMap/Museum_Map_Ground_Floor_4.png 1000w, /images/MuseumMap/Museum_Map_Ground_Floor_2.png 1300w, /images/MuseumMap/Museum_Map_Ground_Floor.png 1600w"
                                     sizes="100vw"
                                     width={1600}
                                     height={2180}
-                                    src="images/Museum_Map_Ground_Floor.png"
+                                    src="/images/MuseumMap/Museum_Map_Ground_Floor.png"
                                     alt="Annotated map of the British Museum ground floor."
                                   />
                                 </div>
@@ -763,11 +763,11 @@ const MuseumMap = () => {
                                   <img
                                     loading="eager"
                                     className="lazyload not-full-width"
-                                    srcSet="images/Museum_Map_Upper_Floors_1.png 400w, images/Museum_Map_Upper_Floors_2.png 750w, images/Museum_Map_Upper_Floors_3.png 1000w, images/Museum_Map_Upper_Floors_4.png 1300w, images/Museum_Map_Upper_Floors.png 1600w"
+                                    srcSet="/images/MuseumMap/Museum_Map_Upper_Floors_1.png 400w, /images/MuseumMap/Museum_Map_Upper_Floors_2.png 750w, /images/MuseumMap/Museum_Map_Upper_Floors_3.png 1000w, /images/MuseumMap/Museum_Map_Upper_Floors_4.png 1300w, /images/MuseumMap/Museum_Map_Upper_Floors.png 1600w"
                                     sizes="100vw"
                                     width={1600}
                                     height={2180}
-                                    src="images/Museum_Map_Upper_Floors.png"
+                                    src="/images/MuseumMap/Museum_Map_Upper_Floors.png"
                                     alt="Annotated map of the British Museum upper floors."
                                   />
                                 </div>
@@ -790,11 +790,11 @@ const MuseumMap = () => {
                                   <img
                                     loading="eager"
                                     className="lazyload not-full-width"
-                                    srcSet="images/Museum_Map_Lower_Floor_1.png 400w, images/Museum_Map_Lower_Floor_2.png 750w, images/Museum_Map_Lower_Floor_3.png 1000w, images/Museum_Map_Lower_Floor_4.png 1300w, images/Museum_Map_Lower_Floor.png 1600w"
+                                    srcSet="/images/MuseumMap/Museum_Map_Lower_Floor_1.png 400w, /images/MuseumMap/Museum_Map_Lower_Floor_2.png 750w, /images/MuseumMap/Museum_Map_Lower_Floor_3.png 1000w, /images/MuseumMap/Museum_Map_Lower_Floor_4.png 1300w, /images/MuseumMap/Museum_Map_Lower_Floor.png 1600w"
                                     sizes="100vw"
                                     width={1600}
                                     height={2180}
-                                    src="images/Museum_Map_Lower_Floor.png"
+                                    src="/images/MuseumMap/Museum_Map_Lower_Floor.png"
                                     alt="Annotated map of the British Museum lower floor."
                                   />
                                 </div>
