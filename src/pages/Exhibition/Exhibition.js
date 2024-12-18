@@ -65,24 +65,24 @@ const Exhibition = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Exhibition/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Exhibition/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Exhibition/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Exhibition/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -1401,7 +1401,7 @@ const Exhibition = () => {
                                                   <picture>
                                                     {/*[if IE 9]><video style="display: none;"><![endif]*/}
                                                     <source
-                                                      srcSet="images/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_6.jpg 400w, images/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_4.jpg 750w, images/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_5.jpg 1000w"
+                                                      srcSet="/images/Exhibition/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_6.jpg 400w, /images/Exhibition/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_4.jpg 750w, /images/Exhibition/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_5.jpg 1000w"
                                                       media="all and (min-width: 1440px)"
                                                       type="image/jpeg"
                                                       sizes="100vw"
@@ -1409,7 +1409,7 @@ const Exhibition = () => {
                                                       height={400}
                                                     />
                                                     <source
-                                                      srcSet="images/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_1.jpg 750w, images/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_2.jpg 1000w, images/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_3.jpg 1300w"
+                                                      srcSet="/images/Exhibition/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_1.jpg 750w, /images/Exhibition/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_2.jpg 1000w, /images/Exhibition/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02_3.jpg 1300w"
                                                       media="all and (min-width: 320px)"
                                                       type="image/jpeg"
                                                       sizes="100vw"
@@ -1422,7 +1422,7 @@ const Exhibition = () => {
                                                       width={400}
                                                       height={225}
                                                       data-focal-position="center right"
-                                                      src="images/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02.jpg"
+                                                      src="/images/Exhibition/13258%20Rm%2043a%20Afghan%20war%20rugs_Web%20asset%20v02.jpg"
                                                       alt="Detail of an Afghan war rug, showing a hand grenade and part of an assault rifle on a red background."
                                                     />
                                                   </picture>
@@ -1483,7 +1483,7 @@ const Exhibition = () => {
                                                   <picture>
                                                     {/*[if IE 9]><video style="display: none;"><![endif]*/}
                                                     <source
-                                                      srcSet="images/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_2.png 400w, images/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_3.png 750w, images/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_1.png 1000w"
+                                                      srcSet="/images/Exhibition/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_2.png 400w, /images/Exhibition/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_3.png 750w, /images/Exhibition/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_1.png 1000w"
                                                       media="all and (min-width: 1440px)"
                                                       type="image/png"
                                                       sizes="100vw"
@@ -1491,7 +1491,7 @@ const Exhibition = () => {
                                                       height={400}
                                                     />
                                                     <source
-                                                      srcSet="images/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_6.png 750w, images/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_4.png 1000w, images/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_5.png 1300w"
+                                                      srcSet="/images/Exhibition/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_6.png 750w, /images/Exhibition/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_4.png 1000w, /images/Exhibition/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920_5.png 1300w"
                                                       media="all and (min-width: 320px)"
                                                       type="image/png"
                                                       sizes="100vw"
@@ -1504,7 +1504,7 @@ const Exhibition = () => {
                                                       width={400}
                                                       height={225}
                                                       data-focal-position="center center"
-                                                      src="images/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920.png"
+                                                      src="/images/Exhibition/13430%20RM90%20Beckmann_Motesiczky%20web%20asset%201080x1920.png"
                                                       alt="A shaded drawing of two women's faces on sepia coloured paper by Max Beckmann."
                                                     />
                                                   </picture>
