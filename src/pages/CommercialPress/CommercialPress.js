@@ -36,7 +36,7 @@ const CommercialPress = () => {
         />
         <meta
           property="og:image"
-          content="images/mountain_pushing_paper_hero.jpg"
+          content="/images/CommercialPress/mountain_pushing_paper_hero.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -76,24 +76,24 @@ const CommercialPress = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/CommercialPress/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/CommercialPress/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/CommercialPress/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/CommercialPress/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -452,7 +452,7 @@ const CommercialPress = () => {
                           className="header__logo-container"
                         >
                           <img
-                            src="images/british-museum-logo.svg"
+                            src="/images/CommercialPress/british-museum-logo.svg"
                             alt="British Museum"
                             width={200}
                             height={66}
@@ -1765,21 +1765,21 @@ const CommercialPress = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/book-landing_0_2.jpg 1x"
+                            srcSet="/images/CommercialPress/book-landing_0_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1200}
                             height={321}
                           />
                           <source
-                            srcSet="images/book-landing_0_1.jpg 1x"
+                            srcSet="/images/CommercialPress/book-landing_0_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1200}
                             height={321}
                           />
                           <source
-                            srcSet="images/book-landing_0_3.jpg 1x"
+                            srcSet="/images/CommercialPress/book-landing_0_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -1791,7 +1791,7 @@ const CommercialPress = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/book-landing_0.jpg"
+                            src="/images/CommercialPress/book-landing_0.jpg"
                             alt="BM Press landing page image"
                           />
                         </picture>
@@ -2417,11 +2417,11 @@ const CommercialPress = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="images/Legion%20catalogue%20480x480_2.jpg 400w, images/Legion%20catalogue%20480x480_1.jpg 480w"
+                                                    srcSet="/images/CommercialPress/Legion%20catalogue%20480x480_2.jpg 400w, /images/CommercialPress/Legion%20catalogue%20480x480_1.jpg 480w"
                                                     sizes="100vw"
                                                     width={480}
                                                     height={480}
-                                                    src="images/Legion%20catalogue%20480x480.jpg"
+                                                    src="/images/CommercialPress/Legion%20catalogue%20480x480.jpg"
                                                     alt="A book cover with a bronze helmet in the dirt and a dramatic night sky behind with the words Legion life in the Roman army on it and the British Museum logo"
                                                   />
                                                 </div>
@@ -2456,11 +2456,11 @@ const CommercialPress = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="images/southeast_asia_a_history_in_objects_book_cover_2.jpg 400w, images/southeast_asia_a_history_in_objects_book_cover_1.jpg 480w"
+                                                    srcSet="/images/CommercialPress/southeast_asia_a_history_in_objects_book_cover_2.jpg 400w, /images/CommercialPress/southeast_asia_a_history_in_objects_book_cover_1.jpg 480w"
                                                     sizes="100vw"
                                                     width={480}
                                                     height={480}
-                                                    src="images/southeast_asia_a_history_in_objects_book_cover.jpg"
+                                                    src="/images/CommercialPress/southeast_asia_a_history_in_objects_book_cover.jpg"
                                                     alt="Book cover with image of the head of a Buddha with a green face and gold head covering. "
                                                   />
                                                 </div>
@@ -2496,11 +2496,11 @@ const CommercialPress = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="images/Gesture_line_catalogue_480x480_2.jpg 400w, images/Gesture_line_catalogue_480x480_1.jpg 480w"
+                                                    srcSet="/images/CommercialPress/Gesture_line_catalogue_480x480_2.jpg 400w, /images/CommercialPress/Gesture_line_catalogue_480x480_1.jpg 480w"
                                                     sizes="100vw"
                                                     width={480}
                                                     height={480}
-                                                    src="images/Gesture_line_catalogue_480x480.jpg"
+                                                    src="/images/CommercialPress/Gesture_line_catalogue_480x480.jpg"
                                                     alt="An abstract artwork with three vertical streaks of blue oil pastel against a yellow wash, with rust-red and pencil markings - while the name of the exhibition appears written in the bottom right of the image."
                                                   />
                                                 </div>
@@ -2536,11 +2536,11 @@ const CommercialPress = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="images/Celebrate_book_cover_480x480_2.jpg 400w, images/Celebrate_book_cover_480x480_1.jpg 480w"
+                                                    srcSet="/images/CommercialPress/Celebrate_book_cover_480x480_2.jpg 400w, /images/CommercialPress/Celebrate_book_cover_480x480_1.jpg 480w"
                                                     sizes="100vw"
                                                     width={480}
                                                     height={480}
-                                                    src="images/Celebrate_book_cover_480x480.jpg"
+                                                    src="/images/CommercialPress/Celebrate_book_cover_480x480.jpg"
                                                   />
                                                 </div>
                                               </div>

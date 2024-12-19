@@ -37,7 +37,7 @@ const Travel = () => {
         />
         <meta
           property="og:image"
-          content="images/R18%2010_Parthenon1920x1080_1.jpg"
+          content="/images/Travel/R18%2010_Parthenon1920x1080_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -82,24 +82,24 @@ const Travel = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Travel/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Travel/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Travel/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Travel/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -465,21 +465,21 @@ const Travel = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/R18%2010_Parthenon1920x1080_2.jpg 1x"
+                            srcSet="/images/Travel/R18%2010_Parthenon1920x1080_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/R18%2010_Parthenon1920x1080_1.jpg 1x"
+                            srcSet="/images/Travel/R18%2010_Parthenon1920x1080_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/R18%2010_Parthenon1920x1080_3.jpg 1x"
+                            srcSet="/images/Travel/R18%2010_Parthenon1920x1080_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -491,7 +491,7 @@ const Travel = () => {
                             width={750}
                             height={750}
                             data-focal-position="center right"
-                            src="images/R18%2010_Parthenon1920x1080.jpg"
+                            src="/images/Travel/R18%2010_Parthenon1920x1080.jpg"
                             alt="Tour group in Greece: Parthenon gallery (Room 18)"
                           />
                         </picture>
@@ -853,11 +853,11 @@ const Travel = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/egyptian-sculpture-british-museum-smaller_3.jpg 400w, images/egyptian-sculpture-british-museum-smaller_2.jpg 750w, images/egyptian-sculpture-british-museum-smaller_1.jpg 1000w"
+                                        srcSet="/images/Travel/egyptian-sculpture-british-museum-smaller_3.jpg 400w, /images/Travel/egyptian-sculpture-british-museum-smaller_2.jpg 750w, /images/Travel/egyptian-sculpture-british-museum-smaller_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/egyptian-sculpture-british-museum-smaller.jpg"
+                                        src="/images/Travel/egyptian-sculpture-british-museum-smaller.jpg"
                                         alt="Crowd of visitors around the Rosetta Stone."
                                       />
                                       <figcaption>
@@ -958,11 +958,11 @@ const Travel = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/great-court-restaurant-seating-1000x500_1.jpg 400w, images/great-court-restaurant-seating-1000x500_3.jpg 750w, images/great-court-restaurant-seating-1000x500_2.jpg 1000w"
+                                        srcSet="/images/Travel/great-court-restaurant-seating-1000x500_1.jpg 400w, /images/Travel/great-court-restaurant-seating-1000x500_3.jpg 750w, /images/Travel/great-court-restaurant-seating-1000x500_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={501}
-                                        src="images/great-court-restaurant-seating-1000x500.jpg"
+                                        src="/images/Travel/great-court-restaurant-seating-1000x500.jpg"
                                         alt="Great Court Restaurant seating"
                                       />
                                       <figcaption>
@@ -1027,11 +1027,11 @@ const Travel = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/accessibility-audio-guide-british-museum-small_1.jpg 400w, images/accessibility-audio-guide-british-museum-small_2.jpg 750w, images/accessibility-audio-guide-british-museum-small_3.jpg 1000w"
+                                        srcSet="/images/Travel/accessibility-audio-guide-british-museum-small_1.jpg 400w, /images/Travel/accessibility-audio-guide-british-museum-small_2.jpg 750w, /images/Travel/accessibility-audio-guide-british-museum-small_3.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/accessibility-audio-guide-british-museum-small.jpg"
+                                        src="/images/Travel/accessibility-audio-guide-british-museum-small.jpg"
                                         alt="A man uses the audio guide in the Great Court "
                                       />
                                     </div>

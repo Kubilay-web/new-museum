@@ -37,7 +37,7 @@ const Library = () => {
         />
         <meta
           property="og:image"
-          content="images/Montague_House_deed_1000x500.jpg"
+          content="/images/Library/Montague_House_deed_1000x500.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const Library = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Library/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Library/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Library/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Library/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const Library = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Deed%20of%20bargain%20and%20sale%20of%20Montagu%20House%252C%205%20April%201755._3.jpg 1x"
+                            srcSet="/images/Library/Deed%20of%20bargain%20and%20sale%20of%20Montagu%20House%252C%205%20April%201755._3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1190}
                           />
                           <source
-                            srcSet="images/Deed%20of%20bargain%20and%20sale%20of%20Montagu%20House%252C%205%20April%201755._1.jpg 1x"
+                            srcSet="/images/Library/Deed%20of%20bargain%20and%20sale%20of%20Montagu%20House%252C%205%20April%201755._1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={967}
                           />
                           <source
-                            srcSet="images/Deed%20of%20bargain%20and%20sale%20of%20Montagu%20House%252C%205%20April%201755._2.jpg 1x"
+                            srcSet="/images/Library/Deed%20of%20bargain%20and%20sale%20of%20Montagu%20House%252C%205%20April%201755._2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const Library = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Deed%20of%20bargain%20and%20sale%20of%20Montagu%20House%252C%205%20April%201755..jpg"
+                            src="/images/Library/Deed%20of%20bargain%20and%20sale%20of%20Montagu%20House%252C%205%20April%201755..jpg"
                             alt="The official deed of the sale of Montagu House"
                           />
                         </picture>

@@ -37,7 +37,7 @@ const Study = () => {
         />
         <meta
           property="og:image"
-          content="images/P%2526D%20study%20room%202000%20x%201500_1.jpg"
+          content="/images/Study/P%2526D%20study%20room%202000%20x%201500_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const Study = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Study/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Study/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Study/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Study/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const Study = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/P%2526D%20study%20room%202000%20x%201500_2.jpg 1x"
+                            srcSet="/images/Study/P%2526D%20study%20room%202000%20x%201500_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1200}
                           />
                           <source
-                            srcSet="images/P%2526D%20study%20room%202000%20x%201500_1.jpg 1x"
+                            srcSet="/images/Study/P%2526D%20study%20room%202000%20x%201500_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={975}
                           />
                           <source
-                            srcSet="images/P%2526D%20study%20room%202000%20x%201500_3.jpg 1x"
+                            srcSet="/images/Study/P%2526D%20study%20room%202000%20x%201500_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const Study = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/P%2526D%20study%20room%202000%20x%201500.jpg"
+                            src="/images/Study/P%2526D%20study%20room%202000%20x%201500.jpg"
                             alt="Detail of the Prints and drawings study room at the British Museum"
                           />
                         </picture>

@@ -35,7 +35,7 @@ const Filming = () => {
           property="og:description"
           content="Make films, documentaries, adverts, radio programmes or conduct research at the British Museum."
         />
-        <meta property="og:image" content="images/spectre03.jpg" />
+        <meta property="og:image" content="/images/Filming/spectre03.jpg" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
@@ -74,24 +74,24 @@ const Filming = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Filming/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Filming/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Filming/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Filming/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -457,21 +457,21 @@ const Filming = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/IMG-20190520-WA0010_1.jpg 1x"
+                            srcSet="/images/Filming/IMG-20190520-WA0010_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1047}
                           />
                           <source
-                            srcSet="images/IMG-20190520-WA0010_2.jpg 1x"
+                            srcSet="/images/Filming/IMG-20190520-WA0010_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={851}
                           />
                           <source
-                            srcSet="images/IMG-20190520-WA0010_3.jpg 1x"
+                            srcSet="/images/Filming/IMG-20190520-WA0010_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -483,7 +483,7 @@ const Filming = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/IMG-20190520-WA0010.jpg"
+                            src="/images/Filming/IMG-20190520-WA0010.jpg"
                             alt="Decorative lighting on the front of the British Museum at night"
                           />
                         </picture>
@@ -1096,11 +1096,11 @@ const Filming = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/spectre10_3.jpg 400w, images/spectre10_2.jpg 750w, images/spectre10_1.jpg 1000w"
+                                        srcSet="/images/Filming/spectre10_3.jpg 400w, /images/Filming/spectre10_2.jpg 750w, /images/Filming/spectre10_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={563}
-                                        src="images/spectre10.jpg"
+                                        src="/images/Filming/spectre10.jpg"
                                         alt="Filming at the British Museum"
                                       />
                                       <figcaption>
