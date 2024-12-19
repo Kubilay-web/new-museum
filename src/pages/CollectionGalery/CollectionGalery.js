@@ -37,7 +37,7 @@ const CollectionGalery = () => {
         />
         <meta
           property="og:image"
-          content="images/R04%2006%20Egyptian%20sculpture.jpg"
+          content="/images/CollectionGalery/R04%2006%20Egyptian%20sculpture.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const CollectionGalery = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/CollectionGalery/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/CollectionGalery/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/CollectionGalery/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/CollectionGalery/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const CollectionGalery = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Visiting-Parthenon-gallery-british-museum_2.jpg 1x"
+                            srcSet="/images/CollectionGalery/Visiting-Parthenon-gallery-british-museum_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={800}
                           />
                           <source
-                            srcSet="images/Visiting-Parthenon-gallery-british-museum_1.jpg 1x"
+                            srcSet="/images/CollectionGalery/Visiting-Parthenon-gallery-british-museum_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={650}
                           />
                           <source
-                            srcSet="images/Visiting-Parthenon-gallery-british-museum_3.jpg 1x"
+                            srcSet="/images/CollectionGalery/Visiting-Parthenon-gallery-british-museum_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const CollectionGalery = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Visiting-Parthenon-gallery-british-museum.jpg"
+                            src="/images/CollectionGalery/Visiting-Parthenon-gallery-british-museum.jpg"
                             alt="Visitors standing in the Parthenon gallery"
                           />
                         </picture>
@@ -1142,7 +1142,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Wooden%20figure%20commemorating%20a%20king%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Wooden%20figure%20commemorating%20a%20king%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Wooden figure, focus on face with closed eyes and mouth."
@@ -1195,7 +1195,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20Townley%20Discobolus%252C%20Enlightenment%252C%20220x140_0.jpg"
+                                        src="/images/CollectionGalery/The%20Townley%20Discobolus%252C%20Enlightenment%252C%20220x140_0.jpg"
                                         width={220}
                                         height={140}
                                         alt="image of marble statue of a discus thrower"
@@ -1225,7 +1225,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/rosetta-vase-grayson-perry-landscape-british-museum-220x140.jpg"
+                                        src="/images/CollectionGalery/rosetta-vase-grayson-perry-landscape-british-museum-220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Yellow vase with narrow neck, decoration in blue. "
@@ -1255,7 +1255,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/101_holy_thorn_reliquary_studio_220x140.jpg"
+                                        src="/images/CollectionGalery/101_holy_thorn_reliquary_studio_220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Holy Thorn reliquary gold and jewels"
@@ -1292,7 +1292,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Statue-of-%20Ramesses-II-egyptian-sculpture-gallery-british-museum_list.jpg"
+                                        src="/images/CollectionGalery/Statue-of-%20Ramesses-II-egyptian-sculpture-gallery-british-museum_list.jpg"
                                         width={220}
                                         height={140}
                                         alt="Head and upper body of pink/grey granite monumental statue of Ramesses II."
@@ -1322,7 +1322,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Colossal%20statue%20of%20a%20winged%20lion%252C%20220x140_0.jpg"
+                                        src="/images/CollectionGalery/Colossal%20statue%20of%20a%20winged%20lion%252C%20220x140_0.jpg"
                                         width={220}
                                         height={140}
                                         alt="Statue of a winged lion from the North-West Palace of Ashurnasirpal II"
@@ -1352,7 +1352,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Stone%20panel%20from%20the%20North-West%20Palace%20of%20Ashurnasirpal%20II%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Stone%20panel%20from%20the%20North-West%20Palace%20of%20Ashurnasirpal%20II%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Stone panel from the North-West Palace of Ashurnasirpal II, Assyria, 883-859 BC."
@@ -1382,7 +1382,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Fragment%20of%20a%20stone%20panel%20from%20the%20South-West%20Palace%20of%20Sennacherib%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Fragment%20of%20a%20stone%20panel%20from%20the%20South-West%20Palace%20of%20Sennacherib%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Frieze with drawings on it"
@@ -1412,7 +1412,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Wall%20panel%252C%20relief%252C%20Neo-Assyrian%252C%20North%20Palace%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Wall%20panel%252C%20relief%252C%20Neo-Assyrian%252C%20North%20Palace%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Large relief with men pulling a horse"
@@ -1443,7 +1443,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/gold%20goblet%252C%20list%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/gold%20goblet%252C%20list%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Gold goblet "
@@ -1478,7 +1478,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Amphora%252C%20Attic%252C%20Archaic%20Greek%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Amphora%252C%20Attic%252C%20Archaic%20Greek%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Greek wine jar depicting Achilles defeating Penthesilea, the Amazon Queen."
@@ -1508,7 +1508,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Black-figured%20neck-amphora%252C%20signed%20by%20the%20potter%20Andokides_220x140_0.jpg"
+                                        src="/images/CollectionGalery/Black-figured%20neck-amphora%252C%20signed%20by%20the%20potter%20Andokides_220x140_0.jpg"
                                         width={220}
                                         height={140}
                                         alt="Greek vase depicting black-figured neck-amphora, signed by the potter Andokides."
@@ -1538,7 +1538,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Relief%20panel%20from%20the%20Harpy%20Tomb_220x140.jpg"
+                                        src="/images/CollectionGalery/Relief%20panel%20from%20the%20Harpy%20Tomb_220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Large Greek relief panel featuring a female-headed bird"
@@ -1568,7 +1568,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Bassai_Sculptures_The_Phigaleian_Frieze_British_Museum_list_image.jpg"
+                                        src="/images/CollectionGalery/Bassai_Sculptures_The_Phigaleian_Frieze_British_Museum_list_image.jpg"
                                         width={220}
                                         height={140}
                                         alt="The Bassai Sculptures, the Phigaleian Frieze, Classical Greek"
@@ -1598,7 +1598,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Nereid%20Monument%20220x140.jpg"
+                                        src="/images/CollectionGalery/Nereid%20Monument%20220x140.jpg"
                                         width={220}
                                         height={110}
                                         alt="Visitors in Room 17 by the Nereid Monument"
@@ -1628,7 +1628,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/267_sculpture_of_a_horse_s_head_studio_220x140.jpg"
+                                        src="/images/CollectionGalery/267_sculpture_of_a_horse_s_head_studio_220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Marble sculpture of horses head from parthenon"
@@ -1658,7 +1658,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Marble%20block%20from%20the%20Temple%20of%20Athena%20Nike-220x140.jpg"
+                                        src="/images/CollectionGalery/Marble%20block%20from%20the%20Temple%20of%20Athena%20Nike-220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Marble block from the west frieze of the Temple of Athena Nike"
@@ -1692,7 +1692,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20Aberdeen%20Head%252C%20Classical%20Greek%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/The%20Aberdeen%20Head%252C%20Classical%20Greek%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Marble head of a youthful god: the 'Aberdeen Head', Classical Greek, 325-280 BC"
@@ -1726,7 +1726,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Fragments%20of%20colossal%20horses%20from%20the%20Mausoleum%20at%20Halikarnassos%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Fragments%20of%20colossal%20horses%20from%20the%20Mausoleum%20at%20Halikarnassos%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Horse head made from marble"
@@ -1756,7 +1756,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Marble%20statue%20of%20Demeter_220x140.jpg"
+                                        src="/images/CollectionGalery/Marble%20statue%20of%20Demeter_220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Marble statue of Demeter seated on a throne, Greek, carved around 350 BC."
@@ -1786,7 +1786,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Marble%20relief%20boy%20with%20horse%252C%20Roman%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Marble%20relief%20boy%20with%20horse%252C%20Roman%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Marble relief featuring a boy and horse."
@@ -1816,7 +1816,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Hoa%20Hakananai%27a-Moai-ancestor-figure-easter-island-british-museum-220x140.jpg"
+                                        src="/images/CollectionGalery/Hoa%20Hakananai%27a-Moai-ancestor-figure-easter-island-british-museum-220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Large human figure made of stone."
@@ -1849,7 +1849,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Sled-greeland-bone-%20ivory-wood-snow-220x140.jpg"
+                                        src="/images/CollectionGalery/Sled-greeland-bone-%20ivory-wood-snow-220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt=" Snow sled brown in colour."
@@ -1879,7 +1879,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/serpent_mosaic_Mexico_220x140_0.jpg"
+                                        src="/images/CollectionGalery/serpent_mosaic_Mexico_220x140_0.jpg"
                                         width={220}
                                         height={140}
                                         alt="Image of a turquoise mosaic covered serpent with two heads"
@@ -1909,7 +1909,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20Lion%20of%20Knidos%252C%20statue%252C%20Hellenistic%252C%20Knidos%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/The%20Lion%20of%20Knidos%252C%20statue%252C%20Hellenistic%252C%20Knidos%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Colossal marble statue of a lion in the Great Court."
@@ -1939,7 +1939,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Ancient%20Iran%20-%20Room%2052%20Plaster%20Cast%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Ancient%20Iran%20-%20Room%2052%20Plaster%20Cast%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Frieze with figure of a man and a lion"
@@ -1989,7 +1989,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Untitled-1figure%252C%20Tang%20dynasty%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Untitled-1figure%252C%20Tang%20dynasty%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="4 humans 1 horse 1 camel all figures are shades of white, brown and green."
@@ -2026,7 +2026,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Dome-slab%252C%20Amaravati%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Dome-slab%252C%20Amaravati%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Dome-slab carved in limestone with the Great Departure, Prince Siddhartha's horse Kanthaka with empty saddle leaving the palace via an elaborate torana (gate)"
@@ -2059,7 +2059,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/A%20Jade%20brush%20pot%20220x140.jpg"
+                                        src="/images/CollectionGalery/A%20Jade%20brush%20pot%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="A jade brush pot decorated with nature motifs"
@@ -2095,7 +2095,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Cassiobury%20Park%20turret%20clock%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Cassiobury%20Park%20turret%20clock%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Cassiobury Park turret clock"
@@ -2132,7 +2132,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/lewis_chessmen_220x140_0.jpg"
+                                        src="/images/CollectionGalery/lewis_chessmen_220x140_0.jpg"
                                         width={220}
                                         height={140}
                                         alt="Seven white chess pieces"
@@ -2168,7 +2168,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/sutton_hoo_studio_220x140_0.jpg"
+                                        src="/images/CollectionGalery/sutton_hoo_studio_220x140_0.jpg"
                                         width={220}
                                         height={140}
                                         alt="Sutton hoo helmet"
@@ -2204,7 +2204,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Carved%20jade%20terrapin%252C%20India%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Carved%20jade%20terrapin%252C%20India%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Jade terrapin on blue background "
@@ -2240,7 +2240,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20Medici%20Valencian%20vase%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/The%20Medici%20Valencian%20vase%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Large blue and yellow decorated vase. "
@@ -2274,7 +2274,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20Pegasus%20Vase%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/The%20Pegasus%20Vase%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Vase made of pale blue jasper ware with applied white reliefs"
@@ -2304,7 +2304,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Mantelpiece%20clock%252C%20by%20Charles%20Rennie%20Mackintosh%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Mantelpiece%20clock%252C%20by%20Charles%20Rennie%20Mackintosh%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Yellow and black squared mantelpiece clock "
@@ -2334,7 +2334,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20Great%20Dish%20from%20the%20Mildenhall%20treasure%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/The%20Great%20Dish%20from%20the%20Mildenhall%20treasure%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="The Great dish from the Mildenhall Treasure, a large concave silver platter with beaded rim (135 beads in total) on a circular vertical foot-ring positioned exactly one-third in from the rim. "
@@ -2366,7 +2366,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20Great%20Torc%20from%20Snettisham%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/The%20Great%20Torc%20from%20Snettisham%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="a Golden round torc with circle gold balls at each end"
@@ -2396,7 +2396,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20Mold%20Gold%20Cape%252C%20Room%2051%252C%20British%20Museum%20220x140.jpg"
+                                        src="/images/CollectionGalery/The%20Mold%20Gold%20Cape%252C%20Room%2051%252C%20British%20Museum%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="A gold cape to be placed through head and sit on shoulders. "
@@ -2433,7 +2433,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Gold%20griffin-headed%20armlet%20from%20the%20Oxus%20treasure%252C%20British%20Museum%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Gold%20griffin-headed%20armlet%20from%20the%20Oxus%20treasure%252C%20British%20Museum%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Gold armlet with two dragon looking figures attached. "
@@ -2466,7 +2466,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Calcite%20incense%20burner%20showing%20a%20camel%20rider%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Calcite%20incense%20burner%20showing%20a%20camel%20rider%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Ancient Arabian calcite incense burner showing a camel rider"
@@ -2496,7 +2496,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Ivory%20figure%20of%20a%20griffin-headed%20demon%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Ivory%20figure%20of%20a%20griffin-headed%20demon%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Ivory figure of a griffin-headed demon, Anatolia"
@@ -2526,7 +2526,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20Map%20of%20the%20World%252C%20tablet%252C%20Late%20Babylonian%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/The%20Map%20of%20the%20World%252C%20tablet%252C%20Late%20Babylonian%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Map of the World, Mesopotamia, 700-500 BC."
@@ -2556,7 +2556,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20%27Queen%20of%20the%20Night%27%20Relief%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/The%20%27Queen%20of%20the%20Night%27%20Relief%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Mesopotamian sculpture of queen of the night woman with wings "
@@ -2586,7 +2586,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Statue%20of%20Idrimi%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Statue%20of%20Idrimi%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Small white statue of male figure sitting down "
@@ -2616,7 +2616,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/fowling-marshes-tomb-nebamun%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/fowling-marshes-tomb-nebamun%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="scene of man hunting egyptian painting"
@@ -2650,7 +2650,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Inner%20coffin%20of%20the%20priest%20Hornedjitef%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Inner%20coffin%20of%20the%20priest%20Hornedjitef%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="A gold decorated coffin in the shape of a human. "
@@ -2683,7 +2683,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Granite%20statue%20of%20Ankhwa%252C%20the%20ship-builder%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Granite%20statue%20of%20Ankhwa%252C%20the%20ship-builder%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Granite statue of Ankhwa, one hand on leg the other holding a tool."
@@ -2713,7 +2713,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Sphinx%20of%20Taharqo%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Sphinx%20of%20Taharqo%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Lying down sphinx, human head light brown."
@@ -2743,7 +2743,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/battle-of-adwa-ethiopia-coptic-220x140.jpg"
+                                        src="/images/CollectionGalery/battle-of-adwa-ethiopia-coptic-220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Oil painting on cotton cloth, depicting the a battle scene. "
@@ -2773,7 +2773,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/White%20porcelain%20%27moon%20jar%27.%20Choson%20dynasty%20%281392-1910%29.%20Korea%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/White%20porcelain%20%27moon%20jar%27.%20Choson%20dynasty%20%281392-1910%29.%20Korea%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="White porcelain 'moon jar', Choson dynasty, Korea, 17-18th Century AD."
@@ -2803,7 +2803,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Suffragette-defaced%20penny%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Suffragette-defaced%20penny%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt='A penny with the words "votes for women" defaced across the king'
@@ -2830,7 +2830,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Bronze%20gladiator%27s%20helmet%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Bronze%20gladiator%27s%20helmet%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Bronze gladiator's helmet"
@@ -2860,7 +2860,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20Portland%20Vase%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/The%20Portland%20Vase%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="portland vase white relief figures on a black background"
@@ -2892,7 +2892,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Painted%20sarcophagus%20of%20Seianti%20Hanunia%20Tlesnasa%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Painted%20sarcophagus%20of%20Seianti%20Hanunia%20Tlesnasa%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Painted sarcophagus of Seianti Hanunia Tlesnasa, Etruscan, 150-140 BC."
@@ -2922,7 +2922,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Red%20Polished%20Ware%20figurine%20cradling%20a%20child%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Red%20Polished%20Ware%20figurine%20cradling%20a%20child%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Red Polished Ware figurine cradling a child, Cypriot, 1975-1850 BC"
@@ -2955,7 +2955,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Phiale%252C%20Western%20Greek%252C%20Phoenician%252C%20Gela%252C%20Sant%27Angelo%20Muxaro%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Phiale%252C%20Western%20Greek%252C%20Phoenician%252C%20Gela%252C%20Sant%27Angelo%20Muxaro%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Gold libation bowl (phiale) with six bulls around 600 BC, Western Greek."
@@ -2985,7 +2985,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Superb_line_thumbnail_220x140.png"
+                                        src="/images/CollectionGalery/Superb_line_thumbnail_220x140.png"
                                         width={220}
                                         height={140}
                                         alt="A scene of shepherds and animals, and a woman on a horse, depicted in red-brown oil paint. "
@@ -3015,7 +3015,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Kakiemon%20Elephant%252C%20Endo%20Period%252C%20animals%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Kakiemon%20Elephant%252C%20Endo%20Period%252C%20animals%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Two red, white, blue and gold decorated mantelpiece elephants figures."
@@ -3049,7 +3049,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/The%20David%20Vases%252C%20Yuan%20dynasty%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/The%20David%20Vases%252C%20Yuan%20dynasty%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Two identical porcelain vases with blue details including dragon."
@@ -3107,7 +3107,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Kaygasiw%20Usul%252C%20Milky%20Way%20star%20constellation%252C%20Oceania%252C%20Australia%252C%20Alick%20Tipoti%252C%20220x140.jpg"
+                                        src="/images/CollectionGalery/Kaygasiw%20Usul%252C%20Milky%20Way%20star%20constellation%252C%20Oceania%252C%20Australia%252C%20Alick%20Tipoti%252C%20220x140.jpg"
                                         width={220}
                                         height={140}
                                         alt="Red mask made from fibre glass, polyester resin, ply and balsar wood and bamboo,"
@@ -3137,7 +3137,7 @@ const CollectionGalery = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Cottman-220x140.jpg"
+                                        src="/images/CollectionGalery/Cottman-220x140.jpg"
                                         width={220}
                                         height={143}
                                         alt="Drawing of boats sailing on rough seas"

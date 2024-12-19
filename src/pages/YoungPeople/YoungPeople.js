@@ -37,7 +37,7 @@ const YoungPeople = () => {
         />
         <meta
           property="og:image"
-          content="images/manga-late-great-court-1000.jpg"
+          content="/images/YoungPeople/manga-late-great-court-1000.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const YoungPeople = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/YoungPeople/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/YoungPeople/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/YoungPeople/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/YoungPeople/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const YoungPeople = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/manga-late-great-court-v2-1920_1.jpg 1x"
+                            srcSet="/images/YoungPeople/manga-late-great-court-v2-1920_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/manga-late-great-court-v2-1920_2.jpg 1x"
+                            srcSet="/images/YoungPeople/manga-late-great-court-v2-1920_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/manga-late-great-court-v2-1920_3.jpg 1x"
+                            srcSet="/images/YoungPeople/manga-late-great-court-v2-1920_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const YoungPeople = () => {
                             width={750}
                             height={750}
                             data-focal-position="top center"
-                            src="images/manga-late-great-court-v2-1920.jpg"
+                            src="/images/YoungPeople/manga-late-great-court-v2-1920.jpg"
                             alt="Young people dressed up at a Manga-themed event."
                           />
                         </picture>

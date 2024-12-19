@@ -37,7 +37,7 @@ const AdultLearning = () => {
         />
         <meta
           property="og:image"
-          content="images/Adult%20learning%20festivals%20lates%20special%20events%252C%20british%20museum_0.jpg"
+          content="/images/AdultLearning/Adult%20learning%20festivals%20lates%20special%20events%252C%20british%20museum_0.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const AdultLearning = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/AdultLearning/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/AdultLearning/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/AdultLearning/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/AdultLearning/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const AdultLearning = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Adult%20learning%20festivals%20lates%20special%20events%252C%20british%20museum_1.jpg 1x"
+                            srcSet="/images/AdultLearning/Adult%20learning%20festivals%20lates%20special%20events%252C%20british%20museum_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1066}
                           />
                           <source
-                            srcSet="images/Adult%20learning%20festivals%20lates%20special%20events%252C%20british%20museum_2.jpg 1x"
+                            srcSet="/images/AdultLearning/Adult%20learning%20festivals%20lates%20special%20events%252C%20british%20museum_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={866}
                           />
                           <source
-                            srcSet="images/Adult%20learning%20festivals%20lates%20special%20events%252C%20british%20museum_3.jpg 1x"
+                            srcSet="/images/AdultLearning/Adult%20learning%20festivals%20lates%20special%20events%252C%20british%20museum_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const AdultLearning = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Adult%20learning%20festivals%20lates%20special%20events%252C%20british%20museum.jpg"
+                            src="/images/AdultLearning/Adult%20learning%20festivals%20lates%20special%20events%252C%20british%20museum.jpg"
                             alt="Adult learning, festivals, lates & special events"
                           />
                         </picture>

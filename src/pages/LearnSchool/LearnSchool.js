@@ -35,7 +35,10 @@ const LearnSchool = () => {
           property="og:description"
           content="Organise a school visit and find inspiring classroom resources that will bring history to life."
         />
-        <meta property="og:image" content="images/SCHOOLS_Landingpage_3.jpg" />
+        <meta
+          property="og:image"
+          content="/images/LearnSchool/SCHOOLS_Landingpage_3.jpg"
+        />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
@@ -74,24 +77,24 @@ const LearnSchool = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/LearnSchool/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/LearnSchool/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/LearnSchool/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/LearnSchool/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -457,21 +460,21 @@ const LearnSchool = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/SCHOOLS_Landingpage_1.jpg 1x"
+                            srcSet="/images/LearnSchool/SCHOOLS_Landingpage_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1102}
                           />
                           <source
-                            srcSet="images/SCHOOLS_Landingpage_3.jpg 1x"
+                            srcSet="/images/LearnSchool/SCHOOLS_Landingpage_3.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={896}
                           />
                           <source
-                            srcSet="images/SCHOOLS_Landingpage_2.jpg 1x"
+                            srcSet="/images/LearnSchool/SCHOOLS_Landingpage_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -483,7 +486,7 @@ const LearnSchool = () => {
                             width={750}
                             height={750}
                             data-focal-position="center left"
-                            src="images/SCHOOLS_Landingpage.jpg"
+                            src="/images/LearnSchool/SCHOOLS_Landingpage.jpg"
                             alt="Students overlooking the Great Court"
                           />
                         </picture>

@@ -37,7 +37,7 @@ const Communities = () => {
         />
         <meta
           property="og:image"
-          content="images/Communities%252C%20british%20museum_1.jpg"
+          content="/images/Communities/Communities%252C%20british%20museum_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const Communities = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Communities/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Communities/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Communities/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Communities/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const Communities = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Communities%252C%20british%20museum_2.jpg 1x"
+                            srcSet="/images/Communities/Communities%252C%20british%20museum_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/Communities%252C%20british%20museum_1.jpg 1x"
+                            srcSet="/images/Communities/Communities%252C%20british%20museum_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/Communities%252C%20british%20museum_3.jpg 1x"
+                            srcSet="/images/Communities/Communities%252C%20british%20museum_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const Communities = () => {
                             width={750}
                             height={750}
                             data-focal-position="center right"
-                            src="images/Communities%252C%20british%20museum.jpg"
+                            src="/images/Communities/Communities%252C%20british%20museum.jpg"
                             alt="Woman looking at objects behind glass at the British Museum, London."
                           />
                         </picture>
@@ -851,11 +851,11 @@ const Communities = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Programmes-communities-british-museum-%281000x500%29_2.jpg 400w, images/Programmes-communities-british-museum-%281000x500%29_3.jpg 750w, images/Programmes-communities-british-museum-%281000x500%29_1.jpg 1000w"
+                                        srcSet="/images/Communities/Programmes-communities-british-museum-%281000x500%29_2.jpg 400w, /images/Communities/Programmes-communities-british-museum-%281000x500%29_3.jpg 750w, /images/Communities/Programmes-communities-british-museum-%281000x500%29_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Programmes-communities-british-museum-%281000x500%29.jpg"
+                                        src="/images/Communities/Programmes-communities-british-museum-%281000x500%29.jpg"
                                         alt="Two visitors enjoying the Manga exhibition at a Community Preview event"
                                       />
                                       <figcaption>
@@ -939,11 +939,11 @@ const Communities = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Projects-communities-british-museum-%281000x500%29_3.jpg 400w, images/Projects-communities-british-museum-%281000x500%29_2.jpg 750w, images/Projects-communities-british-museum-%281000x500%29_1.jpg 1000w"
+                                        srcSet="/images/Communities/Projects-communities-british-museum-%281000x500%29_3.jpg 400w, /images/Communities/Projects-communities-british-museum-%281000x500%29_2.jpg 750w, /images/Communities/Projects-communities-british-museum-%281000x500%29_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Projects-communities-british-museum-%281000x500%29.jpg"
+                                        src="/images/Communities/Projects-communities-british-museum-%281000x500%29.jpg"
                                         alt="A visitor to the British Museum exploring the collections as part of an accompanied visit"
                                       />
                                       <figcaption>

@@ -35,7 +35,10 @@ const Podcast = () => {
           property="og:description"
           content="The Museum podcast delves into every aspect of the British Museum, from archives to Egyptian black goo, from conservation to Doctor Who."
         />
-        <meta property="og:image" content="images/Castellani-brooch-2.jpg" />
+        <meta
+          property="og:image"
+          content="/images/Podcast/Castellani-brooch-2.jpg"
+        />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
@@ -74,24 +77,24 @@ const Podcast = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Podcast/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Podcast/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Podcast/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Podcast/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -457,21 +460,21 @@ const Podcast = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Podcast-hero2_3.jpg 1x"
+                            srcSet="/images/Podcast/Podcast-hero2_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1067}
                           />
                           <source
-                            srcSet="images/Podcast-hero2_2.jpg 1x"
+                            srcSet="/images/Podcast/Podcast-hero2_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={867}
                           />
                           <source
-                            srcSet="images/Podcast-hero2_1.jpg 1x"
+                            srcSet="/images/Podcast/Podcast-hero2_1.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -483,7 +486,7 @@ const Podcast = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Podcast-hero2.jpg"
+                            src="/images/Podcast/Podcast-hero2.jpg"
                             alt="Hugo Chapman (left) and Sushma Jansari (right) with Nick Kendall (centre) sitting at a table"
                           />
                         </picture>

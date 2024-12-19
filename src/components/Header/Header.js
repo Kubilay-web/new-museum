@@ -524,7 +524,7 @@ const Header = () => {
                                   </li>
                                   <li className="menu__item menu__item--level-1">
                                     <a
-                                      href="https://www.britishmuseum.org/collection"
+                                      href="/"
                                       className="menu__link menu__link--level-1 menu__toggle"
                                     >
                                       <span>
