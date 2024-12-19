@@ -1200,30 +1200,8 @@ const AudioApp = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=9a_Shj2r"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=NFkPKjYf 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=9a_Shj2r 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=1eop94Es 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=uTxb0CFK 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=cvH2BG-j 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Royal Game of Ur board with a dice and two pieces"
+                                                    src="/images/Audio/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=NFkPKjYf
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=9a_Shj2r
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=1eop94Es
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=uTxb0CFK
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=cvH2BG-j
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=9a_Shj2r"
-                                                    data-sizes="auto" alt="Royal
-                                                    Game of Ur board with a dice
-                                                    and two pieces" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1262,30 +1240,8 @@ const AudioApp = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=pkWoTgf1"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=Zflk_4ST 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=pkWoTgf1 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=vy6ZdcUQ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=DlnYR_Xn 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=nmsLAMOg 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A tour in the Egyptian Sculpture Gallery"
+                                                    src="/images/Audio/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=Zflk_4ST
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=pkWoTgf1
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=vy6ZdcUQ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=DlnYR_Xn
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=nmsLAMOg
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=pkWoTgf1"
-                                                    data-sizes="auto" alt="A
-                                                    tour in the Egyptian
-                                                    Sculpture Gallery" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1323,31 +1279,8 @@ const AudioApp = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=IbbM3Aq- 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=xY1HpAuZ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=eL-unViS 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=gpQQNEw_ 1600w"
-                                                    data-focal-position="center right"
-                                                    alt="A wide shot of the Great Court with the roof and Reading Room in view"
+                                                    src="/images/Audio/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=IbbM3Aq-
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=xY1HpAuZ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=eL-unViS
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=gpQQNEw_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q"
-                                                    data-sizes="auto" alt="A
-                                                    wide shot of the Great Court
-                                                    with the roof and Reading
-                                                    Room in view" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1386,31 +1319,8 @@ const AudioApp = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=8Yu8MIIL"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=iIrIRVpH 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=8Yu8MIIL 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=4RNXu4iX 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=6m5b7UZs 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=aPcJHVsf 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Five visitors on a morning tour in the Enlightenment gallery."
+                                                    src="/images/Audio/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=iIrIRVpH
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=8Yu8MIIL
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=4RNXu4iX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=6m5b7UZs
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=aPcJHVsf
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=8Yu8MIIL"
-                                                    data-sizes="auto" alt="Five
-                                                    visitors on a morning tour
-                                                    in the Enlightenment
-                                                    gallery." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
