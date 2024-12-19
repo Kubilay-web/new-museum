@@ -753,29 +753,8 @@ const ObjectTrail = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=b8KSNa0_"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=H2_-ofXN 400w, /sites/default/files/styles/16_9_media_small/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=b8KSNa0_ 750w, /sites/default/files/styles/16_9_media_medium/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=LH8psZzp 1000w, /sites/default/files/styles/16_9_media_large/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=ebeCm6Nr 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=sfIanCVM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Bust of Ramesses the Great"
+                                                    src="/images/ObjectTrail/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=H2_-ofXN
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=b8KSNa0_
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=LH8psZzp
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=ebeCm6Nr
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=sfIanCVM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=b8KSNa0_"
-                                                    data-sizes="auto" alt="Bust
-                                                    of Ramesses the Great" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -813,31 +792,8 @@ const ObjectTrail = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&itok=V780FwJI"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&itok=Hs0Vu_Vn 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&itok=V780FwJI 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&itok=Rv1cNks1 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&itok=hKiP92ou 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&itok=vit8_4J- 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The Sloane Astrolabe, part of the British Museum's founding collection "
+                                                    src="/images/ObjectTrail/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&amp;itok=Hs0Vu_Vn
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&amp;itok=V780FwJI
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&amp;itok=Rv1cNks1
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&amp;itok=hKiP92ou
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&amp;itok=vit8_4J-
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Astrolabe-enlightenment-2000x1987.jpg?h=effa075a&amp;itok=V780FwJI"
-                                                    data-sizes="auto" alt="The
-                                                    Sloane Astrolabe, part of
-                                                    the British Museum's
-                                                    founding collection " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -876,32 +832,8 @@ const ObjectTrail = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&itok=HFsVUZZy"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&itok=8prHKRy0 400w, /sites/default/files/styles/16_9_media_small/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&itok=HFsVUZZy 750w, /sites/default/files/styles/16_9_media_medium/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&itok=zkza9HOM 1000w, /sites/default/files/styles/16_9_media_large/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&itok=Uh_cwLHL 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&itok=-yQpgzPT 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Upper section of a granite statue of Tutankhamun, wearing a headcloth, false beard, beaded broad collar."
+                                                    src="/images/ObjectTrail/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&amp;itok=8prHKRy0
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&amp;itok=HFsVUZZy
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&amp;itok=zkza9HOM
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&amp;itok=Uh_cwLHL
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&amp;itok=-yQpgzPT
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-11/Granite_statue_Tutankhamun_British_Museum_0.jpg?h=2ffb82e7&amp;itok=HFsVUZZy"
-                                                    data-sizes="auto" alt="Upper
-                                                    section of a granite statue
-                                                    of Tutankhamun, wearing a
-                                                    headcloth, false beard,
-                                                    beaded broad collar." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -999,32 +931,8 @@ const ObjectTrail = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&itok=aLivH-aa"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&itok=7jOuwfeV 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&itok=aLivH-aa 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&itok=kQ0VErfl 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&itok=JPeOpojl 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&itok=D22TFNuJ 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Red-figured hydria (water-jar), decorated with a woman reading and three attendants."
+                                                    src="/images/ObjectTrail/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&amp;itok=7jOuwfeV
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&amp;itok=aLivH-aa
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&amp;itok=kQ0VErfl
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&amp;itok=JPeOpojl
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&amp;itok=D22TFNuJ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/LGBTQ-trail-hero.jpg?h=475246a8&amp;itok=aLivH-aa"
-                                                    data-sizes="auto"
-                                                    alt="Red-figured hydria
-                                                    (water-jar), decorated with
-                                                    a woman reading and three
-                                                    attendants." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1065,32 +973,8 @@ const ObjectTrail = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=XxKczNpi"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=50ndP1Dv 400w, /sites/default/files/styles/16_9_media_small/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=XxKczNpi 750w, /sites/default/files/styles/16_9_media_medium/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=Hh1khsdq 1000w, /sites/default/files/styles/16_9_media_large/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=IkZvh6RJ 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=ZcsCPq5W 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Painting with purple background, with black snakes moving across the composition"
+                                                    src="/images/ObjectTrail/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;itok=50ndP1Dv
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;itok=XxKczNpi
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;itok=Hh1khsdq
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;itok=IkZvh6RJ
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;itok=ZcsCPq5W
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;itok=XxKczNpi"
-                                                    data-sizes="auto"
-                                                    alt="Painting with purple
-                                                    background, with black
-                                                    snakes moving across the
-                                                    composition" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1129,31 +1013,8 @@ const ObjectTrail = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-02/British_Museum_entrance.jpg?h=65159a84&itok=KNCJDdbq"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-02/British_Museum_entrance.jpg?h=65159a84&itok=0ZA2tZYP 400w, /sites/default/files/styles/16_9_media_small/public/2022-02/British_Museum_entrance.jpg?h=65159a84&itok=KNCJDdbq 750w, /sites/default/files/styles/16_9_media_medium/public/2022-02/British_Museum_entrance.jpg?h=65159a84&itok=trzeahPN 1000w, /sites/default/files/styles/16_9_media_large/public/2022-02/British_Museum_entrance.jpg?h=65159a84&itok=Pihc7NNG 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-02/British_Museum_entrance.jpg?h=65159a84&itok=5yURizTg 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A photograph of the British Museum entrance during summer. "
+                                                    src="/images/ObjectTrail/image-06.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-02/British_Museum_entrance.jpg?h=65159a84&amp;itok=0ZA2tZYP
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-02/British_Museum_entrance.jpg?h=65159a84&amp;itok=KNCJDdbq
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-02/British_Museum_entrance.jpg?h=65159a84&amp;itok=trzeahPN
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-02/British_Museum_entrance.jpg?h=65159a84&amp;itok=Pihc7NNG
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-02/British_Museum_entrance.jpg?h=65159a84&amp;itok=5yURizTg
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-02/British_Museum_entrance.jpg?h=65159a84&amp;itok=KNCJDdbq"
-                                                    data-sizes="auto" alt="A
-                                                    photograph of the British
-                                                    Museum entrance during
-                                                    summer. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1196,30 +1057,8 @@ const ObjectTrail = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=U_eNoY0d"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=_Bqw6I4G 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=U_eNoY0d 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=U4tpowVi 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=YTC-_fKR 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=sEl5MEqJ 1600w"
-                                                    data-focal-position="center left"
-                                                    alt="Mother and daughter in Room 33"
+                                                    src="/images/ObjectTrail/image-07.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=_Bqw6I4G
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=U_eNoY0d
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=U4tpowVi
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=YTC-_fKR
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=sEl5MEqJ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=U_eNoY0d"
-                                                    data-sizes="auto"
-                                                    alt="Mother and daughter in
-                                                    Room 33" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1286,31 +1125,8 @@ const ObjectTrail = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=8Yu8MIIL"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=iIrIRVpH 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=8Yu8MIIL 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=4RNXu4iX 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=6m5b7UZs 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=aPcJHVsf 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Five visitors on a morning tour in the Enlightenment gallery."
+                                                    src="/images/ObjectTrail/image-08.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=iIrIRVpH
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=8Yu8MIIL
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=4RNXu4iX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=6m5b7UZs
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=aPcJHVsf
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=8Yu8MIIL"
-                                                    data-sizes="auto" alt="Five
-                                                    visitors on a morning tour
-                                                    in the Enlightenment
-                                                    gallery." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1350,29 +1166,8 @@ const ObjectTrail = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=Vhfx6a4i"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=jeh_DjHP 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=Vhfx6a4i 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=P4H-_Cf1 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=iSG58aG0 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=KHUHnMoP 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Cake"
+                                                    src="/images/ObjectTrail/image-09.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=jeh_DjHP
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=Vhfx6a4i
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=P4H-_Cf1
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=iSG58aG0
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=KHUHnMoP
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=Vhfx6a4i"
-                                                    data-sizes="auto" alt="Cake"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1412,31 +1207,8 @@ const ObjectTrail = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=FIEEj6-3"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=VesmonY6 400w, /sites/default/files/styles/16_9_media_small/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=FIEEj6-3 750w, /sites/default/files/styles/16_9_media_medium/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=9a0T-1VS 1000w, /sites/default/files/styles/16_9_media_large/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=83YbqkHM 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=PfrawZYl 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The Great Court and view of Reading Room at the centre."
+                                                    src="/images/ObjectTrail/image-10.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=VesmonY6
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=FIEEj6-3
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=9a0T-1VS
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=83YbqkHM
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=PfrawZYl
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=FIEEj6-3"
-                                                    data-sizes="auto" alt="The
-                                                    Great Court and view of
-                                                    Reading Room at the centre."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
