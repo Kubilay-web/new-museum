@@ -2904,31 +2904,8 @@ const Accessibility = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=IbbM3Aq- 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=xY1HpAuZ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=eL-unViS 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=gpQQNEw_ 1600w"
-                                                    data-focal-position="center right"
-                                                    alt="A wide shot of the Great Court with the roof and Reading Room in view"
+                                                    src="/images/Accessibility/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=IbbM3Aq-
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=xY1HpAuZ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=eL-unViS
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=gpQQNEw_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q"
-                                                    data-sizes="auto" alt="A
-                                                    wide shot of the Great Court
-                                                    with the roof and Reading
-                                                    Room in view" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2967,32 +2944,8 @@ const Accessibility = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=73k-AqJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=sOrwHw5e 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=IkIcINR5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=frHfjMMM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
+                                                    src="/images/Accessibility/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=73k-AqJa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=sOrwHw5e
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=IkIcINR5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=frHfjMMM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    alt="Procession of camels
-                                                    with lone figure leading in
-                                                    shadow against orange sky"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3030,29 +2983,8 @@ const Accessibility = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=Vhfx6a4i"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=jeh_DjHP 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=Vhfx6a4i 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=P4H-_Cf1 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=iSG58aG0 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=KHUHnMoP 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Cake"
+                                                    src="/images/Accessibility/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=jeh_DjHP
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=Vhfx6a4i
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=P4H-_Cf1
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=iSG58aG0
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=KHUHnMoP
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=Vhfx6a4i"
-                                                    data-sizes="auto" alt="Cake"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3092,30 +3024,8 @@ const Accessibility = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=pkWoTgf1"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=Zflk_4ST 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=pkWoTgf1 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=vy6ZdcUQ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=DlnYR_Xn 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&itok=nmsLAMOg 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A tour in the Egyptian Sculpture Gallery"
+                                                    src="/images/Accessibility/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=Zflk_4ST
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=pkWoTgf1
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=vy6ZdcUQ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=DlnYR_Xn
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=nmsLAMOg
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?h=acd6c095&amp;itok=pkWoTgf1"
-                                                    data-sizes="auto" alt="A
-                                                    tour in the Egyptian
-                                                    Sculpture Gallery" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
