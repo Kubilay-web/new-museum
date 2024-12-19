@@ -37,7 +37,7 @@ const Volunteer = () => {
         />
         <meta
           property="og:image"
-          content="images/Volunteer-China-Eye-Opener-Tour_1.jpg"
+          content="/images/Volunteer/Volunteer-China-Eye-Opener-Tour_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -82,24 +82,24 @@ const Volunteer = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Volunteer/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Volunteer/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Volunteer/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Volunteer/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -465,21 +465,21 @@ const Volunteer = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Volunteer-China-Eye-Opener-Tour_2.jpg 1x"
+                            srcSet="/images/Volunteer/Volunteer-China-Eye-Opener-Tour_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1067}
                           />
                           <source
-                            srcSet="images/Volunteer-China-Eye-Opener-Tour_1.jpg 1x"
+                            srcSet="/images/Volunteer/Volunteer-China-Eye-Opener-Tour_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={867}
                           />
                           <source
-                            srcSet="images/Volunteer-China-Eye-Opener-Tour_3.jpg 1x"
+                            srcSet="/images/Volunteer/Volunteer-China-Eye-Opener-Tour_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -491,7 +491,7 @@ const Volunteer = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Volunteer-China-Eye-Opener-Tour.jpg"
+                            src="/images/Volunteer/Volunteer-China-Eye-Opener-Tour.jpg"
                             alt="Volunteer explaining objects to a group of Museum visitors"
                           />
                         </picture>
@@ -897,11 +897,11 @@ const Volunteer = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Volunteer-Hands-On-Desk-Money_3.jpg 400w, images/Volunteer-Hands-On-Desk-Money_1.jpg 750w, images/Volunteer-Hands-On-Desk-Money_2.jpg 1000w"
+                                        srcSet="/images/Volunteer/Volunteer-Hands-On-Desk-Money_3.jpg 400w, /images/Volunteer/Volunteer-Hands-On-Desk-Money_1.jpg 750w, /images/Volunteer/Volunteer-Hands-On-Desk-Money_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Volunteer-Hands-On-Desk-Money.jpg"
+                                        src="/images/Volunteer/Volunteer-Hands-On-Desk-Money.jpg"
                                         alt="Volunteer explaining coin to group of Museum visitors"
                                       />
                                       <figcaption>
@@ -979,11 +979,11 @@ const Volunteer = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Volunteer-Community-preview-event_3.jpg 400w, images/Volunteer-Community-preview-event_2.jpg 750w, images/Volunteer-Community-preview-event_1.jpg 1000w"
+                                        srcSet="/images/Volunteer/Volunteer-Community-preview-event_3.jpg 400w, /images/Volunteer/Volunteer-Community-preview-event_2.jpg 750w, /images/Volunteer/Volunteer-Community-preview-event_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Volunteer-Community-preview-event.jpg"
+                                        src="/images/Volunteer/Volunteer-Community-preview-event.jpg"
                                         alt="Volunteer helping visitors in front of Museum building"
                                       />
                                       <figcaption>
@@ -1056,11 +1056,11 @@ const Volunteer = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Volunteer-Hands-On-Desk_1.jpg 400w, images/Volunteer-Hands-On-Desk_3.jpg 750w, images/Volunteer-Hands-On-Desk_2.jpg 1000w"
+                                        srcSet="/images/Volunteer/Volunteer-Hands-On-Desk_1.jpg 400w, /images/Volunteer/Volunteer-Hands-On-Desk_3.jpg 750w, /images/Volunteer/Volunteer-Hands-On-Desk_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Volunteer-Hands-On-Desk.jpg"
+                                        src="/images/Volunteer/Volunteer-Hands-On-Desk.jpg"
                                         alt="Boy holding object as Hands on desk"
                                       />
                                       <figcaption>
@@ -1123,11 +1123,11 @@ const Volunteer = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Volunteer-Behind-the-Scenes-Tour_1.jpg 400w, images/Volunteer-Behind-the-Scenes-Tour_3.jpg 750w, images/Volunteer-Behind-the-Scenes-Tour_2.jpg 1000w"
+                                        srcSet="/images/Volunteer/Volunteer-Behind-the-Scenes-Tour_1.jpg 400w, /images/Volunteer/Volunteer-Behind-the-Scenes-Tour_3.jpg 750w, /images/Volunteer/Volunteer-Behind-the-Scenes-Tour_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Volunteer-Behind-the-Scenes-Tour.jpg"
+                                        src="/images/Volunteer/Volunteer-Behind-the-Scenes-Tour.jpg"
                                         alt="Volunteer explaining object to Museum visitor"
                                       />
                                       <figcaption>
@@ -1190,11 +1190,11 @@ const Volunteer = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Volunteer-Eye-Opener-Tour_3.jpg 400w, images/Volunteer-Eye-Opener-Tour_2.jpg 750w, images/Volunteer-Eye-Opener-Tour_1.jpg 1000w"
+                                        srcSet="/images/Volunteer/Volunteer-Eye-Opener-Tour_3.jpg 400w, /images/Volunteer/Volunteer-Eye-Opener-Tour_2.jpg 750w, /images/Volunteer/Volunteer-Eye-Opener-Tour_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={501}
-                                        src="images/Volunteer-Eye-Opener-Tour.jpg"
+                                        src="/images/Volunteer/Volunteer-Eye-Opener-Tour.jpg"
                                         alt="Volunteer explaining object to a group of Museum visitors"
                                       />
                                       <figcaption>
@@ -1267,11 +1267,11 @@ const Volunteer = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Volunteer-Spolight-Tour_1.jpg 400w, images/Volunteer-Spolight-Tour_2.jpg 750w, images/Volunteer-Spolight-Tour_3.jpg 1000w"
+                                        srcSet="/images/Volunteer/Volunteer-Spolight-Tour_1.jpg 400w, /images/Volunteer/Volunteer-Spolight-Tour_2.jpg 750w, /images/Volunteer/Volunteer-Spolight-Tour_3.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Volunteer-Spolight-Tour.jpg"
+                                        src="/images/Volunteer/Volunteer-Spolight-Tour.jpg"
                                         alt="Volunteer talking to visitors in Enlightenment Gallery"
                                       />
                                       <figcaption>
@@ -1338,11 +1338,11 @@ const Volunteer = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Volunteer-LGBTQ-Tour_3.jpg 400w, images/Volunteer-LGBTQ-Tour_2.jpg 750w, images/Volunteer-LGBTQ-Tour_1.jpg 1000w"
+                                        srcSet="/images/Volunteer/Volunteer-LGBTQ-Tour_3.jpg 400w, /images/Volunteer/Volunteer-LGBTQ-Tour_2.jpg 750w, /images/Volunteer/Volunteer-LGBTQ-Tour_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Volunteer-LGBTQ-Tour.jpg"
+                                        src="/images/Volunteer/Volunteer-LGBTQ-Tour.jpg"
                                         alt="Volunteer giving Islamic World tour to group of Museum visitors"
                                       />
                                       <figcaption>
@@ -1410,11 +1410,11 @@ const Volunteer = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Volunteer-Touch-Tour_1.jpg 400w, images/Volunteer-Touch-Tour_3.jpg 750w, images/Volunteer-Touch-Tour_2.jpg 1000w"
+                                        srcSet="/images/Volunteer/Volunteer-Touch-Tour_1.jpg 400w, /images/Volunteer/Volunteer-Touch-Tour_3.jpg 750w, /images/Volunteer/Volunteer-Touch-Tour_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Volunteer-Touch-Tour.jpg"
+                                        src="/images/Volunteer/Volunteer-Touch-Tour.jpg"
                                         alt="Two people touching Egyptian sculpture"
                                       />
                                       <figcaption>

@@ -37,7 +37,7 @@ const YoungFriend = () => {
         />
         <meta
           property="og:image"
-          content="images/children-wearing-masks-sleepover_1.jpg"
+          content="/images/YoungFriend/children-wearing-masks-sleepover_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const YoungFriend = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/YoungFriend/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/YoungFriend/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/YoungFriend/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/YoungFriend/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const YoungFriend = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/children-wearing-masks-sleepover_2.jpg 1x"
+                            srcSet="/images/YoungFriend/children-wearing-masks-sleepover_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={904}
                           />
                           <source
-                            srcSet="images/children-wearing-masks-sleepover_1.jpg 1x"
+                            srcSet="/images/YoungFriend/children-wearing-masks-sleepover_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={735}
                           />
                           <source
-                            srcSet="images/children-wearing-masks-sleepover_3.jpg 1x"
+                            srcSet="/images/YoungFriend/children-wearing-masks-sleepover_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const YoungFriend = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/children-wearing-masks-sleepover.jpg"
+                            src="/images/YoungFriend/children-wearing-masks-sleepover.jpg"
                             alt="A big group of children at a Museum sleepover wearing masks they made themselves"
                           />
                         </picture>
@@ -544,7 +544,7 @@ const YoungFriend = () => {
                               <p>
                                 {" "}
                                 A group of children at a Museum sleepover
-                                wearing masks they made at the sleepover.�&nbsp;
+                                wearing masks they made at the sleepover.&nbsp;
                               </p>
                             </div>
                           </div>
@@ -1171,10 +1171,10 @@ const YoungFriend = () => {
                                           className="__cf_email__"
                                           data-cfemail="8ee8fce7ebe0eafdceecfce7fae7fde6e3fbfdebfbe3a0e1fce9"
                                         >
-                                          [email�&nbsp;protected]
+                                          [email&nbsp;protected]
                                         </span>
                                       </a>
-                                      .�&nbsp;�&nbsp;
+                                      .&nbsp;&nbsp;
                                     </p>
                                   </div>
                                 </div>
@@ -1211,7 +1211,7 @@ const YoungFriend = () => {
                                           className="__cf_email__"
                                           data-cfemail="61071308040f051221031308150812090c141204140c4f0e1306"
                                         >
-                                          [email�&nbsp;protected]
+                                          [email&nbsp;protected]
                                         </span>
                                       </a>
                                       <br />
@@ -1546,7 +1546,7 @@ const YoungFriend = () => {
                                   <span>+44 (0)20 7323 8000</span>
                                 </a>
                                 <br />
-                                �&nbsp;
+                                &nbsp;
                               </p>
                             </div>
                             <div
@@ -1567,7 +1567,7 @@ const YoungFriend = () => {
                               <p>
                                 Daily: 10.00–17.00 (Fridays: 20.30)
                                 <br />
-                                Last entry: 16.45�&nbsp;(Fridays: 20.15)
+                                Last entry: 16.45&nbsp;(Fridays: 20.15)
                               </p>
                             </div>
                           </div>

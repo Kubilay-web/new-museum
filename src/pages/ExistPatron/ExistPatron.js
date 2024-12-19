@@ -37,7 +37,7 @@ const ExistPatron = () => {
         />
         <meta
           property="og:image"
-          content="images/Hokusai_Patrons_visit_2021_1.jpg"
+          content="/images/ExistPatron/Hokusai_Patrons_visit_2021_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const ExistPatron = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/ExistPatron/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/ExistPatron/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/ExistPatron/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/ExistPatron/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const ExistPatron = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Hokusai_Patrons_visit_2021_2.jpg 1x"
+                            srcSet="/images/ExistPatron/Hokusai_Patrons_visit_2021_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1067}
                           />
                           <source
-                            srcSet="images/Hokusai_Patrons_visit_2021_1.jpg 1x"
+                            srcSet="/images/ExistPatron/Hokusai_Patrons_visit_2021_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={867}
                           />
                           <source
-                            srcSet="images/Hokusai_Patrons_visit_2021_3.jpg 1x"
+                            srcSet="/images/ExistPatron/Hokusai_Patrons_visit_2021_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const ExistPatron = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Hokusai_Patrons_visit_2021.jpg"
+                            src="/images/ExistPatron/Hokusai_Patrons_visit_2021.jpg"
                             alt="Two visitors in a gallery at the British Museum looking at a display."
                           />
                         </picture>
@@ -976,11 +976,11 @@ const ExistPatron = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/bm-magazine-1000_2.jpg 400w, images/bm-magazine-1000_3.jpg 750w, images/bm-magazine-1000_1.jpg 1000w"
+                                        srcSet="/images/ExistPatron/bm-magazine-1000_2.jpg 400w, /images/ExistPatron/bm-magazine-1000_3.jpg 750w, /images/ExistPatron/bm-magazine-1000_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/bm-magazine-1000.jpg"
+                                        src="/images/ExistPatron/bm-magazine-1000.jpg"
                                         alt="Eight covers of the British Museum Magazine."
                                       />
                                       <figcaption>
@@ -1060,11 +1060,11 @@ const ExistPatron = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Patrons_Open_House_2021_object_handeling_2.jpg 400w, images/Patrons_Open_House_2021_object_handeling_3.jpg 750w, images/Patrons_Open_House_2021_object_handeling_1.jpg 1000w"
+                                        srcSet="/images/ExistPatron/Patrons_Open_House_2021_object_handeling_2.jpg 400w, /images/ExistPatron/Patrons_Open_House_2021_object_handeling_3.jpg 750w, /images/ExistPatron/Patrons_Open_House_2021_object_handeling_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Patrons_Open_House_2021_object_handeling.jpg"
+                                        src="/images/ExistPatron/Patrons_Open_House_2021_object_handeling.jpg"
                                         alt="A person wearing blue gloves carefully holds a ancient cup."
                                       />
                                       <figcaption>
@@ -1098,7 +1098,7 @@ const ExistPatron = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Divine_creatures_x-ray_image_2.jpg"
+                                        src="/images/ExistPatron/Divine_creatures_x-ray_image_2.jpg"
                                         width={220}
                                         height={299}
                                         alt="An x-ray image of a cat."
@@ -1152,7 +1152,7 @@ const ExistPatron = () => {
                                     <div className="media media-listing_image media-image js-media">
                                       <img
                                         loading="lazy"
-                                        src="images/Furniture_mount_in_form_of_bust_of_Oceanus.jpg"
+                                        src="/images/ExistPatron/Furniture_mount_in_form_of_bust_of_Oceanus.jpg"
                                         width={220}
                                         height={133}
                                         alt="The head of a male figure lies on a flat green rectangular strip of metal."

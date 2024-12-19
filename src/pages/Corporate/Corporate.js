@@ -35,7 +35,10 @@ const Corporate = () => {
           property="og:description"
           content="Align your brand with the British Museum and enjoy an exclusive relationship with one of the world's best-loved museums."
         />
-        <meta property="og:image" content="images/event_default_1.png" />
+        <meta
+          property="og:image"
+          content="/images/Corporate/event_default_1.png"
+        />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
@@ -74,24 +77,24 @@ const Corporate = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Corporate/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Corporate/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Corporate/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Corporate/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -457,21 +460,21 @@ const Corporate = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/event_default_3.png 1x"
+                            srcSet="/images/Corporate/event_default_3.png 1x"
                             media="all and (min-width: 1440px)"
                             type="image/png"
                             width={1600}
                             height={1031}
                           />
                           <source
-                            srcSet="images/event_default_1.png 1x"
+                            srcSet="/images/Corporate/event_default_1.png 1x"
                             media="all and (min-width: 1024px)"
                             type="image/png"
                             width={1300}
                             height={838}
                           />
                           <source
-                            srcSet="images/event_default_2.png 1x"
+                            srcSet="/images/Corporate/event_default_2.png 1x"
                             media="all and (min-width: 768px)"
                             type="image/png"
                             width={1000}
@@ -483,7 +486,7 @@ const Corporate = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/event_default.png"
+                            src="/images/Corporate/event_default.png"
                             alt="Inside the Great Court at the British Museum"
                           />
                         </picture>

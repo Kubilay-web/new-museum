@@ -1596,7 +1596,7 @@ const AboutUs = () => {
                                   <span>+44 (0)20 7323 8000</span>
                                 </a>
                                 <br />
-                                �&nbsp;
+                                &nbsp;
                               </p>
                             </div>
                             <div
@@ -1617,7 +1617,7 @@ const AboutUs = () => {
                               <p>
                                 Daily: 10.00–17.00 (Fridays: 20.30)
                                 <br />
-                                Last entry: 16.45�&nbsp;(Fridays: 20.15)
+                                Last entry: 16.45&nbsp;(Fridays: 20.15)
                               </p>
                             </div>
                           </div>

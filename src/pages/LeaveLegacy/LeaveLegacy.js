@@ -37,7 +37,7 @@ const LeaveLegacy = () => {
         />
         <meta
           property="og:image"
-          content="images/Conservation-samurai-armour_1.jpg"
+          content="/images/LeaveLegacy/Conservation-samurai-armour_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const LeaveLegacy = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/LeaveLegacy/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/LeaveLegacy/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/LeaveLegacy/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/LeaveLegacy/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const LeaveLegacy = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Conservation-samurai-armour_2.jpg 1x"
+                            srcSet="/images/LeaveLegacy/Conservation-samurai-armour_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={870}
                           />
                           <source
-                            srcSet="images/Conservation-samurai-armour_1.jpg 1x"
+                            srcSet="/images/LeaveLegacy/Conservation-samurai-armour_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={707}
                           />
                           <source
-                            srcSet="images/Conservation-samurai-armour_3.jpg 1x"
+                            srcSet="/images/LeaveLegacy/Conservation-samurai-armour_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const LeaveLegacy = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Conservation-samurai-armour.jpg"
+                            src="/images/LeaveLegacy/Conservation-samurai-armour.jpg"
                             alt="Conservator caring for Samurai armour"
                           />
                         </picture>
@@ -853,11 +853,11 @@ const LeaveLegacy = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Lyte-Jewel-small_2.jpg 400w, images/Lyte-Jewel-small_3.jpg 750w, images/Lyte-Jewel-small_1.jpg 1000w"
+                                        srcSet="/images/LeaveLegacy/Lyte-Jewel-small_2.jpg 400w, /images/LeaveLegacy/Lyte-Jewel-small_3.jpg 750w, /images/LeaveLegacy/Lyte-Jewel-small_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Lyte-Jewel-small.jpg"
+                                        src="/images/LeaveLegacy/Lyte-Jewel-small.jpg"
                                         alt="Enamelled gold locket with portrait of a man and the letter 'R'"
                                       />
                                       <figcaption>
@@ -943,11 +943,11 @@ const LeaveLegacy = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/scott_624_2.jpg 400w, images/scott_624_1.jpg 624w"
+                                        srcSet="/images/LeaveLegacy/scott_624_2.jpg 400w, /images/LeaveLegacy/scott_624_1.jpg 624w"
                                         sizes="100vw"
                                         width={624}
                                         height={351}
-                                        src="images/scott_624.jpg"
+                                        src="/images/LeaveLegacy/scott_624.jpg"
                                         alt="Two sides of gold medal"
                                       />
                                       <figcaption>
@@ -1015,11 +1015,11 @@ const LeaveLegacy = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Conservator-cleaning-Parthenon-Metope_0_2.jpg 400w, images/Conservator-cleaning-Parthenon-Metope_0_3.jpg 750w, images/Conservator-cleaning-Parthenon-Metope_0_1.jpg 1000w"
+                                        srcSet="/images/LeaveLegacy/Conservator-cleaning-Parthenon-Metope_0_2.jpg 400w, /images/LeaveLegacy/Conservator-cleaning-Parthenon-Metope_0_3.jpg 750w, /images/LeaveLegacy/Conservator-cleaning-Parthenon-Metope_0_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={501}
-                                        src="images/Conservator-cleaning-Parthenon-Metope_0.jpg"
+                                        src="/images/LeaveLegacy/Conservator-cleaning-Parthenon-Metope_0.jpg"
                                         alt="Woman cleaning Parthenon metope"
                                       />
                                       <figcaption>

@@ -37,7 +37,7 @@ const Donate = () => {
         />
         <meta
           property="og:image"
-          content="images/assyrian-relief-sculpture-1920_1.jpg"
+          content="/images/Donate/assyrian-relief-sculpture-1920_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const Donate = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Donate/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Donate/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Donate/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Donate/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const Donate = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/assyrian-relief-sculpture-1920_3.jpg 1x"
+                            srcSet="/images/Donate/assyrian-relief-sculpture-1920_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/assyrian-relief-sculpture-1920_1.jpg 1x"
+                            srcSet="/images/Donate/assyrian-relief-sculpture-1920_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/assyrian-relief-sculpture-1920_2.jpg 1x"
+                            srcSet="/images/Donate/assyrian-relief-sculpture-1920_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const Donate = () => {
                             width={750}
                             height={750}
                             data-focal-position="top center"
-                            src="images/assyrian-relief-sculpture-1920.jpg"
+                            src="/images/Donate/assyrian-relief-sculpture-1920.jpg"
                             alt="Visitor looking at Neo-Assyrian relief sculpture"
                           />
                         </picture>
@@ -782,11 +782,11 @@ const Donate = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Dust_sampling_Great_Court_1000x500_3.jpg 400w, images/Dust_sampling_Great_Court_1000x500_1.jpg 750w, images/Dust_sampling_Great_Court_1000x500_2.jpg 1000w"
+                                        srcSet="/images/Donate/Dust_sampling_Great_Court_1000x500_3.jpg 400w, /images/Donate/Dust_sampling_Great_Court_1000x500_1.jpg 750w, /images/Donate/Dust_sampling_Great_Court_1000x500_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Dust_sampling_Great_Court_1000x500.jpg"
+                                        src="/images/Donate/Dust_sampling_Great_Court_1000x500.jpg"
                                         alt="Collection staff member picks up a dust sampling slide from the base of a totem pole in the Great Court using a reach extender tool."
                                       />
                                       <figcaption>
@@ -830,11 +830,11 @@ const Donate = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Coffin_of_Muthotep_conservation_1000x500_3.jpg 400w, images/Coffin_of_Muthotep_conservation_1000x500_1.jpg 750w, images/Coffin_of_Muthotep_conservation_1000x500_2.jpg 1000w"
+                                        srcSet="/images/Donate/Coffin_of_Muthotep_conservation_1000x500_3.jpg 400w, /images/Donate/Coffin_of_Muthotep_conservation_1000x500_1.jpg 750w, /images/Donate/Coffin_of_Muthotep_conservation_1000x500_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Coffin_of_Muthotep_conservation_1000x500.jpg"
+                                        src="/images/Donate/Coffin_of_Muthotep_conservation_1000x500.jpg"
                                         alt="A conservator bending over to work closely on a coffin lid, placed on work table within conservation studio."
                                       />
                                       <figcaption>
@@ -880,11 +880,11 @@ const Donate = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Volunteer-Hands-On-Desk_3.jpg 400w, images/Volunteer-Hands-On-Desk_1.jpg 750w, images/Volunteer-Hands-On-Desk_2.jpg 1000w"
+                                        srcSet="/images/Donate/Volunteer-Hands-On-Desk_3.jpg 400w, /images/Donate/Volunteer-Hands-On-Desk_1.jpg 750w, /images/Donate/Volunteer-Hands-On-Desk_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Volunteer-Hands-On-Desk.jpg"
+                                        src="/images/Donate/Volunteer-Hands-On-Desk.jpg"
                                         alt="Boy holding object as Hands on desk"
                                       />
                                       <figcaption>

@@ -37,7 +37,7 @@ const Patrons = () => {
         />
         <meta
           property="og:image"
-          content="images/Troy_Patrons_private_view_2019_British_Museum_1.jpg"
+          content="/images/Patrons/Troy_Patrons_private_view_2019_British_Museum_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const Patrons = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Patrons/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Patrons/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Patrons/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Patrons/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const Patrons = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Troy_Patrons_private_view_2019_British_Museum_3.jpg 1x"
+                            srcSet="/images/Patrons/Troy_Patrons_private_view_2019_British_Museum_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1067}
                           />
                           <source
-                            srcSet="images/Troy_Patrons_private_view_2019_British_Museum_1.jpg 1x"
+                            srcSet="/images/Patrons/Troy_Patrons_private_view_2019_British_Museum_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={867}
                           />
                           <source
-                            srcSet="images/Troy_Patrons_private_view_2019_British_Museum_2.jpg 1x"
+                            srcSet="/images/Patrons/Troy_Patrons_private_view_2019_British_Museum_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const Patrons = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Troy_Patrons_private_view_2019_British_Museum.jpg"
+                            src="/images/Patrons/Troy_Patrons_private_view_2019_British_Museum.jpg"
                             alt="A group of visitors listening to a presenter in front of a white-light display."
                           />
                         </picture>
@@ -898,11 +898,11 @@ const Patrons = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Patrons_Open_House_2021_3.jpg 400w, images/Patrons_Open_House_2021_1.jpg 750w, images/Patrons_Open_House_2021_2.jpg 1000w"
+                                        srcSet="/images/Patrons/Patrons_Open_House_2021_3.jpg 400w, /images/Patrons/Patrons_Open_House_2021_1.jpg 750w, /images/Patrons/Patrons_Open_House_2021_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Patrons_Open_House_2021.jpg"
+                                        src="/images/Patrons/Patrons_Open_House_2021.jpg"
                                         alt="A Museum curator speaks to a group over over 20 people from a gallery in the Musuem."
                                       />
                                       <figcaption>
@@ -1244,11 +1244,11 @@ const Patrons = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Special-Interest-Group-event_1.jpg 400w, images/Special-Interest-Group-event_3.jpg 750w, images/Special-Interest-Group-event_2.jpg 1000w"
+                                        srcSet="/images/Patrons/Special-Interest-Group-event_1.jpg 400w, /images/Patrons/Special-Interest-Group-event_3.jpg 750w, /images/Patrons/Special-Interest-Group-event_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Special-Interest-Group-event.jpg"
+                                        src="/images/Patrons/Special-Interest-Group-event.jpg"
                                         alt="Woman browsing prints and drawings"
                                       />
                                       <figcaption>

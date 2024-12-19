@@ -37,7 +37,7 @@ const ExistingMember = () => {
         />
         <meta
           property="og:image"
-          content="images/Members-glass-case-1000x681.jpg"
+          content="/images/ExistingMember/Members-glass-case-1000x681.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const ExistingMember = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/ExistingMember/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/ExistingMember/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/ExistingMember/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/ExistingMember/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const ExistingMember = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Membership-event-glass-case-1920x1079_3.jpg 1x"
+                            srcSet="/images/ExistingMember/Membership-event-glass-case-1920x1079_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={899}
                           />
                           <source
-                            srcSet="images/Membership-event-glass-case-1920x1079_2.jpg 1x"
+                            srcSet="/images/ExistingMember/Membership-event-glass-case-1920x1079_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/Membership-event-glass-case-1920x1079_1.jpg 1x"
+                            srcSet="/images/ExistingMember/Membership-event-glass-case-1920x1079_1.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const ExistingMember = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Membership-event-glass-case-1920x1079.jpg"
+                            src="/images/ExistingMember/Membership-event-glass-case-1920x1079.jpg"
                             alt="Two Members looking into a glass case."
                           />
                         </picture>
@@ -832,11 +832,11 @@ const ExistingMember = () => {
                                       className="__cf_email__"
                                       data-cfemail="8fe9fde6eae1ebfccfedfde6fbe6fce7e2fafceafae2a1e0fde8"
                                     >
-                                      [email�&nbsp;protected]
+                                      [email&nbsp;protected]
                                     </span>
                                   </span>
                                 </a>
-                                <span>�&nbsp;</span>
+                                <span>&nbsp;</span>
                               </p>
                             </div>
                           </div>
@@ -1478,7 +1478,7 @@ const ExistingMember = () => {
                                           className="__cf_email__"
                                           data-cfemail="0462766d616a60774466766d706d776c6971776171692a6b7663"
                                         >
-                                          [email�&nbsp;protected]
+                                          [email&nbsp;protected]
                                         </span>
                                       </a>
                                       <br />
@@ -1502,7 +1502,7 @@ const ExistingMember = () => {
                                       >
                                         Membership FAQs
                                       </a>{" "}
-                                      for the latest information.�&nbsp;
+                                      for the latest information.&nbsp;
                                     </p>
                                   </div>
                                 </div>
@@ -1813,7 +1813,7 @@ const ExistingMember = () => {
                                   <span>+44 (0)20 7323 8000</span>
                                 </a>
                                 <br />
-                                �&nbsp;
+                                &nbsp;
                               </p>
                             </div>
                             <div
@@ -1834,7 +1834,7 @@ const ExistingMember = () => {
                               <p>
                                 Daily: 10.00–17.00 (Fridays: 20.30)
                                 <br />
-                                Last entry: 16.45�&nbsp;(Fridays: 20.15)
+                                Last entry: 16.45&nbsp;(Fridays: 20.15)
                               </p>
                             </div>
                           </div>

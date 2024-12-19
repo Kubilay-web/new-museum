@@ -34,7 +34,7 @@ const Membership = () => {
         />
         <meta
           property="og:image"
-          content="images/lewis-chessmen-carved-scotland-british-museum.jpg"
+          content="/images/Membership/lewis-chessmen-carved-scotland-british-museum.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -74,24 +74,24 @@ const Membership = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Membership/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Membership/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Membership/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Membership/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -458,21 +458,21 @@ const Membership = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Membership_Christmas_1920_1080_1.jpg 1x"
+                            srcSet="/images/Membership/Membership_Christmas_1920_1080_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/Membership_Christmas_1920_1080_3.jpg 1x"
+                            srcSet="/images/Membership/Membership_Christmas_1920_1080_3.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/Membership_Christmas_1920_1080_2.jpg 1x"
+                            srcSet="/images/Membership/Membership_Christmas_1920_1080_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -484,7 +484,7 @@ const Membership = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Membership_Christmas_1920_1080.jpg"
+                            src="/images/Membership/Membership_Christmas_1920_1080.jpg"
                             alt="Illustration of a winter scene showing trees and a few sloped rooves covered in snow."
                           />
                         </picture>
@@ -715,7 +715,7 @@ const Membership = () => {
                               <p>
                                 Discover two million years of history and
                                 culture from £74 a year, with discounts for
-                                those aged under 26.�&nbsp;
+                                those aged under 26.&nbsp;
                                 <br />
                                 <br />
                                 All our Membership options can be gifted, so
@@ -1490,7 +1490,7 @@ const Membership = () => {
                                           className="__cf_email__"
                                           data-cfemail="9afce8f3fff4fee9daf8e8f3eef3e9f2f7efe9ffeff7b4f5e8fd"
                                         >
-                                          [email�&nbsp;protected]
+                                          [email&nbsp;protected]
                                         </span>
                                       </a>
                                       <br />
@@ -1825,7 +1825,7 @@ const Membership = () => {
                                   <span>+44 (0)20 7323 8000</span>
                                 </a>
                                 <br />
-                                �&nbsp;
+                                &nbsp;
                               </p>
                             </div>
                             <div
@@ -1846,7 +1846,7 @@ const Membership = () => {
                               <p>
                                 Daily: 10.00–17.00 (Fridays: 20.30)
                                 <br />
-                                Last entry: 16.45�&nbsp;(Fridays: 20.15)
+                                Last entry: 16.45&nbsp;(Fridays: 20.15)
                               </p>
                             </div>
                           </div>
