@@ -34,7 +34,7 @@ const Commercial = () => {
         />
         <meta
           property="og:image"
-          content="images/Egyptian-sculpture-gallery-entertaining.jpg"
+          content="/images/Commercial/Egyptian-sculpture-gallery-entertaining.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -74,24 +74,24 @@ const Commercial = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Commercial/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Commercial/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Commercial/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Commercial/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -457,21 +457,21 @@ const Commercial = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Egyptian-sculpture-gallery-entertaining2_3.jpg 1x"
+                            srcSet="/images/Commercial/Egyptian-sculpture-gallery-entertaining2_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1066}
                           />
                           <source
-                            srcSet="images/Egyptian-sculpture-gallery-entertaining2_1.jpg 1x"
+                            srcSet="/images/Commercial/Egyptian-sculpture-gallery-entertaining2_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={866}
                           />
                           <source
-                            srcSet="images/Egyptian-sculpture-gallery-entertaining2_2.jpg 1x"
+                            srcSet="/images/Commercial/Egyptian-sculpture-gallery-entertaining2_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -483,7 +483,7 @@ const Commercial = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Egyptian-sculpture-gallery-entertaining2.jpg"
+                            src="/images/Commercial/Egyptian-sculpture-gallery-entertaining2.jpg"
                             alt="Candlelight table setting in Egyptian sculpture gallery"
                           />
                         </picture>

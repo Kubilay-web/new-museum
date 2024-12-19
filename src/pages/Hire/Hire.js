@@ -35,7 +35,7 @@ const Hire = () => {
           property="og:description"
           content="The Museum's public galleries are complemented with a suite of contemporary conference facilities."
         />
-        <meta property="og:image" content="images/4Q5A0560_1.jpg" />
+        <meta property="og:image" content="/images/Hire/4Q5A0560_1.jpg" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
@@ -74,24 +74,24 @@ const Hire = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Hire/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Hire/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Hire/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Hire/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -457,21 +457,21 @@ const Hire = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/4Q5A0560_2.jpg 1x"
+                            srcSet="/images/Hire/4Q5A0560_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1382}
                             height={922}
                           />
                           <source
-                            srcSet="images/4Q5A0560_1.jpg 1x"
+                            srcSet="/images/Hire/4Q5A0560_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={867}
                           />
                           <source
-                            srcSet="images/4Q5A0560_3.jpg 1x"
+                            srcSet="/images/Hire/4Q5A0560_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -483,7 +483,7 @@ const Hire = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/4Q5A0560.jpg"
+                            src="/images/Hire/4Q5A0560.jpg"
                             alt="The BP Theatre"
                           />
                         </picture>
@@ -852,11 +852,11 @@ const Hire = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/British_Museum_Event_Spaces_1000x600_0_2.jpg 400w, images/British_Museum_Event_Spaces_1000x600_0_3.jpg 750w, images/British_Museum_Event_Spaces_1000x600_0_1.jpg 1000w"
+                                        srcSet="/images/Hire/British_Museum_Event_Spaces_1000x600_0_2.jpg 400w, /images/Hire/British_Museum_Event_Spaces_1000x600_0_3.jpg 750w, /images/Hire/British_Museum_Event_Spaces_1000x600_0_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/British_Museum_Event_Spaces_1000x600_0.jpg"
+                                        src="/images/Hire/British_Museum_Event_Spaces_1000x600_0.jpg"
                                         alt="An event at the British Museum arranged through the Commercial Hire team"
                                       />
                                       <figcaption>
@@ -2024,11 +2024,11 @@ const Hire = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/rubber-ducks_0_2.jpg 400w, images/rubber-ducks_0_3.jpg 750w, images/rubber-ducks_0_1.jpg 1000w"
+                                        srcSet="/images/Hire/rubber-ducks_0_2.jpg 400w, /images/Hire/rubber-ducks_0_3.jpg 750w, /images/Hire/rubber-ducks_0_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/rubber-ducks_0.jpg"
+                                        src="/images/Hire/rubber-ducks_0.jpg"
                                         alt="Bespoke British Museum rubber ducks"
                                       />
                                       <figcaption>

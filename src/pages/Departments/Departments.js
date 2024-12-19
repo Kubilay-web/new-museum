@@ -35,7 +35,10 @@ const Departments = () => {
           property="og:description"
           content="Find out how our Museum departments work with, research and care for the collection and about the research facilities that are available."
         />
-        <meta property="og:image" content="images/Arched_room_1000x500.jpg" />
+        <meta
+          property="og:image"
+          content="/images/Departments/Arched_room_1000x500.jpg"
+        />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
@@ -74,24 +77,24 @@ const Departments = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Departments/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Departments/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Departments/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Departments/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -448,21 +451,21 @@ const Departments = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/arched-room_1.jpg 1x"
+                            srcSet="/images/Departments/arched-room_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={2412}
                           />
                           <source
-                            srcSet="images/arched-room_2.jpg 1x"
+                            srcSet="/images/Departments/arched-room_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={1960}
                           />
                           <source
-                            srcSet="images/arched-room_3.jpg 1x"
+                            srcSet="/images/Departments/arched-room_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -474,7 +477,7 @@ const Departments = () => {
                             width={750}
                             height={750}
                             data-focal-position="bottom center"
-                            src="images/arched-room.jpg"
+                            src="/images/Departments/arched-room.jpg"
                             alt="Arched Room, British Museum"
                           />
                         </picture>

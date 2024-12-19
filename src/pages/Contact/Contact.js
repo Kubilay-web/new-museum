@@ -37,7 +37,7 @@ const Contact = () => {
         />
         <meta
           property="og:image"
-          content="images/R95%2010_Korea%20Hotung%20ceramics_1.jpg"
+          content="/images/Contact/R95%2010_Korea%20Hotung%20ceramics_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -82,24 +82,24 @@ const Contact = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Contact/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Contact/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Contact/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Contact/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -465,21 +465,21 @@ const Contact = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/R95%2010_Korea%20Hotung%20ceramics_3.jpg 1x"
+                            srcSet="/images/Contact/R95%2010_Korea%20Hotung%20ceramics_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={800}
                           />
                           <source
-                            srcSet="images/R95%2010_Korea%20Hotung%20ceramics_1.jpg 1x"
+                            srcSet="/images/Contact/R95%2010_Korea%20Hotung%20ceramics_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={650}
                           />
                           <source
-                            srcSet="images/R95%2010_Korea%20Hotung%20ceramics_2.jpg 1x"
+                            srcSet="/images/Contact/R95%2010_Korea%20Hotung%20ceramics_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -491,7 +491,7 @@ const Contact = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/R95%2010_Korea%20Hotung%20ceramics.jpg"
+                            src="/images/Contact/R95%2010_Korea%20Hotung%20ceramics.jpg"
                             alt="Visitors in Room 95"
                           />
                         </picture>

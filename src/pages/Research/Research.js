@@ -34,7 +34,7 @@ const Research = () => {
         />
         <meta
           property="og:image"
-          content="images/Multi-Spectral-Imaging_1.jpg"
+          content="/images/Research/Multi-Spectral-Imaging_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -74,24 +74,24 @@ const Research = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Research/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Research/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Research/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Research/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -457,21 +457,21 @@ const Research = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Multi-Spectral-Imaging_3.jpg 1x"
+                            srcSet="/images/Research/Multi-Spectral-Imaging_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/Multi-Spectral-Imaging_1.jpg 1x"
+                            srcSet="/images/Research/Multi-Spectral-Imaging_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/Multi-Spectral-Imaging_2.jpg 1x"
+                            srcSet="/images/Research/Multi-Spectral-Imaging_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -483,7 +483,7 @@ const Research = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Multi-Spectral-Imaging.jpg"
+                            src="/images/Research/Multi-Spectral-Imaging.jpg"
                             alt="On person with camera, another observing"
                           />
                         </picture>

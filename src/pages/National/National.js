@@ -37,7 +37,7 @@ const National = () => {
         />
         <meta
           property="og:image"
-          content="images/Hieroglyphs_at_Ferens_Art_Gallery_Hull_1.jpg"
+          content="/images/National/Hieroglyphs_at_Ferens_Art_Gallery_Hull_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const National = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/National/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/National/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/National/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/National/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const National = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Hieroglyphs_at_Ferens_Art_Gallery_Hull_2.jpg 1x"
+                            srcSet="/images/National/Hieroglyphs_at_Ferens_Art_Gallery_Hull_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/Hieroglyphs_at_Ferens_Art_Gallery_Hull_1.jpg 1x"
+                            srcSet="/images/National/Hieroglyphs_at_Ferens_Art_Gallery_Hull_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/Hieroglyphs_at_Ferens_Art_Gallery_Hull_3.jpg 1x"
+                            srcSet="/images/National/Hieroglyphs_at_Ferens_Art_Gallery_Hull_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const National = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg"
+                            src="/images/National/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg"
                             alt="A group of school children watching a museum guide talk about a large hieroglyphs panels"
                           />
                         </picture>

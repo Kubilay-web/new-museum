@@ -37,7 +37,7 @@ const Jobs = () => {
         />
         <meta
           property="og:image"
-          content="images/Museum_great_court_teaser_1000x500.jpg"
+          content="/images/Jobs/Museum_great_court_teaser_1000x500.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const Jobs = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Jobs/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Jobs/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Jobs/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Jobs/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const Jobs = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/BMImages_01613552871_SuperRes%20%281%29_2.jpg 1x"
+                            srcSet="/images/Jobs/BMImages_01613552871_SuperRes%20%281%29_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1082}
                           />
                           <source
-                            srcSet="images/BMImages_01613552871_SuperRes%20%281%29_1.jpg 1x"
+                            srcSet="/images/Jobs/BMImages_01613552871_SuperRes%20%281%29_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={879}
                           />
                           <source
-                            srcSet="images/BMImages_01613552871_SuperRes%20%281%29_3.jpg 1x"
+                            srcSet="/images/Jobs/BMImages_01613552871_SuperRes%20%281%29_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const Jobs = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/BMImages_01613552871_SuperRes%20%281%29.jpg"
+                            src="/images/Jobs/BMImages_01613552871_SuperRes%20%281%29.jpg"
                             alt="Wide scale photo of the Great Court "
                           />
                         </picture>

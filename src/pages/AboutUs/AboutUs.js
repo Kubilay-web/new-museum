@@ -34,7 +34,7 @@ const AboutUs = () => {
         />
         <meta
           property="og:image"
-          content="images/eating-outside-british-museum1000x500.jpg"
+          content="/images/AboutUs/eating-outside-british-museum1000x500.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -68,24 +68,24 @@ const AboutUs = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/AboutUs/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/AboutUs/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/AboutUs/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/AboutUs/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -451,21 +451,21 @@ const AboutUs = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/07-11-2019%2012.05.03_2.jpg 1x"
+                            srcSet="/images/AboutUs/07-11-2019%2012.05.03_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1299}
                           />
                           <source
-                            srcSet="images/07-11-2019%2012.05.03_1.jpg 1x"
+                            srcSet="/images/AboutUs/07-11-2019%2012.05.03_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={1056}
                           />
                           <source
-                            srcSet="images/07-11-2019%2012.05.03_3.jpg 1x"
+                            srcSet="/images/AboutUs/07-11-2019%2012.05.03_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -477,7 +477,7 @@ const AboutUs = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/07-11-2019%2012.05.03.jpg"
+                            src="/images/AboutUs/07-11-2019%2012.05.03.jpg"
                             alt="Facade of Montagu House, looking across the forecourt, later the British Museum; a fountain in foreground, statues, shrubbery and lawned areas in forecourt; state before publication line. c.1715 Etching and engraving"
                           />
                         </picture>

@@ -37,7 +37,7 @@ const Publications = () => {
         />
         <meta
           property="og:image"
-          content="images/Owl_engraved_print_teaser.jpg"
+          content="/images/Publications/Owl_engraved_print_teaser.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -77,24 +77,24 @@ const Publications = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Publications/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Publications/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Publications/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Publications/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -460,21 +460,21 @@ const Publications = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Owl-engraved-print-1920x1080_2.jpg 1x"
+                            srcSet="/images/Publications/Owl-engraved-print-1920x1080_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/Owl-engraved-print-1920x1080_1.jpg 1x"
+                            srcSet="/images/Publications/Owl-engraved-print-1920x1080_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/Owl-engraved-print-1920x1080_3.jpg 1x"
+                            srcSet="/images/Publications/Owl-engraved-print-1920x1080_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -486,7 +486,7 @@ const Publications = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Owl-engraved-print-1920x1080.jpg"
+                            src="/images/Publications/Owl-engraved-print-1920x1080.jpg"
                             alt="An owl wearing glasses, perched on a book, open book to one side with candle on top. Black and white."
                           />
                         </picture>
@@ -1102,11 +1102,11 @@ const Publications = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="images/Legion%20catalogue%20480x480_2.jpg 400w, images/Legion%20catalogue%20480x480_1.jpg 480w"
+                                                    srcSet="/images/Publications/Legion%20catalogue%20480x480_2.jpg 400w, /images/Publications/Legion%20catalogue%20480x480_1.jpg 480w"
                                                     sizes="100vw"
                                                     width={480}
                                                     height={480}
-                                                    src="images/Legion%20catalogue%20480x480.jpg"
+                                                    src="/images/Publications/Legion%20catalogue%20480x480.jpg"
                                                     alt="A book cover with a bronze helmet in the dirt and a dramatic night sky behind with the words Legion life in the Roman army on it and the British Museum logo"
                                                   />
                                                 </div>
@@ -1141,11 +1141,11 @@ const Publications = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="images/salon_culture_in_japan_cover_3.jpg 400w, images/salon_culture_in_japan_cover_4.jpg 750w, images/salon_culture_in_japan_cover_1.jpg 1000w, images/salon_culture_in_japan_cover_2.jpg 1200w"
+                                                    srcSet="/images/Publications/salon_culture_in_japan_cover_3.jpg 400w, /images/Publications/salon_culture_in_japan_cover_4.jpg 750w, /images/Publications/salon_culture_in_japan_cover_1.jpg 1000w, /images/Publications/salon_culture_in_japan_cover_2.jpg 1200w"
                                                     sizes="100vw"
                                                     width={1200}
                                                     height={1200}
-                                                    src="images/salon_culture_in_japan_cover.jpg"
+                                                    src="/images/Publications/salon_culture_in_japan_cover.jpg"
                                                     alt="A book cover with two colourful birds on a branch"
                                                   />
                                                 </div>
@@ -1180,11 +1180,11 @@ const Publications = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="images/late_hokusai_book_cover_2.jpg 400w, images/late_hokusai_book_cover_1.jpg 480w"
+                                                    srcSet="/images/Publications/late_hokusai_book_cover_2.jpg 400w, /images/Publications/late_hokusai_book_cover_1.jpg 480w"
                                                     sizes="100vw"
                                                     width={480}
                                                     height={480}
-                                                    src="images/late_hokusai_book_cover.jpg"
+                                                    src="/images/Publications/late_hokusai_book_cover.jpg"
                                                     alt="Late Hokusai: Society, Thought, Technique, Legacy book cover"
                                                   />
                                                 </div>
@@ -1222,11 +1222,11 @@ const Publications = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="images/greek-and-roman-medicine-book-cover_1.jpg 400w, images/greek-and-roman-medicine-book-cover_3.jpg 750w, images/greek-and-roman-medicine-book-cover_2.jpg 1000w, images/greek-and-roman-medicine-book-cover_4.jpg 1200w"
+                                                    srcSet="/images/Publications/greek-and-roman-medicine-book-cover_1.jpg 400w, /images/Publications/greek-and-roman-medicine-book-cover_3.jpg 750w, /images/Publications/greek-and-roman-medicine-book-cover_2.jpg 1000w, /images/Publications/greek-and-roman-medicine-book-cover_4.jpg 1200w"
                                                     sizes="100vw"
                                                     width={1200}
                                                     height={1200}
-                                                    src="images/greek-and-roman-medicine-book-cover.jpg"
+                                                    src="/images/Publications/greek-and-roman-medicine-book-cover.jpg"
                                                     alt="Book cover with image of stone relief depicting seated man and standing boy"
                                                   />
                                                 </div>

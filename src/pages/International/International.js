@@ -41,7 +41,7 @@ const International = () => {
         />
         <meta
           property="og:image"
-          content="images/Asante_ceremonial_cap_1000x500.jpg"
+          content="/images/International/Asante_ceremonial_cap_1000x500.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -81,24 +81,24 @@ const International = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/International/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/International/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/International/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/International/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -464,21 +464,21 @@ const International = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Asante_ceremonial_cap_1920x1080_1.jpg 1x"
+                            srcSet="/images/International/Asante_ceremonial_cap_1920x1080_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/Asante_ceremonial_cap_1920x1080_2.jpg 1x"
+                            srcSet="/images/International/Asante_ceremonial_cap_1920x1080_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/Asante_ceremonial_cap_1920x1080_3.jpg 1x"
+                            srcSet="/images/International/Asante_ceremonial_cap_1920x1080_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -490,7 +490,7 @@ const International = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Asante_ceremonial_cap_1920x1080.jpg"
+                            src="/images/International/Asante_ceremonial_cap_1920x1080.jpg"
                             alt="Ceremonial cap made of hide, adorned with gold details, including golden horns, golden badges of faces, and raised flaps with fur at each end"
                           />
                         </picture>

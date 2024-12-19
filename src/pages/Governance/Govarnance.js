@@ -37,7 +37,7 @@ const Govarnance = () => {
         />
         <meta
           property="og:image"
-          content="images/British-Museum-Front-Day.jpg"
+          content="/images/Governance/British-Museum-Front-Day.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -82,24 +82,24 @@ const Govarnance = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Governance/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Governance/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Governance/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Governance/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -465,21 +465,21 @@ const Govarnance = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/British-Musuem-front_1.jpg 1x"
+                            srcSet="/images/Governance/British-Musuem-front_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/British-Musuem-front_3.jpg 1x"
+                            srcSet="/images/Governance/British-Musuem-front_3.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/British-Musuem-front_2.jpg 1x"
+                            srcSet="/images/Governance/British-Musuem-front_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -491,7 +491,7 @@ const Govarnance = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/British-Musuem-front.jpg"
+                            src="/images/Governance/British-Musuem-front.jpg"
                             alt="Front of British Museum during the day"
                           />
                         </picture>
@@ -806,11 +806,11 @@ const Govarnance = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Kings-Library_2.jpg 400w, images/Kings-Library_3.jpg 750w, images/Kings-Library_1.jpg 1000w"
+                                        srcSet="/images/Governance/Kings-Library_2.jpg 400w, /images/Governance/Kings-Library_3.jpg 750w, /images/Governance/Kings-Library_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Kings-Library.jpg"
+                                        src="/images/Governance/Kings-Library.jpg"
                                         alt="Drawing of the King's Library with visitors"
                                       />
                                       <figcaption>
@@ -3179,11 +3179,11 @@ const Govarnance = () => {
                                         <img
                                           loading="eager"
                                           className="lazyload not-full-width"
-                                          srcSet="images/Dr_Nicholas_Cullinan_1000x858_1.jpg 400w, images/Dr_Nicholas_Cullinan_1000x858_2.jpg 750w, images/Dr_Nicholas_Cullinan_1000x858_3.jpg 1000w"
+                                          srcSet="/images/Governance/Dr_Nicholas_Cullinan_1000x858_1.jpg 400w, /images/Governance/Dr_Nicholas_Cullinan_1000x858_2.jpg 750w, /images/Governance/Dr_Nicholas_Cullinan_1000x858_3.jpg 1000w"
                                           sizes="100vw"
                                           width={1000}
                                           height={858}
-                                          src="images/Dr_Nicholas_Cullinan_1000x858.jpg"
+                                          src="/images/Governance/Dr_Nicholas_Cullinan_1000x858.jpg"
                                           alt="Headshot of Dr Nicholas Cullinan OBE wearing a suit and tie."
                                         />
                                         <figcaption>

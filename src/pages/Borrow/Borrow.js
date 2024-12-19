@@ -40,7 +40,7 @@ const Borrow = () => {
         />
         <meta
           property="og:image"
-          content="images/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%252C%20British%20Musem_1.jpg"
+          content="/images/Borrow/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%252C%20British%20Musem_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -83,24 +83,24 @@ const Borrow = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Borrow/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Borrow/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Borrow/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Borrow/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -466,21 +466,21 @@ const Borrow = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%252C%20British%20Musem_2.jpg 1x"
+                            srcSet="/images/Borrow/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%252C%20British%20Musem_2.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1000}
                             height={500}
                           />
                           <source
-                            srcSet="images/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%252C%20British%20Musem_1.jpg 1x"
+                            srcSet="/images/Borrow/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%252C%20British%20Musem_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1000}
                             height={500}
                           />
                           <source
-                            srcSet="images/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%252C%20British%20Musem_3.jpg 1x"
+                            srcSet="/images/Borrow/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%252C%20British%20Musem_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -492,7 +492,7 @@ const Borrow = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%252C%20British%20Musem.jpg"
+                            src="/images/Borrow/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%252C%20British%20Musem.jpg"
                             alt="White and gold purse from the Sutton Hoo burial."
                           />
                         </picture>

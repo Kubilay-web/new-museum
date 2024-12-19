@@ -37,7 +37,7 @@ const Press = () => {
         />
         <meta
           property="og:image"
-          content="images/Tile-Ming-Dynasty-large_2.jpg"
+          content="/images/Press/Tile-Ming-Dynasty-large_2.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -82,24 +82,24 @@ const Press = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Press/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Press/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Press/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Press/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -465,21 +465,21 @@ const Press = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Tile-Ming-Dynasty-large_1.jpg 1x"
+                            srcSet="/images/Press/Tile-Ming-Dynasty-large_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/Tile-Ming-Dynasty-large_2.jpg 1x"
+                            srcSet="/images/Press/Tile-Ming-Dynasty-large_2.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/Tile-Ming-Dynasty-large_3.jpg 1x"
+                            srcSet="/images/Press/Tile-Ming-Dynasty-large_3.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -491,7 +491,7 @@ const Press = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/Tile-Ming-Dynasty-large.jpg"
+                            src="/images/Press/Tile-Ming-Dynasty-large.jpg"
                             alt="Stoneware tile, showing lotus flowers and dragons"
                           />
                         </picture>
@@ -865,11 +865,11 @@ const Press = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Mummy-mask_2.jpg 400w, images/Mummy-mask_3.jpg 750w, images/Mummy-mask_1.jpg 1000w"
+                                        srcSet="/images/Press/Mummy-mask_2.jpg 400w, /images/Press/Mummy-mask_3.jpg 750w, /images/Press/Mummy-mask_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Mummy-mask.jpg"
+                                        src="/images/Press/Mummy-mask.jpg"
                                         alt="Cartonnage mummy-mask of Satdjehuty: gold leaf-covered female mask"
                                       />
                                       <figcaption>
@@ -930,11 +930,11 @@ const Press = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Standard-of-Ur-box_2.jpg 400w, images/Standard-of-Ur-box_3.jpg 750w, images/Standard-of-Ur-box_1.jpg 1000w"
+                                        srcSet="/images/Press/Standard-of-Ur-box_2.jpg 400w, /images/Press/Standard-of-Ur-box_3.jpg 750w, /images/Press/Standard-of-Ur-box_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Standard-of-Ur-box.jpg"
+                                        src="/images/Press/Standard-of-Ur-box.jpg"
                                         alt="Box with inlaid mosaic scenes made from shell, red limestone and lapis lazuli, set in bitumen, depicting a Sumerian army"
                                       />
                                       <figcaption>
@@ -1201,11 +1201,11 @@ const Press = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Roman-sarcophagus_2.jpg 400w, images/Roman-sarcophagus_3.jpg 750w, images/Roman-sarcophagus_1.jpg 1000w"
+                                        srcSet="/images/Press/Roman-sarcophagus_2.jpg 400w, /images/Press/Roman-sarcophagus_3.jpg 750w, /images/Press/Roman-sarcophagus_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Roman-sarcophagus.jpg"
+                                        src="/images/Press/Roman-sarcophagus.jpg"
                                         alt="Fragment from sarcophagus, relief in blue-veined marble, showing Roman marriage ceremony"
                                       />
                                       <figcaption>
@@ -1894,11 +1894,11 @@ const Press = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="images/Bowl-Seljuq-Dynasty_2.jpg 400w, images/Bowl-Seljuq-Dynasty_3.jpg 750w, images/Bowl-Seljuq-Dynasty_1.jpg 1000w"
+                                        srcSet="/images/Press/Bowl-Seljuq-Dynasty_2.jpg 400w, /images/Press/Bowl-Seljuq-Dynasty_3.jpg 750w, /images/Press/Bowl-Seljuq-Dynasty_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="images/Bowl-Seljuq-Dynasty.jpg"
+                                        src="/images/Press/Bowl-Seljuq-Dynasty.jpg"
                                         alt="Detail from fritware (stonepaste) bowl, depicting enthroned royal figure and attendants "
                                       />
                                       <figcaption>

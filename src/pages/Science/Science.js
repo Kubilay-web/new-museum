@@ -40,7 +40,7 @@ const Science = () => {
         />
         <meta
           property="og:image"
-          content="images/Mummy-Mask-scientific-study-british-museum_3.jpg"
+          content="/images/Science/Mummy-Mask-scientific-study-british-museum_3.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -85,24 +85,24 @@ const Science = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="images/apple-touch-icon.png"
+          href="/images/Science/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-32x32.png"
+          href="/images/Science/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="images/favicon-16x16.png"
+          href="/images/Science/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="images/safari-pinned-tab.svg"
+          href="/images/Science/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -468,21 +468,21 @@ const Science = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/Mummy-Mask-scientific-study-british-museum_1.jpg 1x"
+                            srcSet="/images/Science/Mummy-Mask-scientific-study-british-museum_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="images/Mummy-Mask-scientific-study-british-museum_3.jpg 1x"
+                            srcSet="/images/Science/Mummy-Mask-scientific-study-british-museum_3.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="images/Mummy-Mask-scientific-study-british-museum_2.jpg 1x"
+                            srcSet="/images/Science/Mummy-Mask-scientific-study-british-museum_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -494,7 +494,7 @@ const Science = () => {
                             width={750}
                             height={750}
                             data-focal-position="top center"
-                            src="images/Mummy-Mask-scientific-study-british-museum.jpg"
+                            src="/images/Science/Mummy-Mask-scientific-study-british-museum.jpg"
                             alt="Gold bust of an Egyptian figure wearing a nemes headdress, resting on a large cylindrical stand in a room with mounted scanning equipment and cable rigging in the background."
                           />
                         </picture>
