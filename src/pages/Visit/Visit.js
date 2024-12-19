@@ -1084,7 +1084,6 @@ const Visit = () => {
                                                     width={750}
                                                     height={422}
                                                     src="/images/Visit/Silk-Roads-teaser-2000x1159.webp"
-                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
                                               </div>
@@ -2854,32 +2853,9 @@ const Visit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=73k-AqJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=sOrwHw5e 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=IkIcINR5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=frHfjMMM 1600w"
-                                                    data-focal-position="center center"
+                                                    src="/images/Visit/image-01.webp"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=73k-AqJa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=sOrwHw5e
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=IkIcINR5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=frHfjMMM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    alt="Procession of camels
-                                                    with lone figure leading in
-                                                    shadow against orange sky"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2931,35 +2907,8 @@ const Visit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=bBQ9Fzq8 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=LMuBMahJ 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=L6qjUiGy 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=fhhOqZBV 1600w"
-                                                    data-focal-position="bottom center"
-                                                    alt="Bust of Queen, adorned with regalia of empire including skulls, tropical foliage, brass plaques, and replicas of military insignia including medals of imperial conflicts. "
+                                                    src="/images/Visit/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=bBQ9Fzq8
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=2U2LQ4z6
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=LMuBMahJ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=L6qjUiGy
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=fhhOqZBV
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=2U2LQ4z6"
-                                                    data-sizes="auto" alt="Bust
-                                                    of Queen, adorned with
-                                                    regalia of empire including
-                                                    skulls, tropical foliage,
-                                                    brass plaques, and replicas
-                                                    of military insignia
-                                                    including medals of imperial
-                                                    conflicts. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3017,34 +2966,8 @@ const Visit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=4FLk7aFK"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=f2LwjbQc 400w, /sites/default/files/styles/16_9_media_small/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=4FLk7aFK 750w, /sites/default/files/styles/16_9_media_medium/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=AJ1rXJ5o 1000w, /sites/default/files/styles/16_9_media_large/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=fjPsUgQt 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&itok=rjI-2OsI 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A colourful Picasso print in red, green, yellow and black showing a lightbulb from a ceiling lamp lighting up a table with apples and a goblet on it."
+                                                    src="/images/Visit/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=f2LwjbQc
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=4FLk7aFK
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=AJ1rXJ5o
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=fjPsUgQt
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=rjI-2OsI
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-08/Picasso_teaser.jpg?h=d1cb525d&amp;itok=4FLk7aFK"
-                                                    data-sizes="auto" alt="A
-                                                    colourful Picasso print in
-                                                    red, green, yellow and black
-                                                    showing a lightbulb from a
-                                                    ceiling lamp lighting up a
-                                                    table with apples and a
-                                                    goblet on it." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -4738,29 +4661,8 @@ const Visit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=Vhfx6a4i"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=jeh_DjHP 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=Vhfx6a4i 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=P4H-_Cf1 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=iSG58aG0 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=KHUHnMoP 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Cake"
+                                                    src="/images/Visit/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=jeh_DjHP
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=Vhfx6a4i
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=P4H-_Cf1
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=iSG58aG0
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=KHUHnMoP
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=Vhfx6a4i"
-                                                    data-sizes="auto" alt="Cake"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -4800,31 +4702,8 @@ const Visit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&itok=MKKdiFaA"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&itok=G51avpNB 400w, /sites/default/files/styles/16_9_media_small/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&itok=MKKdiFaA 750w, /sites/default/files/styles/16_9_media_medium/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&itok=72vnPkwc 1000w, /sites/default/files/styles/16_9_media_large/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&itok=Jz1tKGHS 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&itok=sqVnl-Gq 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A selection of books on a mantlepiece in between two bust bookends. "
+                                                    src="/images/Visit/image-05.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&amp;itok=G51avpNB
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&amp;itok=MKKdiFaA
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&amp;itok=72vnPkwc
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&amp;itok=Jz1tKGHS
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&amp;itok=sqVnl-Gq
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/book-landing_0%20%281%29.jpg?h=5dabf909&amp;itok=MKKdiFaA"
-                                                    data-sizes="auto" alt="A
-                                                    selection of books on a
-                                                    mantlepiece in between two
-                                                    bust bookends. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -4863,31 +4742,8 @@ const Visit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=xwTL0bSI"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=aiQ0X4yz 400w, /sites/default/files/styles/16_9_media_small/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=xwTL0bSI 750w, /sites/default/files/styles/16_9_media_medium/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=mOuhoms8 1000w, /sites/default/files/styles/16_9_media_large/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=-_8T6H-i 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=bavaiZLi 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Iron and tinned bronze helmet with gold features, looking face on. "
+                                                    src="/images/Visit/image-06.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=aiQ0X4yz
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=xwTL0bSI
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=mOuhoms8
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=-_8T6H-i
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=bavaiZLi
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=xwTL0bSI"
-                                                    data-sizes="auto" alt="Iron
-                                                    and tinned bronze helmet
-                                                    with gold features, looking
-                                                    face on. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
