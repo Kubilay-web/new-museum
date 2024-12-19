@@ -2346,31 +2346,8 @@ const GroupVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=IbbM3Aq- 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=xY1HpAuZ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=eL-unViS 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=gpQQNEw_ 1600w"
-                                                    data-focal-position="center right"
-                                                    alt="A wide shot of the Great Court with the roof and Reading Room in view"
+                                                    src="/images/GroupVisit/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=IbbM3Aq-
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=xY1HpAuZ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=eL-unViS
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=gpQQNEw_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q"
-                                                    data-sizes="auto" alt="A
-                                                    wide shot of the Great Court
-                                                    with the roof and Reading
-                                                    Room in view" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2409,31 +2386,8 @@ const GroupVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=ldKZbOm9"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=x2IhsLSQ 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=ldKZbOm9 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=koBT6rU1 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=ywOnfmC5 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=9dttIUlT 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Two people handling a pot at a South Africa object handling session. "
+                                                    src="/images/GroupVisit/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=x2IhsLSQ
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=ldKZbOm9
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=koBT6rU1
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=ywOnfmC5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=9dttIUlT
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=ldKZbOm9"
-                                                    data-sizes="auto" alt="Two
-                                                    people handling a pot at a
-                                                    South Africa object handling
-                                                    session. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2472,32 +2426,8 @@ const GroupVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=73k-AqJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=sOrwHw5e 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=IkIcINR5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=frHfjMMM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
+                                                    src="/images/GroupVisit/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=73k-AqJa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=sOrwHw5e
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=IkIcINR5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=frHfjMMM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    alt="Procession of camels
-                                                    with lone figure leading in
-                                                    shadow against orange sky"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2535,31 +2465,8 @@ const GroupVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=8Yu8MIIL"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=iIrIRVpH 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=8Yu8MIIL 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=4RNXu4iX 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=6m5b7UZs 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=aPcJHVsf 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Five visitors on a morning tour in the Enlightenment gallery."
+                                                    src="/images/GroupVisit/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=iIrIRVpH
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=8Yu8MIIL
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=4RNXu4iX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=6m5b7UZs
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=aPcJHVsf
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=8Yu8MIIL"
-                                                    data-sizes="auto" alt="Five
-                                                    visitors on a morning tour
-                                                    in the Enlightenment
-                                                    gallery." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
