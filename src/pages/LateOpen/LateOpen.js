@@ -105,15 +105,6 @@ const LateOpen = () => {
           name="facebook-domain-verification"
           content="8rxgufrjnmm08rnfosf5ers9d1q7a5"
         />
-        {/* End Facebook domain verification */}
-        {/* Google Tag Manager (noscript) */}
-        <noscript>
-          &lt;iframe
-          src="https://www.googletagmanager.com/ns.html?id=GTM-MW5VCK"
-          height="0" width="0"
-          style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
-        </noscript>
-        {/* End Google Tag Manager (noscript) */}
         <div className="hidden">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -1006,32 +997,8 @@ const LateOpen = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=73k-AqJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=sOrwHw5e 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=IkIcINR5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=frHfjMMM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
+                                                    src="/images/LateOpen/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=73k-AqJa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=sOrwHw5e
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=IkIcINR5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=frHfjMMM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    alt="Procession of camels
-                                                    with lone figure leading in
-                                                    shadow against orange sky"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1083,35 +1050,8 @@ const LateOpen = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=bBQ9Fzq8 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=LMuBMahJ 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=L6qjUiGy 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=fhhOqZBV 1600w"
-                                                    data-focal-position="bottom center"
-                                                    alt="Bust of Queen, adorned with regalia of empire including skulls, tropical foliage, brass plaques, and replicas of military insignia including medals of imperial conflicts. "
+                                                    src="/images/LateOpen/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=bBQ9Fzq8
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=2U2LQ4z6
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=LMuBMahJ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=L6qjUiGy
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=fhhOqZBV
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;itok=2U2LQ4z6"
-                                                    data-sizes="auto" alt="Bust
-                                                    of Queen, adorned with
-                                                    regalia of empire including
-                                                    skulls, tropical foliage,
-                                                    brass plaques, and replicas
-                                                    of military insignia
-                                                    including medals of imperial
-                                                    conflicts. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1169,31 +1109,8 @@ const LateOpen = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&itok=42wA-Dwk"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&itok=lWsGd4BO 400w, /sites/default/files/styles/16_9_media_small/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&itok=42wA-Dwk 750w, /sites/default/files/styles/16_9_media_medium/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&itok=8pGyDc6p 1000w, /sites/default/files/styles/16_9_media_large/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&itok=KZTmfWwn 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&itok=eI9-ARvb 1600w"
-                                                    data-focal-position="bottom right"
-                                                    alt="A tour group gathered in Enlightenment gallery."
+                                                    src="/images/LateOpen/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&amp;itok=lWsGd4BO
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&amp;itok=42wA-Dwk
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&amp;itok=8pGyDc6p
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&amp;itok=KZTmfWwn
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&amp;itok=eI9-ARvb
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-04/Enlightenment_Spotlight_tour.jpg?h=a67211f0&amp;itok=42wA-Dwk"
-                                                    data-sizes="auto" alt="A
-                                                    tour group gathered in
-                                                    Enlightenment gallery."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2128,32 +2045,8 @@ const LateOpen = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=0fiLYk0D"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=tfr9hRC2 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=0fiLYk0D 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=byRLdhjE 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=B8BuSRMT 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=Gym4K4xi 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Visitors examining the Rosetta Stone up close in Room 4 Egyptian Sculpture Gallery"
+                                                    src="/images/LateOpen/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=tfr9hRC2
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=0fiLYk0D
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=byRLdhjE
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=B8BuSRMT
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=Gym4K4xi
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=0fiLYk0D"
-                                                    data-sizes="auto"
-                                                    alt="Visitors examining the
-                                                    Rosetta Stone up close in
-                                                    Room 4 Egyptian Sculpture
-                                                    Gallery" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2189,32 +2082,8 @@ const LateOpen = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=73k-AqJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=sOrwHw5e 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=IkIcINR5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=frHfjMMM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
+                                                    src="/images/LateOpen/image-05.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=73k-AqJa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=sOrwHw5e
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=IkIcINR5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=frHfjMMM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    alt="Procession of camels
-                                                    with lone figure leading in
-                                                    shadow against orange sky"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2252,29 +2121,8 @@ const LateOpen = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=b8KSNa0_"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=H2_-ofXN 400w, /sites/default/files/styles/16_9_media_small/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=b8KSNa0_ 750w, /sites/default/files/styles/16_9_media_medium/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=LH8psZzp 1000w, /sites/default/files/styles/16_9_media_large/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=ebeCm6Nr 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&itok=sfIanCVM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Bust of Ramesses the Great"
+                                                    src="/images/LateOpen/image-06.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=H2_-ofXN
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=b8KSNa0_
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=LH8psZzp
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=ebeCm6Nr
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=sfIanCVM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/bust-ramesses-the-great-1000.jpg?h=c59607c6&amp;itok=b8KSNa0_"
-                                                    data-sizes="auto" alt="Bust
-                                                    of Ramesses the Great" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2312,31 +2160,8 @@ const LateOpen = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=IbbM3Aq- 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=xY1HpAuZ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=eL-unViS 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=gpQQNEw_ 1600w"
-                                                    data-focal-position="center right"
-                                                    alt="A wide shot of the Great Court with the roof and Reading Room in view"
+                                                    src="/images/LateOpen/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=IbbM3Aq-
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=xY1HpAuZ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=eL-unViS
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=gpQQNEw_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q"
-                                                    data-sizes="auto" alt="A
-                                                    wide shot of the Great Court
-                                                    with the roof and Reading
-                                                    Room in view" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
