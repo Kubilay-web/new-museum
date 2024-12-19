@@ -1547,32 +1547,8 @@ const TourAndTalk = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=73k-AqJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=sOrwHw5e 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=IkIcINR5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=frHfjMMM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
+                                                    src="/images/TourAndTalk/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=73k-AqJa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=sOrwHw5e
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=IkIcINR5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=frHfjMMM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    alt="Procession of camels
-                                                    with lone figure leading in
-                                                    shadow against orange sky"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1610,30 +1586,8 @@ const TourAndTalk = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=BRO2-NsB"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=6pF12xmK 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=BRO2-NsB 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=YhjWFqod 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=Q9oAJgqb 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=rEbmTQJA 1600w"
-                                                    data-focal-position="center right"
-                                                    alt="A father and son in Room 22"
+                                                    src="/images/TourAndTalk/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=6pF12xmK
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=BRO2-NsB
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=YhjWFqod
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=Q9oAJgqb
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=rEbmTQJA
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=BRO2-NsB"
-                                                    data-sizes="auto" alt="A
-                                                    father and son in Room 22"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1672,29 +1626,8 @@ const TourAndTalk = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=Vhfx6a4i"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=jeh_DjHP 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=Vhfx6a4i 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=P4H-_Cf1 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=iSG58aG0 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=KHUHnMoP 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Cake"
+                                                    src="/images/TourAndTalk/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=jeh_DjHP
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=Vhfx6a4i
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=P4H-_Cf1
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=iSG58aG0
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=KHUHnMoP
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=Vhfx6a4i"
-                                                    data-sizes="auto" alt="Cake"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1734,31 +1667,8 @@ const TourAndTalk = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=FIEEj6-3"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=VesmonY6 400w, /sites/default/files/styles/16_9_media_small/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=FIEEj6-3 750w, /sites/default/files/styles/16_9_media_medium/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=9a0T-1VS 1000w, /sites/default/files/styles/16_9_media_large/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=83YbqkHM 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&itok=PfrawZYl 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The Great Court and view of Reading Room at the centre."
+                                                    src="/images/TourAndTalk/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=VesmonY6
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=FIEEj6-3
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=9a0T-1VS
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=83YbqkHM
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=PfrawZYl
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-12/Great_Court_2020_landscape.jpg?h=56d0ca2e&amp;itok=FIEEj6-3"
-                                                    data-sizes="auto" alt="The
-                                                    Great Court and view of
-                                                    Reading Room at the centre."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
