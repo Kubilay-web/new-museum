@@ -915,31 +915,8 @@ const FamilyVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&itok=cqEyTOb-"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&itok=A2b1p1fZ 400w, /sites/default/files/styles/16_9_media_small/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&itok=cqEyTOb- 750w, /sites/default/files/styles/16_9_media_medium/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&itok=zo2c3rAK 1000w, /sites/default/files/styles/16_9_media_large/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&itok=fcM13CMN 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&itok=6Smxb1u- 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Cartoon family taking a picture in front of the Rosetta Stone."
+                                                    src="/images/FamilyVisit/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&amp;itok=A2b1p1fZ
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&amp;itok=cqEyTOb-
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&amp;itok=zo2c3rAK
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&amp;itok=fcM13CMN
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&amp;itok=6Smxb1u-
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-05/museum-missions-rosetta-stone-1920.jpg?h=d1cb525d&amp;itok=cqEyTOb-"
-                                                    data-sizes="auto"
-                                                    alt="Cartoon family taking a
-                                                    picture in front of the
-                                                    Rosetta Stone." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -980,30 +957,8 @@ const FamilyVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&itok=0EIW99ST"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&itok=6fVo3Wjd 400w, /sites/default/files/styles/16_9_media_small/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&itok=0EIW99ST 750w, /sites/default/files/styles/16_9_media_medium/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&itok=UXhHD0by 1000w, /sites/default/files/styles/16_9_media_large/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&itok=k03Y3CWh 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&itok=a_rcw0Er 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The Helen Hamlyn Trust Museum Explorer trails "
+                                                    src="/images/FamilyVisit/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&amp;itok=6fVo3Wjd
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&amp;itok=0EIW99ST
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&amp;itok=UXhHD0by
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&amp;itok=k03Y3CWh
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&amp;itok=a_rcw0Er
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-03/Hamlyn%20Trails%20Hero.png?h=518c5295&amp;itok=0EIW99ST"
-                                                    data-sizes="auto" alt="The
-                                                    Helen Hamlyn Trust Museum
-                                                    Explorer trails " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1041,30 +996,8 @@ const FamilyVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&itok=Gd67ekN6"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&itok=fkOTSY4d 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&itok=Gd67ekN6 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&itok=mKBAFpBE 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&itok=ZEFHLZiG 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&itok=C1nT5Z0X 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Child with Alfred the Explorer backpack"
+                                                    src="/images/FamilyVisit/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&amp;itok=fkOTSY4d
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&amp;itok=Gd67ekN6
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&amp;itok=mKBAFpBE
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&amp;itok=ZEFHLZiG
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&amp;itok=C1nT5Z0X
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Margot_GC_Alfred%20the%20Explorer_0.jpg?h=0be1b550&amp;itok=Gd67ekN6"
-                                                    data-sizes="auto" alt="Child
-                                                    with Alfred the Explorer
-                                                    backpack" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1103,30 +1036,8 @@ const FamilyVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=U_eNoY0d"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=_Bqw6I4G 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=U_eNoY0d 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=U4tpowVi 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=YTC-_fKR 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&itok=sEl5MEqJ 1600w"
-                                                    data-focal-position="center left"
-                                                    alt="Mother and daughter in Room 33"
+                                                    src="/images/FamilyVisit/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=_Bqw6I4G
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=U_eNoY0d
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=U4tpowVi
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=YTC-_fKR
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=sEl5MEqJ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R33%2039b%20Ancient%20Greece%20Rome%20Americas%20copy_0.jpg?h=492e72de&amp;itok=U_eNoY0d"
-                                                    data-sizes="auto"
-                                                    alt="Mother and daughter in
-                                                    Room 33" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1245,32 +1156,8 @@ const FamilyVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=Y6E-B-4X"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=7NPTPN-l 400w, /sites/default/files/styles/16_9_media_small/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=Y6E-B-4X 750w, /sites/default/files/styles/16_9_media_medium/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=xdjaPD7q 1000w, /sites/default/files/styles/16_9_media_large/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=LarNQnWU 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=dUe6ZMFA 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Glazed ceramic dual-humped Bactrian camel laden with silk, a ewer and bags"
+                                                    src="/images/FamilyVisit/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;itok=7NPTPN-l
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;itok=Y6E-B-4X
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;itok=xdjaPD7q
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;itok=LarNQnWU
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;itok=dUe6ZMFA
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;itok=Y6E-B-4X"
-                                                    data-sizes="auto"
-                                                    alt="Glazed ceramic
-                                                    dual-humped Bactrian camel
-                                                    laden with silk, a ewer and
-                                                    bags" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1372,32 +1259,8 @@ const FamilyVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=Y5Rl6qaZ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=hvgbaYYy 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=Y5Rl6qaZ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=yLJfClDD 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=xDN_nmwl 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=EGCXc6bM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Two soft toy teddies sat among a piece of paper, scissors, gold foil, and papyrus."
+                                                    src="/images/FamilyVisit/image-06.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;itok=hvgbaYYy
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;itok=Y5Rl6qaZ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;itok=yLJfClDD
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;itok=xDN_nmwl
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;itok=EGCXc6bM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;itok=Y5Rl6qaZ"
-                                                    data-sizes="auto" alt="Two
-                                                    soft toy teddies sat among a
-                                                    piece of paper, scissors,
-                                                    gold foil, and papyrus."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1487,35 +1350,8 @@ const FamilyVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=mWzNpwZE"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=c6-aW51A 400w, /sites/default/files/styles/16_9_media_small/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=mWzNpwZE 750w, /sites/default/files/styles/16_9_media_medium/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=veFlJMf7 1000w, /sites/default/files/styles/16_9_media_large/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=VxIkWiYE 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=KqNuoGGk 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Bust of Queen Victoria, adorned with regalia of empire including skulls, tropical foliage, brass plaques, and replicas of military insignia including medals of imperial conflicts. "
+                                                    src="/images/FamilyVisit/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;itok=c6-aW51A
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;itok=mWzNpwZE
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;itok=veFlJMf7
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;itok=VxIkWiYE
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;itok=KqNuoGGk
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;itok=mWzNpwZE"
-                                                    data-sizes="auto" alt="Bust
-                                                    of Queen Victoria, adorned
-                                                    with regalia of empire
-                                                    including skulls, tropical
-                                                    foliage, brass plaques, and
-                                                    replicas of military
-                                                    insignia including medals of
-                                                    imperial conflicts. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2195,32 +2031,8 @@ const FamilyVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&itok=7MvCUbD4"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&itok=VtnpCHfh 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&itok=7MvCUbD4 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&itok=tJW353TK 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&itok=N0bTz6hN 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&itok=1kr1mI5o 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Children looking at an Egyptian sculpture by torchlight at a Museum sleepover."
+                                                    src="/images/FamilyVisit/image-08.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&amp;itok=VtnpCHfh
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&amp;itok=7MvCUbD4
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&amp;itok=tJW353TK
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&amp;itok=N0bTz6hN
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&amp;itok=1kr1mI5o
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/torch-sleepover-march2017-benedict-johnson.jpg?h=56d0ca2e&amp;itok=7MvCUbD4"
-                                                    data-sizes="auto"
-                                                    alt="Children looking at an
-                                                    Egyptian sculpture by
-                                                    torchlight at a Museum
-                                                    sleepover." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2257,32 +2069,8 @@ const FamilyVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=U7x56dgj"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=T1qdNdy1 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=U7x56dgj 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=WBgXSAiz 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=vrO86iNz 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=5hdqGOn_ 1600w"
-                                                    data-focal-position="center right"
-                                                    alt="Two children looking at a marble horse head in the Enlightenment gallery "
+                                                    src="/images/FamilyVisit/image-09.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=T1qdNdy1
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=U7x56dgj
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=WBgXSAiz
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=vrO86iNz
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=5hdqGOn_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=U7x56dgj"
-                                                    data-sizes="auto" alt="Two
-                                                    children looking at a marble
-                                                    horse head in the
-                                                    Enlightenment gallery "
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2321,31 +2109,8 @@ const FamilyVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=IbbM3Aq- 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=xY1HpAuZ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=eL-unViS 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=gpQQNEw_ 1600w"
-                                                    data-focal-position="center right"
-                                                    alt="A wide shot of the Great Court with the roof and Reading Room in view"
+                                                    src="/images/FamilyVisit/image-10.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=IbbM3Aq-
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=xY1HpAuZ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=eL-unViS
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=gpQQNEw_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q"
-                                                    data-sizes="auto" alt="A
-                                                    wide shot of the Great Court
-                                                    with the roof and Reading
-                                                    Room in view" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2383,32 +2148,8 @@ const FamilyVisit = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&itok=PfpfyeSo"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&itok=Z0tZDWCm 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&itok=PfpfyeSo 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&itok=1oxyYqSF 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&itok=SojVxyJ3 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&itok=CRoCzfHJ 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A big group of children at a Museum sleepover wearing masks they made themselves"
+                                                    src="/images/FamilyVisit/image-11.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&amp;itok=Z0tZDWCm
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&amp;itok=PfpfyeSo
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&amp;itok=1oxyYqSF
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&amp;itok=SojVxyJ3
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&amp;itok=CRoCzfHJ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/children-wearing-masks-sleepover.jpg?h=39d08ca2&amp;itok=PfpfyeSo"
-                                                    data-sizes="auto" alt="A big
-                                                    group of children at a
-                                                    Museum sleepover wearing
-                                                    masks they made themselves"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
