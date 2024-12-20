@@ -741,30 +741,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&itok=tFmCnCZ3"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&itok=eLaejRPK 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&itok=tFmCnCZ3 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&itok=jMu45imc 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&itok=G11jI6aC 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&itok=cdmpo_o7 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Adult learning, lectures, debates and discussions"
+                                                    src="/images/AdultLearning/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&amp;itok=eLaejRPK
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&amp;itok=tFmCnCZ3
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&amp;itok=jMu45imc
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&amp;itok=G11jI6aC
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&amp;itok=cdmpo_o7
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%2C%20performance%20and%20discussions%2C%20british%20museum.jpg?h=09a24783&amp;itok=tFmCnCZ3"
-                                                    data-sizes="auto" alt="Adult
-                                                    learning, lectures, debates
-                                                    and discussions" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -803,30 +781,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&itok=g6AmAiVI"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&itok=kRu-suLs 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&itok=g6AmAiVI 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&itok=SCQkSGoV 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&itok=tWf4H3XD 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&itok=JHyaPu1Y 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Adult learning, performances & demonstrations"
+                                                    src="/images/AdultLearning/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&amp;itok=kRu-suLs
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&amp;itok=g6AmAiVI
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&amp;itok=SCQkSGoV
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&amp;itok=tWf4H3XD
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&amp;itok=JHyaPu1Y
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20performances%20demonstrations%20british%20museum.jpg?h=56d0ca2e&amp;itok=g6AmAiVI"
-                                                    data-sizes="auto" alt="Adult
-                                                    learning, performances &amp;
-                                                    demonstrations" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -864,32 +820,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&itok=zwjl55KS"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&itok=snK96cVm 400w, /sites/default/files/styles/16_9_media_small/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&itok=zwjl55KS 750w, /sites/default/files/styles/16_9_media_medium/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&itok=kBzqLKS2 1000w, /sites/default/files/styles/16_9_media_large/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&itok=dUA7NPhX 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&itok=46Kbpj0r 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="An event outside the British Museum's main entrance with three guest speakers talking."
+                                                    src="/images/AdultLearning/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&amp;itok=snK96cVm
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&amp;itok=zwjl55KS
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&amp;itok=kBzqLKS2
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&amp;itok=dUA7NPhX
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&amp;itok=46Kbpj0r
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-12/Natalie_Haynes_Nero_The_British_Museum.jpg?h=c673cd1c&amp;itok=zwjl55KS"
-                                                    data-sizes="auto" alt="An
-                                                    event outside the British
-                                                    Museum's main entrance with
-                                                    three guest speakers
-                                                    talking." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -997,30 +929,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&itok=b_bWEW9I"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&itok=mANgOQsV 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&itok=b_bWEW9I 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&itok=5tWiqNgj 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&itok=w5RNO-nc 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&itok=AQiHFw7l 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Adult learning, festivals, lates & special events"
+                                                    src="/images/AdultLearning/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&amp;itok=mANgOQsV
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&amp;itok=b_bWEW9I
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&amp;itok=5tWiqNgj
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&amp;itok=w5RNO-nc
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&amp;itok=AQiHFw7l
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum.jpg?h=56d0ca2e&amp;itok=b_bWEW9I"
-                                                    data-sizes="auto" alt="Adult
-                                                    learning, festivals, lates
-                                                    &amp; special events" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1059,31 +969,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&itok=NgwTaOYY"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&itok=2G0P6wVe 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&itok=NgwTaOYY 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&itok=FPaovW2V 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&itok=gdbPYIkE 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&itok=aTeHGsad 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Adult learning, short courses and workshops at the British Museum"
+                                                    src="/images/AdultLearning/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&amp;itok=2G0P6wVe
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&amp;itok=NgwTaOYY
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&amp;itok=FPaovW2V
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&amp;itok=gdbPYIkE
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&amp;itok=aTeHGsad
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%2C%20short%20courses%20and%20workshops%2C%20british%20museum.jpg?h=aecdb15b&amp;itok=NgwTaOYY"
-                                                    data-sizes="auto" alt="Adult
-                                                    learning, short courses and
-                                                    workshops at the British
-                                                    Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1122,30 +1009,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&itok=XpoI_XBS"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&itok=AY86iCxg 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&itok=XpoI_XBS 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&itok=JG3qqokn 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&itok=hOBfps-j 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&itok=RbWFrDeX 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="An artist talking to students with sketch pads"
+                                                    src="/images/AdultLearning/image-06.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&amp;itok=AY86iCxg
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&amp;itok=XpoI_XBS
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&amp;itok=JG3qqokn
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&amp;itok=hOBfps-j
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&amp;itok=RbWFrDeX
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Bridget-Riley-artist-workshop_0.jpg?h=a7e06091&amp;itok=XpoI_XBS"
-                                                    data-sizes="auto" alt="An
-                                                    artist talking to students
-                                                    with sketch pads" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1251,30 +1116,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&itok=q_BuQfCC"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&itok=6doi5-fg 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&itok=q_BuQfCC 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&itok=LbS3K7cy 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&itok=UvE2N_3q 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&itok=6bo6Wm45 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Adult learning, Gallery talks at the British Museum"
+                                                    src="/images/AdultLearning/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&amp;itok=6doi5-fg
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&amp;itok=q_BuQfCC
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&amp;itok=LbS3K7cy
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&amp;itok=UvE2N_3q
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&amp;itok=6bo6Wm45
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20gallery%20talks%20%20british%20museum.jpg?h=56d0ca2e&amp;itok=q_BuQfCC"
-                                                    data-sizes="auto" alt="Adult
-                                                    learning, Gallery talks at
-                                                    the British Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1312,30 +1155,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&itok=KBpvr0yB"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&itok=PN4Gsd24 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&itok=KBpvr0yB 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&itok=23R2owyq 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&itok=WhQptlz8 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&itok=5wyi_b_o 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Adult learning, Film screenings at the British Museum"
+                                                    src="/images/AdultLearning/image-08.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&amp;itok=PN4Gsd24
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&amp;itok=KBpvr0yB
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&amp;itok=23R2owyq
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&amp;itok=WhQptlz8
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&amp;itok=5wyi_b_o
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20film%20screenings%20british%20museum.jpg?h=56d0ca2e&amp;itok=KBpvr0yB"
-                                                    data-sizes="auto" alt="Adult
-                                                    learning, Film screenings at
-                                                    the British Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1373,30 +1194,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&itok=aKjXLfSo"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&itok=xN5Bgvb4 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&itok=aKjXLfSo 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&itok=x9RCq6L5 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&itok=K0DygClD 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&itok=tRP7wQ9D 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Adult learning, accessible events at the British Museum"
+                                                    src="/images/AdultLearning/image-09.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&amp;itok=xN5Bgvb4
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&amp;itok=aKjXLfSo
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&amp;itok=x9RCq6L5
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&amp;itok=K0DygClD
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&amp;itok=tRP7wQ9D
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20accessible%20events%20british%20museum.jpg?h=56d0ca2e&amp;itok=aKjXLfSo"
-                                                    data-sizes="auto" alt="Adult
-                                                    learning, accessible events
-                                                    at the British Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1504,31 +1303,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&itok=yiPh4kyc"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&itok=fvOIQBPE 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&itok=yiPh4kyc 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&itok=oeTpPA3R 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&itok=XD8P3dPW 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&itok=hvZbXZmn 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Adult learning, Symposia & specialist lectures at the British Museum"
+                                                    src="/images/AdultLearning/image-10.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&amp;itok=fvOIQBPE
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&amp;itok=yiPh4kyc
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&amp;itok=oeTpPA3R
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&amp;itok=XD8P3dPW
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&amp;itok=hvZbXZmn
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20symposia%20%26%20specialist%20lectures%20british%20museum.jpg?h=56d0ca2e&amp;itok=yiPh4kyc"
-                                                    data-sizes="auto" alt="Adult
-                                                    learning, Symposia &amp;
-                                                    specialist lectures at the
-                                                    British Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1569,30 +1345,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&itok=EUD5JIHp"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&itok=x7j8gOaN 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&itok=EUD5JIHp 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&itok=3RjNeYbZ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&itok=mXzLABsi 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&itok=yKgtTv2Y 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Adult learning, ESOL, British Museum"
+                                                    src="/images/AdultLearning/image-11.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&amp;itok=x7j8gOaN
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&amp;itok=EUD5JIHp
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&amp;itok=3RjNeYbZ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&amp;itok=mXzLABsi
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&amp;itok=yKgtTv2Y
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20ESOL%20british%20museum.jpg?h=7a8f75d3&amp;itok=EUD5JIHp"
-                                                    data-sizes="auto" alt="Adult
-                                                    learning, ESOL, British
-                                                    Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1630,29 +1384,8 @@ const AdultLearning = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&itok=H4XYFDMV"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&itok=UpYStO7G 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&itok=H4XYFDMV 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&itok=XYD7fC8- 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&itok=lxyuhwVf 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&itok=BbEec2qG 1600w"
-                                                    data-focal-position="bottom center"
-                                                    alt="Demonstrations"
+                                                    src="/images/AdultLearning/image-12.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&amp;itok=UpYStO7G
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&amp;itok=H4XYFDMV
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&amp;itok=XYD7fC8-
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&amp;itok=lxyuhwVf
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&amp;itok=BbEec2qG
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/177A7247%5B163%5D.jpg?h=85bd9121&amp;itok=H4XYFDMV"
-                                                    data-sizes="auto"
-                                                    alt="Demonstrations" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
