@@ -1031,31 +1031,8 @@ const Donate = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=r3OxZOV0"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=hOHuaqQe 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=r3OxZOV0 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=jTr2mDwe 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=xGm5CS-O 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=jC2y0HI5 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Two visitors at a Members'evening at the Museum"
+                                                    src="/images/Donate/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=hOHuaqQe
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=r3OxZOV0
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=jTr2mDwe
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=xGm5CS-O
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=jC2y0HI5
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=r3OxZOV0"
-                                                    data-sizes="auto" alt="Two
-                                                    visitors at a
-                                                    Members'evening at the
-                                                    Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1094,31 +1071,8 @@ const Donate = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=s-EcdUuE"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=M-eV67bN 400w, /sites/default/files/styles/16_9_media_small/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=s-EcdUuE 750w, /sites/default/files/styles/16_9_media_medium/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=oVphCnUo 1000w, /sites/default/files/styles/16_9_media_large/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=a64-vOcG 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=gyIM8xWZ 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A group of visitors listening to a presenter in front of a white-light display."
+                                                    src="/images/Donate/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=M-eV67bN
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=s-EcdUuE
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=oVphCnUo
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=a64-vOcG
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=gyIM8xWZ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=s-EcdUuE"
-                                                    data-sizes="auto" alt="A
-                                                    group of visitors listening
-                                                    to a presenter in front of a
-                                                    white-light display." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1158,30 +1112,8 @@ const Donate = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=TRL6bE-v"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=y1Ro_uEV 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=TRL6bE-v 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=wbOfwdRu 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=BR_n6hIp 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=mar6Bol9 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Conservator caring for Samurai armour"
+                                                    src="/images/Donate/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=y1Ro_uEV
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=TRL6bE-v
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=wbOfwdRu
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=BR_n6hIp
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=mar6Bol9
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=TRL6bE-v"
-                                                    data-sizes="auto"
-                                                    alt="Conservator caring for
-                                                    Samurai armour" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
