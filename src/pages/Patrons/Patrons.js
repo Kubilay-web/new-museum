@@ -946,30 +946,8 @@ const Patrons = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&itok=dEjFgINV"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&itok=yUa_MCK8 400w, /sites/default/files/styles/16_9_media_small/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&itok=dEjFgINV 750w, /sites/default/files/styles/16_9_media_medium/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&itok=XcopLUSM 1000w, /sites/default/files/styles/16_9_media_large/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&itok=xEqwW129 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&itok=gEF2b-Al 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A cream astrolabe with dark-grey metal work."
+                                                    src="/images/Patrons/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&amp;itok=yUa_MCK8
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&amp;itok=dEjFgINV
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&amp;itok=XcopLUSM
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&amp;itok=xEqwW129
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&amp;itok=gEF2b-Al
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/The_Sloane_Astrolabe_British_Museum.jpg?h=e23fcee6&amp;itok=dEjFgINV"
-                                                    data-sizes="auto" alt="A
-                                                    cream astrolabe with
-                                                    dark-grey metal work." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1010,33 +988,8 @@ const Patrons = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&itok=R4ox09LV"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&itok=ivst11Pb 400w, /sites/default/files/styles/16_9_media_small/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&itok=R4ox09LV 750w, /sites/default/files/styles/16_9_media_medium/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&itok=Y6fgpOq9 1000w, /sites/default/files/styles/16_9_media_large/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&itok=K5Oh8Jpo 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&itok=qST0HeS7 1600w"
-                                                    data-focal-position="center left"
-                                                    alt="Two sides of a gold Roman coin, one with the side profile of the head of Marcus Aurelius the other shows a human figure standing."
+                                                    src="/images/Patrons/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&amp;itok=ivst11Pb
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&amp;itok=R4ox09LV
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&amp;itok=Y6fgpOq9
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&amp;itok=K5Oh8Jpo
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&amp;itok=qST0HeS7
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Gold_coin_head_of_Marcus_Aurelius_0.JPG?h=09b58695&amp;itok=R4ox09LV"
-                                                    data-sizes="auto" alt="Two
-                                                    sides of a gold Roman coin,
-                                                    one with the side profile of
-                                                    the head of Marcus Aurelius
-                                                    the other shows a human
-                                                    figure standing." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1076,31 +1029,8 @@ const Patrons = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&itok=0G0MMMc_"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&itok=r_d9w2xV 400w, /sites/default/files/styles/16_9_media_small/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&itok=0G0MMMc_ 750w, /sites/default/files/styles/16_9_media_medium/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&itok=DBHmEiK- 1000w, /sites/default/files/styles/16_9_media_large/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&itok=kY4TErQA 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&itok=VkdEErRN 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A green storage box in shape of 8-lobed lotus flower."
+                                                    src="/images/Patrons/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&amp;itok=r_d9w2xV
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&amp;itok=0G0MMMc_
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&amp;itok=DBHmEiK-
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&amp;itok=kY4TErQA
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&amp;itok=VkdEErRN
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Canopy_from_Buddhist_temple.jpg?h=8db35db6&amp;itok=0G0MMMc_"
-                                                    data-sizes="auto" alt="A
-                                                    green storage box in shape
-                                                    of 8-lobed lotus flower."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1141,31 +1071,8 @@ const Patrons = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&itok=sZq4gpLC"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&itok=QSEdfgFi 400w, /sites/default/files/styles/16_9_media_small/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&itok=sZq4gpLC 750w, /sites/default/files/styles/16_9_media_medium/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&itok=voSa4QDP 1000w, /sites/default/files/styles/16_9_media_large/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&itok=uVpPWQYb 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&itok=fcrjNhV_ 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A decorated spouted ewer, with a black handle and spout. "
+                                                    src="/images/Patrons/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&amp;itok=QSEdfgFi
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&amp;itok=sZq4gpLC
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&amp;itok=voSa4QDP
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&amp;itok=uVpPWQYb
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&amp;itok=fcrjNhV_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Spouted_ewer_Iran_teaser.jpg?h=696b0ba8&amp;itok=sZq4gpLC"
-                                                    data-sizes="auto" alt="A
-                                                    decorated spouted ewer, with
-                                                    a black handle and spout. "
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1301,32 +1208,8 @@ const Patrons = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&itok=eR8cCrs1"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&itok=vCyE_kLJ 400w, /sites/default/files/styles/16_9_media_small/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&itok=eR8cCrs1 750w, /sites/default/files/styles/16_9_media_medium/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&itok=TXDjTno4 1000w, /sites/default/files/styles/16_9_media_large/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&itok=MLLO3mvE 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&itok=-5m83B-u 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Concentric circles made up of cut-up, printed prayers and small blue squares on linen."
+                                                    src="/images/Patrons/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&amp;itok=vCyE_kLJ
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&amp;itok=eR8cCrs1
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&amp;itok=TXDjTno4
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&amp;itok=MLLO3mvE
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&amp;itok=-5m83B-u
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-08/Y.Z.%20Kami%20%28b.1956%29%2C%20%E2%80%98Endless%20Prayer%20XIII%E2%80%99.%20Paper%20and%20linen%2C%202008.%20Funded%20by%20CaMMEA..jpg?h=1cc81a00&amp;itok=eR8cCrs1"
-                                                    data-sizes="auto"
-                                                    alt="Concentric circles made
-                                                    up of cut-up, printed
-                                                    prayers and small blue
-                                                    squares on linen." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1367,32 +1250,8 @@ const Patrons = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&itok=ejnUgVcL"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&itok=v1TqDZTp 400w, /sites/default/files/styles/16_9_media_small/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&itok=ejnUgVcL 750w, /sites/default/files/styles/16_9_media_medium/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&itok=PujO9lnh 1000w, /sites/default/files/styles/16_9_media_large/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&itok=mfMxGzYI 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&itok=TjaTpFKK 1600w"
-                                                    data-focal-position="top left"
-                                                    alt="A kneeling woman looking up over her left shoulder, holding a shawl to her eyes with her right hand."
+                                                    src="/images/Patrons/image-06.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&amp;itok=v1TqDZTp
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&amp;itok=ejnUgVcL
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&amp;itok=PujO9lnh
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&amp;itok=mfMxGzYI
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&amp;itok=TjaTpFKK
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-07/Simon_Vouet_St_Mary_Magdalene.jpg?h=df9ebe1c&amp;itok=ejnUgVcL"
-                                                    data-sizes="auto" alt="A
-                                                    kneeling woman looking up
-                                                    over her left shoulder,
-                                                    holding a shawl to her eyes
-                                                    with her right hand." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1434,31 +1293,8 @@ const Patrons = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&itok=amZ6Htsm"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&itok=qb8NkBS7 400w, /sites/default/files/styles/16_9_media_small/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&itok=amZ6Htsm 750w, /sites/default/files/styles/16_9_media_medium/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&itok=Mztsz1JY 1000w, /sites/default/files/styles/16_9_media_large/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&itok=Gz8Gimpu 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&itok=8BPrOpzw 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Three capital 'Os' in a row forming 'OOO' against a blue background."
+                                                    src="/images/Patrons/image-07.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&amp;itok=qb8NkBS7
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&amp;itok=amZ6Htsm
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&amp;itok=Mztsz1JY
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&amp;itok=Gz8Gimpu
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&amp;itok=8BPrOpzw
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Ed_Rusha_OOO_1970_British_Museum_0.jpg?h=876ea36b&amp;itok=amZ6Htsm"
-                                                    data-sizes="auto" alt="Three
-                                                    capital 'Os' in a row
-                                                    forming 'OOO' against a blue
-                                                    background." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
