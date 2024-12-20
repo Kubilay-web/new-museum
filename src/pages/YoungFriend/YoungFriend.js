@@ -918,31 +918,8 @@ const YoungFriend = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&itok=tZUZ-W4s"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&itok=qWbb3Gv3 400w, /sites/default/files/styles/16_9_media_small/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&itok=tZUZ-W4s 750w, /sites/default/files/styles/16_9_media_medium/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&itok=zCkgOuBs 1000w, /sites/default/files/styles/16_9_media_large/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&itok=2GQ5Vazg 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&itok=cHDzmMUE 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Page from Remus magazine with images of winged objects and a unicorn."
+                                                    src="/images/YoungFriend/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&amp;itok=qWbb3Gv3
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&amp;itok=tZUZ-W4s
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&amp;itok=zCkgOuBs
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&amp;itok=2GQ5Vazg
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&amp;itok=cHDzmMUE
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-06/Issue%2059_Page_05.jpg?h=ee7e5726&amp;itok=tZUZ-W4s"
-                                                    data-sizes="auto" alt="Page
-                                                    from Remus magazine with
-                                                    images of winged objects and
-                                                    a unicorn." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -982,32 +959,8 @@ const YoungFriend = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&itok=8fw1XzpR"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&itok=2hCYQK16 400w, /sites/default/files/styles/16_9_media_small/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&itok=8fw1XzpR 750w, /sites/default/files/styles/16_9_media_medium/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&itok=DEwEyeeG 1000w, /sites/default/files/styles/16_9_media_large/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&itok=tUV1eL1T 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&itok=jAMjScI7 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Young child looking up at a seated pharaoh sculpture in the Egyptian sculpture gallery."
+                                                    src="/images/YoungFriend/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&amp;itok=2hCYQK16
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&amp;itok=8fw1XzpR
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&amp;itok=DEwEyeeG
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&amp;itok=tUV1eL1T
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&amp;itok=jAMjScI7
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-11/sleepover-egyptian-sculpture-1920.jpg?h=d1cb525d&amp;itok=8fw1XzpR"
-                                                    data-sizes="auto" alt="Young
-                                                    child looking up at a seated
-                                                    pharaoh sculpture in the
-                                                    Egyptian sculpture gallery."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1049,31 +1002,8 @@ const YoungFriend = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&itok=uXp9Dr5x"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&itok=MjkkYXvl 400w, /sites/default/files/styles/16_9_media_small/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&itok=uXp9Dr5x 750w, /sites/default/files/styles/16_9_media_medium/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&itok=jrxq78Nm 1000w, /sites/default/files/styles/16_9_media_large/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&itok=Usp4ynJQ 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&itok=5EpvoOAA 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Iron and tinned bronze helmet with gold features, looking face on. "
+                                                    src="/images/YoungFriend/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&amp;itok=MjkkYXvl
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&amp;itok=uXp9Dr5x
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&amp;itok=jrxq78Nm
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&amp;itok=Usp4ynJQ
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&amp;itok=5EpvoOAA
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-04/sutton-hoo-helmet-1000.jpg?h=5dabf909&amp;itok=uXp9Dr5x"
-                                                    data-sizes="auto" alt="Iron
-                                                    and tinned bronze helmet
-                                                    with gold features, looking
-                                                    face on. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
