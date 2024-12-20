@@ -831,30 +831,8 @@ const BritishMuseum = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=TRL6bE-v"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=y1Ro_uEV 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=TRL6bE-v 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=wbOfwdRu 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=BR_n6hIp 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&itok=mar6Bol9 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Conservator caring for Samurai armour"
+                                                    src="/images/BritishMuseum/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=y1Ro_uEV
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=TRL6bE-v
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=wbOfwdRu
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=BR_n6hIp
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=mar6Bol9
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour.jpg?h=b15aa978&amp;itok=TRL6bE-v"
-                                                    data-sizes="auto"
-                                                    alt="Conservator caring for
-                                                    Samurai armour" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -894,31 +872,8 @@ const BritishMuseum = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=s-EcdUuE"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=M-eV67bN 400w, /sites/default/files/styles/16_9_media_small/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=s-EcdUuE 750w, /sites/default/files/styles/16_9_media_medium/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=oVphCnUo 1000w, /sites/default/files/styles/16_9_media_large/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=a64-vOcG 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&itok=gyIM8xWZ 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A group of visitors listening to a presenter in front of a white-light display."
+                                                    src="/images/BritishMuseum/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=M-eV67bN
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=s-EcdUuE
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=oVphCnUo
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=a64-vOcG
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=gyIM8xWZ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?h=deeb9aa6&amp;itok=s-EcdUuE"
-                                                    data-sizes="auto" alt="A
-                                                    group of visitors listening
-                                                    to a presenter in front of a
-                                                    white-light display." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -958,30 +913,8 @@ const BritishMuseum = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Exterior%2010.jpg?h=c9a3a702&itok=jb-LSap9"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Exterior%2010.jpg?h=c9a3a702&itok=SyviAY_S 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Exterior%2010.jpg?h=c9a3a702&itok=jb-LSap9 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Exterior%2010.jpg?h=c9a3a702&itok=D1WErpYa 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Exterior%2010.jpg?h=c9a3a702&itok=9cAAO4AS 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Exterior%2010.jpg?h=c9a3a702&itok=oD-OXuP9 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Visitors outside the South Entrance"
+                                                    src="/images/BritishMuseum/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Exterior%2010.jpg?h=c9a3a702&amp;itok=SyviAY_S
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Exterior%2010.jpg?h=c9a3a702&amp;itok=jb-LSap9
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Exterior%2010.jpg?h=c9a3a702&amp;itok=D1WErpYa
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Exterior%2010.jpg?h=c9a3a702&amp;itok=9cAAO4AS
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Exterior%2010.jpg?h=c9a3a702&amp;itok=oD-OXuP9
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Exterior%2010.jpg?h=c9a3a702&amp;itok=jb-LSap9"
-                                                    data-sizes="auto"
-                                                    alt="Visitors outside the
-                                                    South Entrance" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
