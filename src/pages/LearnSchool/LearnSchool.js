@@ -749,34 +749,8 @@ const LearnSchool = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-05/tablet_tour_hero.jpg?h=14a57910&itok=PAJnv40f"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-05/tablet_tour_hero.jpg?h=14a57910&itok=XKKJSPFV 400w, /sites/default/files/styles/16_9_media_small/public/2023-05/tablet_tour_hero.jpg?h=14a57910&itok=PAJnv40f 750w, /sites/default/files/styles/16_9_media_medium/public/2023-05/tablet_tour_hero.jpg?h=14a57910&itok=Hg0503VV 1000w, /sites/default/files/styles/16_9_media_large/public/2023-05/tablet_tour_hero.jpg?h=14a57910&itok=hAXcD94Z 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-05/tablet_tour_hero.jpg?h=14a57910&itok=nItCkP56 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Student pointing a Samsung tablet at a marble sculpture and reading information about the sculpture on the tablet. "
+                                                    src="/images/LearnSchool/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-05/tablet_tour_hero.jpg?h=14a57910&amp;itok=XKKJSPFV
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-05/tablet_tour_hero.jpg?h=14a57910&amp;itok=PAJnv40f
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-05/tablet_tour_hero.jpg?h=14a57910&amp;itok=Hg0503VV
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-05/tablet_tour_hero.jpg?h=14a57910&amp;itok=hAXcD94Z
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-05/tablet_tour_hero.jpg?h=14a57910&amp;itok=nItCkP56
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-05/tablet_tour_hero.jpg?h=14a57910&amp;itok=PAJnv40f"
-                                                    data-sizes="auto"
-                                                    alt="Student pointing a
-                                                    Samsung tablet at a marble
-                                                    sculpture and reading
-                                                    information about the
-                                                    sculpture on the tablet. "
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -816,31 +790,8 @@ const LearnSchool = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&itok=JU6P4NB2"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&itok=QrUnY4yY 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&itok=JU6P4NB2 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&itok=IDwxE28L 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&itok=TmIfAnVd 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&itok=aVFyDnL2 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Students with their artwork for printmaking"
+                                                    src="/images/LearnSchool/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&amp;itok=QrUnY4yY
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&amp;itok=JU6P4NB2
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&amp;itok=IDwxE28L
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&amp;itok=TmIfAnVd
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&amp;itok=aVFyDnL2
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/KS1_Landingpage.jpg?h=3e72537f&amp;itok=JU6P4NB2"
-                                                    data-sizes="auto"
-                                                    alt="Students with their
-                                                    artwork for printmaking"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -876,31 +827,8 @@ const LearnSchool = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/KS2_Landing_2.jpg?h=2d732997&itok=j0pIYuai"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/KS2_Landing_2.jpg?h=2d732997&itok=Sh6CtknP 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/KS2_Landing_2.jpg?h=2d732997&itok=j0pIYuai 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/KS2_Landing_2.jpg?h=2d732997&itok=nE3_Cux4 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/KS2_Landing_2.jpg?h=2d732997&itok=rtjZ0B29 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/KS2_Landing_2.jpg?h=2d732997&itok=GQz_MGMf 1600w"
-                                                    data-focal-position="bottom center"
-                                                    alt="Students using tablets in G18 for a self-led "
+                                                    src="/images/LearnSchool/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/KS2_Landing_2.jpg?h=2d732997&amp;itok=Sh6CtknP
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/KS2_Landing_2.jpg?h=2d732997&amp;itok=j0pIYuai
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/KS2_Landing_2.jpg?h=2d732997&amp;itok=nE3_Cux4
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/KS2_Landing_2.jpg?h=2d732997&amp;itok=rtjZ0B29
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/KS2_Landing_2.jpg?h=2d732997&amp;itok=GQz_MGMf
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/KS2_Landing_2.jpg?h=2d732997&amp;itok=j0pIYuai"
-                                                    data-sizes="auto"
-                                                    alt="Students using tablets
-                                                    in G18 for a self-led "
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -991,30 +919,8 @@ const LearnSchool = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&itok=CfYqaYJO"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&itok=M21REg3q 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&itok=CfYqaYJO 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&itok=VcZDFJFn 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&itok=3vlfdcI- 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&itok=ofp_cKVb 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Students in the gallery "
+                                                    src="/images/LearnSchool/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&amp;itok=M21REg3q
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&amp;itok=CfYqaYJO
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&amp;itok=VcZDFJFn
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&amp;itok=3vlfdcI-
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&amp;itok=ofp_cKVb
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_KS3_Landingpage.jpg?h=b801dc38&amp;itok=CfYqaYJO"
-                                                    data-sizes="auto"
-                                                    alt="Students in the gallery
-                                                    " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1049,31 +955,8 @@ const LearnSchool = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&itok=o6yTsHzm"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&itok=3GlPFEHk 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&itok=o6yTsHzm 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&itok=3G05d_9U 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&itok=TVJqDmvp 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&itok=PKugqtbG 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Students in the enlightenment gallery "
+                                                    src="/images/LearnSchool/image-05.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&amp;itok=3GlPFEHk
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&amp;itok=o6yTsHzm
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&amp;itok=3G05d_9U
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&amp;itok=TVJqDmvp
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&amp;itok=PKugqtbG
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_KS4_Galleryart_3.jpg?h=63dd80ae&amp;itok=o6yTsHzm"
-                                                    data-sizes="auto"
-                                                    alt="Students in the
-                                                    enlightenment gallery "
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1108,30 +991,8 @@ const LearnSchool = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&itok=9NjNe9aV"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&itok=fa5qwps0 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&itok=9NjNe9aV 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&itok=p2XXbR-X 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&itok=6oYB1Ync 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&itok=qjGyd-sp 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="KS5 students in a gallery "
+                                                    src="/images/LearnSchool/image-06.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&amp;itok=fa5qwps0
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&amp;itok=9NjNe9aV
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&amp;itok=p2XXbR-X
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&amp;itok=6oYB1Ync
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&amp;itok=qjGyd-sp
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/KS5_Landingpage.jpg?h=c9a3a702&amp;itok=9NjNe9aV"
-                                                    data-sizes="auto" alt="KS5
-                                                    students in a gallery "
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1261,30 +1122,8 @@ const LearnSchool = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&itok=aF9RcMcc"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&itok=NQJoyl0K 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&itok=aF9RcMcc 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&itok=Pitzj9fl 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&itok=KOJi21FI 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&itok=pkzdEY24 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="School takeover day 2017"
+                                                    src="/images/LearnSchool/image-09.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&amp;itok=NQJoyl0K
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&amp;itok=aF9RcMcc
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&amp;itok=Pitzj9fl
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&amp;itok=KOJi21FI
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&amp;itok=pkzdEY24
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/School%20visits-%20B%20Johnson.jpg?h=2e5cdddf&amp;itok=aF9RcMcc"
-                                                    data-sizes="auto"
-                                                    alt="School takeover day
-                                                    2017" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1322,32 +1161,8 @@ const LearnSchool = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=U7x56dgj"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=T1qdNdy1 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=U7x56dgj 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=WBgXSAiz 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=vrO86iNz 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&itok=5hdqGOn_ 1600w"
-                                                    data-focal-position="center right"
-                                                    alt="Two children looking at a marble horse head in the Enlightenment gallery "
+                                                    src="/images/LearnSchool/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=T1qdNdy1
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=U7x56dgj
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=WBgXSAiz
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=vrO86iNz
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=5hdqGOn_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/R01%2027%20Enlightenment%20Themes%20Room%201%202%202a%20cropped.jpg?h=40b7c0ea&amp;itok=U7x56dgj"
-                                                    data-sizes="auto" alt="Two
-                                                    children looking at a marble
-                                                    horse head in the
-                                                    Enlightenment gallery "
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1386,31 +1201,8 @@ const LearnSchool = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&itok=FAayzYyF"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&itok=L_naenk3 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&itok=FAayzYyF 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&itok=8mcI-upf 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&itok=ePXty7Ft 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&itok=Se4EB07_ 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="A wide eyed priest figure carved from walrus tusk. "
+                                                    src="/images/LearnSchool/image-08.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&amp;itok=L_naenk3
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&amp;itok=FAayzYyF
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&amp;itok=8mcI-upf
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&amp;itok=ePXty7Ft
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&amp;itok=Se4EB07_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/The-Lewis-Chessmen-cutout.png?h=4333e8ad&amp;itok=FAayzYyF"
-                                                    data-sizes="auto" alt="A
-                                                    wide eyed priest figure
-                                                    carved from walrus tusk. "
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">

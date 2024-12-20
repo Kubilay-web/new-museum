@@ -2237,28 +2237,8 @@ const Podcast = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&itok=2SFpK0fl"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&itok=7OJdm1tW 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&itok=2SFpK0fl 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&itok=TJVIx_d_ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&itok=0ckwPJ4d 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&itok=5TYZ0GJI 1600w"
-                                          data-focal-position="center center"
-                                          alt="Cottman watercolour"
+                                          src="/images/Podcast/image-01.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&amp;itok=7OJdm1tW
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&amp;itok=2SFpK0fl
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&amp;itok=TJVIx_d_
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&amp;itok=0ckwPJ4d
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&amp;itok=5TYZ0GJI
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Cottman-2000x1304.jpg?h=b13c6f5e&amp;itok=2SFpK0fl"
-                                          data-sizes="auto" alt="Cottman
-                                          watercolour" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2298,29 +2278,8 @@ const Podcast = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-12/Shitikari_whole.jpg?h=55be468c&itok=QW8SOOeY"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-12/Shitikari_whole.jpg?h=55be468c&itok=06QcdFDW 400w, /sites/default/files/styles/16_9_media_small/public/2019-12/Shitikari_whole.jpg?h=55be468c&itok=QW8SOOeY 750w, /sites/default/files/styles/16_9_media_medium/public/2019-12/Shitikari_whole.jpg?h=55be468c&itok=oI6l3tbS 1000w, /sites/default/files/styles/16_9_media_large/public/2019-12/Shitikari_whole.jpg?h=55be468c&itok=ytdaXWRA 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-12/Shitikari_whole.jpg?h=55be468c&itok=PvoUOR8R 1600w"
-                                          data-focal-position="center center"
-                                          alt="Shitikari showing a grid of squares with dotted pattern"
+                                          src="/images/Podcast/image-02.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-12/Shitikari_whole.jpg?h=55be468c&amp;itok=06QcdFDW
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-12/Shitikari_whole.jpg?h=55be468c&amp;itok=QW8SOOeY
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-12/Shitikari_whole.jpg?h=55be468c&amp;itok=oI6l3tbS
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-12/Shitikari_whole.jpg?h=55be468c&amp;itok=ytdaXWRA
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-12/Shitikari_whole.jpg?h=55be468c&amp;itok=PvoUOR8R
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-12/Shitikari_whole.jpg?h=55be468c&amp;itok=QW8SOOeY"
-                                          data-sizes="auto" alt="Shitikari
-                                          showing a grid of squares with dotted
-                                          pattern" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2361,27 +2320,8 @@ const Podcast = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&itok=ssHjcslL"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&itok=_YeNAaAq 400w, /sites/default/files/styles/16_9_media_small/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&itok=ssHjcslL 750w, /sites/default/files/styles/16_9_media_medium/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&itok=sBaDSNF0 1000w, /sites/default/files/styles/16_9_media_large/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&itok=PPvY9Q6J 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&itok=Ei5DTRNq 1600w"
-                                          data-focal-position="center center"
-                                          alt="Casts"
+                                          src="/images/Podcast/image-03.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&amp;itok=_YeNAaAq
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&amp;itok=ssHjcslL
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&amp;itok=sBaDSNF0
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&amp;itok=PPvY9Q6J
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&amp;itok=Ei5DTRNq
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-01/Maudslay_casts.jpg?h=d1cb525d&amp;itok=ssHjcslL"
-                                          data-sizes="auto" alt="Casts" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2421,28 +2361,8 @@ const Podcast = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&itok=AUy1ZtKl"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&itok=AmgUaJW8 400w, /sites/default/files/styles/16_9_media_small/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&itok=AUy1ZtKl 750w, /sites/default/files/styles/16_9_media_medium/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&itok=UWlF_u9g 1000w, /sites/default/files/styles/16_9_media_large/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&itok=imrycRsq 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&itok=stQ-uYil 1600w"
-                                          data-focal-position="center center"
-                                          alt="Clock face with Roman numerals"
+                                          src="/images/Podcast/image-04.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&amp;itok=AmgUaJW8
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&amp;itok=AUy1ZtKl
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&amp;itok=UWlF_u9g
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&amp;itok=imrycRsq
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&amp;itok=stQ-uYil
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-04/Long-case-clock-hero.jpg?h=d1cb525d&amp;itok=AUy1ZtKl"
-                                          data-sizes="auto" alt="Clock face with
-                                          Roman numerals" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
