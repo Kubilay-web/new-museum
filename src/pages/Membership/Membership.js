@@ -874,32 +874,8 @@ const Membership = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=73k-AqJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=sOrwHw5e 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=IkIcINR5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=frHfjMMM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
+                                                    src="/images/Membership/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=73k-AqJa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=sOrwHw5e
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=IkIcINR5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=frHfjMMM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    alt="Procession of camels
-                                                    with lone figure leading in
-                                                    shadow against orange sky"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -940,31 +916,8 @@ const Membership = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&itok=-P90tprQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&itok=Fwu-15JD 400w, /sites/default/files/styles/16_9_media_small/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&itok=-P90tprQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&itok=EUh3WCWo 1000w, /sites/default/files/styles/16_9_media_large/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&itok=9K2acTgo 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&itok=6qGN0u8y 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Conservator talking to Member with object in the background"
+                                                    src="/images/Membership/image-02.png"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&amp;itok=Fwu-15JD
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&amp;itok=-P90tprQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&amp;itok=EUh3WCWo
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&amp;itok=9K2acTgo
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&amp;itok=6qGN0u8y
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-01/Members-event-1920x1081.png?h=f3e1135c&amp;itok=-P90tprQ"
-                                                    data-sizes="auto"
-                                                    alt="Conservator talking to
-                                                    Member with object in the
-                                                    background" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1003,33 +956,8 @@ const Membership = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&itok=Ul7Fa9PT"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&itok=Q0Cu0mWJ 400w, /sites/default/files/styles/16_9_media_small/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&itok=Ul7Fa9PT 750w, /sites/default/files/styles/16_9_media_medium/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&itok=8wKPVcCC 1000w, /sites/default/files/styles/16_9_media_large/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&itok=9-z_fWTv 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&itok=AqNRkBx3 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Members closely inspecting Gayer-Anderson cat, a bronze figure depicting one form of the goddess Bastet."
+                                                    src="/images/Membership/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&amp;itok=Q0Cu0mWJ
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&amp;itok=Ul7Fa9PT
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&amp;itok=8wKPVcCC
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&amp;itok=9-z_fWTv
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&amp;itok=AqNRkBx3
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-01/Gayer-Anderson-cat-966x606.jpg?h=5c5d8e27&amp;itok=Ul7Fa9PT"
-                                                    data-sizes="auto"
-                                                    alt="Members closely
-                                                    inspecting Gayer-Anderson
-                                                    cat, a bronze figure
-                                                    depicting one form of the
-                                                    goddess Bastet." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1068,29 +996,8 @@ const Membership = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&itok=LfUE3QG1"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&itok=2Ajter4k 400w, /sites/default/files/styles/16_9_media_small/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&itok=LfUE3QG1 750w, /sites/default/files/styles/16_9_media_medium/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&itok=HtYVFEPj 1000w, /sites/default/files/styles/16_9_media_large/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&itok=cw9IWIef 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&itok=2ruefUc3 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="members room"
+                                                    src="/images/Membership/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&amp;itok=2Ajter4k
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&amp;itok=LfUE3QG1
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&amp;itok=HtYVFEPj
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&amp;itok=cw9IWIef
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&amp;itok=2ruefUc3
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-08/Sept_2012_room_624x351.jpg?h=dbeb307d&amp;itok=LfUE3QG1"
-                                                    data-sizes="auto"
-                                                    alt="members room" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1155,30 +1062,8 @@ const Membership = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&itok=vZIXa5RZ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&itok=MOs4GNWp 400w, /sites/default/files/styles/16_9_media_small/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&itok=vZIXa5RZ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&itok=OZiLuFZZ 1000w, /sites/default/files/styles/16_9_media_large/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&itok=Wn8NtU3P 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&itok=P7iGdqoZ 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Two Members looking into a glass case."
+                                                    src="/images/Membership/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&amp;itok=MOs4GNWp
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&amp;itok=vZIXa5RZ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&amp;itok=OZiLuFZZ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&amp;itok=Wn8NtU3P
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&amp;itok=P7iGdqoZ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-01/Members-glass-case-1000x681.jpg?h=83b361e6&amp;itok=vZIXa5RZ"
-                                                    data-sizes="auto" alt="Two
-                                                    Members looking into a glass
-                                                    case." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1217,30 +1102,8 @@ const Membership = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&itok=aNJqkViV"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&itok=Tu91DEMg 400w, /sites/default/files/styles/16_9_media_small/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&itok=aNJqkViV 750w, /sites/default/files/styles/16_9_media_medium/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&itok=sGy9mlCA 1000w, /sites/default/files/styles/16_9_media_large/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&itok=kHi83cHJ 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&itok=oxGrEZ6G 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Close up of bronze parade mask of a woman's face"
+                                                    src="/images/Membership/image-06.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&amp;itok=Tu91DEMg
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&amp;itok=aNJqkViV
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&amp;itok=sGy9mlCA
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&amp;itok=kHi83cHJ
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&amp;itok=oxGrEZ6G
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-01/Bronze-parade-mask-1000x529.jpg?h=96df6781&amp;itok=aNJqkViV"
-                                                    data-sizes="auto" alt="Close
-                                                    up of bronze parade mask of
-                                                    a woman's face" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1280,31 +1143,8 @@ const Membership = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&itok=d2A4FAEn"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&itok=nonNSAgK 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&itok=d2A4FAEn 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&itok=oWegoa8_ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&itok=P_eVuk9s 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&itok=0_MmPmlz 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Woman looking at wall panel relief depicting Assyrian lion hunting"
+                                                    src="/images/Membership/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&amp;itok=nonNSAgK
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&amp;itok=d2A4FAEn
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&amp;itok=oWegoa8_
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&amp;itok=P_eVuk9s
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&amp;itok=0_MmPmlz
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R10%2016_Assyrian%20Lion%20Hunts%20Greece%20Rome%20Nereid%201920x1080.jpg?h=436ec789&amp;itok=d2A4FAEn"
-                                                    data-sizes="auto" alt="Woman
-                                                    looking at wall panel relief
-                                                    depicting Assyrian lion
-                                                    hunting" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1344,29 +1184,8 @@ const Membership = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=Vhfx6a4i"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=jeh_DjHP 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=Vhfx6a4i 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=P4H-_Cf1 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=iSG58aG0 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&itok=KHUHnMoP 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Cake"
+                                                    src="/images/Membership/image-08.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=jeh_DjHP
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=Vhfx6a4i
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=P4H-_Cf1
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=iSG58aG0
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=KHUHnMoP
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/cake-2000x1000.jpg?h=c9a3a702&amp;itok=Vhfx6a4i"
-                                                    data-sizes="auto" alt="Cake"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
