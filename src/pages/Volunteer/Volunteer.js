@@ -1461,30 +1461,8 @@ const Volunteer = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&itok=Cn9hpfHr"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&itok=8FgNDPJ- 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&itok=Cn9hpfHr 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&itok=VlLrjP3o 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&itok=kpeUEZdd 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&itok=gCvUMCiq 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Uniformed spectators in theatre"
+                                                    src="/images/Volunteer/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&amp;itok=8FgNDPJ-
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&amp;itok=Cn9hpfHr
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&amp;itok=VlLrjP3o
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&amp;itok=kpeUEZdd
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&amp;itok=gCvUMCiq
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/D-Day%20Museum%2C%20Portsmouth%20%28Normandy%20Veterans%20Society%29.jpg?h=deeb9aa6&amp;itok=Cn9hpfHr"
-                                                    data-sizes="auto"
-                                                    alt="Uniformed spectators in
-                                                    theatre" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
