@@ -753,31 +753,8 @@ const Corporate = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court.jpg?h=c894b7ad&itok=FJ_ToqlQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great-Court.jpg?h=c894b7ad&itok=hPMIDYIH 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court.jpg?h=c894b7ad&itok=FJ_ToqlQ 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Great-Court.jpg?h=c894b7ad&itok=Qze6W4mL 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Great-Court.jpg?h=c894b7ad&itok=fRMLy8X1 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Great-Court.jpg?h=c894b7ad&itok=uN2Os9gu 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Tables laid out for entertaining in the Great Court"
+                                                    src="/images/Corporate/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great-Court.jpg?h=c894b7ad&amp;itok=hPMIDYIH
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court.jpg?h=c894b7ad&amp;itok=FJ_ToqlQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Great-Court.jpg?h=c894b7ad&amp;itok=Qze6W4mL
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Great-Court.jpg?h=c894b7ad&amp;itok=fRMLy8X1
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Great-Court.jpg?h=c894b7ad&amp;itok=uN2Os9gu
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court.jpg?h=c894b7ad&amp;itok=FJ_ToqlQ"
-                                                    data-sizes="auto"
-                                                    alt="Tables laid out for
-                                                    entertaining in the Great
-                                                    Court" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -815,31 +792,8 @@ const Corporate = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&itok=1Uk8_cxO"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&itok=BR512H5- 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&itok=1Uk8_cxO 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&itok=VB8lamYG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&itok=8ttGF3QE 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&itok=52tjdBeN 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Great Court evening event with Lewis Chessmen projected on a wall"
+                                                    src="/images/Corporate/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&amp;itok=BR512H5-
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&amp;itok=1Uk8_cxO
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&amp;itok=VB8lamYG
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&amp;itok=8ttGF3QE
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&amp;itok=52tjdBeN
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court-Lewis-Chessmen.jpg?h=5c2f9f03&amp;itok=1Uk8_cxO"
-                                                    data-sizes="auto" alt="Great
-                                                    Court evening event with
-                                                    Lewis Chessmen projected on
-                                                    a wall" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -879,30 +833,8 @@ const Corporate = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&itok=NY2u2e-6"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&itok=hbvycmXa 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&itok=NY2u2e-6 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&itok=nXASuSAZ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&itok=yvJeVeAR 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&itok=sHoMxHmJ 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Man viewing objects in display case."
+                                                    src="/images/Corporate/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&amp;itok=hbvycmXa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&amp;itok=NY2u2e-6
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&amp;itok=nXASuSAZ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&amp;itok=yvJeVeAR
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&amp;itok=sHoMxHmJ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Hotung-Gallery.jpg?h=4997dc06&amp;itok=NY2u2e-6"
-                                                    data-sizes="auto" alt="Man
-                                                    viewing objects in display
-                                                    case." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1000,30 +932,8 @@ const Corporate = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&itok=PE2DN5jE"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&itok=uVS55b-t 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&itok=PE2DN5jE 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&itok=8mPaX_xo 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&itok=fueVfvu2 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&itok=uR42ajFO 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Front of British Museum lit up at night"
+                                                    src="/images/Corporate/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&amp;itok=uVS55b-t
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&amp;itok=PE2DN5jE
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&amp;itok=8mPaX_xo
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&amp;itok=fueVfvu2
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&amp;itok=uR42ajFO
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/British-Museum-Night_0.jpg?h=b13c6f5e&amp;itok=PE2DN5jE"
-                                                    data-sizes="auto" alt="Front
-                                                    of British Museum lit up at
-                                                    night" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1063,31 +973,8 @@ const Corporate = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&itok=oRGxos3n"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&itok=KgVKVDUp 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&itok=oRGxos3n 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&itok=bJFgHvzQ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&itok=Su4huz1D 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&itok=MIxhM5qB 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Autumnal decorations and lighting in Great Court"
+                                                    src="/images/Corporate/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&amp;itok=KgVKVDUp
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&amp;itok=oRGxos3n
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&amp;itok=bJFgHvzQ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&amp;itok=Su4huz1D
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&amp;itok=MIxhM5qB
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great-Court-Corporate-Entertaining-Autumnal.jpg?h=56d0ca2e&amp;itok=oRGxos3n"
-                                                    data-sizes="auto"
-                                                    alt="Autumnal decorations
-                                                    and lighting in Great Court"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
