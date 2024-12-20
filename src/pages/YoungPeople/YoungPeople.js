@@ -744,33 +744,8 @@ const YoungPeople = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&itok=IAqANcpc"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&itok=Wevk_PpM 400w, /sites/default/files/styles/16_9_media_small/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&itok=IAqANcpc 750w, /sites/default/files/styles/16_9_media_medium/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&itok=5Cf2msO4 1000w, /sites/default/files/styles/16_9_media_large/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&itok=7azdoKNJ 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&itok=PvwOMHk3 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Seven members of the British Museum's Youth Collective for 2021 sitting on the steps of the Museum's Great Court."
+                                                    src="/images/YoungPeople/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&amp;itok=Wevk_PpM
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&amp;itok=IAqANcpc
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&amp;itok=5Cf2msO4
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&amp;itok=7azdoKNJ
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&amp;itok=PvwOMHk3
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-12/Members_of_BM_Youth_Collective_2021_Josh_Caius_Photography.jpg?h=56d0ca2e&amp;itok=IAqANcpc"
-                                                    data-sizes="auto" alt="Seven
-                                                    members of the British
-                                                    Museum's Youth Collective
-                                                    for 2021 sitting on the
-                                                    steps of the Museum's Great
-                                                    Court." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -810,31 +785,8 @@ const YoungPeople = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&itok=mWUzUdgi"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&itok=pSYv1bnt 400w, /sites/default/files/styles/16_9_media_small/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&itok=mWUzUdgi 750w, /sites/default/files/styles/16_9_media_medium/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&itok=Lx9advYE 1000w, /sites/default/files/styles/16_9_media_large/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&itok=t_X1Q8N8 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&itok=DKBAtkQn 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Group of young people looking out to Edinburgh city and sea."
+                                                    src="/images/YoungPeople/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&amp;itok=pSYv1bnt
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&amp;itok=mWUzUdgi
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&amp;itok=Lx9advYE
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&amp;itok=t_X1Q8N8
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&amp;itok=DKBAtkQn
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-06/where-we-are-edinburgh-1920.jpg?h=d1cb525d&amp;itok=mWUzUdgi"
-                                                    data-sizes="auto" alt="Group
-                                                    of young people looking out
-                                                    to Edinburgh city and sea."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -938,31 +890,8 @@ const YoungPeople = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=NijlBTkf"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=WY6np_0y 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=NijlBTkf 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=4vXOxiVB 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=EI1XKlG- 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=_4Gzf-J8 1600w"
-                                                    data-focal-position="center right"
-                                                    alt="Woman looking at objects behind glass at the British Museum, London."
+                                                    src="/images/YoungPeople/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=WY6np_0y
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=NijlBTkf
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=4vXOxiVB
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=EI1XKlG-
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=_4Gzf-J8
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=NijlBTkf"
-                                                    data-sizes="auto" alt="Woman
-                                                    looking at objects behind
-                                                    glass at the British Museum,
-                                                    London." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1000,31 +929,8 @@ const YoungPeople = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=fwhPftg4"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=14GZkLTx 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=fwhPftg4 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=kFfk6CsW 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=nhdP-qWZ 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=wWuGIsNr 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Adult learning, Festivals, Lates & Special events at the British Museum"
+                                                    src="/images/YoungPeople/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=14GZkLTx
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=fwhPftg4
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=kFfk6CsW
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=nhdP-qWZ
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=wWuGIsNr
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=fwhPftg4"
-                                                    data-sizes="auto" alt="Adult
-                                                    learning, Festivals, Lates
-                                                    &amp; Special events at the
-                                                    British Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1064,30 +970,8 @@ const YoungPeople = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=zIrGoo73"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=BR8ZFoq5 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=zIrGoo73 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=ZhnwFIkp 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=WopwEZ6I 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=rnVXUyE5 1600w"
-                                                    data-focal-position="center left"
-                                                    alt="Students overlooking the Great Court"
+                                                    src="/images/YoungPeople/image-05.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=BR8ZFoq5
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=zIrGoo73
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=ZhnwFIkp
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=WopwEZ6I
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=rnVXUyE5
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=zIrGoo73"
-                                                    data-sizes="auto"
-                                                    alt="Students overlooking
-                                                    the Great Court" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
