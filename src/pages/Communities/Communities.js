@@ -987,30 +987,8 @@ const Communities = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&itok=HsP1TZpw"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&itok=vLqca21I 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&itok=HsP1TZpw 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&itok=EHI_ICCS 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&itok=SfyKuB-s 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&itok=_QcZqlsp 1600w"
-                                          data-focal-position="center center"
-                                          alt="A young visitor reading in the Manga exhibition at the Community Preview, British Museum"
+                                          src="/images/Communities/image-01.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&amp;itok=vLqca21I
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&amp;itok=HsP1TZpw
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&amp;itok=EHI_ICCS
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&amp;itok=SfyKuB-s
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&amp;itok=_QcZqlsp
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Programmes-communities-british-museum.jpg?h=d1cb525d&amp;itok=HsP1TZpw"
-                                          data-sizes="auto" alt="A young visitor
-                                          reading in the Manga exhibition at the
-                                          Community Preview, British Museum"
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1046,30 +1024,8 @@ const Communities = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&itok=9q9vjsFv"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&itok=rGFPo31B 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&itok=9q9vjsFv 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&itok=ALEtT39Q 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&itok=lof5l-UV 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&itok=TKLXfQh5 1600w"
-                                          data-focal-position="center center"
-                                          alt="Members of the Kiribati Object Journeys group taking part in the projects public programme."
+                                          src="/images/Communities/image-02.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&amp;itok=rGFPo31B
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&amp;itok=9q9vjsFv
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&amp;itok=ALEtT39Q
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&amp;itok=lof5l-UV
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&amp;itok=TKLXfQh5
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Communities-projects%2C-british-museum.jpg?h=d1cb525d&amp;itok=9q9vjsFv"
-                                          data-sizes="auto" alt="Members of the
-                                          Kiribati Object Journeys group taking
-                                          part in the projects public
-                                          programme." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1106,30 +1062,8 @@ const Communities = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=tn3YheHJ"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=vkN7eLsJ 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=tn3YheHJ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=SDbm6PNL 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=5HjCWVIb 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=fnf4op4K 1600w"
-                                          data-focal-position="center center"
-                                          alt="Ancient Egyptian artefacts, including furniture and chests displayed on a blue background "
+                                          src="/images/Communities/image-03.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=vkN7eLsJ
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=tn3YheHJ
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=SDbm6PNL
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=5HjCWVIb
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=fnf4op4K
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=tn3YheHJ"
-                                          data-sizes="auto" alt="Ancient
-                                          Egyptian artefacts, including
-                                          furniture and chests displayed on a
-                                          blue background " /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1168,29 +1102,8 @@ const Communities = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=ldKZbOm9"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=x2IhsLSQ 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=ldKZbOm9 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=koBT6rU1 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=ywOnfmC5 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=9dttIUlT 1600w"
-                                          data-focal-position="center center"
-                                          alt="Two people handling a pot at a South Africa object handling session. "
+                                          src="/images/Communities/image-04.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=x2IhsLSQ
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=ldKZbOm9
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=koBT6rU1
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=ywOnfmC5
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=9dttIUlT
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=ldKZbOm9"
-                                          data-sizes="auto" alt="Two people
-                                          handling a pot at a South Africa
-                                          object handling session. " /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
