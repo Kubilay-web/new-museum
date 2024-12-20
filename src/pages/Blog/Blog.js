@@ -617,33 +617,8 @@ const Blog = () => {
                                                       className="lazyload"
                                                       width={750}
                                                       height={422}
-                                                      data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=Bi6dsFe1"
-                                                      data-sizes="auto"
-                                                      data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=6ybVpU0A 400w, /sites/default/files/styles/16_9_media_small/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=Bi6dsFe1 750w, /sites/default/files/styles/16_9_media_medium/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=h1dO_3Ff 1000w, /sites/default/files/styles/16_9_media_large/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=andW-dsn 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&itok=asaouhDh 1600w"
-                                                      data-focal-position="center center"
-                                                      alt="Matthew wears a black tshirt and points at hieroglyphs on a large ancient Egyptian sculpture."
+                                                      src="/images/Blog/image-01.jpg"
                                                     />
-                                                    <noscript>
-                                                      &lt;img loading="eager"
-                                                      srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=6ybVpU0A
-                                                      400w,
-                                                      /sites/default/files/styles/16_9_media_small/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=Bi6dsFe1
-                                                      750w,
-                                                      /sites/default/files/styles/16_9_media_medium/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=h1dO_3Ff
-                                                      1000w,
-                                                      /sites/default/files/styles/16_9_media_large/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=andW-dsn
-                                                      1300w,
-                                                      /sites/default/files/styles/16_9_media_huge/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=asaouhDh
-                                                      1600w" width="750"
-                                                      height="422"
-                                                      data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Volunteers-blog-hero-1920x1080.jpg?h=d1cb525d&amp;itok=Bi6dsFe1"
-                                                      data-sizes="auto"
-                                                      alt="Matthew wears a black
-                                                      tshirt and points at
-                                                      hieroglyphs on a large
-                                                      ancient Egyptian
-                                                      sculpture." /&gt;
-                                                    </noscript>
                                                   </div>
                                                 </div>
                                                 <div className="teaser__content">
@@ -701,32 +676,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=Yo_njkdw"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=VqzwV7N_ 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=Yo_njkdw 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=72Box_wk 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=CUNknksV 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=42d2lgRT 1600w"
-                                                  data-focal-position="center center"
-                                                  alt="Hew Locke in the Prints and Drawings Study Room at the British Museum, 2024. Photo © Richard Cannon."
+                                                  src="/images/Blog/image-02.jpg"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=VqzwV7N_
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=Yo_njkdw
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=72Box_wk
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=CUNknksV
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=42d2lgRT
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;itok=Yo_njkdw"
-                                                  data-sizes="auto" alt="Hew
-                                                  Locke in the Prints and
-                                                  Drawings Study Room at the
-                                                  British Museum, 2024. Photo ©
-                                                  Richard Cannon." /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">
@@ -779,31 +730,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&itok=uv5LYRb0"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&itok=6pyGwSkz 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&itok=uv5LYRb0 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&itok=1Rw2xAHN 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&itok=f7UUqhUQ 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&itok=1Wlp82kv 1600w"
-                                                  data-focal-position="top center"
-                                                  alt="Wall painting of a procession with an elephant and white birds"
+                                                  src="/images/Blog/image-03.webp"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&amp;itok=6pyGwSkz
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&amp;itok=uv5LYRb0
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&amp;itok=1Rw2xAHN
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&amp;itok=f7UUqhUQ
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&amp;itok=1Wlp82kv
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Southern-Wall-Ambassadors-painting-1920x1080.png?h=3d200a90&amp;itok=uv5LYRb0"
-                                                  data-sizes="auto" alt="Wall
-                                                  painting of a procession with
-                                                  an elephant and white birds"
-                                                  /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">
@@ -856,33 +784,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=EJiVjKnN 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=w5TkDR8G 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=PfzaPMzD 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=tofGnREC 1600w"
-                                                  data-focal-position="top left"
-                                                  alt="Three young people of colour sit with the poet Jenny Mitchell in the Prints and Drawings study room looking at art"
+                                                  src="/images/Blog/image-04.webp"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;itok=EJiVjKnN
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;itok=pmHnwNQG
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;itok=w5TkDR8G
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;itok=PfzaPMzD
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;itok=tofGnREC
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;itok=pmHnwNQG"
-                                                  data-sizes="auto" alt="Three
-                                                  young people of colour sit
-                                                  with the poet Jenny Mitchell
-                                                  in the Prints and Drawings
-                                                  study room looking at art"
-                                                  /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">
@@ -934,33 +837,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&itok=rXdN8Vsf"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&itok=co9HbFKl 400w, /sites/default/files/styles/16_9_media_small/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&itok=rXdN8Vsf 750w, /sites/default/files/styles/16_9_media_medium/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&itok=2HF1oOat 1000w, /sites/default/files/styles/16_9_media_large/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&itok=_O8getOR 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&itok=2iTbhS9r 1600w"
-                                                  data-focal-position="center center"
-                                                  alt="Aerial image featuring people at work, a large umbrella for sun protection,a wheelbarrow and various tools and equipment"
+                                                  src="/images/Blog/image-05.jpg"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&amp;itok=co9HbFKl
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&amp;itok=rXdN8Vsf
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&amp;itok=2HF1oOat
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&amp;itok=_O8getOR
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&amp;itok=2iTbhS9r
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-02/MOWAA%2C%20project%20image%2C%201920x1080.jpg?h=d1cb525d&amp;itok=rXdN8Vsf"
-                                                  data-sizes="auto" alt="Aerial
-                                                  image featuring people at
-                                                  work, a large umbrella for sun
-                                                  protection,a wheelbarrow and
-                                                  various tools and equipment"
-                                                  /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">
@@ -1011,30 +889,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&itok=5uUj2N2K"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&itok=JeCoxVEr 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&itok=5uUj2N2K 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&itok=L5X4Mu1N 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&itok=Ced1SLcH 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&itok=0tYyg5ga 1600w"
-                                                  data-focal-position="bottom center"
-                                                  alt="View of buildings in Samarkand with a sunset behind "
+                                                  src="/images/Blog/image-06.jpg"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&amp;itok=JeCoxVEr
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&amp;itok=5uUj2N2K
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&amp;itok=L5X4Mu1N
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&amp;itok=Ced1SLcH
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&amp;itok=0tYyg5ga
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Registan%20sunrise%201920x1080.jpg?h=05a55881&amp;itok=5uUj2N2K"
-                                                  data-sizes="auto" alt="View of
-                                                  buildings in Samarkand with a
-                                                  sunset behind " /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">
@@ -1086,33 +942,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&itok=u01QWYNA"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&itok=_5seXSSc 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&itok=u01QWYNA 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&itok=mXB_-E_b 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&itok=iuK5lkmW 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&itok=i5UpmGmi 1600w"
-                                                  data-focal-position="center center"
-                                                  alt="A skeleton with an open mouth as if laughing or screaming, with flowers and cacti growing from its bones and a lizard climbing up its chest."
+                                                  src="/images/Blog/image-07.jpg"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&amp;itok=_5seXSSc
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&amp;itok=u01QWYNA
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&amp;itok=mXB_-E_b
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&amp;itok=iuK5lkmW
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&amp;itok=i5UpmGmi
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/La-Muerte-Enramada-1000x562.jpg?h=73545cb6&amp;itok=u01QWYNA"
-                                                  data-sizes="auto" alt="A
-                                                  skeleton with an open mouth as
-                                                  if laughing or screaming, with
-                                                  flowers and cacti growing from
-                                                  its bones and a lizard
-                                                  climbing up its chest." /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">
@@ -1164,36 +995,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&itok=8518Y8lp"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&itok=Eubxgmld 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&itok=8518Y8lp 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&itok=NgihgpOU 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&itok=uuqmq_4- 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&itok=GbmEo9Js 1600w"
-                                                  data-focal-position="center center"
-                                                  alt="Japanese woodblock colour print showing two small ferryboats crossing a river carrying groups of people, with hills and woodland surrounding the riverbank and a large mountain in the background."
+                                                  src="/images/Blog/image-08.jpg"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&amp;itok=Eubxgmld
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&amp;itok=8518Y8lp
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&amp;itok=NgihgpOU
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&amp;itok=uuqmq_4-
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&amp;itok=GbmEo9Js
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hiroshige-Fuji-river-1920x1080.jpg?h=47f7af38&amp;itok=8518Y8lp"
-                                                  data-sizes="auto"
-                                                  alt="Japanese woodblock colour
-                                                  print showing two small
-                                                  ferryboats crossing a river
-                                                  carrying groups of people,
-                                                  with hills and woodland
-                                                  surrounding the riverbank and
-                                                  a large mountain in the
-                                                  background." /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">
@@ -1245,31 +1048,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=GPbOHNW7"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=ufx2fKa9 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=GPbOHNW7 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=1rmmtsx1 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=28vFR-XQ 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=oswA18lj 1600w"
-                                                  data-focal-position="center center"
-                                                  alt="Hew Locke wears blue gloves and examines a penny through a magnifying glass"
+                                                  src="/images/Blog/image-09.jpg"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;itok=ufx2fKa9
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;itok=GPbOHNW7
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;itok=1rmmtsx1
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;itok=28vFR-XQ
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;itok=oswA18lj
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;itok=GPbOHNW7"
-                                                  data-sizes="auto" alt="Hew
-                                                  Locke wears blue gloves and
-                                                  examines a penny through a
-                                                  magnifying glass" /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">
@@ -1322,33 +1102,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&itok=8qXJtIQq"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&itok=qSVidXlX 400w, /sites/default/files/styles/16_9_media_small/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&itok=8qXJtIQq 750w, /sites/default/files/styles/16_9_media_medium/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&itok=4N-8Gb3z 1000w, /sites/default/files/styles/16_9_media_large/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&itok=pQMWTLBO 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&itok=0AABB08o 1600w"
-                                                  data-focal-position="center center"
-                                                  alt="Conservators work in the Hirayama studio with scrolls and artworks in front of them, surrounded by wooden boards and red lacquer tables"
+                                                  src="/images/Blog/image-10.webp"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&amp;itok=qSVidXlX
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&amp;itok=8qXJtIQq
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&amp;itok=4N-8Gb3z
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&amp;itok=pQMWTLBO
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&amp;itok=0AABB08o
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Hirayama-studio-recent-hero-1920x1080.png?h=d1cb525d&amp;itok=8qXJtIQq"
-                                                  data-sizes="auto"
-                                                  alt="Conservators work in the
-                                                  Hirayama studio with scrolls
-                                                  and artworks in front of them,
-                                                  surrounded by wooden boards
-                                                  and red lacquer tables" /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">
@@ -1402,31 +1157,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&itok=PWaC0-4N"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&itok=38lFwrIh 400w, /sites/default/files/styles/16_9_media_small/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&itok=PWaC0-4N 750w, /sites/default/files/styles/16_9_media_medium/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&itok=hxLmm2Vd 1000w, /sites/default/files/styles/16_9_media_large/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&itok=5EN2vK8m 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&itok=LSArD_Bm 1600w"
-                                                  data-focal-position="center center"
-                                                  alt="Detail from a manuscript showing a decorated initial with an elephant's head."
+                                                  src="/images/Blog/image-11.webp"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&amp;itok=38lFwrIh
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&amp;itok=PWaC0-4N
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&amp;itok=hxLmm2Vd
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&amp;itok=5EN2vK8m
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&amp;itok=LSArD_Bm
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Elephant%20manuscript%201600x825.jpg?h=c49d56c6&amp;itok=PWaC0-4N"
-                                                  data-sizes="auto" alt="Detail
-                                                  from a manuscript showing a
-                                                  decorated initial with an
-                                                  elephant's head." /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">
@@ -1480,31 +1212,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&itok=ncH_WY0-"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&itok=n_Nv48Uf 400w, /sites/default/files/styles/16_9_media_small/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&itok=ncH_WY0- 750w, /sites/default/files/styles/16_9_media_medium/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&itok=lOgtlPjs 1000w, /sites/default/files/styles/16_9_media_large/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&itok=6QKXzCJA 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&itok=P1Ku6g1y 1600w"
-                                                  data-focal-position="center center"
-                                                  alt="Chaos in a classroom as two teachers come head-to-head and pupils look on"
+                                                  src="/images/Blog/image-12.jpg"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&amp;itok=n_Nv48Uf
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&amp;itok=ncH_WY0-
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&amp;itok=lOgtlPjs
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&amp;itok=6QKXzCJA
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&amp;itok=P1Ku6g1y
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Back-to-school-1920x1080.png?h=d1cb525d&amp;itok=ncH_WY0-"
-                                                  data-sizes="auto" alt="Chaos
-                                                  in a classroom as two teachers
-                                                  come head-to-head and pupils
-                                                  look on" /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">
@@ -1556,31 +1265,8 @@ const Blog = () => {
                                                   className="lazyload"
                                                   width={750}
                                                   height={422}
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=Wswsw_8Z"
-                                                  data-sizes="auto"
-                                                  data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=8g4bt6mR 400w, /sites/default/files/styles/16_9_media_small/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=Wswsw_8Z 750w, /sites/default/files/styles/16_9_media_medium/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=C6Dtsjcm 1000w, /sites/default/files/styles/16_9_media_large/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=hs-fezRf 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=hwvsrL9d 1600w"
-                                                  data-focal-position="top left"
-                                                  alt="Man sitting on stairs with colour masked figures behind him."
+                                                  src="/images/Blog/image-13.webp"
                                                 />
-                                                <noscript>
-                                                  &lt;img loading="eager"
-                                                  srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;itok=8g4bt6mR
-                                                  400w,
-                                                  /sites/default/files/styles/16_9_media_small/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;itok=Wswsw_8Z
-                                                  750w,
-                                                  /sites/default/files/styles/16_9_media_medium/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;itok=C6Dtsjcm
-                                                  1000w,
-                                                  /sites/default/files/styles/16_9_media_large/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;itok=hs-fezRf
-                                                  1300w,
-                                                  /sites/default/files/styles/16_9_media_huge/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;itok=hwvsrL9d
-                                                  1600w" width="750"
-                                                  height="422"
-                                                  data-src="/sites/default/files/styles/16_9_media_small/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;itok=Wswsw_8Z"
-                                                  data-sizes="auto" alt="Man
-                                                  sitting on stairs with colour
-                                                  masked figures behind him."
-                                                  /&gt;
-                                                </noscript>
                                               </div>
                                             </div>
                                             <div className="teaser__content">

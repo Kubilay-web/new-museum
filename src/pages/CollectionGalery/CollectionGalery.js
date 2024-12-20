@@ -856,31 +856,8 @@ const CollectionGalery = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&itok=B33UoSyY"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&itok=PGtT_QG3 400w, /sites/default/files/styles/16_9_media_small/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&itok=B33UoSyY 750w, /sites/default/files/styles/16_9_media_medium/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&itok=MsQQLQ9d 1000w, /sites/default/files/styles/16_9_media_large/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&itok=PLemV8Sx 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&itok=AnLXZpeM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Statue of Ramesses II in the Egyptian sculpture gallery "
+                                                    src="/images/CollectionGalery/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&amp;itok=PGtT_QG3
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&amp;itok=B33UoSyY
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&amp;itok=MsQQLQ9d
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&amp;itok=PLemV8Sx
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&amp;itok=AnLXZpeM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-08/BMImages_00895929001_SuperRes.jpg?h=c34a368c&amp;itok=B33UoSyY"
-                                                    data-sizes="auto"
-                                                    alt="Statue of Ramesses II
-                                                    in the Egyptian sculpture
-                                                    gallery " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -922,36 +899,8 @@ const CollectionGalery = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&itok=CQNirOCP"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&itok=iC_JsAEg 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&itok=CQNirOCP 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&itok=6ofA26dn 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&itok=jsy7zNE2 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&itok=FF55qC2L 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Rectangular in form with side flanges (largely missing). Background surface decorated with stylised quatrefoil (river leaf) patterns and stippling. Rosettes in each corner"
+                                                    src="/images/CollectionGalery/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&amp;itok=iC_JsAEg
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&amp;itok=CQNirOCP
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&amp;itok=6ofA26dn
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&amp;itok=jsy7zNE2
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&amp;itok=FF55qC2L
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R25%2013_Africa_0.jpg?h=ec63fc38&amp;itok=CQNirOCP"
-                                                    data-sizes="auto"
-                                                    alt="Rectangular in form
-                                                    with side flanges (largely
-                                                    missing). Background surface
-                                                    decorated with stylised
-                                                    quatrefoil (river leaf)
-                                                    patterns and stippling.
-                                                    Rosettes in each corner"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -990,31 +939,8 @@ const CollectionGalery = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=VXoLx8oO"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=PMQ0scQa 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=VXoLx8oO 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=-2SvTYb7 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=cFVEDiB3 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=mmFPgrH7 1600w"
-                                                    data-focal-position="top right"
-                                                    alt="Visitor looking at the Sutton Hoo helmet in Room 41"
+                                                    src="/images/CollectionGalery/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=PMQ0scQa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=VXoLx8oO
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=-2SvTYb7
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=cFVEDiB3
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=mmFPgrH7
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=VXoLx8oO"
-                                                    data-sizes="auto"
-                                                    alt="Visitor looking at the
-                                                    Sutton Hoo helmet in Room
-                                                    41" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1056,31 +982,8 @@ const CollectionGalery = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&itok=uZ_vTlXj"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&itok=m-OYCjLg 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&itok=uZ_vTlXj 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&itok=U5tpeVeG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&itok=zTRmg_8f 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&itok=Ga4UU75s 1600w"
-                                                    data-focal-position="center left"
-                                                    alt="Visitor looking at a marble bust in Room 70"
+                                                    src="/images/CollectionGalery/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&amp;itok=m-OYCjLg
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&amp;itok=uZ_vTlXj
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&amp;itok=U5tpeVeG
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&amp;itok=zTRmg_8f
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&amp;itok=Ga4UU75s
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R70%2053_Ancient%20Greece%20Room.jpg?h=c6dd07f3&amp;itok=uZ_vTlXj"
-                                                    data-sizes="auto"
-                                                    alt="Visitor looking at a
-                                                    marble bust in Room 70"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3231,29 +3134,8 @@ const CollectionGalery = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&itok=I54Wk4A2"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&itok=dqh1dWac 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&itok=I54Wk4A2 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&itok=XC5WIOS8 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&itok=rITb0ioz 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&itok=pUh9MLQv 1600w"
-                                          data-focal-position="top center"
-                                          alt="A young visitor in Room 2 beside the the Knucklebone player sculpture"
+                                          src="/images/CollectionGalery/image-05.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&amp;itok=dqh1dWac
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&amp;itok=I54Wk4A2
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&amp;itok=XC5WIOS8
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&amp;itok=rITb0ioz
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&amp;itok=pUh9MLQv
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R02%2042%20Enlightenment%20Themes%20Room%201%202%202a.jpg?h=3743cd8c&amp;itok=I54Wk4A2"
-                                          data-sizes="auto" alt="A young visitor
-                                          in Room 2 beside the the Knucklebone
-                                          player sculpture" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -3293,29 +3175,8 @@ const CollectionGalery = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&itok=ivdtZgWD"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&itok=RbXf-h1B 400w, /sites/default/files/styles/16_9_media_small/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&itok=ivdtZgWD 750w, /sites/default/files/styles/16_9_media_medium/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&itok=KvzxZr0j 1000w, /sites/default/files/styles/16_9_media_large/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&itok=YjGC2Hr_ 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&itok=9BMyn_5Z 1600w"
-                                          data-focal-position="center center"
-                                          alt="Two red, white, blue and gold decorated mantelpiece elephants figures"
+                                          src="/images/CollectionGalery/image-06.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&amp;itok=RbXf-h1B
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&amp;itok=ivdtZgWD
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&amp;itok=KvzxZr0j
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&amp;itok=YjGC2Hr_
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&amp;itok=9BMyn_5Z
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-04/kakiemon-elephant-endo-animals-2000.jpg?h=5f6a724d&amp;itok=ivdtZgWD"
-                                          data-sizes="auto" alt="Two red, white,
-                                          blue and gold decorated mantelpiece
-                                          elephants figures" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -3356,29 +3217,8 @@ const CollectionGalery = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&itok=jgaS0TM7"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&itok=LLVt3Fp5 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&itok=jgaS0TM7 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&itok=i4cg2u0z 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&itok=3u2Osg3E 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&itok=ILPDtcU_ 1600w"
-                                          data-focal-position="center center"
-                                          alt="Visitor looking at various sketches in Prints and Drawings"
+                                          src="/images/CollectionGalery/image-07.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&amp;itok=LLVt3Fp5
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&amp;itok=jgaS0TM7
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&amp;itok=i4cg2u0z
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&amp;itok=3u2Osg3E
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&amp;itok=ILPDtcU_
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R90%2024_PD%20Amaravati%20Jade%20Temp.jpg?h=c9a3a702&amp;itok=jgaS0TM7"
-                                          data-sizes="auto" alt="Visitor looking
-                                          at various sketches in Prints and
-                                          Drawings" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -3417,29 +3257,8 @@ const CollectionGalery = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=VXoLx8oO"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=PMQ0scQa 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=VXoLx8oO 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=-2SvTYb7 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=cFVEDiB3 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&itok=mmFPgrH7 1600w"
-                                          data-focal-position="top right"
-                                          alt="Visitor looking at the Sutton Hoo helmet in Room 41"
+                                          src="/images/CollectionGalery/image-08.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=PMQ0scQa
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=VXoLx8oO
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=-2SvTYb7
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=cFVEDiB3
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=mmFPgrH7
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R41%2005_Middle%20East%20Assyrian%20Sutton%20Hoo.jpg?h=b26ee46e&amp;itok=VXoLx8oO"
-                                          data-sizes="auto" alt="Visitor looking
-                                          at the Sutton Hoo helmet in Room 41"
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
