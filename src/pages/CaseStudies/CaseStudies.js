@@ -749,30 +749,8 @@ const CaseStudies = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&itok=6rZIJLcD"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&itok=sS7Dr77X 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&itok=6rZIJLcD 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&itok=3MR_U8o_ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&itok=Bs6240a8 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&itok=y6o1uFUL 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Drawing of Madonna and Child with angels"
+                                                    src="/images/CaseStudies/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&amp;itok=sS7Dr77X
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&amp;itok=6rZIJLcD
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&amp;itok=3MR_U8o_
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&amp;itok=Bs6240a8
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&amp;itok=y6o1uFUL
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Acceptance-in-Lieu-Gozzoli.jpg?h=a7415b3b&amp;itok=6rZIJLcD"
-                                                    data-sizes="auto"
-                                                    alt="Drawing of Madonna and
-                                                    Child with angels" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -813,30 +791,8 @@ const CaseStudies = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&itok=itRlFKEW"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&itok=1QzdMzt_ 400w, /sites/default/files/styles/16_9_media_small/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&itok=itRlFKEW 750w, /sites/default/files/styles/16_9_media_medium/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&itok=8SU0S5yB 1000w, /sites/default/files/styles/16_9_media_large/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&itok=HgImsbQ4 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&itok=YJOu_2zT 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Lectures & discussions"
+                                                    src="/images/CaseStudies/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&amp;itok=1QzdMzt_
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&amp;itok=itRlFKEW
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&amp;itok=8SU0S5yB
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&amp;itok=HgImsbQ4
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&amp;itok=YJOu_2zT
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-12/Lectures%20%26%20discussions.jpg?h=deeb9aa6&amp;itok=itRlFKEW"
-                                                    data-sizes="auto"
-                                                    alt="Lectures &amp;
-                                                    discussions" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -875,30 +831,8 @@ const CaseStudies = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=HH8ZoMkP"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=FbMoggCw 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=HH8ZoMkP 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=CfmmUFDY 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=PxEIqzo5 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=x0zgs4-n 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Image"
+                                                    src="/images/CaseStudies/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=FbMoggCw
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=HH8ZoMkP
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=CfmmUFDY
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=PxEIqzo5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=x0zgs4-n
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=HH8ZoMkP"
-                                                    data-sizes="auto" alt="Image
-                                                    of "Mountain", an artistic
-                                                    work by Minjung Kim" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -994,31 +928,8 @@ const CaseStudies = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/eisler_new_624.jpg?h=dbeb307d&itok=asKcc16Y"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/eisler_new_624.jpg?h=dbeb307d&itok=G8S-RPrb 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/eisler_new_624.jpg?h=dbeb307d&itok=asKcc16Y 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/eisler_new_624.jpg?h=dbeb307d&itok=szRDQB2q 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/eisler_new_624.jpg?h=dbeb307d&itok=kRepJB-X 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/eisler_new_624.jpg?h=dbeb307d&itok=sPGDp2dZ 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="White ink drawing based upon the architectural design of muqarnas"
+                                                    src="/images/CaseStudies/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/eisler_new_624.jpg?h=dbeb307d&amp;itok=G8S-RPrb
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/eisler_new_624.jpg?h=dbeb307d&amp;itok=asKcc16Y
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/eisler_new_624.jpg?h=dbeb307d&amp;itok=szRDQB2q
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/eisler_new_624.jpg?h=dbeb307d&amp;itok=kRepJB-X
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/eisler_new_624.jpg?h=dbeb307d&amp;itok=sPGDp2dZ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/eisler_new_624.jpg?h=dbeb307d&amp;itok=asKcc16Y"
-                                                    data-sizes="auto" alt="White
-                                                    ink drawing&nbsp;based upon
-                                                    the architectural design of
-                                                    muqarnas" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1054,31 +965,8 @@ const CaseStudies = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&itok=KD2aK_Bv"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&itok=lFq-oQRR 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&itok=KD2aK_Bv 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&itok=vFvGjooT 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&itok=IM-1oByU 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&itok=J596crYT 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Silver seal matrix showing soldier on horse"
+                                                    src="/images/CaseStudies/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&amp;itok=lFq-oQRR
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&amp;itok=KD2aK_Bv
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&amp;itok=vFvGjooT
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&amp;itok=IM-1oByU
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&amp;itok=J596crYT
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/seal-matrix-Fitzwalter.jpg?h=29e21525&amp;itok=KD2aK_Bv"
-                                                    data-sizes="auto"
-                                                    alt="Silver seal matrix
-                                                    showing soldier on horse"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1117,29 +1005,8 @@ const CaseStudies = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&itok=ZEG6nCQF"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&itok=ingBofkx 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&itok=ZEG6nCQF 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&itok=1owiUDVp 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&itok=48_Muaxw 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&itok=w8_ib25- 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Two sides of a coin"
+                                                    src="/images/CaseStudies/image-06.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&amp;itok=ingBofkx
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&amp;itok=ZEG6nCQF
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&amp;itok=1owiUDVp
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&amp;itok=48_Muaxw
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&amp;itok=w8_ib25-
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Kenneth-Day-coin-2.jpg?h=043b4acc&amp;itok=ZEG6nCQF"
-                                                    data-sizes="auto" alt="Two
-                                                    sides of a coin" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1233,29 +1100,8 @@ const CaseStudies = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&itok=HoD3lTh4"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&itok=23ZyrRqa 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&itok=HoD3lTh4 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&itok=O_C0pN2M 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&itok=dh4jAvl2 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&itok=4ocAtxWt 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Group of children drawing"
+                                                    src="/images/CaseStudies/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&amp;itok=23ZyrRqa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&amp;itok=HoD3lTh4
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&amp;itok=O_C0pN2M
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&amp;itok=dh4jAvl2
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&amp;itok=4ocAtxWt
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Wolfson-Children-Workshop.jpg?h=2b70f90f&amp;itok=HoD3lTh4"
-                                                    data-sizes="auto" alt="Group
-                                                    of children drawing" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1297,30 +1143,8 @@ const CaseStudies = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/samsung3.jpg?h=e1f47cac&itok=wtm4NDbO"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/samsung3.jpg?h=e1f47cac&itok=BfUh_kgs 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/samsung3.jpg?h=e1f47cac&itok=wtm4NDbO 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/samsung3.jpg?h=e1f47cac&itok=wWYHsCi_ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/samsung3.jpg?h=e1f47cac&itok=p4fgoohq 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/samsung3.jpg?h=e1f47cac&itok=d0x4b3mu 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Girl using tablet to learn about object"
+                                                    src="/images/CaseStudies/image-08.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/samsung3.jpg?h=e1f47cac&amp;itok=BfUh_kgs
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/samsung3.jpg?h=e1f47cac&amp;itok=wtm4NDbO
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/samsung3.jpg?h=e1f47cac&amp;itok=wWYHsCi_
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/samsung3.jpg?h=e1f47cac&amp;itok=p4fgoohq
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/samsung3.jpg?h=e1f47cac&amp;itok=d0x4b3mu
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/samsung3.jpg?h=e1f47cac&amp;itok=wtm4NDbO"
-                                                    data-sizes="auto" alt="Girl
-                                                    using tablet to learn about
-                                                    object" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1358,30 +1182,8 @@ const CaseStudies = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&itok=M5B3xzwO"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&itok=cLx5fLTR 400w, /sites/default/files/styles/16_9_media_small/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&itok=M5B3xzwO 750w, /sites/default/files/styles/16_9_media_medium/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&itok=RCviGU2v 1000w, /sites/default/files/styles/16_9_media_large/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&itok=aWpXSjUI 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&itok=tc32He4S 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Outside of WCEC viewed at night"
+                                                    src="/images/CaseStudies/image-09.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&amp;itok=cLx5fLTR
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&amp;itok=M5B3xzwO
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&amp;itok=RCviGU2v
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&amp;itok=aWpXSjUI
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&amp;itok=tc32He4S
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-01/WCEC-exterior_0.jpg?h=d1cb525d&amp;itok=M5B3xzwO"
-                                                    data-sizes="auto"
-                                                    alt="Outside of WCEC viewed
-                                                    at night" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
