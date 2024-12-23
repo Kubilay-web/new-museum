@@ -1256,34 +1256,8 @@ const Press = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=j0QkfdlY"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=bKcIBlU6 400w, /sites/default/files/styles/16_9_media_small/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=j0QkfdlY 750w, /sites/default/files/styles/16_9_media_medium/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=m2w74bDQ 1000w, /sites/default/files/styles/16_9_media_large/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=aOj4vl1e 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=q6PplfZg 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Ceremonial cap made of hide, adorned with gold details, including golden horns, golden badges of faces, and raised flaps with fur at each end"
+                                                    src="/images/Press/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=bKcIBlU6
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=j0QkfdlY
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=m2w74bDQ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=aOj4vl1e
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=q6PplfZg
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=j0QkfdlY"
-                                                    data-sizes="auto"
-                                                    alt="Ceremonial cap made of
-                                                    hide, adorned with gold
-                                                    details, including golden
-                                                    horns, golden badges of
-                                                    faces, and raised flaps with
-                                                    fur at each end" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1323,31 +1297,8 @@ const Press = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&itok=J-1oDmhN"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&itok=Qj0zCEET 400w, /sites/default/files/styles/16_9_media_small/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&itok=J-1oDmhN 750w, /sites/default/files/styles/16_9_media_medium/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&itok=rOwL3Ec8 1000w, /sites/default/files/styles/16_9_media_large/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&itok=JUn_miVI 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&itok=idv5uH7y 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Relief plaque made of brass cast showing two figures"
+                                                    src="/images/Press/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&amp;itok=Qj0zCEET
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&amp;itok=J-1oDmhN
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&amp;itok=rOwL3Ec8
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&amp;itok=JUn_miVI
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&amp;itok=idv5uH7y
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Benin_bronze_plaque_1000x500.jpg?h=5dabf909&amp;itok=J-1oDmhN"
-                                                    data-sizes="auto"
-                                                    alt="Relief plaque made of
-                                                    brass cast showing two
-                                                    figures" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1386,40 +1337,8 @@ const Press = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&itok=4j5n14Jm"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&itok=XMhM-ltQ 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&itok=4j5n14Jm 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&itok=kELrdnLA 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&itok=oSvuUI5p 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&itok=jRDaL721 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The image shows a photograph of the Book of the Dead of Hunefer. The information has been written on papyrus. It shows Hunefer kneeling before deities and the jackal-headed Anubis leading Hunefer towards the balance of judgment, where Anubis is depicted again, kneeling to adjust a weighing scale of the heart."
+                                                    src="/images/Press/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&amp;itok=XMhM-ltQ
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&amp;itok=4j5n14Jm
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&amp;itok=kELrdnLA
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&amp;itok=oSvuUI5p
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&amp;itok=jRDaL721
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Book_dead_Hunefer_1000x500.jpg?h=5dabf909&amp;itok=4j5n14Jm"
-                                                    data-sizes="auto" alt="The
-                                                    image shows a photograph of
-                                                    the Book of the Dead of
-                                                    Hunefer. The information has
-                                                    been written on papyrus. It
-                                                    shows Hunefer kneeling
-                                                    before deities and the
-                                                    jackal-headed Anubis leading
-                                                    Hunefer towards the balance
-                                                    of judgment, where Anubis is
-                                                    depicted again, kneeling to
-                                                    adjust a weighing scale of
-                                                    the heart." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1459,31 +1378,8 @@ const Press = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&itok=9mDo4HUS"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&itok=bThqqcoQ 400w, /sites/default/files/styles/16_9_media_small/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&itok=9mDo4HUS 750w, /sites/default/files/styles/16_9_media_medium/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&itok=VK93ip4O 1000w, /sites/default/files/styles/16_9_media_large/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&itok=-RJv3Z2A 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&itok=IP4Bxyt9 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Two open panels of a diptych containing religious imagery."
+                                                    src="/images/Press/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&amp;itok=bThqqcoQ
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&amp;itok=9mDo4HUS
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&amp;itok=VK93ip4O
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&amp;itok=-RJv3Z2A
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&amp;itok=IP4Bxyt9
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Maqdala_diptych_teaser.jpg?h=d1cb525d&amp;itok=9mDo4HUS"
-                                                    data-sizes="auto" alt="Two
-                                                    open panels of a diptych
-                                                    containing religious
-                                                    imagery." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1549,31 +1445,8 @@ const Press = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&itok=7el7eUlX"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&itok=QoZkrH7I 400w, /sites/default/files/styles/16_9_media_small/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&itok=7el7eUlX 750w, /sites/default/files/styles/16_9_media_medium/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&itok=kmadCefo 1000w, /sites/default/files/styles/16_9_media_large/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&itok=nV9QDYz9 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&itok=KKIYchpo 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Face and shoulders of ancestor figure carved from basalt. "
+                                                    src="/images/Press/image-05.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&amp;itok=QoZkrH7I
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&amp;itok=7el7eUlX
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&amp;itok=kmadCefo
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&amp;itok=nV9QDYz9
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&amp;itok=KKIYchpo
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-02/BMImages_00612087001_SuperRes%20teaser_0.jpg?h=bdffd7ae&amp;itok=7el7eUlX"
-                                                    data-sizes="auto" alt="Face
-                                                    and shoulders of ancestor
-                                                    figure carved from basalt. "
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1610,30 +1483,8 @@ const Press = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&itok=iS0lGTxG"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&itok=C6A5yUZV 400w, /sites/default/files/styles/16_9_media_small/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&itok=iS0lGTxG 750w, /sites/default/files/styles/16_9_media_medium/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&itok=Fw41hzkt 1000w, /sites/default/files/styles/16_9_media_large/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&itok=IMWiJQAN 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&itok=YMBjyjpj 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Marble head of horse"
+                                                    src="/images/Press/image-06.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&amp;itok=C6A5yUZV
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&amp;itok=iS0lGTxG
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&amp;itok=Fw41hzkt
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&amp;itok=IMWiJQAN
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&amp;itok=YMBjyjpj
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-06/parthenon-horse-1000_0.jpg?h=5dabf909&amp;itok=iS0lGTxG"
-                                                    data-sizes="auto"
-                                                    alt="Marble head of horse"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1667,30 +1518,8 @@ const Press = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&itok=wj2SqdOm"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&itok=6DVq3T1T 400w, /sites/default/files/styles/16_9_media_small/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&itok=wj2SqdOm 750w, /sites/default/files/styles/16_9_media_medium/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&itok=lCXmLEFE 1000w, /sites/default/files/styles/16_9_media_large/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&itok=gukc8YWx 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&itok=OcOR3EAf 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Aboriginal shield made of red mangrove wood"
+                                                    src="/images/Press/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&amp;itok=6DVq3T1T
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&amp;itok=wj2SqdOm
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&amp;itok=lCXmLEFE
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&amp;itok=gukc8YWx
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&amp;itok=OcOR3EAf
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Early_Australian_shield_1000x500.jpg?h=5dabf909&amp;itok=wj2SqdOm"
-                                                    data-sizes="auto"
-                                                    alt="Aboriginal shield made
-                                                    of red mangrove wood" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1729,30 +1558,8 @@ const Press = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&itok=VN8UD0BY"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&itok=DwN_vGhZ 400w, /sites/default/files/styles/16_9_media_small/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&itok=VN8UD0BY 750w, /sites/default/files/styles/16_9_media_medium/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&itok=OQggX07K 1000w, /sites/default/files/styles/16_9_media_large/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&itok=0AQugaqR 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&itok=wPMrZ4Ay 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Oriental-style Viennese porcelain plate."
+                                                    src="/images/Press/image-08.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&amp;itok=DwN_vGhZ
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&amp;itok=VN8UD0BY
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&amp;itok=OQggX07K
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&amp;itok=0AQugaqR
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&amp;itok=wPMrZ4Ay
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Viennese_porcelain_plate_1000x500.jpg?h=5dabf909&amp;itok=VN8UD0BY"
-                                                    data-sizes="auto"
-                                                    alt="Oriental-style Viennese
-                                                    porcelain plate." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1945,29 +1752,8 @@ const Press = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&itok=p3YTtq4z"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&itok=32HuMIap 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&itok=p3YTtq4z 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&itok=gr-_RQrK 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&itok=0kCvm261 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&itok=u68lBcoI 1600w"
-                                          data-focal-position="center center"
-                                          alt="Black and white photo of the King's Library at the British Museum."
+                                          src="/images/Press/image-09.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&amp;itok=32HuMIap
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&amp;itok=p3YTtq4z
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&amp;itok=gr-_RQrK
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&amp;itok=0kCvm261
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&amp;itok=u68lBcoI
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/The%20King%27s%20Library_British%20Museum.jpg?h=8c511d69&amp;itok=p3YTtq4z"
-                                          data-sizes="auto" alt="Black and white
-                                          photo of the King's Library at the
-                                          British Museum." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2003,28 +1789,8 @@ const Press = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=MMnq0x7-"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=AQPDlUMh 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=MMnq0x7- 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=zXquW66f 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=yQ7KaKEx 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=Ynr5umhH 1600w"
-                                          data-focal-position="bottom right"
-                                          alt="Eating outside the Museum"
+                                          src="/images/Press/image-10.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=AQPDlUMh
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=MMnq0x7-
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=zXquW66f
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=yQ7KaKEx
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=Ynr5umhH
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=MMnq0x7-"
-                                          data-sizes="auto" alt="Eating outside
-                                          the Museum" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2061,35 +1827,8 @@ const Press = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=g44zpD1S"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=4UujdsNr 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=g44zpD1S 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=KYTXdbQM 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=MAqHhMpR 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=QHV6ipOL 1600w"
-                                          data-focal-position="center center"
-                                          alt="Softly-tinted historical print of the front elevation of the British Museum, showing the iconic neoclassical facade and exterior railing set back from a busy street filled with figures in Victorian dress - including guards, pedestrians, mounted horseriders and a horse-drawn carriage."
+                                          src="/images/Press/image-11.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=4UujdsNr
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=g44zpD1S
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=KYTXdbQM
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=MAqHhMpR
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=QHV6ipOL
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=g44zpD1S"
-                                          data-sizes="auto" alt="Softly-tinted
-                                          historical print of the front
-                                          elevation of the British Museum,
-                                          showing the iconic neoclassical facade
-                                          and exterior railing set back from a
-                                          busy street filled with figures in
-                                          Victorian dress - including guards,
-                                          pedestrians, mounted horseriders and a
-                                          horse-drawn carriage." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2127,30 +1866,8 @@ const Press = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&itok=yVSRo8JQ"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&itok=m2leuM5y 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&itok=yVSRo8JQ 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&itok=8IH5PFAg 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&itok=D8RMLOmJ 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&itok=elbNhZ8r 1600w"
-                                          data-focal-position="center center"
-                                          alt="Top of wooden goldsmith's box, painted with scenes of Qajar princes hunting and other courtly or historical scenes"
+                                          src="/images/Press/image-12.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&amp;itok=m2leuM5y
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&amp;itok=yVSRo8JQ
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&amp;itok=8IH5PFAg
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&amp;itok=D8RMLOmJ
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&amp;itok=elbNhZ8r
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Box-Qajar-Dynasty-close-up.jpg?h=d1cb525d&amp;itok=yVSRo8JQ"
-                                          data-sizes="auto" alt="Top of wooden
-                                          goldsmith's box, painted with scenes
-                                          of Qajar princes hunting and other
-                                          courtly or historical scenes" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
