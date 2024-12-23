@@ -823,31 +823,8 @@ const Research = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=nzevqiy7"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=FcJrJG_d 400w, /sites/default/files/styles/16_9_media_small/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=nzevqiy7 750w, /sites/default/files/styles/16_9_media_medium/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=plJjwrzg 1000w, /sites/default/files/styles/16_9_media_large/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=-vMcz2al 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=bC7o--0G 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Close up of a woman cleaning pearls on a headdress with a laser device. "
+                                                    src="/images/Research/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=FcJrJG_d
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=nzevqiy7
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=plJjwrzg
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=-vMcz2al
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=bC7o--0G
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=nzevqiy7"
-                                                    data-sizes="auto" alt="Close
-                                                    up of a woman cleaning
-                                                    pearls on a headdress with a
-                                                    laser device. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -888,30 +865,8 @@ const Research = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Coin-research.jpg?h=d1cb525d&itok=LN9MNM_P"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Coin-research.jpg?h=d1cb525d&itok=zAvd6AQ4 400w, /sites/default/files/styles/16_9_media_small/public/2020-07/Coin-research.jpg?h=d1cb525d&itok=LN9MNM_P 750w, /sites/default/files/styles/16_9_media_medium/public/2020-07/Coin-research.jpg?h=d1cb525d&itok=GA6DImyF 1000w, /sites/default/files/styles/16_9_media_large/public/2020-07/Coin-research.jpg?h=d1cb525d&itok=cAVubZck 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-07/Coin-research.jpg?h=d1cb525d&itok=wEteBsgK 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A coin, magnifying glass and book"
+                                                    src="/images/Research/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Coin-research.jpg?h=d1cb525d&amp;itok=zAvd6AQ4
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-07/Coin-research.jpg?h=d1cb525d&amp;itok=LN9MNM_P
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-07/Coin-research.jpg?h=d1cb525d&amp;itok=GA6DImyF
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-07/Coin-research.jpg?h=d1cb525d&amp;itok=cAVubZck
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-07/Coin-research.jpg?h=d1cb525d&amp;itok=wEteBsgK
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Coin-research.jpg?h=d1cb525d&amp;itok=LN9MNM_P"
-                                                    data-sizes="auto" alt="A
-                                                    coin, magnifying glass and
-                                                    book" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -950,30 +905,8 @@ const Research = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Handling-object.jpg?h=c59607c6&itok=qn-u5A3X"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Handling-object.jpg?h=c59607c6&itok=FH6t3Xrz 400w, /sites/default/files/styles/16_9_media_small/public/2020-07/Handling-object.jpg?h=c59607c6&itok=qn-u5A3X 750w, /sites/default/files/styles/16_9_media_medium/public/2020-07/Handling-object.jpg?h=c59607c6&itok=hj5m2Hqh 1000w, /sites/default/files/styles/16_9_media_large/public/2020-07/Handling-object.jpg?h=c59607c6&itok=mARzmEzg 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-07/Handling-object.jpg?h=c59607c6&itok=WiTRcgTr 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Gloved hand holding object"
+                                                    src="/images/Research/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=FH6t3Xrz
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=qn-u5A3X
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=hj5m2Hqh
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=mARzmEzg
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=WiTRcgTr
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=qn-u5A3X"
-                                                    data-sizes="auto"
-                                                    alt="Gloved hand holding
-                                                    object" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1012,34 +945,8 @@ const Research = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&itok=fo7tD2hQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&itok=IPf0N73R 400w, /sites/default/files/styles/16_9_media_small/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&itok=fo7tD2hQ 750w, /sites/default/files/styles/16_9_media_medium/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&itok=1M24u4Sk 1000w, /sites/default/files/styles/16_9_media_large/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&itok=9DAsrsOR 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&itok=8l-il9vM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A screenshot from the British Museum's online research repository database. It says: 'Explore Our Research Repository'. A gold item of clothing is pictured."
+                                                    src="/images/Research/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&amp;itok=IPf0N73R
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&amp;itok=fo7tD2hQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&amp;itok=1M24u4Sk
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&amp;itok=9DAsrsOR
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&amp;itok=8l-il9vM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-04/Research_repository_teaser.JPG?h=b2d1d096&amp;itok=fo7tD2hQ"
-                                                    data-sizes="auto" alt="A
-                                                    screenshot from the British
-                                                    Museum's online research
-                                                    repository database. It
-                                                    says: 'Explore Our Research
-                                                    Repository'. A gold item of
-                                                    clothing is pictured." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1107,32 +1014,8 @@ const Research = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=i2NUOjNH"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=92xWlL0W 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=i2NUOjNH 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=O0npk1x4 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=ySeIY7CA 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=4-ipQ9lt 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="An owl wearing glasses, perched on a book, open book to one side with candle on top. Black and white."
+                                                    src="/images/Research/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=92xWlL0W
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=i2NUOjNH
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=O0npk1x4
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=ySeIY7CA
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=4-ipQ9lt
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=i2NUOjNH"
-                                                    data-sizes="auto" alt="An
-                                                    owl wearing glasses, perched
-                                                    on a book, open book to one
-                                                    side with candle on top.
-                                                    Black and white." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1173,33 +1056,8 @@ const Research = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nyHgwlUi"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=zGMw-mBz 400w, /sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nyHgwlUi 750w, /sites/default/files/styles/16_9_media_medium/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nxDzoXgt 1000w, /sites/default/files/styles/16_9_media_large/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=qSLVVI9W 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=VILLDA8M 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="View of a study room showing two figures working on a long desk with multiple desk lamps, folders, and paperwork."
+                                                    src="/images/Research/image-06.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=zGMw-mBz
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nyHgwlUi
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nxDzoXgt
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=qSLVVI9W
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=VILLDA8M
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nyHgwlUi"
-                                                    data-sizes="auto" alt="View
-                                                    of a study room showing two
-                                                    figures working on a long
-                                                    desk with multiple desk
-                                                    lamps, folders, and
-                                                    paperwork." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1238,32 +1096,8 @@ const Research = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&itok=9JtugA_R"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&itok=0y-QbbOi 400w, /sites/default/files/styles/16_9_media_small/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&itok=9JtugA_R 750w, /sites/default/files/styles/16_9_media_medium/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&itok=bb8bq1UO 1000w, /sites/default/files/styles/16_9_media_large/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&itok=V8nICulI 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&itok=0FSCZNWq 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A conservator assesing a weight taken from an open painted wooden box with a mirror inside. "
+                                                    src="/images/Research/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&amp;itok=0y-QbbOi
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&amp;itok=9JtugA_R
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&amp;itok=bb8bq1UO
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&amp;itok=V8nICulI
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&amp;itok=0FSCZNWq
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-03/01%20AN-1613446632%20Saray%20Naidorf%20assessing%20a%20weight.jpg?h=f3e1135c&amp;itok=9JtugA_R"
-                                                    data-sizes="auto" alt="A
-                                                    conservator assesing a
-                                                    weight taken from an open
-                                                    painted wooden box with a
-                                                    mirror inside. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1304,32 +1138,8 @@ const Research = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=BpQAq28y"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=BMOprfpR 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=BpQAq28y 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=DYMN1FaX 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=AbxByIWz 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=sY4Ef3UJ 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Scientist conducting x-ray imaging on an artefact at work at the Department of Scientific Research"
+                                                    src="/images/Research/image-08.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=BMOprfpR
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=BpQAq28y
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=DYMN1FaX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=AbxByIWz
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=sY4Ef3UJ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=BpQAq28y"
-                                                    data-sizes="auto"
-                                                    alt="Scientist conducting
-                                                    x-ray imaging on an artefact
-                                                    at work at the Department of
-                                                    Scientific Research" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1402,29 +1212,8 @@ const Research = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TvdANM1"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=zoFWu2go 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TvdANM1 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=lPkmVaCG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TbwluqC 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=Z0RxbMhe 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="image of jade terrapin"
+                                                    src="/images/Research/image-09.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=zoFWu2go
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TvdANM1
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=lPkmVaCG
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TbwluqC
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=Z0RxbMhe
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TvdANM1"
-                                                    data-sizes="auto" alt="image
-                                                    of jade terrapin" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1463,31 +1252,8 @@ const Research = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=eCBsps_u"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=H8rYXnnK 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=eCBsps_u 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=SA6wGRqb 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=Y2hRIgck 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=3MQ7EM0V 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Detail of the Prints and drawings study room at the British Museum"
+                                                    src="/images/Research/image-10.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=H8rYXnnK
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=eCBsps_u
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=SA6wGRqb
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=Y2hRIgck
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=3MQ7EM0V
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=eCBsps_u"
-                                                    data-sizes="auto"
-                                                    alt="Detail of the Prints
-                                                    and drawings study room at
-                                                    the British Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1523,30 +1289,8 @@ const Research = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=czeL6JQ6"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=n0mOABg0 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=czeL6JQ6 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=wOzL8YRX 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=0AGJ9L6_ 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=T-E2BdNd 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The official deed of the sale of Montagu House"
+                                                    src="/images/Research/image-11.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=n0mOABg0
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=czeL6JQ6
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=wOzL8YRX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=0AGJ9L6_
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=T-E2BdNd
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=czeL6JQ6"
-                                                    data-sizes="auto" alt="The
-                                                    official deed of the sale of
-                                                    Montagu House" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
