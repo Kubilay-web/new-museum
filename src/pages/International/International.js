@@ -735,35 +735,8 @@ const International = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&itok=9NYsvJxm"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&itok=ImCvvZsa 400w, /sites/default/files/styles/16_9_media_small/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&itok=9NYsvJxm 750w, /sites/default/files/styles/16_9_media_medium/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&itok=SxUowaWq 1000w, /sites/default/files/styles/16_9_media_large/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&itok=3nC23S3Q 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&itok=I6kJQMEX 1600w"
-                                                    data-focal-position="bottom center"
-                                                    alt="A Greek pot in black and terracotta with scenes of figures seated and standing in a garden, and a horse-drawn chariot, graphic designs, a fluted neck and handles"
+                                                    src="/images/International/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&amp;itok=ImCvvZsa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&amp;itok=9NYsvJxm
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&amp;itok=SxUowaWq
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&amp;itok=3nC23S3Q
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&amp;itok=I6kJQMEX
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-11/The%20Meidias%20hydria%20black%20crop%20neck%20hero%201920%20x%201080%20jpg.jpg?h=50afc5e4&amp;itok=9NYsvJxm"
-                                                    data-sizes="auto" alt="A
-                                                    Greek pot in black and
-                                                    terracotta with scenes of
-                                                    figures seated and standing
-                                                    in a garden, and a
-                                                    horse-drawn chariot, graphic
-                                                    designs, a fluted neck and
-                                                    handles" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -805,30 +778,8 @@ const International = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=MAHDDFnU"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=Y6xcONq0 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=MAHDDFnU 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=V0xQ95gc 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=_uIfdDZd 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=rzTyu3_i 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="White and gold purse from the Sutton Hoo burial."
+                                                    src="/images/International/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=Y6xcONq0
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=MAHDDFnU
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=V0xQ95gc
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=_uIfdDZd
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=rzTyu3_i
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=MAHDDFnU"
-                                                    data-sizes="auto" alt="White
-                                                    and gold purse from the
-                                                    Sutton Hoo burial." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -870,32 +821,8 @@ const International = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=I2AFTgn5"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=PYD6aMDd 400w, /sites/default/files/styles/16_9_media_small/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=I2AFTgn5 750w, /sites/default/files/styles/16_9_media_medium/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=eHeRhx4y 1000w, /sites/default/files/styles/16_9_media_large/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=5WgiD9JE 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=nC7eRLdR 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Close up view of print showing strands in paper in wiggly stripes of dark blue, light blue and white. "
+                                                    src="/images/International/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=PYD6aMDd
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=I2AFTgn5
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=eHeRhx4y
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=5WgiD9JE
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=nC7eRLdR
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=I2AFTgn5"
-                                                    data-sizes="auto" alt="Close
-                                                    up view of print showing
-                                                    strands in paper in wiggly
-                                                    stripes of dark blue, light
-                                                    blue and white. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -992,31 +919,8 @@ const International = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=MTg3vCS9"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=Cgup90ez 400w, /sites/default/files/styles/16_9_media_small/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=MTg3vCS9 750w, /sites/default/files/styles/16_9_media_medium/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=myNDekGI 1000w, /sites/default/files/styles/16_9_media_large/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=JOdO65ho 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=Z4Dr3a69 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Two women at a desk smiling, one of them writing on paper."
+                                                    src="/images/International/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=Cgup90ez
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=MTg3vCS9
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=myNDekGI
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=JOdO65ho
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=Z4Dr3a69
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=MTg3vCS9"
-                                                    data-sizes="auto" alt="Two
-                                                    women at a desk smiling, one
-                                                    of them writing on paper."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1056,31 +960,8 @@ const International = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&itok=PDPlYjhx"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&itok=PlEGjuCM 400w, /sites/default/files/styles/16_9_media_small/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&itok=PDPlYjhx 750w, /sites/default/files/styles/16_9_media_medium/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&itok=VwL1gNx- 1000w, /sites/default/files/styles/16_9_media_large/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&itok=kgJGLA-T 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&itok=qzdMRfTP 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Group of archaeologists dusting bricks at the Bridge of Girsu."
+                                                    src="/images/International/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&amp;itok=PlEGjuCM
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&amp;itok=PDPlYjhx
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&amp;itok=VwL1gNx-
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&amp;itok=kgJGLA-T
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&amp;itok=qzdMRfTP
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-10/iraqi-archaeologist-bridge-girsu-1920.jpg?h=d1cb525d&amp;itok=PDPlYjhx"
-                                                    data-sizes="auto" alt="Group
-                                                    of archaeologists dusting
-                                                    bricks at the Bridge of
-                                                    Girsu." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1120,34 +1001,8 @@ const International = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&itok=IzVDO5Du"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&itok=i7KhzKFT 400w, /sites/default/files/styles/16_9_media_small/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&itok=IzVDO5Du 750w, /sites/default/files/styles/16_9_media_medium/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&itok=qvN4l-7l 1000w, /sites/default/files/styles/16_9_media_large/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&itok=1cnG6hUL 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&itok=BWmTsA32 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Aerial image featuring people at work, a large umbrella for sun protection,a wheelbarrow and various tools and equipment"
+                                                    src="/images/International/image-06.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&amp;itok=i7KhzKFT
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&amp;itok=IzVDO5Du
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&amp;itok=qvN4l-7l
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&amp;itok=1cnG6hUL
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&amp;itok=BWmTsA32
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-02/MOWAA-1053x578.jpg?h=56ffecd3&amp;itok=IzVDO5Du"
-                                                    data-sizes="auto"
-                                                    alt="Aerial image featuring
-                                                    people at work, a large
-                                                    umbrella for sun
-                                                    protection,a wheelbarrow and
-                                                    various tools and equipment"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1244,30 +1099,8 @@ const International = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=-rqJcwlf"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=1VYezG_8 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=-rqJcwlf 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=4l7aQ2kQ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=aKiQ-3sS 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=5me9BTDh 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="South American fabric with bird"
+                                                    src="/images/International/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;itok=1VYezG_8
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;itok=-rqJcwlf
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;itok=4l7aQ2kQ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;itok=aKiQ-3sS
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;itok=5me9BTDh
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;itok=-rqJcwlf"
-                                                    data-sizes="auto" alt="South
-                                                    American fabric with bird"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1309,32 +1142,8 @@ const International = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=NevPkSr2"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=ml0JUlzP 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=NevPkSr2 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=l8T3kEyL 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=N1cpGDsR 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=SuqDQTIE 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Gold funerary mask, the Santo Domingo Centre of Excellence for Latin American Research"
+                                                    src="/images/International/image-08.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=ml0JUlzP
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=NevPkSr2
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=l8T3kEyL
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=N1cpGDsR
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=SuqDQTIE
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=NevPkSr2"
-                                                    data-sizes="auto" alt="Gold
-                                                    funerary mask, the Santo
-                                                    Domingo Centre of Excellence
-                                                    for Latin American Research"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1375,31 +1184,8 @@ const International = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=nzevqiy7"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=FcJrJG_d 400w, /sites/default/files/styles/16_9_media_small/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=nzevqiy7 750w, /sites/default/files/styles/16_9_media_medium/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=plJjwrzg 1000w, /sites/default/files/styles/16_9_media_large/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=-vMcz2al 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&itok=bC7o--0G 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Close up of a woman cleaning pearls on a headdress with a laser device. "
+                                                    src="/images/International/image-09.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=FcJrJG_d
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=nzevqiy7
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=plJjwrzg
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=-vMcz2al
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=bC7o--0G
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-03/laser_cleaning_tahitian_mourner_costume.jpg?h=a955cd85&amp;itok=nzevqiy7"
-                                                    data-sizes="auto" alt="Close
-                                                    up of a woman cleaning
-                                                    pearls on a headdress with a
-                                                    laser device. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1497,29 +1283,8 @@ const International = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&itok=aZ8BCnDO"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&itok=vjQhB2eX 400w, /sites/default/files/styles/16_9_media_small/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&itok=aZ8BCnDO 750w, /sites/default/files/styles/16_9_media_medium/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&itok=M_R66-1A 1000w, /sites/default/files/styles/16_9_media_large/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&itok=OZjs2HDo 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&itok=rTDdXzH- 1600w"
-                                          data-focal-position="top center"
-                                          alt=" Bronze figure of a man wearing a helmet, carrying an antelope around his shoulders. "
+                                          src="/images/International/image-10.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&amp;itok=vjQhB2eX
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&amp;itok=aZ8BCnDO
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&amp;itok=M_R66-1A
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&amp;itok=OZjs2HDo
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&amp;itok=rTDdXzH-
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2022-03/hunter-figure-lower-niger-bronzes-1000.jpg?h=e253c4c8&amp;itok=aZ8BCnDO"
-                                          data-sizes="auto" alt=" Bronze figure
-                                          of a man wearing a helmet, carrying an
-                                          antelope around his shoulders. " /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1558,29 +1323,8 @@ const International = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&itok=ExsvsjBq"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&itok=7jHP1kX8 400w, /sites/default/files/styles/16_9_media_small/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&itok=ExsvsjBq 750w, /sites/default/files/styles/16_9_media_medium/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&itok=E7RibDIS 1000w, /sites/default/files/styles/16_9_media_large/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&itok=IoBepcP0 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&itok=NvFn1jzl 1600w"
-                                          data-focal-position="top center"
-                                          alt="Vessels, weapons and fishing implements used by the natives of New South Wales."
+                                          src="/images/International/image-11.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&amp;itok=7jHP1kX8
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&amp;itok=ExsvsjBq
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&amp;itok=E7RibDIS
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&amp;itok=IoBepcP0
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&amp;itok=NvFn1jzl
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2022-03/new-south-wales-weapons-1000.jpg?h=c2650c1e&amp;itok=ExsvsjBq"
-                                          data-sizes="auto" alt="Vessels,
-                                          weapons and fishing implements used by
-                                          the natives of New South Wales." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1619,30 +1363,8 @@ const International = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=NevPkSr2"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=ml0JUlzP 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=NevPkSr2 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=l8T3kEyL 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=N1cpGDsR 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=SuqDQTIE 1600w"
-                                          data-focal-position="center center"
-                                          alt="Gold funerary mask, the Santo Domingo Centre of Excellence for Latin American Research"
+                                          src="/images/International/image-12.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=ml0JUlzP
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=NevPkSr2
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=l8T3kEyL
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=N1cpGDsR
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=SuqDQTIE
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;itok=NevPkSr2"
-                                          data-sizes="auto" alt="Gold funerary
-                                          mask, the Santo Domingo Centre of
-                                          Excellence for Latin American
-                                          Research" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1682,28 +1404,8 @@ const International = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&itok=-NRXcVxw"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&itok=BDli--8H 400w, /sites/default/files/styles/16_9_media_small/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&itok=-NRXcVxw 750w, /sites/default/files/styles/16_9_media_medium/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&itok=3pQ8pn7m 1000w, /sites/default/files/styles/16_9_media_large/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&itok=RRhHUPTt 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&itok=fwa5ZBye 1600w"
-                                          data-focal-position="center center"
-                                          alt="Profile of mummy facing right."
+                                          src="/images/International/image-13.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&amp;itok=BDli--8H
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&amp;itok=-NRXcVxw
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&amp;itok=3pQ8pn7m
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&amp;itok=RRhHUPTt
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&amp;itok=fwa5ZBye
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-09/egyptian-mummy-exhibition-hero-1000.jpg?h=5dabf909&amp;itok=-NRXcVxw"
-                                          data-sizes="auto" alt="Profile of
-                                          mummy facing right." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
