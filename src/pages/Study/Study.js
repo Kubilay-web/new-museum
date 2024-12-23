@@ -1785,33 +1785,8 @@ const Study = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nyHgwlUi"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=zGMw-mBz 400w, /sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nyHgwlUi 750w, /sites/default/files/styles/16_9_media_medium/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nxDzoXgt 1000w, /sites/default/files/styles/16_9_media_large/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=qSLVVI9W 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=VILLDA8M 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="View of a study room showing two figures working on a long desk with multiple desk lamps, folders, and paperwork."
+                                                    src="/images/Study/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=zGMw-mBz
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nyHgwlUi
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nxDzoXgt
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=qSLVVI9W
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=VILLDA8M
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nyHgwlUi"
-                                                    data-sizes="auto" alt="View
-                                                    of a study room showing two
-                                                    figures working on a long
-                                                    desk with multiple desk
-                                                    lamps, folders, and
-                                                    paperwork." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1850,30 +1825,8 @@ const Study = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=czeL6JQ6"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=n0mOABg0 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=czeL6JQ6 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=wOzL8YRX 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=0AGJ9L6_ 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=T-E2BdNd 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The official deed of the sale of Montagu House"
+                                                    src="/images/Study/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=n0mOABg0
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=czeL6JQ6
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=wOzL8YRX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=0AGJ9L6_
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=T-E2BdNd
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=czeL6JQ6"
-                                                    data-sizes="auto" alt="The
-                                                    official deed of the sale of
-                                                    Montagu House" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1911,32 +1864,8 @@ const Study = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=CHG2dinm"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=481xV7ri 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=CHG2dinm 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=f6QR332I 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=lLEkUUTF 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=fjJCb5FW 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Mummified bullock, linen wrappings (geometric pattern on chest) with false eyes."
+                                                    src="/images/Study/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=481xV7ri
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=CHG2dinm
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=f6QR332I
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=lLEkUUTF
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=fjJCb5FW
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=CHG2dinm"
-                                                    data-sizes="auto"
-                                                    alt="Mummified bullock,
-                                                    linen wrappings (geometric
-                                                    pattern on chest) with false
-                                                    eyes." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1974,35 +1903,8 @@ const Study = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&itok=jroudKFg"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&itok=nsnbKWZ2 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&itok=jroudKFg 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&itok=Dz6qPYUj 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&itok=bb_zngmP 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&itok=1aJBiK6W 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Gold bust of an Egyptian figure wearing a nemes headdress, resting on a large cylindrical stand in a room with mounted scanning equipment and cable rigging in the background."
+                                                    src="/images/Study/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&amp;itok=nsnbKWZ2
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&amp;itok=jroudKFg
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&amp;itok=Dz6qPYUj
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&amp;itok=bb_zngmP
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&amp;itok=1aJBiK6W
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?h=735c3ed8&amp;itok=jroudKFg"
-                                                    data-sizes="auto" alt="Gold
-                                                    bust of an Egyptian figure
-                                                    wearing a nemes headdress,
-                                                    resting on a large
-                                                    cylindrical stand in a room
-                                                    with mounted scanning
-                                                    equipment and cable rigging
-                                                    in the background." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
