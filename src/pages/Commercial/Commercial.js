@@ -708,29 +708,8 @@ const Commercial = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=-l4xMYKz"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=caCRWh40 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=-l4xMYKz 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=jX9UPdQk 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=tMzZEieb 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=zorOayox 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The BP Theatre"
+                                                    src="/images/Commercial/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=caCRWh40
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=-l4xMYKz
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=jX9UPdQk
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=tMzZEieb
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=zorOayox
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=-l4xMYKz"
-                                                    data-sizes="auto" alt="The
-                                                    BP Theatre" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -769,30 +748,8 @@ const Commercial = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre03.jpg?h=64b56d5a&itok=5JNU3c_t"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre03.jpg?h=64b56d5a&itok=1lufSkxo 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/spectre03.jpg?h=64b56d5a&itok=5JNU3c_t 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre03.jpg?h=64b56d5a&itok=NqdDM-I9 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/spectre03.jpg?h=64b56d5a&itok=0er6Tikn 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre03.jpg?h=64b56d5a&itok=b4ijYn6W 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Filming at the British Museum"
+                                                    src="/images/Commercial/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=1lufSkxo
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=5JNU3c_t
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=NqdDM-I9
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=0er6Tikn
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=b4ijYn6W
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=5JNU3c_t"
-                                                    data-sizes="auto"
-                                                    alt="Filming at the British
-                                                    Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -829,33 +786,8 @@ const Commercial = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&itok=xjmLFmca"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&itok=fGWh-8H3 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&itok=xjmLFmca 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&itok=qUSirSOf 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&itok=2K1QmNff 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&itok=geeRgCun 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The Younger Memnon, 19th Dynasty, head and upper body of pink/grey granite monumental statue of Ramses II"
+                                                    src="/images/Commercial/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&amp;itok=fGWh-8H3
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&amp;itok=xjmLFmca
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&amp;itok=qUSirSOf
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&amp;itok=2K1QmNff
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&amp;itok=geeRgCun
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Statue-of--Ramesses-II-egyptian-sculpture-gallery-british-museum.jpg?h=ec095d41&amp;itok=xjmLFmca"
-                                                    data-sizes="auto" alt="The
-                                                    Younger Memnon, 19th
-                                                    Dynasty, head and upper body
-                                                    of pink/grey granite
-                                                    monumental statue of Ramses
-                                                    II" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -951,34 +883,8 @@ const Commercial = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=YdeJmGP6"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=jl1rkSik 400w, /sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=YdeJmGP6 750w, /sites/default/files/styles/16_9_media_medium/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=mXlkYonb 1000w, /sites/default/files/styles/16_9_media_large/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=4ykBFLd9 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=3B_ugkQ1 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Print of a large blue wave with lots of white spray. Rowing boats in the water in the foreground below the wave, and a view of Mt Fuji in the background."
+                                                    src="/images/Commercial/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=jl1rkSik
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=YdeJmGP6
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=mXlkYonb
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=4ykBFLd9
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=3B_ugkQ1
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=YdeJmGP6"
-                                                    data-sizes="auto" alt="Print
-                                                    of a large blue wave with
-                                                    lots of white spray. Rowing
-                                                    boats in the water in the
-                                                    foreground below the wave,
-                                                    and a view of Mt Fuji in the
-                                                    background." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1015,29 +921,8 @@ const Commercial = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=HH8ZoMkP"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=FbMoggCw 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=HH8ZoMkP 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=CfmmUFDY 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=PxEIqzo5 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=x0zgs4-n 1600w"
-                                                    data-focal-position="center center"
+                                                    src="/images/Commercial/image-05.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=FbMoggCw
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=HH8ZoMkP
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=CfmmUFDY
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=PxEIqzo5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=x0zgs4-n
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=HH8ZoMkP"
-                                                    data-sizes="auto" alt="Image
-                                                    of "Mountain", an artistic
-                                                    work by Minjung Kim" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1077,30 +962,8 @@ const Commercial = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&itok=y1LmZZ71"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&itok=o86ZLYHV 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&itok=y1LmZZ71 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&itok=hVEDJfOu 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&itok=8NfqUZe8 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&itok=GfUJ5Ekn 1600w"
-                                                    data-focal-position="center right"
-                                                    alt="Tour group in Greece: Parthenon gallery (Room 18)"
+                                                    src="/images/Commercial/image-06.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&amp;itok=o86ZLYHV
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&amp;itok=y1LmZZ71
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&amp;itok=hVEDJfOu
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&amp;itok=8NfqUZe8
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&amp;itok=GfUJ5Ekn
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R18%2010_Parthenon1920x1080.jpg?h=4f89f299&amp;itok=y1LmZZ71"
-                                                    data-sizes="auto" alt="Tour
-                                                    group in Greece: Parthenon
-                                                    gallery (Room 18)" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
