@@ -658,33 +658,8 @@ const AboutUs = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=SwUqrX-P"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=2935mSGs 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=SwUqrX-P 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=yQd6AOBK 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=IyBkjhpa 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=yGltR8va 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Aerial view of the British Museum site at Bloomsbury, showing the main façade of the building and surrounding area."
+                                                    src="/images/AboutUs/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=2935mSGs
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=SwUqrX-P
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=yQd6AOBK
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=IyBkjhpa
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=yGltR8va
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&amp;itok=SwUqrX-P"
-                                                    data-sizes="auto"
-                                                    alt="Aerial view of the
-                                                    British Museum site at
-                                                    Bloomsbury, showing the main
-                                                    façade of the building and
-                                                    surrounding area." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -725,30 +700,8 @@ const AboutUs = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&itok=ILNcCzQV"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&itok=tpePxEJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&itok=ILNcCzQV 750w, /sites/default/files/styles/16_9_media_medium/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&itok=ymgwB7g0 1000w, /sites/default/files/styles/16_9_media_large/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&itok=-Hyf_qKR 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&itok=VGH8kDwL 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Wide scale photo of the Great Court "
+                                                    src="/images/AboutUs/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&amp;itok=tpePxEJa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&amp;itok=ILNcCzQV
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&amp;itok=ymgwB7g0
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&amp;itok=-Hyf_qKR
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&amp;itok=VGH8kDwL
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Museum_great_court_teaser_1000x500.jpg?h=5dabf909&amp;itok=ILNcCzQV"
-                                                    data-sizes="auto" alt="Wide
-                                                    scale photo of the Great
-                                                    Court " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -810,30 +763,8 @@ const AboutUs = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&itok=r2oJQXDz"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&itok=VTvelUtK 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&itok=r2oJQXDz 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&itok=4wSTtVpX 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&itok=DdVozQkU 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&itok=Dly6ZqDM 1600w"
-                                                    data-focal-position="bottom center"
-                                                    alt="Front of British Museum during the day."
+                                                    src="/images/AboutUs/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&amp;itok=VTvelUtK
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&amp;itok=r2oJQXDz
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&amp;itok=4wSTtVpX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&amp;itok=DdVozQkU
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&amp;itok=Dly6ZqDM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/British-Museum-Front-Day.jpg?h=cf99483c&amp;itok=r2oJQXDz"
-                                                    data-sizes="auto" alt="Front
-                                                    of British Museum during the
-                                                    day." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -870,30 +801,8 @@ const AboutUs = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&itok=Tc6bT15p"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&itok=UUyVUPM3 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&itok=Tc6bT15p 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&itok=6t-tFIkk 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&itok=fl5xim1m 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&itok=fkkyMsbR 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Visitors in Room 95"
+                                                    src="/images/AboutUs/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&amp;itok=UUyVUPM3
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&amp;itok=Tc6bT15p
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&amp;itok=6t-tFIkk
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&amp;itok=fl5xim1m
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&amp;itok=fkkyMsbR
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?h=c9a3a702&amp;itok=Tc6bT15p"
-                                                    data-sizes="auto"
-                                                    alt="Visitors in Room 95"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -930,40 +839,8 @@ const AboutUs = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=g44zpD1S"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=4UujdsNr 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=g44zpD1S 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=KYTXdbQM 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=MAqHhMpR 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=QHV6ipOL 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Softly-tinted historical print of the front elevation of the British Museum, showing the iconic neoclassical facade and exterior railing set back from a busy street filled with figures in Victorian dress - including guards, pedestrians, mounted horseriders and a horse-drawn carriage."
+                                                    src="/images/AboutUs/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=4UujdsNr
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=g44zpD1S
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=KYTXdbQM
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=MAqHhMpR
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=QHV6ipOL
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=g44zpD1S"
-                                                    data-sizes="auto"
-                                                    alt="Softly-tinted
-                                                    historical print of the
-                                                    front elevation of the
-                                                    British Museum, showing the
-                                                    iconic neoclassical facade
-                                                    and exterior railing set
-                                                    back from a busy street
-                                                    filled with figures in
-                                                    Victorian dress - including
-                                                    guards, pedestrians, mounted
-                                                    horseriders and a
-                                                    horse-drawn carriage." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1060,29 +937,8 @@ const AboutUs = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&itok=jYv_aCFH"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&itok=QdmuP_DY 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&itok=jYv_aCFH 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&itok=_1jppxPY 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&itok=t5d5yfi0 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&itok=sbvUG9pR 1600w"
-                                          data-focal-position="center center"
-                                          alt="Print of the Museum in 19th century with horses and carriages going past."
+                                          src="/images/AboutUs/image-06.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&amp;itok=QdmuP_DY
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&amp;itok=jYv_aCFH
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&amp;itok=_1jppxPY
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&amp;itok=t5d5yfi0
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&amp;itok=sbvUG9pR
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/William_Simpson_lithograph_British_Museum_1000x500.jpg?h=5dabf909&amp;itok=jYv_aCFH"
-                                          data-sizes="auto" alt="Print of the
-                                          Museum in 19th century with horses and
-                                          carriages going past." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1118,28 +974,8 @@ const AboutUs = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=mmlXh3Xb"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=_MlgLkcy 400w, /sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=mmlXh3Xb 750w, /sites/default/files/styles/16_9_media_medium/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=QEx5T4D8 1000w, /sites/default/files/styles/16_9_media_large/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=sW-8r0lp 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=tGPyuB7y 1600w"
-                                          data-focal-position="center center"
-                                          alt="On person with camera, another observing"
+                                          src="/images/AboutUs/image-07.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=_MlgLkcy
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=mmlXh3Xb
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=QEx5T4D8
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=sW-8r0lp
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=tGPyuB7y
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=mmlXh3Xb"
-                                          data-sizes="auto" alt="On person with
-                                          camera, another observing" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1176,35 +1012,8 @@ const AboutUs = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=g44zpD1S"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=4UujdsNr 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=g44zpD1S 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=KYTXdbQM 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=MAqHhMpR 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&itok=QHV6ipOL 1600w"
-                                          data-focal-position="center center"
-                                          alt="Softly-tinted historical print of the front elevation of the British Museum, showing the iconic neoclassical facade and exterior railing set back from a busy street filled with figures in Victorian dress - including guards, pedestrians, mounted horseriders and a horse-drawn carriage."
+                                          src="/images/AboutUs/image-08.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=4UujdsNr
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=g44zpD1S
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=KYTXdbQM
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=MAqHhMpR
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=QHV6ipOL
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/British_Museum_Augustus_Butler_1000x500.jpg?h=5dabf909&amp;itok=g44zpD1S"
-                                          data-sizes="auto" alt="Softly-tinted
-                                          historical print of the front
-                                          elevation of the British Museum,
-                                          showing the iconic neoclassical facade
-                                          and exterior railing set back from a
-                                          busy street filled with figures in
-                                          Victorian dress - including guards,
-                                          pedestrians, mounted horseriders and a
-                                          horse-drawn carriage." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1242,29 +1051,8 @@ const AboutUs = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=6PxIpb9E"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=_h54iSDk 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=6PxIpb9E 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=q6MrJm4y 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=zcPpnVH_ 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=_zU65TsF 1600w"
-                                          data-focal-position="center center"
-                                          alt="Tables laid out for evening entertaining in Egyptian sculpture gallery"
+                                          src="/images/AboutUs/image-09.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=_h54iSDk
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=6PxIpb9E
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=q6MrJm4y
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=zcPpnVH_
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=_zU65TsF
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=6PxIpb9E"
-                                          data-sizes="auto" alt="Tables laid out
-                                          for evening entertaining in Egyptian
-                                          sculpture gallery" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
