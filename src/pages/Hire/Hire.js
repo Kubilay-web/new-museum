@@ -903,29 +903,8 @@ const Hire = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&itok=YX99lNnP"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&itok=KioUMCfq 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&itok=YX99lNnP 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&itok=PKixzTuj 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&itok=9AzVwC6d 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&itok=0j1Zanqf 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="BP Theatre"
+                                                    src="/images/Hire/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&amp;itok=KioUMCfq
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&amp;itok=YX99lNnP
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&amp;itok=PKixzTuj
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&amp;itok=9AzVwC6d
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&amp;itok=0j1Zanqf
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/BP-theatre-02-1000x500.jpg?h=5dabf909&amp;itok=YX99lNnP"
-                                                    data-sizes="auto" alt="BP
-                                                    Theatre" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -963,33 +942,8 @@ const Hire = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/stevenson03_1.jpg?h=5dabf909&itok=JVoX0spE"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/stevenson03_1.jpg?h=5dabf909&itok=1cs3UdXA 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/stevenson03_1.jpg?h=5dabf909&itok=JVoX0spE 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/stevenson03_1.jpg?h=5dabf909&itok=cafQNDha 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/stevenson03_1.jpg?h=5dabf909&itok=_zJj0ceN 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/stevenson03_1.jpg?h=5dabf909&itok=LT_95x09 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The Hugh and Catherine Stevenson Theatre is available for events. Contact the Commercial Hire department"
+                                                    src="/images/Hire/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/stevenson03_1.jpg?h=5dabf909&amp;itok=1cs3UdXA
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/stevenson03_1.jpg?h=5dabf909&amp;itok=JVoX0spE
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/stevenson03_1.jpg?h=5dabf909&amp;itok=cafQNDha
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/stevenson03_1.jpg?h=5dabf909&amp;itok=_zJj0ceN
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/stevenson03_1.jpg?h=5dabf909&amp;itok=LT_95x09
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/stevenson03_1.jpg?h=5dabf909&amp;itok=JVoX0spE"
-                                                    data-sizes="auto" alt="The
-                                                    Hugh and Catherine Stevenson
-                                                    Theatre is available for
-                                                    events. Contact the
-                                                    Commercial Hire department"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1053,31 +1007,8 @@ const Hire = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&itok=cxpeOhDx"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&itok=JQAzgh0T 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&itok=cxpeOhDx 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&itok=_PzEaBzy 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&itok=jAA_wk2t 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&itok=9DCRSYen 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Both the East and West foyers are available for Commercial Hire"
+                                                    src="/images/Hire/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&amp;itok=JQAzgh0T
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&amp;itok=cxpeOhDx
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&amp;itok=_PzEaBzy
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&amp;itok=jAA_wk2t
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&amp;itok=9DCRSYen
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/rete_010715_British_Museum_Event_Spaces_163_1.jpg?h=fefae4ae&amp;itok=cxpeOhDx"
-                                                    data-sizes="auto" alt="Both
-                                                    the East and West foyers are
-                                                    available for Commercial
-                                                    Hire" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1115,29 +1046,8 @@ const Hire = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&itok=gJar6xuo"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&itok=2id_-5Gu 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&itok=gJar6xuo 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&itok=3tQiG51t 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&itok=CscPOslj 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&itok=udeJaz_W 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Claus Moser room"
+                                                    src="/images/Hire/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&amp;itok=2id_-5Gu
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&amp;itok=gJar6xuo
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&amp;itok=3tQiG51t
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&amp;itok=CscPOslj
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&amp;itok=udeJaz_W
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Sackler-Rooms-2000.jpg?h=51b4c309&amp;itok=gJar6xuo"
-                                                    data-sizes="auto" alt="Claus
-                                                    Moser room" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1174,30 +1084,8 @@ const Hire = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&itok=x9jkw8SG"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&itok=GTYmPY1g 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&itok=x9jkw8SG 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&itok=3IoXrUZN 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&itok=IEUA6D1z 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&itok=dPtnxDlu 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Rooms A and B, arranged by the Commercial Hire team"
+                                                    src="/images/Hire/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&amp;itok=GTYmPY1g
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&amp;itok=x9jkw8SG
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&amp;itok=3IoXrUZN
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&amp;itok=IEUA6D1z
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&amp;itok=dPtnxDlu
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Claus-Moser-Room-2000.jpg?h=56d0ca2e&amp;itok=x9jkw8SG"
-                                                    data-sizes="auto" alt="Rooms
-                                                    A and B, arranged by the
-                                                    Commercial Hire team" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2072,28 +1960,8 @@ const Hire = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre03.jpg?h=64b56d5a&itok=5JNU3c_t"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre03.jpg?h=64b56d5a&itok=1lufSkxo 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/spectre03.jpg?h=64b56d5a&itok=5JNU3c_t 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre03.jpg?h=64b56d5a&itok=NqdDM-I9 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/spectre03.jpg?h=64b56d5a&itok=0er6Tikn 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre03.jpg?h=64b56d5a&itok=b4ijYn6W 1600w"
-                                          data-focal-position="center center"
-                                          alt="Filming at the British Museum"
+                                          src="/images/Hire/image-06.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=1lufSkxo
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=5JNU3c_t
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=NqdDM-I9
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=0er6Tikn
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=b4ijYn6W
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre03.jpg?h=64b56d5a&amp;itok=5JNU3c_t"
-                                          data-sizes="auto" alt="Filming at the
-                                          British Museum" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2129,28 +1997,8 @@ const Hire = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&itok=fKEf5Ir1"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&itok=NP709_ah 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&itok=fKEf5Ir1 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&itok=Dy3UVabC 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&itok=yXTVyNFv 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&itok=1TyAliig 1600w"
-                                          data-focal-position="center center"
-                                          alt="Great Court Restaurant seating"
+                                          src="/images/Hire/image-07.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&amp;itok=NP709_ah
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&amp;itok=fKEf5Ir1
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&amp;itok=Dy3UVabC
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&amp;itok=yXTVyNFv
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&amp;itok=1TyAliig
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/great-court-restaurant-seating-1000x500.jpg?h=b0f6b143&amp;itok=fKEf5Ir1"
-                                          data-sizes="auto" alt="Great Court
-                                          Restaurant seating" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2188,28 +2036,8 @@ const Hire = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&itok=fBUYc6bs"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre06.jpg?h=b6717701&itok=efaSEvD6 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&itok=fBUYc6bs 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre06.jpg?h=b6717701&itok=q_PQzZcv 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/spectre06.jpg?h=b6717701&itok=lWj5lujM 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre06.jpg?h=b6717701&itok=Pe_gk3qG 1600w"
-                                          data-focal-position="center center"
-                                          alt="Filming at the British Museum"
+                                          src="/images/Hire/image-08.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=efaSEvD6
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=fBUYc6bs
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=q_PQzZcv
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=lWj5lujM
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=Pe_gk3qG
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=fBUYc6bs"
-                                          data-sizes="auto" alt="Filming at the
-                                          British Museum" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2245,32 +2073,8 @@ const Hire = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=YdeJmGP6"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=jl1rkSik 400w, /sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=YdeJmGP6 750w, /sites/default/files/styles/16_9_media_medium/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=mXlkYonb 1000w, /sites/default/files/styles/16_9_media_large/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=4ykBFLd9 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=3B_ugkQ1 1600w"
-                                          data-focal-position="center center"
-                                          alt="Print of a large blue wave with lots of white spray. Rowing boats in the water in the foreground below the wave, and a view of Mt Fuji in the background."
+                                          src="/images/Hire/image-09.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=jl1rkSik
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=YdeJmGP6
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=mXlkYonb
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=4ykBFLd9
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=3B_ugkQ1
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=YdeJmGP6"
-                                          data-sizes="auto" alt="Print of a
-                                          large blue wave with lots of white
-                                          spray. Rowing boats in the water in
-                                          the foreground below the wave, and a
-                                          view of Mt Fuji in the background."
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
