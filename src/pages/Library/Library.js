@@ -918,31 +918,8 @@ const Library = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=eCBsps_u"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=H8rYXnnK 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=eCBsps_u 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=SA6wGRqb 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=Y2hRIgck 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=3MQ7EM0V 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Detail of the Prints and drawings study room at the British Museum"
+                                                    src="/images/Library/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=H8rYXnnK
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=eCBsps_u
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=SA6wGRqb
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=Y2hRIgck
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=3MQ7EM0V
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=eCBsps_u"
-                                                    data-sizes="auto"
-                                                    alt="Detail of the Prints
-                                                    and drawings study room at
-                                                    the British Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -978,32 +955,8 @@ const Library = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=CHG2dinm"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=481xV7ri 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=CHG2dinm 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=f6QR332I 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=lLEkUUTF 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=fjJCb5FW 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Mummified bullock, linen wrappings (geometric pattern on chest) with false eyes."
+                                                    src="/images/Library/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=481xV7ri
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=CHG2dinm
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=f6QR332I
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=lLEkUUTF
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=fjJCb5FW
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=CHG2dinm"
-                                                    data-sizes="auto"
-                                                    alt="Mummified bullock,
-                                                    linen wrappings (geometric
-                                                    pattern on chest) with false
-                                                    eyes." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1041,29 +994,8 @@ const Library = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&itok=0k6WCpdI"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&itok=XbE60K53 400w, /sites/default/files/styles/16_9_media_small/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&itok=0k6WCpdI 750w, /sites/default/files/styles/16_9_media_medium/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&itok=zrWa11Vj 1000w, /sites/default/files/styles/16_9_media_large/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&itok=ze74LoLC 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&itok=OxHyS_1h 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Troy"
+                                                    src="/images/Library/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&amp;itok=XbE60K53
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&amp;itok=0k6WCpdI
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&amp;itok=zrWa11Vj
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&amp;itok=ze74LoLC
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&amp;itok=OxHyS_1h
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-07/Achilles-at-Troy.jpg?h=7f8c5270&amp;itok=0k6WCpdI"
-                                                    data-sizes="auto" alt="Troy"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1099,32 +1031,8 @@ const Library = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=RnT_RVdl"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=g35X5jQW 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=RnT_RVdl 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=pjL2rfx9 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=OWUkuC_R 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=Jp6GH2B_ 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A group of school children watching a museum guide talk about a large hieroglyphs panels"
+                                                    src="/images/Library/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=g35X5jQW
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=RnT_RVdl
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=pjL2rfx9
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=OWUkuC_R
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=Jp6GH2B_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=RnT_RVdl"
-                                                    data-sizes="auto" alt="A
-                                                    group of school children
-                                                    watching a museum guide talk
-                                                    about a large hieroglyphs
-                                                    panels" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
