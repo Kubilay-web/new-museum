@@ -782,31 +782,8 @@ const Jobs = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&itok=pROPRvRU"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&itok=QMUrtj6l 400w, /sites/default/files/styles/16_9_media_small/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&itok=pROPRvRU 750w, /sites/default/files/styles/16_9_media_medium/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&itok=2ONkyhgq 1000w, /sites/default/files/styles/16_9_media_large/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&itok=lxHNGxTK 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&itok=NWmz9OS6 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Woman with a paint palette and brush and a ceramic statue. "
+                                                    src="/images/Jobs/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&amp;itok=QMUrtj6l
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&amp;itok=pROPRvRU
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&amp;itok=2ONkyhgq
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&amp;itok=lxHNGxTK
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&amp;itok=NWmz9OS6
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-03/07%20AN-1613709713%20Duygu%20Camurcuoglu%20impainting%20the%20infills%20%281%29.jpg?h=c1e51c98&amp;itok=pROPRvRU"
-                                                    data-sizes="auto" alt="Woman
-                                                    with a paint palette and
-                                                    brush and a ceramic statue.
-                                                    " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -845,30 +822,8 @@ const Jobs = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&itok=ReicX-oI"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&itok=S0O_yrPy 400w, /sites/default/files/styles/16_9_media_small/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&itok=ReicX-oI 750w, /sites/default/files/styles/16_9_media_medium/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&itok=6FfvsUbj 1000w, /sites/default/files/styles/16_9_media_large/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&itok=-fJ5_5xo 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&itok=XaSyWf8V 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Front of British Museum during the day."
+                                                    src="/images/Jobs/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&amp;itok=S0O_yrPy
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&amp;itok=ReicX-oI
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&amp;itok=6FfvsUbj
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&amp;itok=-fJ5_5xo
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&amp;itok=XaSyWf8V
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-01/Museum_facade_VSS_1000x500.jpg?h=5dabf909&amp;itok=ReicX-oI"
-                                                    data-sizes="auto" alt="Front
-                                                    of British Museum during the
-                                                    day." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -911,31 +866,8 @@ const Jobs = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=r3OxZOV0"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=hOHuaqQe 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=r3OxZOV0 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=jTr2mDwe 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=xGm5CS-O 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&itok=jC2y0HI5 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Two visitors at a Members'evening at the Museum"
+                                                    src="/images/Jobs/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=hOHuaqQe
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=r3OxZOV0
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=jTr2mDwe
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=xGm5CS-O
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=jC2y0HI5
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/members-evening-23May-2016.jpg?h=7c2f672c&amp;itok=r3OxZOV0"
-                                                    data-sizes="auto" alt="Two
-                                                    visitors at a
-                                                    Members'evening at the
-                                                    Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -975,31 +907,8 @@ const Jobs = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&itok=Are1B0gI"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&itok=WM5YfnbT 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&itok=Are1B0gI 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&itok=y98eDXdZ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&itok=MCEBdi_c 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&itok=DMTngb_s 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Volunteer explaining objects to a group of Museum visitors"
+                                                    src="/images/Jobs/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&amp;itok=WM5YfnbT
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&amp;itok=Are1B0gI
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&amp;itok=y98eDXdZ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&amp;itok=MCEBdi_c
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&amp;itok=DMTngb_s
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?h=56d0ca2e&amp;itok=Are1B0gI"
-                                                    data-sizes="auto"
-                                                    alt="Volunteer explaining
-                                                    objects to a group of Museum
-                                                    visitors" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1063,28 +972,8 @@ const Jobs = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=MMnq0x7-"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=AQPDlUMh 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=MMnq0x7- 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=zXquW66f 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=yQ7KaKEx 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&itok=Ynr5umhH 1600w"
-                                          data-focal-position="bottom right"
-                                          alt="Eating outside the Museum"
+                                          src="/images/Jobs/image-05.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=AQPDlUMh
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=MMnq0x7-
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=zXquW66f
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=yQ7KaKEx
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=Ynr5umhH
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/eating-outside-british-museum1000x500.jpg?h=3c732459&amp;itok=MMnq0x7-"
-                                          data-sizes="auto" alt="Eating outside
-                                          the Museum" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1121,28 +1010,8 @@ const Jobs = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&itok=Dyto0sAq"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&itok=2O818aYJ 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&itok=Dyto0sAq 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&itok=WOiieqSg 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&itok=_YxdfY7I 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&itok=FOkzGbqg 1600w"
-                                          data-focal-position="center center"
-                                          alt="Conservator caring for Samurai armour"
+                                          src="/images/Jobs/image-06.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&amp;itok=2O818aYJ
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&amp;itok=Dyto0sAq
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&amp;itok=WOiieqSg
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&amp;itok=_YxdfY7I
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&amp;itok=FOkzGbqg
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Conservation-samurai-armour_0.jpg?h=c15df983&amp;itok=Dyto0sAq"
-                                          data-sizes="auto" alt="Conservator
-                                          caring for Samurai armour" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1179,29 +1048,8 @@ const Jobs = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=IbbM3Aq- 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=xY1HpAuZ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=eL-unViS 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=gpQQNEw_ 1600w"
-                                          data-focal-position="center right"
-                                          alt="A wide shot of the Great Court with the roof and Reading Room in view"
+                                          src="/images/Jobs/image-07.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=IbbM3Aq-
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=xY1HpAuZ
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=eL-unViS
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=gpQQNEw_
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q"
-                                          data-sizes="auto" alt="A wide shot of
-                                          the Great Court with the roof and
-                                          Reading Room in view" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1238,29 +1086,8 @@ const Jobs = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=xwTL0bSI"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=aiQ0X4yz 400w, /sites/default/files/styles/16_9_media_small/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=xwTL0bSI 750w, /sites/default/files/styles/16_9_media_medium/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=mOuhoms8 1000w, /sites/default/files/styles/16_9_media_large/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=-_8T6H-i 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&itok=bavaiZLi 1600w"
-                                          data-focal-position="center center"
-                                          alt="Iron and tinned bronze helmet with gold features, looking face on. "
+                                          src="/images/Jobs/image-08.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=aiQ0X4yz
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=xwTL0bSI
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=mOuhoms8
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=-_8T6H-i
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=bavaiZLi
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-02/sutton-hoo-helmet-1920.jpg?h=f3e1135c&amp;itok=xwTL0bSI"
-                                          data-sizes="auto" alt="Iron and tinned
-                                          bronze helmet with gold features,
-                                          looking face on. " /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
