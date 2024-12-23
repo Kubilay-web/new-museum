@@ -771,30 +771,8 @@ const Filming = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&itok=fBUYc6bs"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre06.jpg?h=b6717701&itok=efaSEvD6 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&itok=fBUYc6bs 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre06.jpg?h=b6717701&itok=q_PQzZcv 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/spectre06.jpg?h=b6717701&itok=lWj5lujM 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre06.jpg?h=b6717701&itok=Pe_gk3qG 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Filming at the British Museum"
+                                                    src="/images/Filming/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=efaSEvD6
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=fBUYc6bs
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=q_PQzZcv
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=lWj5lujM
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=Pe_gk3qG
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=fBUYc6bs"
-                                                    data-sizes="auto"
-                                                    alt="Filming at the British
-                                                    Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -833,30 +811,8 @@ const Filming = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre01.jpg?h=8dce6ec9&itok=k8UYKNci"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre01.jpg?h=8dce6ec9&itok=EH66G1p6 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/spectre01.jpg?h=8dce6ec9&itok=k8UYKNci 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre01.jpg?h=8dce6ec9&itok=wXWlaeNG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/spectre01.jpg?h=8dce6ec9&itok=s_3SRxin 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre01.jpg?h=8dce6ec9&itok=XYSE1svh 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Filming at the British Museum"
+                                                    src="/images/Filming/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre01.jpg?h=8dce6ec9&amp;itok=EH66G1p6
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/spectre01.jpg?h=8dce6ec9&amp;itok=k8UYKNci
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre01.jpg?h=8dce6ec9&amp;itok=wXWlaeNG
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/spectre01.jpg?h=8dce6ec9&amp;itok=s_3SRxin
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre01.jpg?h=8dce6ec9&amp;itok=XYSE1svh
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre01.jpg?h=8dce6ec9&amp;itok=k8UYKNci"
-                                                    data-sizes="auto"
-                                                    alt="Filming at the British
-                                                    Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -919,30 +875,8 @@ const Filming = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/ammonite02.jpg?h=73545cb6&itok=KHVRIFtk"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/ammonite02.jpg?h=73545cb6&itok=Jyf_U1XI 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/ammonite02.jpg?h=73545cb6&itok=KHVRIFtk 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/ammonite02.jpg?h=73545cb6&itok=JZs49iUf 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/ammonite02.jpg?h=73545cb6&itok=ruax1-MK 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/ammonite02.jpg?h=73545cb6&itok=BBvlMije 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Filming at the British Museum"
+                                                    src="/images/Filming/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/ammonite02.jpg?h=73545cb6&amp;itok=Jyf_U1XI
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/ammonite02.jpg?h=73545cb6&amp;itok=KHVRIFtk
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/ammonite02.jpg?h=73545cb6&amp;itok=JZs49iUf
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/ammonite02.jpg?h=73545cb6&amp;itok=ruax1-MK
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/ammonite02.jpg?h=73545cb6&amp;itok=BBvlMije
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/ammonite02.jpg?h=73545cb6&amp;itok=KHVRIFtk"
-                                                    data-sizes="auto"
-                                                    alt="Filming at the British
-                                                    Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -981,30 +915,8 @@ const Filming = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre05.jpg?h=73545cb6&itok=sKSmdnBq"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre05.jpg?h=73545cb6&itok=toqvnJHy 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/spectre05.jpg?h=73545cb6&itok=sKSmdnBq 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre05.jpg?h=73545cb6&itok=TzAQ9djn 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/spectre05.jpg?h=73545cb6&itok=xpISke1P 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre05.jpg?h=73545cb6&itok=h5bTq-hw 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Filming at the British Museum"
+                                                    src="/images/Filming/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre05.jpg?h=73545cb6&amp;itok=toqvnJHy
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/spectre05.jpg?h=73545cb6&amp;itok=sKSmdnBq
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre05.jpg?h=73545cb6&amp;itok=TzAQ9djn
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/spectre05.jpg?h=73545cb6&amp;itok=xpISke1P
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre05.jpg?h=73545cb6&amp;itok=h5bTq-hw
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre05.jpg?h=73545cb6&amp;itok=sKSmdnBq"
-                                                    data-sizes="auto"
-                                                    alt="Filming at the British
-                                                    Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1143,29 +1055,8 @@ const Filming = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=9a_Shj2r"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=NFkPKjYf 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=9a_Shj2r 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=1eop94Es 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=uTxb0CFK 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&itok=cvH2BG-j 1600w"
-                                          data-focal-position="center center"
-                                          alt="Royal Game of Ur board with a dice and two pieces"
+                                          src="/images/Filming/image-05.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=NFkPKjYf
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=9a_Shj2r
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=1eop94Es
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=uTxb0CFK
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=cvH2BG-j
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/royal-game-of-ur.jpg?h=d1cb525d&amp;itok=9a_Shj2r"
-                                          data-sizes="auto" alt="Royal Game of
-                                          Ur board with a dice and two pieces"
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1201,28 +1092,8 @@ const Filming = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=-l4xMYKz"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=caCRWh40 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=-l4xMYKz 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=jX9UPdQk 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=tMzZEieb 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/4Q5A0560.jpg?h=be9065e8&itok=zorOayox 1600w"
-                                          data-focal-position="center center"
-                                          alt="The BP Theatre"
+                                          src="/images/Filming/image-06.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=caCRWh40
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=-l4xMYKz
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=jX9UPdQk
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=tMzZEieb
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=zorOayox
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/4Q5A0560.jpg?h=be9065e8&amp;itok=-l4xMYKz"
-                                          data-sizes="auto" alt="The BP Theatre"
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1258,28 +1129,8 @@ const Filming = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&itok=fBUYc6bs"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre06.jpg?h=b6717701&itok=efaSEvD6 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&itok=fBUYc6bs 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre06.jpg?h=b6717701&itok=q_PQzZcv 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/spectre06.jpg?h=b6717701&itok=lWj5lujM 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre06.jpg?h=b6717701&itok=Pe_gk3qG 1600w"
-                                          data-focal-position="center center"
-                                          alt="Filming at the British Museum"
+                                          src="/images/Filming/image-07.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=efaSEvD6
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=fBUYc6bs
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=q_PQzZcv
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=lWj5lujM
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=Pe_gk3qG
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/spectre06.jpg?h=b6717701&amp;itok=fBUYc6bs"
-                                          data-sizes="auto" alt="Filming at the
-                                          British Museum" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1315,32 +1166,8 @@ const Filming = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=YdeJmGP6"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=jl1rkSik 400w, /sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=YdeJmGP6 750w, /sites/default/files/styles/16_9_media_medium/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=mXlkYonb 1000w, /sites/default/files/styles/16_9_media_large/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=4ykBFLd9 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&itok=3B_ugkQ1 1600w"
-                                          data-focal-position="center center"
-                                          alt="Print of a large blue wave with lots of white spray. Rowing boats in the water in the foreground below the wave, and a view of Mt Fuji in the background."
+                                          src="/images/Filming/image-08.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=jl1rkSik
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=YdeJmGP6
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=mXlkYonb
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=4ykBFLd9
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=3B_ugkQ1
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-12/The_Great_Wave_Hokusai_British_Museum.jpg?h=9ef7fa1a&amp;itok=YdeJmGP6"
-                                          data-sizes="auto" alt="Print of a
-                                          large blue wave with lots of white
-                                          spray. Rowing boats in the water in
-                                          the foreground below the wave, and a
-                                          view of Mt Fuji in the background."
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
