@@ -488,30 +488,8 @@ const Projects = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=mmlXh3Xb"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=_MlgLkcy 400w, /sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=mmlXh3Xb 750w, /sites/default/files/styles/16_9_media_medium/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=QEx5T4D8 1000w, /sites/default/files/styles/16_9_media_large/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=sW-8r0lp 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=tGPyuB7y 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="On person with camera, another observing"
+                                                    src="/images/Projects/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=_MlgLkcy
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=mmlXh3Xb
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=QEx5T4D8
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=sW-8r0lp
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=tGPyuB7y
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=mmlXh3Xb"
-                                                    data-sizes="auto" alt="On
-                                                    person with camera, another
-                                                    observing" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -549,30 +527,8 @@ const Projects = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Handling-object.jpg?h=c59607c6&itok=qn-u5A3X"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Handling-object.jpg?h=c59607c6&itok=FH6t3Xrz 400w, /sites/default/files/styles/16_9_media_small/public/2020-07/Handling-object.jpg?h=c59607c6&itok=qn-u5A3X 750w, /sites/default/files/styles/16_9_media_medium/public/2020-07/Handling-object.jpg?h=c59607c6&itok=hj5m2Hqh 1000w, /sites/default/files/styles/16_9_media_large/public/2020-07/Handling-object.jpg?h=c59607c6&itok=mARzmEzg 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-07/Handling-object.jpg?h=c59607c6&itok=WiTRcgTr 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Gloved hand holding object"
+                                                    src="/images/Projects/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=FH6t3Xrz
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=qn-u5A3X
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=hj5m2Hqh
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=mARzmEzg
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=WiTRcgTr
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Handling-object.jpg?h=c59607c6&amp;itok=qn-u5A3X"
-                                                    data-sizes="auto"
-                                                    alt="Gloved hand holding
-                                                    object" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -611,32 +567,8 @@ const Projects = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=i2NUOjNH"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=92xWlL0W 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=i2NUOjNH 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=O0npk1x4 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=ySeIY7CA 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&itok=4-ipQ9lt 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="An owl wearing glasses, perched on a book, open book to one side with candle on top. Black and white."
+                                                    src="/images/Projects/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=92xWlL0W
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=i2NUOjNH
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=O0npk1x4
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=ySeIY7CA
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=4-ipQ9lt
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Owl_engraved_print_teaser.jpg?h=d1cb525d&amp;itok=i2NUOjNH"
-                                                    data-sizes="auto" alt="An
-                                                    owl wearing glasses, perched
-                                                    on a book, open book to one
-                                                    side with candle on top.
-                                                    Black and white." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -677,31 +609,8 @@ const Projects = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&itok=zKZKmPHn"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&itok=bGvnVN0t 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&itok=zKZKmPHn 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&itok=XYLucU0z 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&itok=PES18EMv 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&itok=RCYoG1u_ 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Zaid digs at a grave site, as part of the Iraq Scheme"
+                                                    src="/images/Projects/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&amp;itok=bGvnVN0t
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&amp;itok=zKZKmPHn
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&amp;itok=XYLucU0z
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&amp;itok=PES18EMv
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&amp;itok=RCYoG1u_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Zaid%20digging%20grave%20landscape-100x500.jpg?h=5dabf909&amp;itok=zKZKmPHn"
-                                                    data-sizes="auto" alt="Zaid
-                                                    digs at a grave site, as
-                                                    part of the Iraq Scheme"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
