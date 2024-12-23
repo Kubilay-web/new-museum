@@ -837,33 +837,8 @@ const National = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=tn3YheHJ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=vkN7eLsJ 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=tn3YheHJ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=SDbm6PNL 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=5HjCWVIb 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&itok=fnf4op4K 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Ancient Egyptian artefacts, including furniture and chests displayed on a blue background "
+                                                    src="/images/National/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=vkN7eLsJ
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=tn3YheHJ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=SDbm6PNL
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=5HjCWVIb
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=fnf4op4K
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Egyptian_hieroglyphs_teaser.jpg?h=d1cb525d&amp;itok=tn3YheHJ"
-                                                    data-sizes="auto"
-                                                    alt="Ancient Egyptian
-                                                    artefacts, including
-                                                    furniture and chests
-                                                    displayed on a blue
-                                                    background " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -905,31 +880,8 @@ const National = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=594inHVH"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=qmT1Zpoy 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=594inHVH 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=noVX2yoG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=EYo9c1_W 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=2-wV0nii 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The Watlington Hoard find, part of the PAS British Museum 's work"
+                                                    src="/images/National/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=qmT1Zpoy
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=594inHVH
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=noVX2yoG
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=EYo9c1_W
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=2-wV0nii
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=594inHVH"
-                                                    data-sizes="auto" alt="The
-                                                    Watlington Hoard find, part
-                                                    of the PAS British Museum 's
-                                                    work" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -969,31 +921,8 @@ const National = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&itok=Ai3HjNvB"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&itok=5lffVASS 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&itok=Ai3HjNvB 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&itok=u9O5VTnW 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&itok=iS2uv7_k 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&itok=GD_T9GOq 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="British Museum Conference 3 September 2018"
+                                                    src="/images/National/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&amp;itok=5lffVASS
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&amp;itok=Ai3HjNvB
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&amp;itok=u9O5VTnW
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&amp;itok=iS2uv7_k
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&amp;itok=GD_T9GOq
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/BM-Conference3Sept18-two-attendees.jpg?h=d1cb525d&amp;itok=Ai3HjNvB"
-                                                    data-sizes="auto"
-                                                    alt="British Museum
-                                                    Conference 3 September 2018"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1090,28 +1019,8 @@ const National = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&itok=qDE-26kR"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&itok=mCDhbsPe 400w, /sites/default/files/styles/16_9_media_small/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&itok=qDE-26kR 750w, /sites/default/files/styles/16_9_media_medium/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&itok=heosSS1u 1000w, /sites/default/files/styles/16_9_media_large/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&itok=ueg25BE9 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&itok=0gG7j9CZ 1600w"
-                                          data-focal-position="center center"
-                                          alt="Closeup of three white and purple flowers."
+                                          src="/images/National/image-04.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&amp;itok=mCDhbsPe
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&amp;itok=qDE-26kR
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&amp;itok=heosSS1u
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&amp;itok=ueg25BE9
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&amp;itok=0gG7j9CZ
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-10/Crinum%20Zeylanicum%20%28Hexandria%20Monogynia%29%2C%20by%20Mary%20Delany.jpg?h=c9a3a702&amp;itok=qDE-26kR"
-                                          data-sizes="auto" alt="Closeup of
-                                          three white and purple flowers." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1167,29 +1076,8 @@ const National = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&itok=lymi22Xc"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&itok=Vxdt60g4 400w, /sites/default/files/styles/16_9_media_small/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&itok=lymi22Xc 750w, /sites/default/files/styles/16_9_media_medium/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&itok=3DQ7E7Kr 1000w, /sites/default/files/styles/16_9_media_large/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&itok=w41OTa0I 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&itok=ca9thTb9 1600w"
-                                          data-focal-position="center center"
-                                          alt="A detail from a Roman clay vase showing two gladiators fighting."
+                                          src="/images/National/image-05.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&amp;itok=Vxdt60g4
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&amp;itok=lymi22Xc
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&amp;itok=3DQ7E7Kr
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&amp;itok=w41OTa0I
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&amp;itok=ca9thTb9
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-08/Colchester_vase_teaser.jpg?h=d1cb525d&amp;itok=lymi22Xc"
-                                          data-sizes="auto" alt="A detail from a
-                                          Roman clay vase showing two gladiators
-                                          fighting." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1239,30 +1127,8 @@ const National = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&itok=0_cfHQiM"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&itok=FuOnwIwo 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&itok=0_cfHQiM 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&itok=92THr82R 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&itok=Q6FZu-SI 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&itok=deXrwfZJ 1600w"
-                                          data-focal-position="center center"
-                                          alt="A bronze ceremonial mask of a goddess wearing an ornate headdress and collar, from the prow of a ship."
+                                          src="/images/National/image-06.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&amp;itok=FuOnwIwo
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&amp;itok=0_cfHQiM
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&amp;itok=92THr82R
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&amp;itok=Q6FZu-SI
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&amp;itok=deXrwfZJ
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Aegis_mask_Sudan_teaser.jpg?h=d1cb525d&amp;itok=0_cfHQiM"
-                                          data-sizes="auto" alt="A bronze
-                                          ceremonial mask of a goddess wearing
-                                          an ornate headdress and collar, from
-                                          the prow of a ship." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1316,29 +1182,8 @@ const National = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&itok=Wx2IVTet"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&itok=UAXngnfw 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&itok=Wx2IVTet 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&itok=Ig5Ith0P 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&itok=qfV4wynN 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&itok=kob1kpsV 1600w"
-                                          data-focal-position="center center"
-                                          alt="An Ice Age carving of a young reindeer on a piece of reindeer bone"
+                                          src="/images/National/image-07.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&amp;itok=UAXngnfw
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&amp;itok=Wx2IVTet
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&amp;itok=Ig5Ith0P
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&amp;itok=qfV4wynN
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&amp;itok=kob1kpsV
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Reindeer_art_teaser.jpg?h=d1cb525d&amp;itok=Wx2IVTet"
-                                          data-sizes="auto" alt="An Ice Age
-                                          carving of a young reindeer on a piece
-                                          of reindeer bone" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
