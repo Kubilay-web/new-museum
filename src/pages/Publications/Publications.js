@@ -787,29 +787,8 @@ const Publications = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=HH8ZoMkP"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=FbMoggCw 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=HH8ZoMkP 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=CfmmUFDY 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=PxEIqzo5 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&itok=x0zgs4-n 1600w"
-                                                    data-focal-position="center center"
+                                                    src="/images/Publications/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=FbMoggCw
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=HH8ZoMkP
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=CfmmUFDY
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=PxEIqzo5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=x0zgs4-n
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/mountain_pushing_paper_hero.jpg?h=b6377ea8&amp;itok=HH8ZoMkP"
-                                                    data-sizes="auto" alt="Image
-                                                    of "Mountain", an artistic
-                                                    work by Minjung Kim" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -849,31 +828,8 @@ const Publications = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&itok=Nuie9mCf"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&itok=jVHYJ-De 400w, /sites/default/files/styles/16_9_media_small/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&itok=Nuie9mCf 750w, /sites/default/files/styles/16_9_media_medium/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&itok=PBtIpwnl 1000w, /sites/default/files/styles/16_9_media_large/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&itok=HuPur8Tc 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&itok=lAyESUBF 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Close up of silver dish, covered with mythical beings and face"
+                                                    src="/images/Publications/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&amp;itok=jVHYJ-De
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&amp;itok=Nuie9mCf
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&amp;itok=PBtIpwnl
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&amp;itok=HuPur8Tc
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&amp;itok=lAyESUBF
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-04/Mildenhall_great_dish_detail.jpg?h=4c22a8ad&amp;itok=Nuie9mCf"
-                                                    data-sizes="auto" alt="Close
-                                                    up of silver dish, covered
-                                                    with mythical beings and
-                                                    face" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -915,30 +871,8 @@ const Publications = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&itok=Y1ucIyOU"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&itok=MyhFrcsQ 400w, /sites/default/files/styles/16_9_media_small/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&itok=Y1ucIyOU 750w, /sites/default/files/styles/16_9_media_medium/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&itok=XhmKIP7r 1000w, /sites/default/files/styles/16_9_media_large/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&itok=Txoq8YmY 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&itok=TbfhqvxA 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Papyrus with hieratic text"
+                                                    src="/images/Publications/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&amp;itok=MyhFrcsQ
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&amp;itok=Y1ucIyOU
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&amp;itok=XhmKIP7r
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&amp;itok=Txoq8YmY
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&amp;itok=TbfhqvxA
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Rhind-Mathematical-Papyrus.jpg?h=d1cb525d&amp;itok=Y1ucIyOU"
-                                                    data-sizes="auto"
-                                                    alt="Papyrus with hieratic
-                                                    text" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -976,33 +910,8 @@ const Publications = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Russian-icon.jpg?h=d1cb525d&itok=SuASxEgP"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Russian-icon.jpg?h=d1cb525d&itok=qvw9-Fc4 400w, /sites/default/files/styles/16_9_media_small/public/2020-07/Russian-icon.jpg?h=d1cb525d&itok=SuASxEgP 750w, /sites/default/files/styles/16_9_media_medium/public/2020-07/Russian-icon.jpg?h=d1cb525d&itok=-0ejQN_7 1000w, /sites/default/files/styles/16_9_media_large/public/2020-07/Russian-icon.jpg?h=d1cb525d&itok=128GJyqf 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-07/Russian-icon.jpg?h=d1cb525d&itok=BFyV9Wqe 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Mother of God, wearing a 'maphorion' and mantle with Bethlehem stars, supports the infant Christ"
+                                                    src="/images/Publications/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Russian-icon.jpg?h=d1cb525d&amp;itok=qvw9-Fc4
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-07/Russian-icon.jpg?h=d1cb525d&amp;itok=SuASxEgP
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-07/Russian-icon.jpg?h=d1cb525d&amp;itok=-0ejQN_7
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-07/Russian-icon.jpg?h=d1cb525d&amp;itok=128GJyqf
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-07/Russian-icon.jpg?h=d1cb525d&amp;itok=BFyV9Wqe
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Russian-icon.jpg?h=d1cb525d&amp;itok=SuASxEgP"
-                                                    data-sizes="auto"
-                                                    alt="Mother of God, wearing
-                                                    a 'maphorion' and mantle
-                                                    with Bethlehem stars,
-                                                    supports the infant Christ"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1317,30 +1226,8 @@ const Publications = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=mmlXh3Xb"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=_MlgLkcy 400w, /sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=mmlXh3Xb 750w, /sites/default/files/styles/16_9_media_medium/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=QEx5T4D8 1000w, /sites/default/files/styles/16_9_media_large/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=sW-8r0lp 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&itok=tGPyuB7y 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="On person with camera, another observing"
+                                                    src="/images/Publications/image-05.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=_MlgLkcy
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=mmlXh3Xb
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=QEx5T4D8
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=sW-8r0lp
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=tGPyuB7y
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-07/Multi-Spectral-Imaging.jpg?h=d1cb525d&amp;itok=mmlXh3Xb"
-                                                    data-sizes="auto" alt="On
-                                                    person with camera, another
-                                                    observing" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1378,33 +1265,8 @@ const Publications = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nyHgwlUi"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=zGMw-mBz 400w, /sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nyHgwlUi 750w, /sites/default/files/styles/16_9_media_medium/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nxDzoXgt 1000w, /sites/default/files/styles/16_9_media_large/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=qSLVVI9W 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=VILLDA8M 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="View of a study room showing two figures working on a long desk with multiple desk lamps, folders, and paperwork."
+                                                    src="/images/Publications/image-06.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=zGMw-mBz
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nyHgwlUi
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nxDzoXgt
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=qSLVVI9W
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=VILLDA8M
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nyHgwlUi"
-                                                    data-sizes="auto" alt="View
-                                                    of a study room showing two
-                                                    figures working on a long
-                                                    desk with multiple desk
-                                                    lamps, folders, and
-                                                    paperwork." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1443,32 +1305,8 @@ const Publications = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=73k-AqJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=sOrwHw5e 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=IkIcINR5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=frHfjMMM 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
+                                                    src="/images/Publications/image-07.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=73k-AqJa
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=sOrwHw5e
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=IkIcINR5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=frHfjMMM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;itok=Ef0XY0UQ"
-                                                    data-sizes="auto"
-                                                    alt="Procession of camels
-                                                    with lone figure leading in
-                                                    shadow against orange sky"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1506,30 +1344,8 @@ const Publications = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=uLlmHVWu"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=-ncG41pb 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=uLlmHVWu 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=vBN6GGlI 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=ryhB8Djh 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=EvQ9xIgF 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Woman browsing prints and drawings"
+                                                    src="/images/Publications/image-08.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=-ncG41pb
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=uLlmHVWu
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=vBN6GGlI
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=ryhB8Djh
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=EvQ9xIgF
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=uLlmHVWu"
-                                                    data-sizes="auto" alt="Woman
-                                                    browsing prints and
-                                                    drawings" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
