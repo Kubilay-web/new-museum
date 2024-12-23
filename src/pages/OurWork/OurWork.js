@@ -650,33 +650,8 @@ const OurWork = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nyHgwlUi"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=zGMw-mBz 400w, /sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nyHgwlUi 750w, /sites/default/files/styles/16_9_media_medium/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nxDzoXgt 1000w, /sites/default/files/styles/16_9_media_large/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=qSLVVI9W 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=VILLDA8M 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="View of a study room showing two figures working on a long desk with multiple desk lamps, folders, and paperwork."
+                                                    src="/images/OurWork/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=zGMw-mBz
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nyHgwlUi
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nxDzoXgt
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=qSLVVI9W
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=VILLDA8M
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nyHgwlUi"
-                                                    data-sizes="auto" alt="View
-                                                    of a study room showing two
-                                                    figures working on a long
-                                                    desk with multiple desk
-                                                    lamps, folders, and
-                                                    paperwork." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -715,32 +690,8 @@ const OurWork = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=RnT_RVdl"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=g35X5jQW 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=RnT_RVdl 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=pjL2rfx9 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=OWUkuC_R 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&itok=Jp6GH2B_ 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A group of school children watching a museum guide talk about a large hieroglyphs panels"
+                                                    src="/images/OurWork/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=g35X5jQW
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=RnT_RVdl
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=pjL2rfx9
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=OWUkuC_R
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=Jp6GH2B_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?h=80871fb7&amp;itok=RnT_RVdl"
-                                                    data-sizes="auto" alt="A
-                                                    group of school children
-                                                    watching a museum guide talk
-                                                    about a large hieroglyphs
-                                                    panels" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -783,34 +734,8 @@ const OurWork = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=j0QkfdlY"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=bKcIBlU6 400w, /sites/default/files/styles/16_9_media_small/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=j0QkfdlY 750w, /sites/default/files/styles/16_9_media_medium/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=m2w74bDQ 1000w, /sites/default/files/styles/16_9_media_large/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=aOj4vl1e 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&itok=q6PplfZg 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Ceremonial cap made of hide, adorned with gold details, including golden horns, golden badges of faces, and raised flaps with fur at each end"
+                                                    src="/images/OurWork/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=bKcIBlU6
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=j0QkfdlY
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=m2w74bDQ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=aOj4vl1e
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=q6PplfZg
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?h=5dabf909&amp;itok=j0QkfdlY"
-                                                    data-sizes="auto"
-                                                    alt="Ceremonial cap made of
-                                                    hide, adorned with gold
-                                                    details, including golden
-                                                    horns, golden badges of
-                                                    faces, and raised flaps with
-                                                    fur at each end" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -907,29 +832,8 @@ const OurWork = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=MAHDDFnU"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=Y6xcONq0 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=MAHDDFnU 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=V0xQ95gc 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=_uIfdDZd 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=rzTyu3_i 1600w"
-                                          data-focal-position="center center"
-                                          alt="White and gold purse from the Sutton Hoo burial."
+                                          src="/images/OurWork/image-04.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=Y6xcONq0
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=MAHDDFnU
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=V0xQ95gc
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=_uIfdDZd
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=rzTyu3_i
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=MAHDDFnU"
-                                          data-sizes="auto" alt="White and gold
-                                          purse from the Sutton Hoo burial."
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -969,29 +873,8 @@ const OurWork = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=MTg3vCS9"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=Cgup90ez 400w, /sites/default/files/styles/16_9_media_small/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=MTg3vCS9 750w, /sites/default/files/styles/16_9_media_medium/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=myNDekGI 1000w, /sites/default/files/styles/16_9_media_large/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=JOdO65ho 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&itok=Z4Dr3a69 1600w"
-                                          data-focal-position="center center"
-                                          alt="Two women at a desk smiling, one of them writing on paper."
+                                          src="/images/OurWork/image-05.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=Cgup90ez
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=MTg3vCS9
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=myNDekGI
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=JOdO65ho
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=Z4Dr3a69
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2022-08/international-training-programme-1920.jpg?h=d1cb525d&amp;itok=MTg3vCS9"
-                                          data-sizes="auto" alt="Two women at a
-                                          desk smiling, one of them writing on
-                                          paper." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1029,29 +912,8 @@ const OurWork = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=594inHVH"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=qmT1Zpoy 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=594inHVH 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=noVX2yoG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=EYo9c1_W 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&itok=2-wV0nii 1600w"
-                                          data-focal-position="center center"
-                                          alt="The Watlington Hoard find, part of the PAS British Museum 's work"
+                                          src="/images/OurWork/image-06.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=qmT1Zpoy
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=594inHVH
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=noVX2yoG
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=EYo9c1_W
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=2-wV0nii
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/watlington-hoard-hero-national-britishmuseum_0.jpg?h=854a7be2&amp;itok=594inHVH"
-                                          data-sizes="auto" alt="The Watlington
-                                          Hoard find, part of the PAS British
-                                          Museum 's work" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1089,29 +951,8 @@ const OurWork = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=aCbStcqZ"
-                                          data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=ZU7FnGHF 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=aCbStcqZ 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=TLhvv2W8 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=fpvl8S_q 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&itok=BebBrpSk 1600w"
-                                          data-focal-position="center center"
-                                          alt="A tour of the Museum, arranged under the Iraq Scheme"
+                                          src="/images/OurWork/image-07.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=ZU7FnGHF
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=aCbStcqZ
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=TLhvv2W8
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=fpvl8S_q
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=BebBrpSk
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/iraq-scheme02.jpg?h=5c588ef7&amp;itok=aCbStcqZ"
-                                          data-sizes="auto" alt="A tour of the
-                                          Museum, arranged under the Iraq
-                                          Scheme" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
