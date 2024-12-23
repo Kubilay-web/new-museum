@@ -1266,32 +1266,8 @@ const Borrow = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&itok=BQflI_sJ"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&itok=ILulKKwG 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&itok=BQflI_sJ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&itok=HfRR8949 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&itok=ty3DUCT5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&itok=KoKrg472 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A colourfully decorated cycle rickshaw at the South Asia Gallery at Manchester Museum"
+                                                    src="/images/Borrow/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&amp;itok=ILulKKwG
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&amp;itok=BQflI_sJ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&amp;itok=HfRR8949
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&amp;itok=ty3DUCT5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&amp;itok=KoKrg472
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/South_Asia_Gallery_Manchester_Museum.jpg?h=086c79e1&amp;itok=BQflI_sJ"
-                                                    data-sizes="auto" alt="A
-                                                    colourfully decorated cycle
-                                                    rickshaw at the South Asia
-                                                    Gallery at Manchester
-                                                    Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1331,32 +1307,8 @@ const Borrow = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=I2AFTgn5"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=PYD6aMDd 400w, /sites/default/files/styles/16_9_media_small/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=I2AFTgn5 750w, /sites/default/files/styles/16_9_media_medium/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=eHeRhx4y 1000w, /sites/default/files/styles/16_9_media_large/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=5WgiD9JE 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&itok=nC7eRLdR 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Close up view of print showing strands in paper in wiggly stripes of dark blue, light blue and white. "
+                                                    src="/images/Borrow/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=PYD6aMDd
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=I2AFTgn5
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=eHeRhx4y
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=5WgiD9JE
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=nC7eRLdR
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-02/great_wave_magnified.jpg?h=d1cb525d&amp;itok=I2AFTgn5"
-                                                    data-sizes="auto" alt="Close
-                                                    up view of print showing
-                                                    strands in paper in wiggly
-                                                    stripes of dark blue, light
-                                                    blue and white. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1425,33 +1377,8 @@ const Borrow = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nyHgwlUi"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=zGMw-mBz 400w, /sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nyHgwlUi 750w, /sites/default/files/styles/16_9_media_medium/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=nxDzoXgt 1000w, /sites/default/files/styles/16_9_media_large/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=qSLVVI9W 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&itok=VILLDA8M 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="View of a study room showing two figures working on a long desk with multiple desk lamps, folders, and paperwork."
+                                                    src="/images/Borrow/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=zGMw-mBz
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nyHgwlUi
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nxDzoXgt
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=qSLVVI9W
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=VILLDA8M
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-09/Arched_room_1000x500.jpg?h=5dabf909&amp;itok=nyHgwlUi"
-                                                    data-sizes="auto" alt="View
-                                                    of a study room showing two
-                                                    figures working on a long
-                                                    desk with multiple desk
-                                                    lamps, folders, and
-                                                    paperwork." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1490,29 +1417,8 @@ const Borrow = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TvdANM1"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=zoFWu2go 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TvdANM1 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=lPkmVaCG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TbwluqC 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=Z0RxbMhe 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="image of jade terrapin"
+                                                    src="/images/Borrow/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=zoFWu2go
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TvdANM1
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=lPkmVaCG
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TbwluqC
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=Z0RxbMhe
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TvdANM1"
-                                                    data-sizes="auto" alt="image
-                                                    of jade terrapin" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1551,32 +1457,8 @@ const Borrow = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=0fiLYk0D"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=tfr9hRC2 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=0fiLYk0D 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=byRLdhjE 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=B8BuSRMT 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=Gym4K4xi 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Visitors examining the Rosetta Stone up close in Room 4 Egyptian Sculpture Gallery"
+                                                    src="/images/Borrow/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=tfr9hRC2
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=0fiLYk0D
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=byRLdhjE
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=B8BuSRMT
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=Gym4K4xi
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=0fiLYk0D"
-                                                    data-sizes="auto"
-                                                    alt="Visitors examining the
-                                                    Rosetta Stone up close in
-                                                    Room 4 Egyptian Sculpture
-                                                    Gallery" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1612,30 +1494,8 @@ const Borrow = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=uLlmHVWu"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=-ncG41pb 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=uLlmHVWu 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=vBN6GGlI 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=ryhB8Djh 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&itok=EvQ9xIgF 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Woman browsing prints and drawings"
+                                                    src="/images/Borrow/image-06.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=-ncG41pb
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=uLlmHVWu
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=vBN6GGlI
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=ryhB8Djh
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=EvQ9xIgF
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Patrons-event-prints_0.jpg?h=1ab7b5ad&amp;itok=uLlmHVWu"
-                                                    data-sizes="auto" alt="Woman
-                                                    browsing prints and
-                                                    drawings" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
