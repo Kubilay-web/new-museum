@@ -491,29 +491,8 @@ const Search = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TvdANM1"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=zoFWu2go 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TvdANM1 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=lPkmVaCG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TbwluqC 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=Z0RxbMhe 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="image of jade terrapin"
+                                                    src="/images/Search/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=zoFWu2go
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TvdANM1
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=lPkmVaCG
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TbwluqC
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=Z0RxbMhe
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TvdANM1"
-                                                    data-sizes="auto" alt="image
-                                                    of jade terrapin" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
