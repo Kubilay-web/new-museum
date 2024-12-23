@@ -1156,32 +1156,8 @@ const Travel = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=6PxIpb9E"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=_h54iSDk 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=6PxIpb9E 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=q6MrJm4y 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=zcPpnVH_ 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&itok=_zU65TsF 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Tables laid out for evening entertaining in Egyptian sculpture gallery"
+                                                    src="/images/Travel/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=_h54iSDk
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=6PxIpb9E
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=q6MrJm4y
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=zcPpnVH_
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=_zU65TsF
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?h=1ff4b6c7&amp;itok=6PxIpb9E"
-                                                    data-sizes="auto"
-                                                    alt="Tables laid out for
-                                                    evening entertaining in
-                                                    Egyptian sculpture gallery"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1218,31 +1194,8 @@ const Travel = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=8Yu8MIIL"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=iIrIRVpH 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=8Yu8MIIL 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=4RNXu4iX 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=6m5b7UZs 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&itok=aPcJHVsf 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Five visitors on a morning tour in the Enlightenment gallery."
+                                                    src="/images/Travel/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=iIrIRVpH
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=8Yu8MIIL
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=4RNXu4iX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=6m5b7UZs
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=aPcJHVsf
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?h=c9a3a702&amp;itok=8Yu8MIIL"
-                                                    data-sizes="auto" alt="Five
-                                                    visitors on a morning tour
-                                                    in the Enlightenment
-                                                    gallery." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1282,32 +1235,8 @@ const Travel = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&itok=Twty1F5w"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&itok=KI-MraAq 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&itok=Twty1F5w 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&itok=eEuvutj9 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&itok=pgxOCUet 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&itok=ZxldJeQi 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A large group of visitors having a tour in the Egyptian sculpture gallery"
+                                                    src="/images/Travel/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&amp;itok=KI-MraAq
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&amp;itok=Twty1F5w
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&amp;itok=eEuvutj9
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&amp;itok=pgxOCUet
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&amp;itok=ZxldJeQi
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?h=c9a3a702&amp;itok=Twty1F5w"
-                                                    data-sizes="auto" alt="A
-                                                    large group of visitors
-                                                    having a tour in the
-                                                    Egyptian sculpture gallery"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1346,32 +1275,8 @@ const Travel = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=0fiLYk0D"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=tfr9hRC2 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=0fiLYk0D 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=byRLdhjE 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=B8BuSRMT 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=Gym4K4xi 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Visitors examining the Rosetta Stone up close in Room 4 Egyptian Sculpture Gallery"
+                                                    src="/images/Travel/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=tfr9hRC2
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=0fiLYk0D
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=byRLdhjE
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=B8BuSRMT
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=Gym4K4xi
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=0fiLYk0D"
-                                                    data-sizes="auto"
-                                                    alt="Visitors examining the
-                                                    Rosetta Stone up close in
-                                                    Room 4 Egyptian Sculpture
-                                                    Gallery" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
