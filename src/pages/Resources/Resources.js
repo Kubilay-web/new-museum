@@ -696,30 +696,8 @@ const Resources = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=czeL6JQ6"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=n0mOABg0 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=czeL6JQ6 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=wOzL8YRX 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=0AGJ9L6_ 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&itok=T-E2BdNd 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="The official deed of the sale of Montagu House"
+                                                    src="/images/Resources/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=n0mOABg0
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=czeL6JQ6
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=wOzL8YRX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=0AGJ9L6_
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=T-E2BdNd
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Montague_House_deed_1000x500.jpg?h=5dabf909&amp;itok=czeL6JQ6"
-                                                    data-sizes="auto" alt="The
-                                                    official deed of the sale of
-                                                    Montagu House" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -757,31 +735,8 @@ const Resources = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=eCBsps_u"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=H8rYXnnK 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=eCBsps_u 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=SA6wGRqb 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=Y2hRIgck 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=3MQ7EM0V 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Detail of the Prints and drawings study room at the British Museum"
+                                                    src="/images/Resources/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=H8rYXnnK
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=eCBsps_u
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=SA6wGRqb
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=Y2hRIgck
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=3MQ7EM0V
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=eCBsps_u"
-                                                    data-sizes="auto"
-                                                    alt="Detail of the Prints
-                                                    and drawings study room at
-                                                    the British Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -844,32 +799,8 @@ const Resources = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=CHG2dinm"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=481xV7ri 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=CHG2dinm 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=f6QR332I 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=lLEkUUTF 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&itok=fjJCb5FW 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Mummified bullock, linen wrappings (geometric pattern on chest) with false eyes."
+                                                    src="/images/Resources/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=481xV7ri
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=CHG2dinm
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=f6QR332I
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=lLEkUUTF
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=fjJCb5FW
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Mummified-bullock%2C-Thebes%2C-Roman-period%2C-british-museum.jpg?h=5dabf909&amp;itok=CHG2dinm"
-                                                    data-sizes="auto"
-                                                    alt="Mummified bullock,
-                                                    linen wrappings (geometric
-                                                    pattern on chest) with false
-                                                    eyes." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -907,32 +838,8 @@ const Resources = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&itok=GQTfoqcU"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&itok=_XlMbXwY 400w, /sites/default/files/styles/16_9_media_small/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&itok=GQTfoqcU 750w, /sites/default/files/styles/16_9_media_medium/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&itok=PaS9MjeE 1000w, /sites/default/files/styles/16_9_media_large/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&itok=FQgH0ALf 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&itok=knC3MYVI 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Ceramic plate, a suspended celestial disc glowing with blue, green and yellow glaze"
+                                                    src="/images/Resources/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&amp;itok=_XlMbXwY
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&amp;itok=GQTfoqcU
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&amp;itok=PaS9MjeE
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&amp;itok=FQgH0ALf
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&amp;itok=knC3MYVI
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-04/Dawn-Tokuda-Yasokichi-III-1000.jpg?h=a955cd85&amp;itok=GQTfoqcU"
-                                                    data-sizes="auto"
-                                                    alt="Ceramic plate, a
-                                                    suspended celestial disc
-                                                    glowing with blue, green and
-                                                    yellow glaze" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
