@@ -1359,32 +1359,8 @@ const Science = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=BpQAq28y"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=BMOprfpR 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=BpQAq28y 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=DYMN1FaX 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=AbxByIWz 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=sY4Ef3UJ 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Scientist conducting x-ray imaging on an artefact at work at the Department of Scientific Research"
+                                                    src="/images/Science/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=BMOprfpR
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=BpQAq28y
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=DYMN1FaX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=AbxByIWz
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=sY4Ef3UJ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=BpQAq28y"
-                                                    data-sizes="auto"
-                                                    alt="Scientist conducting
-                                                    x-ray imaging on an artefact
-                                                    at work at the Department of
-                                                    Scientific Research" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1425,30 +1401,8 @@ const Science = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=WDbvo7Db"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=ahYWad4e 400w, /sites/default/files/styles/16_9_media_small/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=WDbvo7Db 750w, /sites/default/files/styles/16_9_media_medium/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=6_C1Pv4d 1000w, /sites/default/files/styles/16_9_media_large/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=jd2VUeXq 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=IAlxycrD 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A mummy, researcher and CT scanner"
+                                                    src="/images/Science/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=ahYWad4e
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=WDbvo7Db
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=6_C1Pv4d
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=jd2VUeXq
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=IAlxycrD
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=WDbvo7Db"
-                                                    data-sizes="auto" alt="A
-                                                    mummy, researcher and CT
-                                                    scanner" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1489,30 +1443,8 @@ const Science = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=QPk_YTPr"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=JXTipYud 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=QPk_YTPr 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=i0umRDkk 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=SGLkVyY1 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=3y7i1Eh4 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Three conservators working on a silk painting. "
+                                                    src="/images/Science/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=JXTipYud
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=QPk_YTPr
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=i0umRDkk
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=SGLkVyY1
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=3y7i1Eh4
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=QPk_YTPr"
-                                                    data-sizes="auto" alt="Three
-                                                    conservators working on a
-                                                    silk painting. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
