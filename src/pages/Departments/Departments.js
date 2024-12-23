@@ -734,31 +734,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&itok=q7ozd0Xn"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&itok=abX0-AlF 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&itok=q7ozd0Xn 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&itok=B1qBImUd 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&itok=6eODIs9g 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&itok=s74bpyYi 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="The Department of Africa, Oceania and the Americas, British Museum"
+                                                    src="/images/Departments/image-01.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&amp;itok=abX0-AlF
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&amp;itok=q7ozd0Xn
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&amp;itok=B1qBImUd
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&amp;itok=6eODIs9g
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&amp;itok=s74bpyYi
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/AOA%2C-africa%2C-Oceania-and-Americas-Department-british-museum.jpg?h=5d613553&amp;itok=q7ozd0Xn"
-                                                    data-sizes="auto" alt="The
-                                                    Department of Africa,
-                                                    Oceania and the Americas,
-                                                    British Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -799,29 +776,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=q3Nu1z2G"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=njPvdF3T 400w, /sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=q3Nu1z2G 750w, /sites/default/files/styles/16_9_media_medium/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=7ijh1iVG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=COZvxhvv 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=yYwdawmq 1600w"
-                                                    data-focal-position="center right"
-                                                    alt="BM Dragon"
+                                                    src="/images/Departments/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;itok=njPvdF3T
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;itok=q3Nu1z2G
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;itok=7ijh1iVG
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;itok=COZvxhvv
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;itok=yYwdawmq
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;itok=q3Nu1z2G"
-                                                    data-sizes="auto" alt="BM
-                                                    Dragon" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -860,34 +816,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/folkton_drums.jpg?h=7a89eabd&itok=SQvHJRGI"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/folkton_drums.jpg?h=7a89eabd&itok=92b8v5HK 400w, /sites/default/files/styles/16_9_media_small/public/2024-03/folkton_drums.jpg?h=7a89eabd&itok=SQvHJRGI 750w, /sites/default/files/styles/16_9_media_medium/public/2024-03/folkton_drums.jpg?h=7a89eabd&itok=kkb7WgT0 1000w, /sites/default/files/styles/16_9_media_large/public/2024-03/folkton_drums.jpg?h=7a89eabd&itok=rw0deFM1 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-03/folkton_drums.jpg?h=7a89eabd&itok=6gJTIljI 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Three chalk drums with carved decoration. The smallest on the left, followed by a medium sized drum in the middle and a large drum on the right.  "
+                                                    src="/images/Departments/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-03/folkton_drums.jpg?h=7a89eabd&amp;itok=92b8v5HK
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-03/folkton_drums.jpg?h=7a89eabd&amp;itok=SQvHJRGI
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-03/folkton_drums.jpg?h=7a89eabd&amp;itok=kkb7WgT0
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-03/folkton_drums.jpg?h=7a89eabd&amp;itok=rw0deFM1
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-03/folkton_drums.jpg?h=7a89eabd&amp;itok=6gJTIljI
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-03/folkton_drums.jpg?h=7a89eabd&amp;itok=SQvHJRGI"
-                                                    data-sizes="auto" alt="Three
-                                                    chalk drums with carved
-                                                    decoration. The smallest on
-                                                    the left, followed by a
-                                                    medium sized drum in the
-                                                    middle and a large drum on
-                                                    the right. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -928,31 +858,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&itok=fHjL8DUU"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&itok=-141KswL 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&itok=fHjL8DUU 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&itok=WJ8onmvi 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&itok=_dw4T_pH 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&itok=MrJP2HCC 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Bust of Pharaoh in the Egyptian sculpture gallery, lit up. "
+                                                    src="/images/Departments/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&amp;itok=-141KswL
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&amp;itok=fHjL8DUU
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&amp;itok=WJ8onmvi
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&amp;itok=_dw4T_pH
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&amp;itok=MrJP2HCC
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/the-younger-memnon-statue-british-museum.jpg?h=e59c519e&amp;itok=fHjL8DUU"
-                                                    data-sizes="auto" alt="Bust
-                                                    of Pharaoh in the Egyptian
-                                                    sculpture gallery, lit up. "
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1020,31 +927,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&itok=jLBNQj6V"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&itok=QII17JxH 400w, /sites/default/files/styles/16_9_media_small/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&itok=jLBNQj6V 750w, /sites/default/files/styles/16_9_media_medium/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&itok=k7DKQMur 1000w, /sites/default/files/styles/16_9_media_large/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&itok=CCmaEo5C 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&itok=NURNuYn4 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Section of dish with painted river-side scene with figures. "
+                                                    src="/images/Departments/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&amp;itok=QII17JxH
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&amp;itok=jLBNQj6V
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&amp;itok=k7DKQMur
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&amp;itok=CCmaEo5C
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&amp;itok=NURNuYn4
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-12/Judgement%20of%20Paris%20Dish%20Urbino1920x1080.jpg?h=d1cb525d&amp;itok=jLBNQj6V"
-                                                    data-sizes="auto"
-                                                    alt="Section of dish with
-                                                    painted river-side scene
-                                                    with figures. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1083,33 +967,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&itok=OyP3gquI"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&itok=smIxn6lO 400w, /sites/default/files/styles/16_9_media_small/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&itok=OyP3gquI 750w, /sites/default/files/styles/16_9_media_medium/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&itok=CqQSMAMC 1000w, /sites/default/files/styles/16_9_media_large/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&itok=Fws6YQ-2 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&itok=DnSlZz36 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Panel of three tiles painted in white blue and brown with figures in a variety of poses, including a woman carrying a baby."
+                                                    src="/images/Departments/image-06.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&amp;itok=smIxn6lO
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&amp;itok=OyP3gquI
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&amp;itok=CqQSMAMC
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&amp;itok=Fws6YQ-2
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&amp;itok=DnSlZz36
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-05/Kubachi_tile_triptych_1000x600.jpg?h=a955cd85&amp;itok=OyP3gquI"
-                                                    data-sizes="auto" alt="Panel
-                                                    of three tiles painted in
-                                                    white blue and brown with
-                                                    figures in a variety of
-                                                    poses, including a woman
-                                                    carrying a baby." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1148,31 +1007,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&itok=6bOYmOhz"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&itok=3agBeQwh 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&itok=6bOYmOhz 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&itok=7EHlgLK4 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&itok=V7wA3T_X 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&itok=r2UnJkku 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Group shot of a collection of coins from the Hoxne hoard, Britain"
+                                                    src="/images/Departments/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&amp;itok=3agBeQwh
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&amp;itok=6bOYmOhz
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&amp;itok=7EHlgLK4
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&amp;itok=V7wA3T_X
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&amp;itok=r2UnJkku
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Hoxne-hoard%2C-group-shot-of-mass-of-coins%20british%20museum.jpg?h=d1cb525d&amp;itok=6bOYmOhz"
-                                                    data-sizes="auto" alt="Group
-                                                    shot of a collection of
-                                                    coins from the Hoxne hoard,
-                                                    Britain" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1212,31 +1048,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/john%20constable.jpg?h=6329ec85&itok=GWsq1BDI"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/john%20constable.jpg?h=6329ec85&itok=wTps9rjL 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/john%20constable.jpg?h=6329ec85&itok=GWsq1BDI 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/john%20constable.jpg?h=6329ec85&itok=5pKpUrfE 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/john%20constable.jpg?h=6329ec85&itok=MkY6u-84 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/john%20constable.jpg?h=6329ec85&itok=2GJ-Hyyi 1600w"
-                                                    data-focal-position="bottom center"
-                                                    alt="image of skyscape over london, watercolours trees in foreground"
+                                                    src="/images/Departments/image-08.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/john%20constable.jpg?h=6329ec85&amp;itok=wTps9rjL
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/john%20constable.jpg?h=6329ec85&amp;itok=GWsq1BDI
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/john%20constable.jpg?h=6329ec85&amp;itok=5pKpUrfE
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/john%20constable.jpg?h=6329ec85&amp;itok=MkY6u-84
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/john%20constable.jpg?h=6329ec85&amp;itok=2GJ-Hyyi
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/john%20constable.jpg?h=6329ec85&amp;itok=GWsq1BDI"
-                                                    data-sizes="auto" alt="image
-                                                    of skyscape over london,
-                                                    watercolours trees in
-                                                    foreground" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1304,30 +1117,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=QPk_YTPr"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=JXTipYud 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=QPk_YTPr 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=i0umRDkk 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=SGLkVyY1 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&itok=3y7i1Eh4 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Three conservators working on a silk painting. "
+                                                    src="/images/Departments/image-09.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=JXTipYud
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=QPk_YTPr
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=i0umRDkk
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=SGLkVyY1
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=3y7i1Eh4
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Conservators%20%28left%20to%20right%29%20Valentina%20Marabini%2C%20Jin%20Qiu%20and%20Carol%20Weiss%20working%20on%20a%20silk%20painting%20in%20the%20Hirayama%20studio-British-Museum.jpg?h=0960167e&amp;itok=QPk_YTPr"
-                                                    data-sizes="auto" alt="Three
-                                                    conservators working on a
-                                                    silk painting. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1366,32 +1157,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=BpQAq28y"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=BMOprfpR 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=BpQAq28y 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=DYMN1FaX 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=AbxByIWz 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&itok=sY4Ef3UJ 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Scientist conducting x-ray imaging on an artefact at work at the Department of Scientific Research"
+                                                    src="/images/Departments/image-10.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=BMOprfpR
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=BpQAq28y
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=DYMN1FaX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=AbxByIWz
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=sY4Ef3UJ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Scientific-techniquies-british-museum.jpg?h=db84480b&amp;itok=BpQAq28y"
-                                                    data-sizes="auto"
-                                                    alt="Scientist conducting
-                                                    x-ray imaging on an artefact
-                                                    at work at the Department of
-                                                    Scientific Research" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1432,30 +1199,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=WDbvo7Db"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=ahYWad4e 400w, /sites/default/files/styles/16_9_media_small/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=WDbvo7Db 750w, /sites/default/files/styles/16_9_media_medium/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=6_C1Pv4d 1000w, /sites/default/files/styles/16_9_media_large/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=jd2VUeXq 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&itok=IAlxycrD 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="A mummy, researcher and CT scanner"
+                                                    src="/images/Departments/image-11.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=ahYWad4e
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=WDbvo7Db
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=6_C1Pv4d
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=jd2VUeXq
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=IAlxycrD
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-06/Mummy%20CT%20scan%20%281%29.jpg?h=5dabf909&amp;itok=WDbvo7Db"
-                                                    data-sizes="auto" alt="A
-                                                    mummy, researcher and CT
-                                                    scanner" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1553,31 +1298,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=eCBsps_u"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=H8rYXnnK 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=eCBsps_u 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=SA6wGRqb 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=Y2hRIgck 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&itok=3MQ7EM0V 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="Detail of the Prints and drawings study room at the British Museum"
+                                                    src="/images/Departments/image-12.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=H8rYXnnK
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=eCBsps_u
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=SA6wGRqb
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=Y2hRIgck
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=3MQ7EM0V
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?h=84071268&amp;itok=eCBsps_u"
-                                                    data-sizes="auto"
-                                                    alt="Detail of the Prints
-                                                    and drawings study room at
-                                                    the British Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1613,29 +1335,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TvdANM1"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=zoFWu2go 400w, /sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TvdANM1 750w, /sites/default/files/styles/16_9_media_medium/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=lPkmVaCG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=3TbwluqC 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&itok=Z0RxbMhe 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="image of jade terrapin"
+                                                    src="/images/Departments/image-13.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=zoFWu2go
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TvdANM1
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=lPkmVaCG
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TbwluqC
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=Z0RxbMhe
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-09/23-09-2019%2015.15.13.jpg?h=97956b9b&amp;itok=3TvdANM1"
-                                                    data-sizes="auto" alt="image
-                                                    of jade terrapin" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1674,30 +1375,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=MAHDDFnU"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=Y6xcONq0 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=MAHDDFnU 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=V0xQ95gc 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=_uIfdDZd 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&itok=rzTyu3_i 1600w"
-                                                    data-focal-position="center center"
-                                                    alt="White and gold purse from the Sutton Hoo burial."
+                                                    src="/images/Departments/image-14.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=Y6xcONq0
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=MAHDDFnU
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=V0xQ95gc
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=_uIfdDZd
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=rzTyu3_i
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?h=5dabf909&amp;itok=MAHDDFnU"
-                                                    data-sizes="auto" alt="White
-                                                    and gold purse from the
-                                                    Sutton Hoo burial." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1739,32 +1418,8 @@ const Departments = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=0fiLYk0D"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=tfr9hRC2 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=0fiLYk0D 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=byRLdhjE 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=B8BuSRMT 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&itok=Gym4K4xi 1600w"
-                                                    data-focal-position="top center"
-                                                    alt="Visitors examining the Rosetta Stone up close in Room 4 Egyptian Sculpture Gallery"
+                                                    src="/images/Departments/image-15.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=tfr9hRC2
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=0fiLYk0D
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=byRLdhjE
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=B8BuSRMT
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=Gym4K4xi
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?h=089c183f&amp;itok=0fiLYk0D"
-                                                    data-sizes="auto"
-                                                    alt="Visitors examining the
-                                                    Rosetta Stone up close in
-                                                    Room 4 Egyptian Sculpture
-                                                    Gallery" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
