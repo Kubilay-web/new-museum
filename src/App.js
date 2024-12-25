@@ -65,6 +65,8 @@ import PrintMaker from "./pages/PrintMaker/PrintMaker";
 import ExhibitionLocke from "./pages/ExhibitionLocke/ExhibitionLocke";
 import CookMedieval from "./pages/CookMedieval/CookMedieval";
 import Egypt from "./pages/Egypt/Egypt";
+import LoveIdentity from "./pages/LoveIdentity/LoveIdentity";
+import Animals from "./pages/Animals/Animals";
 
 function App() {
   return (
@@ -163,6 +165,11 @@ function App() {
       />
 
       <Route path="/collection/egypt" element={<Egypt />} />
+      <Route
+        path="/collection/desire-love-and-identity"
+        element={<LoveIdentity />}
+      />
+      <Route path="/collection/animals" element={<Animals />} />
     </Routes>
   );
 }
