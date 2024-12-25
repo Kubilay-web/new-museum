@@ -64,6 +64,7 @@ import HewLocke from "./pages/HewLocke/HewLocke";
 import PrintMaker from "./pages/PrintMaker/PrintMaker";
 import ExhibitionLocke from "./pages/ExhibitionLocke/ExhibitionLocke";
 import CookMedieval from "./pages/CookMedieval/CookMedieval";
+import Egypt from "./pages/Egypt/Egypt";
 
 function App() {
   return (
@@ -160,6 +161,8 @@ function App() {
         path="/blog/how-cook-medieval-feast-11-recipes-middle-ages"
         element={<CookMedieval />}
       />
+
+      <Route path="/collection/egypt" element={<Egypt />} />
     </Routes>
   );
 }
