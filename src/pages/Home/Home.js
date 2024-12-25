@@ -2558,7 +2558,7 @@ const Home = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/blog/celebrating-volunteers-british-museum"
+                                                      href="/exhibitions/hew-locke-what-have-we-here#inside-the-exhibition"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -2644,12 +2644,13 @@ const Home = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/blog/who-hew-locke"
+                                                      href="/blog/how-cook-medieval-feast-11-recipes-middle-ages"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
                                                         <span>
-                                                          Who is Hew Locke?
+                                                          How to cook medieval
+                                                          fast?
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}

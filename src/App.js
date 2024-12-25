@@ -62,6 +62,8 @@ import Library from "./pages/Library/Library";
 import SilkRoad from "./pages/SilkRoad/SilkRoad";
 import HewLocke from "./pages/HewLocke/HewLocke";
 import PrintMaker from "./pages/PrintMaker/PrintMaker";
+import ExhibitionLocke from "./pages/ExhibitionLocke/ExhibitionLocke";
+import CookMedieval from "./pages/CookMedieval/CookMedieval";
 
 function App() {
   return (
@@ -149,6 +151,15 @@ function App() {
       />
 
       <Route path="/exhibitions/picasso-printmaker" element={<PrintMaker />} />
+      <Route
+        path="/exhibitions/hew-locke-what-have-we-here#inside-the-exhibition"
+        element={<ExhibitionLocke />}
+      />
+
+      <Route
+        path="/blog/how-cook-medieval-feast-11-recipes-middle-ages"
+        element={<CookMedieval />}
+      />
     </Routes>
   );
 }
