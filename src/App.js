@@ -59,6 +59,9 @@ import Travel from "./pages/Travel/Travel";
 import Resources from "./pages/Resources/Resources";
 import Study from "./pages/Study/Study";
 import Library from "./pages/Library/Library";
+import SilkRoad from "./pages/SilkRoad/SilkRoad";
+import HewLocke from "./pages/HewLocke/HewLocke";
+import PrintMaker from "./pages/PrintMaker/PrintMaker";
 
 function App() {
   return (
@@ -139,6 +142,13 @@ function App() {
       <Route path="/resources" element={<Resources />} />
       <Route path="/resources/study-rooms" element={<Study />} />
       <Route path="/resources/library-and-archive" element={<Library />} />
+      <Route path="/exhibitions/silk-roads" element={<SilkRoad />} />
+      <Route
+        path="/exhibitions/hew-locke-what-have-we-here"
+        element={<HewLocke />}
+      />
+
+      <Route path="/exhibitions/picasso-printmaker" element={<PrintMaker />} />
     </Routes>
   );
 }

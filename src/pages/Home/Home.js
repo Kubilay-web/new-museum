@@ -45,8 +45,8 @@ const Home = () => {
           name="description"
           content="Welcome to the British Museum - discover two million years of human history and culture."
         />
-        <link rel="canonical" href="https://www.britishmuseum.org/" />
-        <link rel="shortlink" href="https://www.britishmuseum.org/" />
+        <link rel="canonical" href="/" />
+        <link rel="shortlink" href="/" />
         <meta property="og:title" content="British Museum" />
         <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
         <meta name="MobileOptimized" content="width" />
@@ -929,7 +929,7 @@ const Home = () => {
                                           </li>
                                           <li className="menu__item menu__item--level-1">
                                             <a
-                                              href="https://www.britishmuseum.org/collection"
+                                              href="/collection"
                                               className="menu__link menu__link--level-1 menu__toggle"
                                             >
                                               <span>
@@ -1313,7 +1313,7 @@ const Home = () => {
                                           </li>
                                           <li className="menu__item menu__item--level-1">
                                             <a
-                                              href="https://www.britishmuseum.org/exhibitions-events/members-exclusive"
+                                              href="/exhibitions-events/members-exclusive"
                                               className="menu__link menu__link--level-1 menu__toggle"
                                             >
                                               <span>
@@ -1930,7 +1930,7 @@ const Home = () => {
                                 </span>
                               </button>
                               <p> The Great Court at the British Museum.</p>
-                              <a href="https://www.britishmuseum.org/about-us/british-museum-story/architecture/great-court">
+                              <a href="/about-us/british-museum-story/architecture/great-court">
                                 <span>Explore the Great Court</span>
                               </a>
                             </div>
@@ -2021,7 +2021,7 @@ const Home = () => {
                                     Exhibitions and events
                                   </h2>
                                   <a
-                                    href="https://www.britishmuseum.org/exhibitions-events"
+                                    href="/exhibitions-events"
                                     className="teaser-listing__cta"
                                   >
                                     <span>See all exhibitions and events</span>
@@ -2291,7 +2291,7 @@ const Home = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="https://www.britishmuseum.org/visit"
+                                                      href="/visit"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -2332,7 +2332,7 @@ const Home = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="https://www.britishmuseum.org/visit/museum-map"
+                                                      href="/visit/museum-map"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -2371,7 +2371,7 @@ const Home = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="https://www.britishmuseum.org/collection/galleries"
+                                                      href="/collection/galleries"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -2410,7 +2410,7 @@ const Home = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="https://www.britishmuseum.org/visit/family-visits"
+                                                      href="/visit/family-visits"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -2464,7 +2464,7 @@ const Home = () => {
                                     </p>
                                     <div className="banner__button-container">
                                       <a
-                                        href="https://www.britishmuseum.org/membership"
+                                        href="/membership"
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >
@@ -2563,7 +2563,8 @@ const Home = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          Celebrating volunteers
+                                                          Inside 'Hew Locke:
+                                                          what have we here?'
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -2748,7 +2749,7 @@ const Home = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="https://www.britishmuseum.org/research"
+                                                      href="/research"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -2788,7 +2789,7 @@ const Home = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="https://www.britishmuseum.org/our-work/departments"
+                                                      href="/our-work/departments"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -2827,7 +2828,7 @@ const Home = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="https://www.britishmuseum.org/our-work/national"
+                                                      href="/our-work/national"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -2867,7 +2868,7 @@ const Home = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="https://www.britishmuseum.org/our-work/international"
+                                                      href="/our-work/international"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -2921,7 +2922,7 @@ const Home = () => {
                                     </p>
                                     <div className="banner__button-container">
                                       <a
-                                        href="https://www.britishmuseum.org/collection"
+                                        href="/collection"
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >
@@ -4166,7 +4167,7 @@ const Home = () => {
                                   <li className="menu-item menu__item--level-1">
                                     <a
                                       className="menu__link menu__link--level-1"
-                                      href="https://www.britishmuseum.org/collection"
+                                      href="/collection"
                                     >
                                       <span>Search the collection</span>
                                     </a>
