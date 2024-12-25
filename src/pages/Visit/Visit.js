@@ -3260,10 +3260,8 @@ const Visit = () => {
                                         daily, 10.00–17.00
                                       </li>
                                       <li>
-                                        <a href="https://www.britishmuseumshoponline.org/">
-                                          Online shop
-                                        </a>
-                                        : open 24 hours a day
+                                        <a href="/shop">Online shop</a>: open 24
+                                        hours a day
                                       </li>
                                     </ul>
                                   </div>
@@ -4710,7 +4708,7 @@ const Visit = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="https://www.britishmuseumshoponline.org/"
+                                                      href="/shop"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>

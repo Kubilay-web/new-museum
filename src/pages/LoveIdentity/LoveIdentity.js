@@ -1878,7 +1878,7 @@ This sculpture may have been part of a larger group of statuary (collection of s
                                     Shop online
                                   </h2>
                                   <a
-                                    href="https://www.britishmuseumshoponline.org/"
+                                    href="/shop"
                                     className="teaser-listing__cta external-link"
                                     target="_blank"
                                     rel="noopener"
@@ -1909,7 +1909,7 @@ This sculpture may have been part of a larger group of statuary (collection of s
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/catalog/product/view/id/8189/s/a-little-gay-history/"
+                                                    href="/shopcatalog/product/view/id/8189/s/a-little-gay-history/"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"

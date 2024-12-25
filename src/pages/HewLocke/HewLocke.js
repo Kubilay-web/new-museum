@@ -3522,7 +3522,7 @@ const HewLocke = () => {
                                     Visit the exhibition shop
                                   </h2>
                                   <a
-                                    href="https://www.britishmuseumshoponline.org/exhibitions/hew-locke-what-have-we-here.html"
+                                    href="/shopexhibitions/hew-locke-what-have-we-here.html"
                                     className="teaser-listing__cta external-link"
                                     target="_blank"
                                     rel="noopener"
@@ -3572,7 +3572,7 @@ const HewLocke = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/hew-locke-what-have-we-here.html"
+                                                    href="/shophew-locke-what-have-we-here.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3584,7 +3584,7 @@ const HewLocke = () => {
                                                       here? accompanying book
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/hew-locke-what-have-we-here.html
+                                                      /shophew-locke-what-have-we-here.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3623,7 +3623,7 @@ const HewLocke = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/hew-locke-chinese-imperial-gold-loan-11-board-print.html"
+                                                    href="/shophew-locke-chinese-imperial-gold-loan-11-board-print.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3635,7 +3635,7 @@ const HewLocke = () => {
                                                       Gold Loan 11 Board Print
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/hew-locke-chinese-imperial-gold-loan-11…
+                                                      /shophew-locke-chinese-imperial-gold-loan-11…
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3674,7 +3674,7 @@ const HewLocke = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/maria-sibylla-merian-tea-towel.html"
+                                                    href="/shopmaria-sibylla-merian-tea-towel.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3686,7 +3686,7 @@ const HewLocke = () => {
                                                       Towel
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/maria-sibylla-merian-tea-towel.html
+                                                      /shopmaria-sibylla-merian-tea-towel.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3725,7 +3725,7 @@ const HewLocke = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/adinkra-symbol-men-s-socks.html"
+                                                    href="/shopadinkra-symbol-men-s-socks.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3736,7 +3736,7 @@ const HewLocke = () => {
                                                       Adinkra Symbol Men's Socks
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/adinkra-symbol-men-s-socks.html
+                                                      /shopadinkra-symbol-men-s-socks.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3775,7 +3775,7 @@ const HewLocke = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/the-whole-picture-the-colonial-story-of-the-art-in-our-museums-why-we-need-to-talk-about-it.html"
+                                                    href="/shopthe-whole-picture-the-colonial-story-of-the-art-in-our-museums-why-we-need-to-talk-about-it.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3789,7 +3789,7 @@ const HewLocke = () => {
                                                       we need to talk about it
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/the-whole-picture-the-colonial-story-of…
+                                                      /shopthe-whole-picture-the-colonial-story-of…
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3828,7 +3828,7 @@ const HewLocke = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/maria-sibylla-merian-silk-scarf.html"
+                                                    href="/shopmaria-sibylla-merian-silk-scarf.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3840,7 +3840,7 @@ const HewLocke = () => {
                                                       Scarf
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/maria-sibylla-merian-silk-scarf.html
+                                                      /shopmaria-sibylla-merian-silk-scarf.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3879,7 +3879,7 @@ const HewLocke = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/sankofa-bird-keyring.html"
+                                                    href="/shopsankofa-bird-keyring.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3890,7 +3890,7 @@ const HewLocke = () => {
                                                       Sankofa Bird Keyring
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/sankofa-bird-keyring.html
+                                                      /shopsankofa-bird-keyring.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3929,7 +3929,7 @@ const HewLocke = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/hew-locke-the-watchers-tote-bag.html"
+                                                    href="/shophew-locke-the-watchers-tote-bag.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3941,7 +3941,7 @@ const HewLocke = () => {
                                                       Tote Bag
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/hew-locke-the-watchers-tote-bag.html
+                                                      /shophew-locke-the-watchers-tote-bag.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3980,7 +3980,7 @@ const HewLocke = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/maria-sibylla-merian-magnet.html"
+                                                    href="/shopmaria-sibylla-merian-magnet.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3992,7 +3992,7 @@ const HewLocke = () => {
                                                       Magnet
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/maria-sibylla-merian-magnet.html
+                                                      /shopmaria-sibylla-merian-magnet.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}

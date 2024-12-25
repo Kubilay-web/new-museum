@@ -1704,7 +1704,7 @@ const Home = () => {
                             <li className="menu-item menu__item--level-0">
                               <a
                                 className="menu__link menu__link--level-0 menu__link--shop js-shop"
-                                href="https://www.britishmuseumshoponline.org/"
+                                href="/shop"
                               >
                                 <svg
                                   className="icon icon--shop"
@@ -3234,7 +3234,7 @@ const Home = () => {
                                     Welcome to the British Museum Shop
                                   </h2>
                                   <a
-                                    href="https://www.britishmuseumshoponline.org/"
+                                    href="/shop"
                                     className="teaser-listing__cta"
                                   >
                                     <span>Shop now</span>
@@ -3259,7 +3259,7 @@ const Home = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/inspired-by/inspired-by-the-british-museum.html?_ga=2.117272261.236295749.1596441842-1583734833.1593694052"
+                                                    href="/shopinspired-by/inspired-by-the-british-museum.html?_ga=2.117272261.236295749.1596441842-1583734833.1593694052"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -3268,7 +3268,7 @@ const Home = () => {
                                                       Inspired by the Museum
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/inspired-by/inspired-by-the-british-mus…
+                                                      /shopinspired-by/inspired-by-the-british-mus…
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -3296,7 +3296,7 @@ const Home = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/inspired-by/lewis-chessmen-collection.html"
+                                                    href="/shopinspired-by/lewis-chessmen-collection.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -3306,7 +3306,7 @@ const Home = () => {
                                                       Chessmen
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/inspired-by/lewis-chessmen-collection.h…
+                                                      /shopinspired-by/lewis-chessmen-collection.h…
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -3334,7 +3334,7 @@ const Home = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/inspired-by/sutton-hoo.html"
+                                                    href="/shopinspired-by/sutton-hoo.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -3343,7 +3343,7 @@ const Home = () => {
                                                       Inspired by Sutton Hoo
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/inspired-by/sutton-hoo.html
+                                                      /shopinspired-by/sutton-hoo.html
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -3371,7 +3371,7 @@ const Home = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/inspired-by/inspired-by-london.html"
+                                                    href="/shopinspired-by/inspired-by-london.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -3380,7 +3380,7 @@ const Home = () => {
                                                       Inspired by London
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/inspired-by/inspired-by-london.html
+                                                      /shopinspired-by/inspired-by-london.html
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -3408,7 +3408,7 @@ const Home = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/inspired-by/inspired-by-cats.html"
+                                                    href="/shopinspired-by/inspired-by-cats.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -3417,7 +3417,7 @@ const Home = () => {
                                                       Inspired by cats
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/inspired-by/inspired-by-cats.html
+                                                      /shopinspired-by/inspired-by-cats.html
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -3445,7 +3445,7 @@ const Home = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/inspired-by/inspired-by-hokusai.html"
+                                                    href="/shopinspired-by/inspired-by-hokusai.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -3454,7 +3454,7 @@ const Home = () => {
                                                       Inspired by Hokusai
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/inspired-by/inspired-by-hokusai.html
+                                                      /shopinspired-by/inspired-by-hokusai.html
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -3482,7 +3482,7 @@ const Home = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/inspired-by/ancient-egypt.html"
+                                                    href="/shopinspired-by/ancient-egypt.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -3491,7 +3491,7 @@ const Home = () => {
                                                       Inspired by ancient Egypt
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/inspired-by/ancient-egypt.html
+                                                      /shopinspired-by/ancient-egypt.html
                                                     </span>
                                                   </a>
                                                 </h3>

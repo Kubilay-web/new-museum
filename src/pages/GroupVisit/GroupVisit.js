@@ -1631,7 +1631,7 @@ const GroupVisit = () => {
                                       Full-colour guidebooks, available in 10
                                       languages, can be bought in advance from
                                       all British Museum shops and&nbsp;
-                                      <a href="https://www.britishmuseumshoponline.org/catalogsearch/result/?q=%22visitor+guide%22">
+                                      <a href="/shopcatalogsearch/result/?q=%22visitor+guide%22">
                                         online
                                       </a>
                                       . For more details, contact Customer

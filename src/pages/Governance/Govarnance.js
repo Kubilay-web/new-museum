@@ -4478,7 +4478,7 @@ const Govarnance = () => {
                                       </a>
                                       <br />
                                       <a
-                                        href="https://www.britishmuseumshoponline.org/"
+                                        href="/shop"
                                         data-gc-link="http://www.britishmuseum.org/about_this_site/terms_of_use/terms_of_use_for_shop_online.aspx"
                                       >
                                         Terms of use for the British Museum Shop
@@ -4599,7 +4599,7 @@ const Govarnance = () => {
                                         BMImages help
                                       </a>
                                       <br />
-                                      <a href="https://www.britishmuseumshoponline.org/">
+                                      <a href="/shop">
                                         The British Museum Shop
                                       </a>
                                     </p>

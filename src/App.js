@@ -67,6 +67,7 @@ import CookMedieval from "./pages/CookMedieval/CookMedieval";
 import Egypt from "./pages/Egypt/Egypt";
 import LoveIdentity from "./pages/LoveIdentity/LoveIdentity";
 import Animals from "./pages/Animals/Animals";
+import Shop from "./pages/Shop/Shop";
 
 function App() {
   return (
@@ -170,6 +171,7 @@ function App() {
         element={<LoveIdentity />}
       />
       <Route path="/collection/animals" element={<Animals />} />
+      <Route path="/shop" element={<Shop />} />
     </Routes>
   );
 }

@@ -3408,7 +3408,7 @@ const SilkRoad = () => {
                                     Visit the exhibition shop
                                   </h2>
                                   <a
-                                    href="https://www.britishmuseumshoponline.org/exhibitions/silk-roads.html"
+                                    href="/shopexhibitions/silk-roads.html"
                                     className="teaser-listing__cta external-link"
                                     target="_blank"
                                     rel="noopener"
@@ -3458,7 +3458,7 @@ const SilkRoad = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/silk-roads-paperback.html"
+                                                    href="/shopsilk-roads-paperback.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3470,7 +3470,7 @@ const SilkRoad = () => {
                                                       Accompanying Paperback
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/silk-roads-paperback.html
+                                                      /shopsilk-roads-paperback.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3509,7 +3509,7 @@ const SilkRoad = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/al-idrisi-world-map-window-transfer.html"
+                                                    href="/shopal-idrisi-world-map-window-transfer.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3521,7 +3521,7 @@ const SilkRoad = () => {
                                                       Transfer
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/al-idrisi-world-map-window-transfer.html
+                                                      /shopal-idrisi-world-map-window-transfer.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3560,7 +3560,7 @@ const SilkRoad = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/varkhuman-procession-tea-towel.html"
+                                                    href="/shopvarkhuman-procession-tea-towel.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3572,7 +3572,7 @@ const SilkRoad = () => {
                                                       Towel
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/varkhuman-procession-tea-towel.html
+                                                      /shopvarkhuman-procession-tea-towel.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3611,7 +3611,7 @@ const SilkRoad = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/franks-casket-marble-coaster.html"
+                                                    href="/shopfranks-casket-marble-coaster.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3623,7 +3623,7 @@ const SilkRoad = () => {
                                                       Coaster
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/franks-casket-marble-coaster.html
+                                                      /shopfranks-casket-marble-coaster.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3662,7 +3662,7 @@ const SilkRoad = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/silk-road-treasures-mug.html"
+                                                    href="/shopsilk-road-treasures-mug.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3673,7 +3673,7 @@ const SilkRoad = () => {
                                                       Silk Road Treasures Mug
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/silk-road-treasures-mug.html
+                                                      /shopsilk-road-treasures-mug.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3712,7 +3712,7 @@ const SilkRoad = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/silk-road-camel-plush-toy.html"
+                                                    href="/shopsilk-road-camel-plush-toy.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3723,7 +3723,7 @@ const SilkRoad = () => {
                                                       Silk Road Camel Plush Toy
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/silk-road-camel-plush-toy.html
+                                                      /shopsilk-road-camel-plush-toy.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3762,7 +3762,7 @@ const SilkRoad = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/mogao-caves-coin-purse-blue.html"
+                                                    href="/shopmogao-caves-coin-purse-blue.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3773,7 +3773,7 @@ const SilkRoad = () => {
                                                       Mogao Caves Coin Purse
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/mogao-caves-coin-purse-blue.html
+                                                      /shopmogao-caves-coin-purse-blue.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3812,7 +3812,7 @@ const SilkRoad = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/silk-road-treasures-tote-bag.html"
+                                                    href="/shopsilk-road-treasures-tote-bag.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3824,7 +3824,7 @@ const SilkRoad = () => {
                                                       Bag
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/silk-road-treasures-tote-bag.html
+                                                      /shopsilk-road-treasures-tote-bag.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}

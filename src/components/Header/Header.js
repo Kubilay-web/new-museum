@@ -1298,7 +1298,7 @@ const Header = () => {
                     <li className="menu-item menu__item--level-0">
                       <a
                         className="menu__link menu__link--level-0 menu__link--shop js-shop"
-                        href="https://www.britishmuseumshoponline.org/"
+                        href="/shop"
                       >
                         <svg
                           className="icon icon--shop"

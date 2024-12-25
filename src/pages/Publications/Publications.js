@@ -740,10 +740,7 @@ const Publications = () => {
                               <p>
                                 All&nbsp;titles are available for purchase from
                                 the Museum bookshop&nbsp;and from our&nbsp;
-                                <a href="https://www.britishmuseumshoponline.org/">
-                                  online shop
-                                </a>
-                                .
+                                <a href="/shop">online shop</a>.
                               </p>
                             </div>
                           </div>
@@ -965,7 +962,7 @@ const Publications = () => {
                                     Featured publications
                                   </h2>
                                   <a
-                                    href="https://www.britishmuseumshoponline.org/"
+                                    href="/shop"
                                     className="teaser-listing__cta"
                                   >
                                     <span>Visit the British Museum Shop</span>
@@ -990,7 +987,7 @@ const Publications = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/legion-life-in-the-roman-army-hardback.html"
+                                                    href="/shoplegion-life-in-the-roman-army-hardback.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -1000,7 +997,7 @@ const Publications = () => {
                                                       army
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/legion-life-in-the-roman-army-hardback…
+                                                      /shoplegion-life-in-the-roman-army-hardback…
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -1029,7 +1026,7 @@ const Publications = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/salon-culture-in-japan-making-art-1750-1900.html"
+                                                    href="/shopsalon-culture-in-japan-making-art-1750-1900.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -1039,7 +1036,7 @@ const Publications = () => {
                                                       making art, 1750–1900
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/salon-culture-in-japan-making-art-1750-…
+                                                      /shopsalon-culture-in-japan-making-art-1750-…
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -1068,7 +1065,7 @@ const Publications = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/rp-231-late-hokusai-society-thought-technique-legacy.html"
+                                                    href="/shoprp-231-late-hokusai-society-thought-technique-legacy.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -1078,7 +1075,7 @@ const Publications = () => {
                                                       Thought, Technique, Legacy
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/rp-231-late-hokusai-society-thought-tec…
+                                                      /shoprp-231-late-hokusai-society-thought-tec…
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -1107,7 +1104,7 @@ const Publications = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/rp-232-greek-and-roman-medicine-at-the-british-museum-the-instruments-and-accoutrements-of-ancient-medicine.html"
+                                                    href="/shoprp-232-greek-and-roman-medicine-at-the-british-museum-the-instruments-and-accoutrements-of-ancient-medicine.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -1120,7 +1117,7 @@ const Publications = () => {
                                                       Medicine
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/rp-232-greek-and-roman-medicine-at-the-…
+                                                      /shoprp-232-greek-and-roman-medicine-at-the-…
                                                     </span>
                                                   </a>
                                                 </h3>

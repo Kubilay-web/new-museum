@@ -2602,7 +2602,7 @@ const PrintMaker = () => {
                                     Visit the exhibition shop
                                   </h2>
                                   <a
-                                    href="https://www.britishmuseumshoponline.org/exhibitions/picasso-printmaker.html"
+                                    href="/shopexhibitions/picasso-printmaker.html"
                                     className="teaser-listing__cta external-link"
                                     target="_blank"
                                     rel="noopener"
@@ -2652,7 +2652,7 @@ const PrintMaker = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/picasso-printmaker.html"
+                                                    href="/shoppicasso-printmaker.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -2664,7 +2664,7 @@ const PrintMaker = () => {
                                                       Accompanying Book
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/picasso-printmaker.html
+                                                      /shoppicasso-printmaker.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -2703,7 +2703,7 @@ const PrintMaker = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/picasso-leaping-bulls-tea-towel.html"
+                                                    href="/shoppicasso-leaping-bulls-tea-towel.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -2715,7 +2715,7 @@ const PrintMaker = () => {
                                                       Towel
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/picasso-leaping-bulls-tea-towel.html
+                                                      /shoppicasso-leaping-bulls-tea-towel.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -2754,7 +2754,7 @@ const PrintMaker = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/little-people-big-dreams-pablo-picasso.html"
+                                                    href="/shoplittle-people-big-dreams-pablo-picasso.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -2766,7 +2766,7 @@ const PrintMaker = () => {
                                                       Pablo Picasso
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/little-people-big-dreams-pablo-picasso…
+                                                      /shoplittle-people-big-dreams-pablo-picasso…
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -2805,7 +2805,7 @@ const PrintMaker = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/picasso-the-hen-greetings-card.html"
+                                                    href="/shoppicasso-the-hen-greetings-card.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -2817,7 +2817,7 @@ const PrintMaker = () => {
                                                       Card
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/picasso-the-hen-greetings-card.html
+                                                      /shoppicasso-the-hen-greetings-card.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -2856,7 +2856,7 @@ const PrintMaker = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/picasso-femme-au-chapeau-woman-with-a-hat-cushion-cover.html"
+                                                    href="/shoppicasso-femme-au-chapeau-woman-with-a-hat-cushion-cover.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -2869,7 +2869,7 @@ const PrintMaker = () => {
                                                       Cover
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/picasso-femme-au-chapeau-woman-with-a-h…
+                                                      /shoppicasso-femme-au-chapeau-woman-with-a-h…
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -2908,7 +2908,7 @@ const PrintMaker = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/picasso-colombe-dove-mug.html"
+                                                    href="/shoppicasso-colombe-dove-mug.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -2919,7 +2919,7 @@ const PrintMaker = () => {
                                                       Picasso Colombe (Dove) Mug
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/picasso-colombe-dove-mug.html
+                                                      /shoppicasso-colombe-dove-mug.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -2958,7 +2958,7 @@ const PrintMaker = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/picasso-still-life-tote-bag.html"
+                                                    href="/shoppicasso-still-life-tote-bag.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -2970,7 +2970,7 @@ const PrintMaker = () => {
                                                       Bag
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/picasso-still-life-tote-bag.html
+                                                      /shoppicasso-still-life-tote-bag.html
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3009,7 +3009,7 @@ const PrintMaker = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/picasso-eight-silhouettes-mounted-print.html"
+                                                    href="/shoppicasso-eight-silhouettes-mounted-print.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3021,7 +3021,7 @@ const PrintMaker = () => {
                                                       Mounted Print
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/picasso-eight-silhouettes-mounted-print…
+                                                      /shoppicasso-eight-silhouettes-mounted-print…
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}
@@ -3060,7 +3060,7 @@ const PrintMaker = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/pablo-picasso-selected-works-option-two-postcard-pack.html"
+                                                    href="/shoppablo-picasso-selected-works-option-two-postcard-pack.html"
                                                     className="teaser__anchor external-link"
                                                     data-tracking="shop-slice"
                                                     target="_blank"
@@ -3072,7 +3072,7 @@ const PrintMaker = () => {
                                                       Works Postcard Pack
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/pablo-picasso-selected-works-option-two…
+                                                      /shoppablo-picasso-selected-works-option-two…
                                                     </span>
                                                     <span className="visually-hidden">
                                                       {" "}

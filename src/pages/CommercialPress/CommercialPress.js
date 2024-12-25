@@ -1689,7 +1689,7 @@ const CommercialPress = () => {
                             <li className="menu-item menu__item--level-0">
                               <a
                                 className="menu__link menu__link--level-0 menu__link--shop js-shop"
-                                href="https://www.britishmuseumshoponline.org/"
+                                href="/shop"
                               >
                                 <svg
                                   className="icon icon--shop"
@@ -2017,10 +2017,7 @@ const CommercialPress = () => {
                               <p>
                                 All our titles are available to&nbsp;purchase
                                 from the Museum bookshop&nbsp;and from our&nbsp;
-                                <a href="https://www.britishmuseumshoponline.org/">
-                                  online shop
-                                </a>
-                                .
+                                <a href="/shop">online shop</a>.
                               </p>
                               <p>
                                 Inspired by the famous collections of the
@@ -2371,7 +2368,7 @@ const CommercialPress = () => {
                                     Current titles
                                   </h2>
                                   <a
-                                    href="https://www.britishmuseumshoponline.org/books.html"
+                                    href="/shopbooks.html"
                                     className="teaser-listing__cta"
                                   >
                                     <span>Browse all other titles</span>
@@ -2396,7 +2393,7 @@ const CommercialPress = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/legion-life-in-the-roman-army-paperback.html"
+                                                    href="/shoplegion-life-in-the-roman-army-paperback.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -2406,7 +2403,7 @@ const CommercialPress = () => {
                                                       army Catalogue
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/legion-life-in-the-roman-army-paperback…
+                                                      /shoplegion-life-in-the-roman-army-paperback…
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -2435,7 +2432,7 @@ const CommercialPress = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/southeast-asia-a-history-in-objects.html"
+                                                    href="/shopsoutheast-asia-a-history-in-objects.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -2445,7 +2442,7 @@ const CommercialPress = () => {
                                                       In Objects
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/southeast-asia-a-history-in-objects.html
+                                                      /shopsoutheast-asia-a-history-in-objects.html
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -2474,7 +2471,7 @@ const CommercialPress = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/gesture-and-line-four-post-war-german-and-austrian-artists-from-the-duerckheim-collection.html"
+                                                    href="/shopgesture-and-line-four-post-war-german-and-austrian-artists-from-the-duerckheim-collection.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -2485,7 +2482,7 @@ const CommercialPress = () => {
                                                       Austrian artists
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/gesture-and-line-four-post-war-german-a…
+                                                      /shopgesture-and-line-four-post-war-german-a…
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -2514,7 +2511,7 @@ const CommercialPress = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="https://www.britishmuseumshoponline.org/celebrate-discover-50-fantastic-festivals-from-around-the-world.html"
+                                                    href="/shopcelebrate-discover-50-fantastic-festivals-from-around-the-world.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -2525,7 +2522,7 @@ const CommercialPress = () => {
                                                       Around the World
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      https://www.britishmuseumshoponline.org/celebrate-discover-50-fantastic-festiva…
+                                                      /shopcelebrate-discover-50-fantastic-festiva…
                                                     </span>
                                                   </a>
                                                 </h3>
