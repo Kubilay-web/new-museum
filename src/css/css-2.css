@@ -3212,15 +3212,6 @@
     width: 100%;
   }
 
-  .header__menu-container-visible {
-    background-color: #000;
-    left: 0;
-    overflow: hidden;
-    padding: 0 20px;
-    position: absolute;
-    top: calc(100% + 1px);
-    width: 100%;
-  }
   @media (max-width: 1279px) {
     .header__menu-container.-is-active {
       display: block;
@@ -4073,6 +4064,7 @@
     top: 100%;
     width: 0;
   }
+
   @media (min-width: 1024px) {
     .align_right .hero__caption-content:after {
       left: 15px;
@@ -13608,4 +13600,27 @@
 
 .menu__submenu.menu__submenu--level-1.js-drilldown-sub-dropdown {
   display: block !important;
+}
+
+.header__menu-container-visible {
+  background-color: #000;
+  left: 0;
+  overflow: hidden;
+  padding: 0 20px;
+  position: absolute;
+  top: calc(100% + 1px);
+  width: 100%;
+}
+
+@media (min-width: 1300px) {
+  .header__menu-container-visible {
+    background-color: #000;
+    left: 0;
+    display: none;
+    overflow: hidden;
+    padding: 0 20px;
+    position: absolute;
+    top: calc(100% + 1px);
+    width: 100%;
+  }
 }
