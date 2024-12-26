@@ -3211,6 +3211,16 @@
     top: calc(100% + 1px);
     width: 100%;
   }
+
+  .header__menu-container-visible {
+    background-color: #000;
+    left: 0;
+    overflow: hidden;
+    padding: 0 20px;
+    position: absolute;
+    top: calc(100% + 1px);
+    width: 100%;
+  }
   @media (max-width: 1279px) {
     .header__menu-container.-is-active {
       display: block;
