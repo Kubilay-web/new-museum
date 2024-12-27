@@ -487,21 +487,21 @@ const CookMedieval = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_huge/public/2022-07/Medieval-feasting-plaque-1920x1137.jpg?itok=W_SXqFjv 1x"
+                            src="/images/CookMedieval/image-01.webp"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={948}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_large/public/2022-07/Medieval-feasting-plaque-1920x1137.jpg?itok=YF2cGjBI 1x"
+                            src="/images/CookMedieval/image-01.webp"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={770}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/1_1_media_medium/public/2022-07/Medieval-feasting-plaque-1920x1137.jpg?h=fc9d9b55&itok=6o7kbTty 1x"
+                            src="/images/CookMedieval/image-01.webp"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -513,8 +513,7 @@ const CookMedieval = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="/sites/default/files/styles/1_1_media_small/public/2022-07/Medieval-feasting-plaque-1920x1137.jpg?h=fc9d9b55&itok=0hcorKPk"
-                            alt="Plaque showing a feast. People gathered around a table of food, four seated, two standing"
+                            src="/images/CookMedieval/image-01.webp"
                           />
                         </picture>
                       </div>
@@ -873,12 +872,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="not-full-width ls-is-cached lazyloaded"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/The-Last-Supper-Monogrammist-AG-741x1000.jpg?itok=DnrPnmzp 400w, /sites/default/files/styles/uncropped_small/public/2022-07/The-Last-Supper-Monogrammist-AG-741x1000.jpg?itok=wulAnDyH 741w"
                                         sizes="100vw"
                                         width={741}
                                         height={1000}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/The-Last-Supper-Monogrammist-AG-741x1000.jpg?itok=PsnN5T0U"
-                                        alt="Christ and his disciples seated at rectangular table, Judas is standing and bends slightly over the table"
+                                        src="/images/CookMedieval/image-02.jpg"
                                       />
                                       <figcaption>
                                         <a href="/collection/object/P_1914-0214-32">
@@ -1026,12 +1023,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/Last-supper-1960x1929.jpg?itok=ijHsI-4n 400w, /sites/default/files/styles/uncropped_small/public/2022-07/Last-supper-1960x1929.jpg?itok=W9u1zFAE 750w, /sites/default/files/styles/uncropped_medium/public/2022-07/Last-supper-1960x1929.jpg?itok=-FZxbBzt 1000w, /sites/default/files/styles/uncropped_large/public/2022-07/Last-supper-1960x1929.jpg?itok=-c59Qj5X 1300w, /sites/default/files/styles/uncropped_huge/public/2022-07/Last-supper-1960x1929.jpg?itok=h3YU656a 1600w"
                                         sizes="100vw"
                                         width={1600}
                                         height={1575}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/Last-supper-1960x1929.jpg?itok=h3YU656a"
-                                        alt="Silver plaque, engraved and partly enamelled depicting twelve men gathered around a circular table, including central figure of Jesus with right hand raised"
+                                        src="/images/CookMedieval/image-03.webp"
                                       />
                                       <figcaption>
                                         <a href="/collection/object/H_1885-0508-2">
@@ -1135,12 +1130,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/Pipkin-1960x1303.jpg?itok=WgJ4W-OJ 400w, /sites/default/files/styles/uncropped_small/public/2022-07/Pipkin-1960x1303.jpg?itok=vFrCCP3l 750w, /sites/default/files/styles/uncropped_medium/public/2022-07/Pipkin-1960x1303.jpg?itok=SMLh6m6R 1000w, /sites/default/files/styles/uncropped_large/public/2022-07/Pipkin-1960x1303.jpg?itok=Z8X_4z6F 1300w, /sites/default/files/styles/uncropped_huge/public/2022-07/Pipkin-1960x1303.jpg?itok=hsJhZ2hx 1600w"
                                         sizes="100vw"
                                         width={1600}
                                         height={1064}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/Pipkin-1960x1303.jpg?itok=hsJhZ2hx"
-                                        alt="A lead-glazed earthenware tripod pipkin, wheelthrown, with rilling around the shoulder, and a single handle. Sooting on base. "
+                                        src="/images/CookMedieval/image-04.jpg"
                                       />
                                       <figcaption>
                                         <a href="/collection/object/H_1996-0601-1">
@@ -1266,12 +1259,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/Figurine-woman-carrying-fish-723x1000.jpg?itok=udYh3Zsn 400w, /sites/default/files/styles/uncropped_small/public/2022-07/Figurine-woman-carrying-fish-723x1000.jpg?itok=T7fNcY3M 723w"
                                         sizes="100vw"
                                         width={723}
                                         height={1000}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/Figurine-woman-carrying-fish-723x1000.jpg?itok=xp9HMNaj"
-                                        alt="Pottery figurine of a woman with plaited hair carrying a fish, upper half of body, one arm missing"
+                                        src="/images/CookMedieval/image-05.webp"
                                       />
                                       <figcaption>
                                         <a href="/collection/object/H_1921-0328-1">
@@ -1375,12 +1366,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/Durer-cook-wife-974x1368.jpg?itok=gR_cy9IF 400w, /sites/default/files/styles/uncropped_small/public/2022-07/Durer-cook-wife-974x1368.jpg?itok=3f4f2yC3 750w, /sites/default/files/styles/uncropped_medium/public/2022-07/Durer-cook-wife-974x1368.jpg?itok=kmmze1li 974w"
                                         sizes="100vw"
                                         width={974}
                                         height={1368}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/Durer-cook-wife-974x1368.jpg?itok=-MuPKx3g"
-                                        alt="Drawing of male cook and woman side by side. The cook is holding an empty frying pan, magpie on his shoulder"
+                                        src="/images/CookMedieval/image-06.webp"
                                       />
                                       <figcaption>
                                         <a href="/collection/object/P_1868-0822-193">
@@ -1496,12 +1485,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/Meal-Sorgheloos-925x1000.jpg?itok=Bf3n7VMU 400w, /sites/default/files/styles/uncropped_small/public/2022-07/Meal-Sorgheloos-925x1000.jpg?itok=9NFOrMHS 750w, /sites/default/files/styles/uncropped_medium/public/2022-07/Meal-Sorgheloos-925x1000.jpg?itok=qFw77x5I 925w"
                                         sizes="100vw"
                                         width={925}
                                         height={1000}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/Meal-Sorgheloos-925x1000.jpg?itok=i_Y8VY7c"
-                                        alt="Drawing of a group of five figures dining, a servant with food entering the doorway at left, a child reaching up to the table at right and a small dog in the foreground"
+                                        src="/images/CookMedieval/image-07.jpg"
                                       />
                                       <figcaption>
                                         <a href="/collection/object/P_1961-0211-1">
@@ -1594,12 +1581,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/Hans-Burgkmair-the-Elder-897x1000.jpg?itok=7rm8f_Zy 400w, /sites/default/files/styles/uncropped_small/public/2022-07/Hans-Burgkmair-the-Elder-897x1000.jpg?itok=xfELJC1M 750w, /sites/default/files/styles/uncropped_medium/public/2022-07/Hans-Burgkmair-the-Elder-897x1000.jpg?itok=XYQqmvUl 897w"
                                         sizes="100vw"
                                         width={897}
                                         height={1000}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/Hans-Burgkmair-the-Elder-897x1000.jpg?itok=6_i2bL42"
-                                        alt="Maximilian directing a group of soldiers wearing bird masks and Hungarian costume, musicians in foreground, ladies-in-waiting feasting in background"
+                                        src="/images/CookMedieval/image-08.jpg"
                                       />
                                       <figcaption>
                                         <a href="/collection/object/P_1849-1031-247">
@@ -1721,12 +1706,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/Fisherman-woodcut-print-680x1000.jpg?itok=lPzH-DJV 400w, /sites/default/files/styles/uncropped_small/public/2022-07/Fisherman-woodcut-print-680x1000.jpg?itok=XUPiB9Tf 680w"
                                         sizes="100vw"
                                         width={680}
                                         height={1000}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/Fisherman-woodcut-print-680x1000.jpg?itok=BG_MjDU7"
-                                        alt="Hand-coloured print with fisherman on left, small boat on middle-right and a variety of fish in the water, land in background"
+                                        src="/images/CookMedieval/image-09.jpg"
                                       />
                                       <figcaption>
                                         A fisherman in search of a big catch.
@@ -1828,12 +1811,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/Woodcut-print-fruit-trees-696x1000.jpg?itok=mG17uwrq 400w, /sites/default/files/styles/uncropped_small/public/2022-07/Woodcut-print-fruit-trees-696x1000.jpg?itok=-o40RpHp 696w"
                                         sizes="100vw"
                                         width={696}
                                         height={1000}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/Woodcut-print-fruit-trees-696x1000.jpg?itok=KAOlj8qg"
-                                        alt="Hand-coloured print with fruit trees in mid and background, and potted plants in foreground"
+                                        src="/images/CookMedieval/image-10.jpg"
                                       />
                                       <figcaption>
                                         A variety of trees including fruit
@@ -1939,12 +1920,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/Farmer-eggs-Leonhard-Beck-German-woodcut-print-898x1000.jpg?itok=izcV9BT7 400w, /sites/default/files/styles/uncropped_small/public/2022-07/Farmer-eggs-Leonhard-Beck-German-woodcut-print-898x1000.jpg?itok=zMqjDihc 750w, /sites/default/files/styles/uncropped_medium/public/2022-07/Farmer-eggs-Leonhard-Beck-German-woodcut-print-898x1000.jpg?itok=GuMSE90a 898w"
                                         sizes="100vw"
                                         width={898}
                                         height={1000}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/Farmer-eggs-Leonhard-Beck-German-woodcut-print-898x1000.jpg?itok=aH1_977t"
-                                        alt="Man in fine robes (Maximilian) standing on stairs leading up to a columned hallway, in the yard a farmer offering a basket with eggs"
+                                        src="/images/CookMedieval/image-11.jpg"
                                       />
                                       <figcaption>
                                         <a href="/collection/object/P_1837-0616-272">
@@ -2051,12 +2030,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/Supper-at-Emmaus-684x1000.jpg?itok=_DM-U-P5 400w, /sites/default/files/styles/uncropped_small/public/2022-07/Supper-at-Emmaus-684x1000.jpg?itok=OeCcRn_S 684w"
                                         sizes="100vw"
                                         width={684}
                                         height={1000}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/Supper-at-Emmaus-684x1000.jpg?itok=6NzKDwei"
-                                        alt=" Print of Christ and the two disciples seated at a table, three other figures present, in the left background the portrayal of the journey to Emmaus and to the right, Christ's appearance to St Mary Magdalene"
+                                        src="/images/CookMedieval/image-12.jpg"
                                       />
                                       <figcaption>
                                         <a href="/collection/object/P_E-1-105">
@@ -2169,12 +2146,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/Lacock-cup-723x1000.jpg?itok=LkIK23Ur 400w, /sites/default/files/styles/uncropped_small/public/2022-07/Lacock-cup-723x1000.jpg?itok=lMSF0xPR 723w"
                                         sizes="100vw"
                                         width={723}
                                         height={1000}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/Lacock-cup-723x1000.jpg?itok=_fnFN0xc"
-                                        alt="Silver-gilt drinking cup with conical lid. The bowl of the cup is hemispherical and soldered at base to trumpet-shaped foot."
+                                        src="/images/CookMedieval/image-13.jpg"
                                       />
                                       <figcaption>
                                         <a href="/collection/object/H_2014-8002-1">
@@ -2258,12 +2233,10 @@ const CookMedieval = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2022-07/The-Medieval-Cookbook-398x500.jpg?itok=rxnmc7nu 398w"
                                         sizes="100vw"
                                         width={398}
                                         height={500}
-                                        src="/sites/default/files/styles/uncropped_huge/public/2022-07/The-Medieval-Cookbook-398x500.jpg?itok=FUzubZxB"
-                                        alt="Book cover of The Medieval Cookbook with image of four people dining at a table and one bringing food"
+                                        src="/images/CookMedieval/image-14.webp"
                                       />
                                     </div>
                                   </div>
@@ -2301,30 +2274,10 @@ const CookMedieval = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&itok=S6wi3L_6"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&itok=dY_xvRsI 400w, /sites/default/files/styles/16_9_media_small/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&itok=S6wi3L_6 750w, /sites/default/files/styles/16_9_media_medium/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&itok=wspSx_XU 1000w, /sites/default/files/styles/16_9_media_large/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&itok=0FYpIxLQ 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&itok=_FU12fXv 1600w"
                                           data-focal-position="center center"
-                                          alt="Athenian stamnos, men at a symposion,Greek, 450–440 BC, 861x1024"
+                                          src="/images/CookMedieval/image-15.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&amp;amp;itok=dY_xvRsI
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&amp;amp;itok=S6wi3L_6
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&amp;amp;itok=wspSx_XU
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&amp;amp;itok=0FYpIxLQ
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&amp;amp;itok=_FU12fXv
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2022-07/Stamnos-symposion-1000x500.jpg?h=5dabf909&amp;amp;itok=S6wi3L_6"
-                                          data-sizes="auto"
-                                          alt="Athenian&amp;nbsp;stamnos, men at
-                                          a symposion,Greek, 450–440 BC,
-                                          861x1024" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2375,31 +2328,10 @@ const CookMedieval = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&itok=IHMQH-LQ"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&itok=E6qq-YQs 400w, /sites/default/files/styles/16_9_media_small/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&itok=IHMQH-LQ 750w, /sites/default/files/styles/16_9_media_medium/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&itok=GDAwZ9-9 1000w, /sites/default/files/styles/16_9_media_large/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&itok=eH2xd1as 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&itok=sGst-8aK 1600w"
                                           data-focal-position="center center"
-                                          alt="Ralph Fiennes dressed in a waistcoat and hat standing in front of a mound of dirt in the Sutton Hoo excavation site."
+                                          src="/images/CookMedieval/image-16.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&amp;amp;itok=E6qq-YQs
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&amp;amp;itok=IHMQH-LQ
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&amp;amp;itok=GDAwZ9-9
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&amp;amp;itok=eH2xd1as
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&amp;amp;itok=sGst-8aK
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2021-02/Ralph-Fiennes-Basil-Brown-dig-1000.jpg?h=a955cd85&amp;amp;itok=IHMQH-LQ"
-                                          data-sizes="auto" alt="Ralph Fiennes
-                                          dressed in a waistcoat and hat
-                                          standing in front of a mound of dirt
-                                          in the Sutton Hoo excavation site."
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2451,28 +2383,10 @@ const CookMedieval = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&itok=iIJ5a6R2"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&itok=4X3dxDDh 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&itok=iIJ5a6R2 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&itok=YeGdED14 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&itok=xHuhmJ93 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&itok=MqZrLUKa 1600w"
                                           data-focal-position="center center"
-                                          alt="Gold warrior helmet turned brown over time."
+                                          src="/images/CookMedieval/image-17.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&amp;amp;itok=4X3dxDDh
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&amp;amp;itok=iIJ5a6R2
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&amp;amp;itok=YeGdED14
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&amp;amp;itok=xHuhmJ93
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&amp;amp;itok=MqZrLUKa
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Sutton-hoo-helmet-europe-british-museum.jpg?h=684da399&amp;amp;itok=iIJ5a6R2"
-                                          data-sizes="auto" alt="Gold warrior
-                                          helmet turned brown over time." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2512,28 +2426,10 @@ const CookMedieval = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&itok=SIq-cmjC"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&itok=XDOMXzCR 400w, /sites/default/files/styles/16_9_media_small/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&itok=SIq-cmjC 750w, /sites/default/files/styles/16_9_media_medium/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&itok=TIuHNAnh 1000w, /sites/default/files/styles/16_9_media_large/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&itok=dorGfxbn 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&itok=x00nAOBK 1600w"
                                           data-focal-position="center center"
-                                          alt="A yellow bird and a black bird in profile"
+                                          src="/images/CookMedieval/image-18.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&amp;amp;itok=XDOMXzCR
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&amp;amp;itok=SIq-cmjC
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&amp;amp;itok=TIuHNAnh
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&amp;amp;itok=dorGfxbn
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&amp;amp;itok=x00nAOBK
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2022-07/book-seven-climes-main.jpg?h=e2bcc475&amp;amp;itok=SIq-cmjC"
-                                          data-sizes="auto" alt="A yellow bird
-                                          and a black bird in profile" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
