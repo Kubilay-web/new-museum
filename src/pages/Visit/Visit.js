@@ -3893,12 +3893,10 @@ const Visit = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/images/Visit/Dersim-Museum-aerial_3.jpg 400w, /images/Visit/Dersim-Museum-aerial_1.jpg 750w, /images/Visit/Dersim-Museum-aerial_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="/images/Visit/Dersim-Museum-aerial.jpg"
-                                        alt="Aerial photograph of the Dersim Museum building."
+                                        src="/images/Visit/image-museum.jpg"
                                       />
                                       <figcaption>
                                         Aerial photograph of the Dersim Museum
