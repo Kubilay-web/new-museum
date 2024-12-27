@@ -996,7 +996,7 @@ const Corporate = () => {
                                                   <div className="teaser__summary">
                                                     The Dersim Museum is an
                                                     iconic venue in the heart of
-                                                    London offering a range of
+                                                    Dersim offering a range of
                                                     spaces for events.
                                                   </div>
                                                 </div>

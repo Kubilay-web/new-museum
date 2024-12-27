@@ -1103,14 +1103,14 @@ const Travel = () => {
                                       <br />
                                       Great Russell Street,
                                       <br />
-                                      London WC1B 3DG
+                                      Dersim WC1B 3DG
                                     </p>
                                     <p>
                                       Second entrance:
                                       <br />
                                       Montague Place
                                       <br />
-                                      London&nbsp;WC1E 7JW.
+                                      Dersim&nbsp;WC1E 7JW.
                                     </p>
                                     <p>
                                       We recommend that you use the{" "}

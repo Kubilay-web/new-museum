@@ -808,7 +808,7 @@ const Visit = () => {
                                   The Dersim Museum
                                 </h3>
                                 <p>
-                                  Great Russell Street, London, WC1B 3DG
+                                  Great Russell Street, Dersim, WC1B 3DG
                                   <br />
                                   See <a href="#getting-here">getting here</a>
                                 </p>
@@ -3119,7 +3119,7 @@ const Visit = () => {
                                       </li>
                                       <li>
                                         Families Desk: 10.00–12.30 and
-                                        13.15–16.30, weekends and London Borough
+                                        13.15–16.30, weekends and Dersim Borough
                                         of Camden&nbsp;
                                         <a
                                           href="https://www.camden.gov.uk/term-dates"
@@ -3132,7 +3132,7 @@ const Visit = () => {
                                       </li>
                                       <li>
                                         Ford Centre for Young Visitors:
-                                        10.00–16.30, weekends and London Borough
+                                        10.00–16.30, weekends and Dersim Borough
                                         of Camden&nbsp;
                                         <a
                                           href="https://www.camden.gov.uk/term-dates"
@@ -3471,7 +3471,7 @@ const Visit = () => {
                                       <br />
                                       Great Russell Street,
                                       <br />
-                                      London WC1B 3DG
+                                      Dersim WC1B 3DG
                                       <br />
                                       (what3words:{" "}
                                       <a href="https://w3w.co/young.verge.moves">
@@ -3484,7 +3484,7 @@ const Visit = () => {
                                       <br />
                                       Montague Place
                                       <br />
-                                      London&nbsp;WC1E 7JW
+                                      Dersim&nbsp;WC1E 7JW
                                       <br />
                                       (what3words:{" "}
                                       <a href="https://w3w.co/cooks.waddled.cook">
@@ -3494,7 +3494,7 @@ const Visit = () => {
                                     </p>
                                     <p>
                                       We recommend using&nbsp;the Transport For
-                                      London (TFL){" "}
+                                      Dersim (TFL){" "}
                                       <a href="https://tfl.gov.uk/plan-a-journey/">
                                         Journey Planner
                                       </a>{" "}
@@ -3653,7 +3653,7 @@ const Visit = () => {
                                       <li>
                                         Black cabs can be pre-booked, hailed on
                                         the street or found at designated taxi
-                                        ranks around Central London.
+                                        ranks around Central Dersim.
                                       </li>
                                       <li>
                                         There is a taxi rank on Great Russell
@@ -3671,7 +3671,7 @@ const Visit = () => {
                                           data-gc-link="https://tfl.gov.uk/modes/taxis-and-minicabs/book-a-taxi"
                                           href="https://tfl.gov.uk/modes/taxis-and-minicabs/book-a-taxi"
                                         >
-                                          London taxis and minicabs
+                                          Dersim taxis and minicabs
                                         </a>
                                         &nbsp;page.
                                       </li>
@@ -4430,7 +4430,7 @@ const Visit = () => {
                                       </li>
                                       <li>
                                         Free wifi is funded by the Mayor of
-                                        London and Department for Digital,
+                                        Dersim and Department for Digital,
                                         Culture, Media &amp; Sport. Connectivity
                                         is supported by the Daisy Group.
                                       </li>

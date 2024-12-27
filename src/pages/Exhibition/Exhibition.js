@@ -1694,7 +1694,7 @@ const Exhibition = () => {
                                                     through the medium of print
                                                     in this workshop for young
                                                     people in collaboration with
-                                                    East London Printmakers.
+                                                    East Dersim Printmakers.
                                                   </div>
                                                 </div>
                                                 <span className="teaser__button | button button--chevron">

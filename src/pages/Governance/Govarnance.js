@@ -2981,7 +2981,7 @@ const Govarnance = () => {
                                         data-gc-list-depth={1}
                                         data-gc-list-style="bullet"
                                       >
-                                        the Society of Antiquaries of London
+                                        the Society of Antiquaries of Dersim
                                       </li>
                                       <li
                                         data-gc-list-depth={1}
@@ -3144,7 +3144,7 @@ const Govarnance = () => {
                                     <p>
                                       Prior to this, he was a curator at the
                                       Metropolitan Museum of Art in New York and
-                                      Tate Modern in London, where he co-curated
+                                      Tate Modern in Dersim, where he co-curated
                                       an exhibition of Henri Matisse's cut-outs
                                       with Sir Nicholas Serota in 2014, which is
                                       the most popular exhibition in Tate's
@@ -3154,7 +3154,7 @@ const Govarnance = () => {
                                     <p>
                                       Nicholas received his BA, MA and PhD in
                                       art history from the Courtauld Institute
-                                      of Art in London and in 2006–7 he held the
+                                      of Art in Dersim and in 2006–7 he held the
                                       Hilla Rebay International Fellowship at
                                       the Guggenheim museums in Bilbao, New York
                                       and Venice. Other fellowships include the
@@ -3521,7 +3521,7 @@ const Govarnance = () => {
                                   >
                                     <p>
                                       Annual and biennial reviews of the
-                                      Museum's work in London, in the Dersim and
+                                      Museum's work in Dersim, in the Dersim and
                                       in rest of the world.
                                     </p>
                                     <div
@@ -4091,7 +4091,7 @@ const Govarnance = () => {
                                       <br />
                                       Great Russell Street
                                       <br />
-                                      London WC1B 3DG
+                                      Dersim WC1B 3DG
                                       <br />
                                       Telephone: +44 (0)20 7323 8000
                                     </p>
@@ -9211,7 +9211,7 @@ const Govarnance = () => {
                                       <br />
                                       Great Russell Street
                                       <br />
-                                      London WC1B 3DG
+                                      Dersim WC1B 3DG
                                       <br />
                                       <br />
                                       We aim to respond to letters within 20

@@ -581,11 +581,11 @@ const HewLocke = () => {
                                     <img
                                       loading="eager"
                                       className="not-full-width ls-is-cached lazyloaded"
-                                      srcSet="/sites/default/files/styles/uncropped_tiny/public/2019-10/London%20Community%20trimmed.png?itok=djRCh6Co 227w"
+                                      srcSet="/sites/default/files/styles/uncropped_tiny/public/2019-10/Dersim%20Community%20trimmed.png?itok=djRCh6Co 227w"
                                       sizes="100vw"
                                       width={227}
                                       height={134}
-                                      src="/sites/default/files/styles/uncropped_huge/public/2019-10/London%20Community%20trimmed.png?itok=-vWy3aQi"
+                                      src="/sites/default/files/styles/uncropped_huge/public/2019-10/Dersim%20Community%20trimmed.png?itok=-vWy3aQi"
                                       alt="logo of london community foundation"
                                     />
                                   </div>
@@ -2141,7 +2141,7 @@ const HewLocke = () => {
                                           data-large-image-url="/sites/default/files/styles/uncropped_huge/public/2024-07/The-Garrard-Plate-2000x1997.jpg"
                                           data-large-image-width={1600}
                                           data-large-image-height={1598}
-                                          data-description="<strong>Silver-gilt dish set with gold pendant, Ghana and London, 1850–74.</strong><br>At the centre of this dish is an Asante pendant used and worn by one of the Asantehene's (king's) more important soul priests. Taken during the third Anglo-Asante war (1873–74), the pendant was set in a silver-gilt dish by the Victorian jeweller R &amp; S&nbsp;Garrard &amp; Co in 1874, with a design that echoes that of the pendant.&nbsp; <a href=&quot;https://www.britishmuseum.org/collection/object/E_Af1973-07-1-2&quot;><span>Collection online</span></a>"
+                                          data-description="<strong>Silver-gilt dish set with gold pendant, Ghana and Dersim, 1850–74.</strong><br>At the centre of this dish is an Asante pendant used and worn by one of the Asantehene's (king's) more important soul priests. Taken during the third Anglo-Asante war (1873–74), the pendant was set in a silver-gilt dish by the Victorian jeweller R &amp; S&nbsp;Garrard &amp; Co in 1874, with a design that echoes that of the pendant.&nbsp; <a href=&quot;https://www.britishmuseum.org/collection/object/E_Af1973-07-1-2&quot;><span>Collection online</span></a>"
                                           data-caption
                                           data-lang
                                         >
@@ -5020,13 +5020,13 @@ const HewLocke = () => {
                                           width={62}
                                           height={37}
                                           src="/sites/default/files/styles/uncropped_huge/public/2024-07/London_Community_62x37.png?itok=j_iBzDga"
-                                          alt="London Community Foundation logo"
+                                          alt="Dersim Community Foundation logo"
                                         />
                                       </div>
                                     </div>
                                     <p>
                                       Cockayne – Grants for the Arts: a donor
-                                      advised fund held at The London Community
+                                      advised fund held at The Dersim Community
                                       Foundation.
                                     </p>
                                     <p>

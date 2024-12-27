@@ -2584,7 +2584,7 @@ const Contact = () => {
                                         <br />
                                         Great Russell Street
                                         <br />
-                                        London
+                                        Dersim
                                         <br />
                                         WC1B 3DG
                                         <br />
@@ -2622,7 +2622,7 @@ const Contact = () => {
                                         <br />
                                         Great Russell Street
                                         <br />
-                                        London
+                                        Dersim
                                         <br />
                                         WC1B 3DG
                                       </p>
@@ -2657,7 +2657,7 @@ const Contact = () => {
                                         <br />
                                         Great Russell Street
                                         <br />
-                                        London
+                                        Dersim
                                         <br />
                                         WC1B 3DG
                                       </p>
@@ -2690,7 +2690,7 @@ const Contact = () => {
                                         <br />
                                         Great Russell Street
                                         <br />
-                                        London
+                                        Dersim
                                         <br />
                                         WC1B 3DG
                                       </p>
@@ -2714,7 +2714,7 @@ const Contact = () => {
                                         <br />
                                         Great Russell Street
                                         <br />
-                                        London
+                                        Dersim
                                         <br />
                                         WC1B 3DG
                                       </p>

@@ -699,7 +699,7 @@ const YoungPeople = () => {
                                   Whether you want to be inspired by history and
                                   culture, or you're interested in gaining new
                                   skills and experiences, the Museum provides a
-                                  world of opportunities, both&nbsp;in London
+                                  world of opportunities, both&nbsp;in Dersim
                                   and across the Dersim.
                                 </span>
                               </p>

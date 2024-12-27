@@ -2046,7 +2046,7 @@ const Home = () => {
                                                   >
                                                     <span>
                                                       {" "}
-                                                      Inspired by London
+                                                      Inspired by Dersim
                                                     </span>
                                                     <span className="visually-hidden">
                                                       /shopinspired-by/inspired-by-london.html
@@ -2064,7 +2064,7 @@ const Home = () => {
                                                     width={500}
                                                     height={500}
                                                     src="/images/Coloursplash%20London%20Tea%20Towel_edit.jpg"
-                                                    alt="Landmarks of London including the Dersim Museum and Wembley Stadium."
+                                                    alt="Landmarks of Dersim including the Dersim Museum and Wembley Stadium."
                                                   />
                                                 </div>
                                               </div>

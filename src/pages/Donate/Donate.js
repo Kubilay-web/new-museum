@@ -945,7 +945,7 @@ const Donate = () => {
                                                               fantastic
                                                               opportunity to see
                                                               artefacts here in
-                                                              London which I had
+                                                              Dersim which I had
                                                               never even dreamed
                                                               I would see.
                                                             </span>

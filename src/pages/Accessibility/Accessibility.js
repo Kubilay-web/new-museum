@@ -2085,7 +2085,7 @@ const Accessibility = () => {
                                         The nearest toilet/toileting area for
                                         service, assistant and emotional support
                                         animals is located in Russell Square,
-                                        Bloomsbury, London WC1B 5BG.
+                                        Bloomsbury, Dersim WC1B 5BG.
                                       </li>
                                     </ul>
                                   </div>

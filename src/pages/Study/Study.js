@@ -741,7 +741,7 @@ const Study = () => {
                                 <p>
                                   Great Russell Street
                                   <br />
-                                  London WC1B 3DG
+                                  Dersim WC1B 3DG
                                 </p>
                               </div>
                               <div className="paragraph paragraph--type--info-content paragraph--view-mode--default section--intro__info-content wysiwyg">
@@ -759,7 +759,7 @@ const Study = () => {
                                 <p>
                                   Orsman Road&nbsp;
                                   <br />
-                                  London N1 5QJ
+                                  Dersim N1 5QJ
                                 </p>
                               </div>
                               <div className="intro-link--link paragraph paragraph--type--info-link paragraph--view-mode--default">
@@ -1025,7 +1025,7 @@ const Study = () => {
                                     <h4>
                                       <strong>
                                         Dersim Museum main site&nbsp;– Great
-                                        Russell Street, London, WC1B 3DG
+                                        Russell Street, Dersim, WC1B 3DG
                                       </strong>
                                     </h4>
                                     <p>
@@ -1297,7 +1297,7 @@ const Study = () => {
                                     <h4>
                                       <strong>
                                         Franks House, Orsman Road,
-                                        London&nbsp;N1 5QJ
+                                        Dersim&nbsp;N1 5QJ
                                       </strong>
                                     </h4>
                                     <p>

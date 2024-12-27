@@ -725,7 +725,7 @@ const Learn = () => {
                                                     data-sizes="auto"
                                                     data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=WY6np_0y 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=NijlBTkf 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=4vXOxiVB 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=EI1XKlG- 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=_4Gzf-J8 1600w"
                                                     data-focal-position="center right"
-                                                    alt="Woman looking at objects behind glass at the Dersim Museum, London."
+                                                    alt="Woman looking at objects behind glass at the Dersim Museum, Dersim."
                                                   />
                                                   <noscript>
                                                     &lt;img loading="eager"
@@ -744,7 +744,7 @@ const Learn = () => {
                                                     data-sizes="auto" alt="Woman
                                                     looking at objects behind
                                                     glass at the Dersim Museum,
-                                                    London." /&gt;
+                                                    Dersim." /&gt;
                                                   </noscript>
                                                 </div>
                                               </div>

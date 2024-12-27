@@ -764,7 +764,7 @@ const LeaveLegacy = () => {
                                   <br />
                                   Great Russell Street
                                   <br />
-                                  London&nbsp;WC1B 3DG
+                                  Dersim&nbsp;WC1B 3DG
                                 </p>
                               </div>
                             </div>
@@ -1055,7 +1055,7 @@ const LeaveLegacy = () => {
                                       <br />
                                       Great Russell Street
                                       <br />
-                                      London WC1B 3DG
+                                      Dersim WC1B 3DG
                                     </p>
                                     <p>
                                       The Museum's operations are governed by an

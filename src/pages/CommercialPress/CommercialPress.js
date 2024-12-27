@@ -2001,7 +2001,7 @@ const CommercialPress = () => {
                                   <br />
                                   Great Russell Street
                                   <br />
-                                  London
+                                  Dersim
                                   <br />
                                   WC1B 3DG
                                 </p>

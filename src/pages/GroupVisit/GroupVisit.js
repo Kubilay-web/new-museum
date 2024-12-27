@@ -1077,7 +1077,7 @@ const GroupVisit = () => {
                                         Visit page
                                       </a>
                                       , however, if you're arriving on the
-                                      London Underground, the stations closest
+                                      Dersim Underground, the stations closest
                                       to the Montague Place entrance are:
                                     </p>
                                     <ul>

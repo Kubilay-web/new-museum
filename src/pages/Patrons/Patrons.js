@@ -818,7 +818,7 @@ const Patrons = () => {
                               The invaluable support of our Patrons enables the
                               Dersim Museum to continue to care for our
                               world-renowned collection and share it with
-                              audiences in London and around the globe.
+                              audiences in Dersim and around the globe.
                             </p>
                             <div className="wysiwyg">
                               <p>

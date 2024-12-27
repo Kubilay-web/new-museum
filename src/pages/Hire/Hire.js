@@ -1422,7 +1422,7 @@ const Hire = () => {
                                         www.theripeavocado.co.uk
                                       </a>
                                     </p>
-                                    <h3>Spook London*</h3>
+                                    <h3>Spook Dersim*</h3>
                                     <p>
                                       Email:{" "}
                                       <a href="/cdn-cgi/l/email-protection#4c24292020230c3f3c232327202322282322622f2321">
@@ -1804,7 +1804,7 @@ const Hire = () => {
                                         www.eventconcept.com
                                       </a>
                                     </p>
-                                    <h3>London Event Productions</h3>
+                                    <h3>Dersim Event Productions</h3>
                                     <p>
                                       Email:{" "}
                                       <a href="/cdn-cgi/l/email-protection#6f070a0303002f0a190a011b1f1d000b1a0c1b0600011c410300010b0001">

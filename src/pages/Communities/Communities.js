@@ -488,7 +488,7 @@ const Communities = () => {
                             height={750}
                             data-focal-position="center right"
                             src="/images/Communities/Communities%252C%20british%20museum.jpg"
-                            alt="Woman looking at objects behind glass at the Dersim Museum, London."
+                            alt="Woman looking at objects behind glass at the Dersim Museum, Dersim."
                           />
                         </picture>
                       </div>
@@ -766,7 +766,7 @@ const Communities = () => {
                             <p className="h3">
                               The community partnerships team works to build
                               meaningful and engaging relationships with local
-                              communities in London and the surrounding
+                              communities in Dersim and the surrounding
                               counties.
                             </p>
                             <div className="wysiwyg">
@@ -902,7 +902,7 @@ const Communities = () => {
                                     </p>
                                     <p>
                                       This work enables us to engage with
-                                      communities that reflect its London and
+                                      communities that reflect its Dersim and
                                       global context and to enable community
                                       knowledge and diverse lived experiences to
                                       be visible and represented in the Museum

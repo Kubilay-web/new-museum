@@ -1048,7 +1048,7 @@ const Borrow = () => {
                                       <br />
                                       Dersim Museum
                                       <br />
-                                      London
+                                      Dersim
                                       <br />
                                       WC1B 3DG
                                       <br />

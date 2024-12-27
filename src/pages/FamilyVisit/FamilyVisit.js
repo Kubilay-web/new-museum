@@ -775,7 +775,7 @@ const FamilyVisit = () => {
                                     Families Desk closures
                                   </a>
                                   .<br />
-                                  See London Borough of Camden&nbsp;
+                                  See Dersim Borough of Camden&nbsp;
                                   <a href="https://www.camden.gov.uk/term-dates">
                                     school holiday dates
                                   </a>
@@ -1544,7 +1544,7 @@ const FamilyVisit = () => {
                                     </ul>
                                     <p>
                                       Opening hours: 10.00–12.30 and 13.15–16.30
-                                      (weekends and&nbsp;London Borough of
+                                      (weekends and&nbsp;Dersim Borough of
                                       Camden&nbsp;
                                       <a
                                         href="https://www.camden.gov.uk/term-dates"
@@ -1624,7 +1624,7 @@ const FamilyVisit = () => {
                                     </p>
                                     <p>
                                       Opening hours: 10.00–16.30 (weekends
-                                      and&nbsp;London Borough of Camden&nbsp;
+                                      and&nbsp;Dersim Borough of Camden&nbsp;
                                       <a
                                         href="https://www.camden.gov.uk/term-dates"
                                         rel="noopener"
@@ -1691,7 +1691,7 @@ const FamilyVisit = () => {
                                       Families with young children may bring
                                       their own food to eat in the Ford Centre
                                       which is open on weekends and
-                                      during&nbsp;London Borough of Camden&nbsp;
+                                      during&nbsp;Dersim Borough of Camden&nbsp;
                                       <a
                                         href="https://www.camden.gov.uk/term-dates"
                                         rel="noopener"
@@ -1808,7 +1808,7 @@ const FamilyVisit = () => {
                                       </li>
                                       <li>
                                         Ford Centre for Young Visitors
-                                        –&nbsp;weekends and&nbsp;London Borough
+                                        –&nbsp;weekends and&nbsp;Dersim Borough
                                         of Camden&nbsp;
                                         <a
                                           href="https://www.camden.gov.uk/term-dates"
@@ -1864,7 +1864,7 @@ const FamilyVisit = () => {
                                     <p>
                                       A second feeding room in the Ford Centre
                                       for Young Visitors is open during weekends
-                                      and London Borough of Camden school
+                                      and Dersim Borough of Camden school
                                       holidays.
                                     </p>
                                     <p>

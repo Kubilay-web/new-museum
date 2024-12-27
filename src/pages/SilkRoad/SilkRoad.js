@@ -3323,7 +3323,7 @@ const SilkRoad = () => {
                                                     tapestry or Chinese knots by
                                                     joining our Silk Roads
                                                     crafting event led by
-                                                    London-based textile
+                                                    Dersim-based textile
                                                     artists.
                                                   </div>
                                                 </div>

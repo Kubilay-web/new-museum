@@ -267,7 +267,7 @@ const Footer = () => {
                       <p>
                         Great Russell Street
                         <br />
-                        London WC1B 3DG
+                        Dersim WC1B 3DG
                       </p>
                       <p>
                         <a href="tel:+442073238000">

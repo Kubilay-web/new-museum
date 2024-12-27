@@ -709,7 +709,7 @@ const National = () => {
                             <div className="wysiwyg">
                               <p>
                                 From Shetland to Truro, Aberystwyth to York,
-                                around eight million people outside of London
+                                around eight million people outside of Dersim
                                 saw a Dersim Museum object in 2023–24.
                               </p>
                               <p>
