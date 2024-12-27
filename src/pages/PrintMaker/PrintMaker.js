@@ -506,21 +506,21 @@ const PrintMaker = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_huge/public/2024-08/13332%20Picasso_Web%20asset.jpg?itok=Lw-CjpjS 1x"
+                            src="/images/PrintMaker/image-01.jpg"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1067}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_large/public/2024-08/13332%20Picasso_Web%20asset.jpg?itok=cqrAH9hb 1x"
+                            src="/images/PrintMaker/image-01.jpg"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={867}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/1_1_media_medium/public/2024-08/13332%20Picasso_Web%20asset.jpg?h=5fc7e0ac&itok=teqwUR5G 1x"
+                            src="/images/PrintMaker/image-01.jpg"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -532,8 +532,7 @@ const PrintMaker = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="/sites/default/files/styles/1_1_media_small/public/2024-08/13332%20Picasso_Web%20asset.jpg?h=5fc7e0ac&itok=AODIfQgI"
-                            alt="A colourful Picasso print in red, green, yellow and black showing a lightbulb from a ceiling lamp lighting up a table with apples and a goblet on it."
+                            src="/images/PrintMaker/image-01.jpg"
                           />
                         </picture>
                       </div>
@@ -1210,22 +1209,10 @@ const PrintMaker = () => {
                                               className="lazyload not-full-width"
                                               width={588}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Frugal-meal-highlights-slice-2000x1681.png?itok=VgCLHu91"
+                                              src="/images/PrintMaker/image-02.webp"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Frugal-meal-highlights-slice-2000x1681.png?itok=VgCLHu91 588w"
                                               data-focal-position="center center"
-                                              alt="Print showing a gaunt man and woman at a table with a bottle, glasses and an empty plate"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Frugal-meal-highlights-slice-2000x1681.png?itok=VgCLHu91
-                                              588w" width="588" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Frugal-meal-highlights-slice-2000x1681.png?itok=VgCLHu91"
-                                              data-sizes="auto" alt="Print
-                                              showing a gaunt man and woman at a
-                                              table with a bottle, glasses and
-                                              an empty plate" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             'The frugal meal'
@@ -1260,22 +1247,10 @@ const PrintMaker = () => {
                                               className="lazyload not-full-width"
                                               width={550}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Frogs-highlights-slice-2000x1572.png?itok=Oa7DBEWJ"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Frogs-highlights-slice-2000x1572.png?itok=Oa7DBEWJ 550w"
                                               data-focal-position="center center"
-                                              alt="Print showing frogs on waterlily pads. One frog leaps towards a space on a pad"
+                                              src="/images/PrintMaker/image-03.webp"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Frogs-highlights-slice-2000x1572.png?itok=Oa7DBEWJ
-                                              550w" width="550" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Frogs-highlights-slice-2000x1572.png?itok=Oa7DBEWJ"
-                                              data-sizes="auto" alt="Print
-                                              showing frogs on waterlily pads.
-                                              One frog leaps towards a space on
-                                              a pad" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             'Frogs'
@@ -1310,22 +1285,10 @@ const PrintMaker = () => {
                                               className="lazyload not-full-width"
                                               width={1128}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Leaping-bulls-2000x1241.png?itok=w_lfPX26"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Leaping-bulls-2000x1241.png?itok=w_lfPX26 1128w"
                                               data-focal-position="center center"
-                                              alt="Colourful abstract print showing black bulls with wings leaping over yellow suns or sunflowers"
+                                              src="/images/PrintMaker/image-04.webp"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Leaping-bulls-2000x1241.png?itok=w_lfPX26
-                                              1128w" width="1128" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Leaping-bulls-2000x1241.png?itok=w_lfPX26"
-                                              data-sizes="auto" alt="Colourful
-                                              abstract print showing black bulls
-                                              with wings leaping over yellow
-                                              suns or sunflowers" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             'Leaping bulls'
@@ -1466,16 +1429,6 @@ const PrintMaker = () => {
                                               data-focal-position="center center"
                                               alt="Abstract portrait of a woman with blue angular headdress, a curved face and a swoop of black hair"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Dora-maar-2000x1593.png?itok=-U9W9lsu
-                                              558w" width="558" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-09/Picasso-Dora-maar-2000x1593.png?itok=-U9W9lsu"
-                                              data-sizes="auto" alt="Abstract
-                                              portrait of a woman with blue
-                                              angular headdress, a curved face
-                                              and a swoop of black hair" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             'Head of a woman'
@@ -2155,32 +2108,9 @@ const PrintMaker = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&itok=xECw_j9i"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&itok=lwG7jfFz 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&itok=xECw_j9i 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&itok=4PrP45zJ 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&itok=rX9hhylk 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&itok=RswVSoby 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Abstract portrait of a woman with a curved face and a swoop of black hair to the left."
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&amp;amp;itok=lwG7jfFz
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&amp;amp;itok=xECw_j9i
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&amp;amp;itok=4PrP45zJ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&amp;amp;itok=rX9hhylk
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&amp;amp;itok=RswVSoby
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Picasso-Head-of-a-woman_1920x1080.jpg?h=d1cb525d&amp;amp;itok=xECw_j9i"
-                                                    data-sizes="auto"
-                                                    alt="Abstract portrait of a
-                                                    woman with a curved face and
-                                                    a swoop of black hair to the
-                                                    left." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2276,33 +2206,10 @@ const PrintMaker = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&itok=exuAvx6I"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&itok=Gb7suvK3 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&itok=exuAvx6I 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&itok=YmeJvQi3 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&itok=n59aqvYV 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&itok=xJ8PKUUk 1600w"
                                                     data-focal-position="center left"
-                                                    alt="Colourful abstract print showing black bulls with wings leaping over yellow suns or sunflowers"
+                                                    src="/images/PrintMaker/image-06.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&amp;amp;itok=Gb7suvK3
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&amp;amp;itok=exuAvx6I
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&amp;amp;itok=YmeJvQi3
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&amp;amp;itok=n59aqvYV
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&amp;amp;itok=xJ8PKUUk
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Picasso_Leaping_Bulls_2.jpg?h=68fb6dd3&amp;amp;itok=exuAvx6I"
-                                                    data-sizes="auto"
-                                                    alt="Colourful abstract
-                                                    print showing black bulls
-                                                    with wings leaping over
-                                                    yellow suns or sunflowers"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2411,32 +2318,10 @@ const PrintMaker = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&itok=fZ8xujuK"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&itok=chIbHvqP 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&itok=fZ8xujuK 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&itok=as-lqTCH 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&itok=l8t1fxU4 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&itok=pfH04MU- 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Abstract portrait of a woman with a curved face and a swoop of black hair to the left."
+                                                    src="/images/PrintMaker/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&amp;amp;itok=chIbHvqP
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&amp;amp;itok=fZ8xujuK
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&amp;amp;itok=as-lqTCH
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&amp;amp;itok=l8t1fxU4
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&amp;amp;itok=pfH04MU-
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Picasso_Head_of_a_woman_teaser.jpg?h=d1cb525d&amp;amp;itok=fZ8xujuK"
-                                                    data-sizes="auto"
-                                                    alt="Abstract portrait of a
-                                                    woman with a curved face and
-                                                    a swoop of black hair to the
-                                                    left." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2680,12 +2565,10 @@ const PrintMaker = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-11/Picasso_printmaker_book.jpg?itok=2hZCe4Hd 400w, /sites/default/files/styles/uncropped_small/public/2024-11/Picasso_printmaker_book.jpg?itok=OItO7gnU 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-11/Picasso_printmaker_book.jpg?itok=DsFc0gSF"
-                                                    alt="The cover of Picasso Printmaker book featuring a red, green, yellow and black still life print"
+                                                    src="/images/PrintMaker/image-07.webp"
                                                   />
                                                 </div>
                                               </div>
@@ -2731,12 +2614,10 @@ const PrintMaker = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-11/Leaping_Bulls_Tea_Towel_0.jpg?itok=Tpy8OafM 400w, /sites/default/files/styles/uncropped_small/public/2024-11/Leaping_Bulls_Tea_Towel_0.jpg?itok=hDuZeG4G 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-11/Leaping_Bulls_Tea_Towel_0.jpg?itok=kmBDBzuv"
-                                                    alt="A tea towel featuring Picasso's colourful Leaping Bulls print"
+                                                    src="/images/PrintMaker/image-08.webp"
                                                   />
                                                 </div>
                                               </div>
@@ -2782,12 +2663,10 @@ const PrintMaker = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-11/Pablo_Picasso_Big_Dreams.jpg?itok=lYOumGRa 400w, /sites/default/files/styles/uncropped_small/public/2024-11/Pablo_Picasso_Big_Dreams.jpg?itok=hDAr0XKi 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-11/Pablo_Picasso_Big_Dreams.jpg?itok=6bQdqzyv"
-                                                    alt="The cover of the Little People, Big Dreams: Pablo Picasso book, with a cartoon image of Picasso on a blue background"
+                                                    src="/images/PrintMaker/image-09.webp"
                                                   />
                                                 </div>
                                               </div>
@@ -2833,12 +2712,10 @@ const PrintMaker = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-11/The_Hen_greetings_card_2.jpg?itok=eThjIe7_ 400w, /sites/default/files/styles/uncropped_small/public/2024-11/The_Hen_greetings_card_2.jpg?itok=XgwVCeYs 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-11/The_Hen_greetings_card_2.jpg?itok=PWr9MLAy"
-                                                    alt="A greetings card featuring a Picasso print featuring a monochrome hen"
+                                                    src="/images/PrintMaker/image-10.webp"
                                                   />
                                                 </div>
                                               </div>
@@ -3889,32 +3766,10 @@ const PrintMaker = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=bBQ9Fzq8 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=LMuBMahJ 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=L6qjUiGy 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=fhhOqZBV 1600w"
                                           data-focal-position="bottom center"
-                                          alt="Bust of Queen, adorned with regalia of empire including skulls, tropical foliage, brass plaques, and replicas of military insignia including medals of imperial conflicts. "
+                                          src="/images/PrintMaker/image-11.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=bBQ9Fzq8
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=2U2LQ4z6
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=LMuBMahJ
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=L6qjUiGy
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=fhhOqZBV
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=2U2LQ4z6"
-                                          data-sizes="auto" alt="Bust of Queen,
-                                          adorned with regalia of empire
-                                          including skulls, tropical foliage,
-                                          brass plaques, and replicas of
-                                          military insignia including medals of
-                                          imperial conflicts. " /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -3968,29 +3823,10 @@ const PrintMaker = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=dJ0E3RyD"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=yUjZkpma 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=dJ0E3RyD 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=B5Q5PeO- 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=zHxQpblF 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=wRf85GWB 1600w"
                                           data-focal-position="center center"
-                                          alt="Three figures and calligraphy upon an ancient scroll. "
+                                          src="/images/PrintMaker/image-12.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=yUjZkpma
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=dJ0E3RyD
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=B5Q5PeO-
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=zHxQpblF
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=wRf85GWB
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=dJ0E3RyD"
-                                          data-sizes="auto" alt="Three figures
-                                          and calligraphy upon an ancient
-                                          scroll. " /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -4046,30 +3882,10 @@ const PrintMaker = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=UBP-URaN"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=qyt856Pj 400w, /sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=UBP-URaN 750w, /sites/default/files/styles/16_9_media_medium/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=xBby8ZqG 1000w, /sites/default/files/styles/16_9_media_large/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=zg98V48n 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=8gdRz-UT 1600w"
                                           data-focal-position="center center"
-                                          alt="A black and white view of the Egyptian sculpture gallery of the Dersim Museum from about 1923."
+                                          src="/images/PrintMaker/image-13.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=qyt856Pj
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=UBP-URaN
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=xBby8ZqG
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=zg98V48n
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=8gdRz-UT
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=UBP-URaN"
-                                          data-sizes="auto" alt="A black and
-                                          white view of the Egyptian sculpture
-                                          gallery of the Dersim Museum from
-                                          about 1923." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -4123,29 +3939,10 @@ const PrintMaker = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=73k-AqJa 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=Ef0XY0UQ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=sOrwHw5e 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=IkIcINR5 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&itok=frHfjMMM 1600w"
                                           data-focal-position="center center"
-                                          alt="Procession of camels with lone figure leading in shadow against orange sky"
+                                          src="/images/PrintMaker/image-14.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;amp;itok=73k-AqJa
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;amp;itok=Ef0XY0UQ
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;amp;itok=sOrwHw5e
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;amp;itok=IkIcINR5
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;amp;itok=frHfjMMM
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?h=bacbf645&amp;amp;itok=Ef0XY0UQ"
-                                          data-sizes="auto" alt="Procession of
-                                          camels with lone figure leading in
-                                          shadow against orange sky" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
