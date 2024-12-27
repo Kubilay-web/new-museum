@@ -560,12 +560,10 @@ const SilkRoad = () => {
                                     <img
                                       loading="eager"
                                       className="not-full-width ls-is-cached lazyloaded"
-                                      srcSet="/sites/default/files/styles/uncropped_tiny/public/2023-02/Huo%20logo%20280px%20wide%20reversed%20out.png?itok=hxeHO93H 282w"
                                       sizes="100vw"
                                       width={282}
                                       height={113}
-                                      src="/sites/default/files/styles/uncropped_huge/public/2023-02/Huo%20logo%20280px%20wide%20reversed%20out.png?itok=K3-PnhKY"
-                                      alt="The Huo Family Foundation logo"
+                                      src="/images/SilkRoad/image-21.webp"
                                     />
                                   </div>
                                 </div>
@@ -585,12 +583,10 @@ const SilkRoad = () => {
                                     <img
                                       loading="eager"
                                       className="not-full-width ls-is-cached lazyloaded"
-                                      srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-08/UACF-logo%20white-EN-space3-280px.png?itok=5eUtTxxu 280w"
                                       sizes="100vw"
                                       width={280}
                                       height={170}
-                                      src="/sites/default/files/styles/uncropped_huge/public/2024-08/UACF-logo%20white-EN-space3-280px.png?itok=X646eSxP"
-                                      alt="Logo for Uzbekistan Art and Culture Development Foundation"
+                                      src="/images/SilkRoad/image-22.webp"
                                     />
                                   </div>
                                 </div>
@@ -2469,32 +2465,10 @@ const SilkRoad = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=Y5Rl6qaZ"
+                                                    src="/images/SilkRoad/image-23.jpg"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=hvgbaYYy 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=Y5Rl6qaZ 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=yLJfClDD 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=xDN_nmwl 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&itok=EGCXc6bM 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Two soft toy teddies sat among a piece of paper, scissors, gold foil, and papyrus."
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;amp;itok=hvgbaYYy
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;amp;itok=Y5Rl6qaZ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;amp;itok=yLJfClDD
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;amp;itok=xDN_nmwl
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;amp;itok=EGCXc6bM
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Little_Feet_exhibition_explorer_teaser.jpg?h=d1cb525d&amp;amp;itok=Y5Rl6qaZ"
-                                                    data-sizes="auto" alt="Two
-                                                    soft toy teddies sat among a
-                                                    piece of paper, scissors,
-                                                    gold foil, and papyrus."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2590,40 +2564,10 @@ const SilkRoad = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&itok=76fP_32L"
+                                                    src="/images/SilkRoad/image-24.jpg"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&itok=Nmn9IOSr 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&itok=76fP_32L 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&itok=AepGzyOC 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&itok=1VBIpMED 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&itok=KsSIRxuZ 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Depiction of a central Buddha figure dressed in a robe draped over one shoulder, flanked on either side by two figures. The central Buddha displays a layered yellow and blue halo around their head and body, while on the other figures are shown only with this halo around their heads."
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&amp;amp;itok=Nmn9IOSr
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&amp;amp;itok=76fP_32L
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&amp;amp;itok=AepGzyOC
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&amp;amp;itok=1VBIpMED
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&amp;amp;itok=KsSIRxuZ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Silk_Roads_embroidered_textile_teaser.jpg?h=d1cb525d&amp;amp;itok=76fP_32L"
-                                                    data-sizes="auto"
-                                                    alt="Depiction of a central
-                                                    Buddha figure dressed in a
-                                                    robe draped over one
-                                                    shoulder, flanked on either
-                                                    side by two figures. The
-                                                    central Buddha displays a
-                                                    layered yellow and blue halo
-                                                    around their head and body,
-                                                    while on the other figures
-                                                    are shown only with this
-                                                    halo around their heads."
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2734,32 +2678,10 @@ const SilkRoad = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=Y6E-B-4X"
+                                                    src="/images/SilkRoad/image-25.jpg"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=7NPTPN-l 400w, /sites/default/files/styles/16_9_media_small/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=Y6E-B-4X 750w, /sites/default/files/styles/16_9_media_medium/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=xdjaPD7q 1000w, /sites/default/files/styles/16_9_media_large/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=LarNQnWU 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&itok=dUe6ZMFA 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Glazed ceramic dual-humped Bactrian camel laden with silk, a ewer and bags"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;amp;itok=7NPTPN-l
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;amp;itok=Y6E-B-4X
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;amp;itok=xdjaPD7q
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;amp;itok=LarNQnWU
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;amp;itok=dUe6ZMFA
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Ceramic_camel_figure_teaser.jpg?h=d1cb525d&amp;amp;itok=Y6E-B-4X"
-                                                    data-sizes="auto"
-                                                    alt="Glazed ceramic
-                                                    dual-humped Bactrian camel
-                                                    laden with silk, a ewer and
-                                                    bags" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2958,37 +2880,10 @@ const SilkRoad = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&itok=EFJnhAew"
+                                                    src="/images/SilkRoad/image-26.jpg"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&itok=i3nUvH9x 400w, /sites/default/files/styles/16_9_media_small/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&itok=EFJnhAew 750w, /sites/default/files/styles/16_9_media_medium/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&itok=bVeJ9Dxa 1000w, /sites/default/files/styles/16_9_media_large/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&itok=2l_Wreb7 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&itok=2wGr5NJX 1600w"
                                                     data-focal-position="top center"
-                                                    alt="View of a public square, with figures standing and seated on steps leading to a colonnade at the side a large central mosque structure, and others washing their feet in a fountain in foreground to the right."
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&amp;amp;itok=i3nUvH9x
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&amp;amp;itok=EFJnhAew
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&amp;amp;itok=bVeJ9Dxa
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&amp;amp;itok=2l_Wreb7
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&amp;amp;itok=2wGr5NJX
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Hagia_Sophia_Istanbul_1920x1080.jpg?h=55bb9096&amp;amp;itok=EFJnhAew"
-                                                    data-sizes="auto" alt="View
-                                                    of a public square, with
-                                                    figures standing and seated
-                                                    on steps leading to a
-                                                    colonnade at the side a
-                                                    large central mosque
-                                                    structure, and others
-                                                    washing their feet in a
-                                                    fountain in foreground to
-                                                    the right." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3103,32 +2998,10 @@ const SilkRoad = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&itok=xJv_Ot48"
+                                                    src="/images/SilkRoad/image-27.webp"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&itok=9IFaJSCh 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&itok=xJv_Ot48 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&itok=EXIqxWLK 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&itok=51wfgwzd 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&itok=icXzO0CC 1600w"
                                                     data-focal-position="center left"
-                                                    alt="Three soft toy teddy bears gathered around pencils and paper with a treasure chest beside them."
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&amp;amp;itok=9IFaJSCh
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&amp;amp;itok=xJv_Ot48
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&amp;amp;itok=EXIqxWLK
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&amp;amp;itok=51wfgwzd
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&amp;amp;itok=icXzO0CC
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Little-Feet-Explore-Silk-Roads-1920x1080.jpg?h=4493432c&amp;amp;itok=xJv_Ot48"
-                                                    data-sizes="auto" alt="Three
-                                                    soft toy teddy bears
-                                                    gathered around pencils and
-                                                    paper with a treasure chest
-                                                    beside them." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3225,35 +3098,10 @@ const SilkRoad = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&itok=MfR3bL5z"
+                                                    src="/images/SilkRoad/image-28.jpg"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&itok=FmbN6msN 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&itok=MfR3bL5z 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&itok=9ChZMQaV 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&itok=acbHhb8f 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&itok=47mdvdhY 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Six different Chinese knot designs displayed on top of a book about Chinese knot history, next to blue and white ceramic bowls filled with assorted beads, on a white surface."
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&amp;amp;itok=FmbN6msN
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&amp;amp;itok=MfR3bL5z
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&amp;amp;itok=9ChZMQaV
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&amp;amp;itok=acbHhb8f
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&amp;amp;itok=47mdvdhY
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Yi_Crafts_Chinese_knots_teaser.jpg?h=d1cb525d&amp;amp;itok=MfR3bL5z"
-                                                    data-sizes="auto" alt="Six
-                                                    different Chinese knot
-                                                    designs displayed on top of
-                                                    a book about Chinese knot
-                                                    history, next to blue and
-                                                    white ceramic bowls filled
-                                                    with assorted beads, on a
-                                                    white surface." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3486,12 +3334,10 @@ const SilkRoad = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-09/silk_roads_paperback_500x500.jpg?itok=FsUwHyVJ 400w, /sites/default/files/styles/uncropped_small/public/2024-09/silk_roads_paperback_500x500.jpg?itok=CF_ASmoF 500w"
+                                                    src="/images/SilkRoad/image-27.webp"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-09/silk_roads_paperback_500x500.jpg?itok=BJ8UznVU"
-                                                    alt="A book titled Silk Roads with a earthenware camel on the cover."
                                                   />
                                                 </div>
                                               </div>
@@ -3537,12 +3383,10 @@ const SilkRoad = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-09/Al-Idrisi_World_Map_Window_Transfer_500x500.jpg?itok=HULgSRIy 400w, /sites/default/files/styles/uncropped_small/public/2024-09/Al-Idrisi_World_Map_Window_Transfer_500x500.jpg?itok=R69_RtYX 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-09/Al-Idrisi_World_Map_Window_Transfer_500x500.jpg?itok=xRYolYs2"
-                                                    alt="A decorative circular blue, white and gold 12th-century map of Asia, Africa and Europe."
+                                                    src="/images/SilkRoad/image-28.jpg"
                                                   />
                                                 </div>
                                               </div>
@@ -3588,11 +3432,10 @@ const SilkRoad = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-09/Varkhuman_Procession_Tea_Towel_500x500.jpg?itok=_n6tzrJd 400w, /sites/default/files/styles/uncropped_small/public/2024-09/Varkhuman_Procession_Tea_Towel_500x500.jpg?itok=Dc3ww7Uo 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-09/Varkhuman_Procession_Tea_Towel_500x500.jpg?itok=My6y8XsO"
+                                                    src="/images/SilkRoad/image-29.jpg"
                                                     alt="A colourful tea towel with a procession of riders on elephants, horses and camels, based on a mural from Uzbekistan."
                                                   />
                                                 </div>
@@ -3639,12 +3482,10 @@ const SilkRoad = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-09/Franks_Casket_Marble_Coaster_500x500.jpg?itok=HonNMgbr 400w, /sites/default/files/styles/uncropped_small/public/2024-09/Franks_Casket_Marble_Coaster_500x500.jpg?itok=LzWbu7rv 500w"
+                                                    src="/images/SilkRoad/image-30.jpg"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-09/Franks_Casket_Marble_Coaster_500x500.jpg?itok=V5S5CN2V"
-                                                    alt="A marble drinks coaster with a design based on the 8th-century Anglo-Saxon Franks Casket."
                                                   />
                                                 </div>
                                               </div>
@@ -4452,11 +4293,10 @@ const SilkRoad = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-10/Silk_Roads_family_trail_1000x500.jpg?itok=C4o6MFDx 400w, /sites/default/files/styles/uncropped_small/public/2024-10/Silk_Roads_family_trail_1000x500.jpg?itok=eoZ4aUOJ 750w, /sites/default/files/styles/uncropped_medium/public/2024-10/Silk_Roads_family_trail_1000x500.jpg?itok=DQ6v_Dgk 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="/images/SilkRoad/image-01.webp"
+                                        src="/images/SilkRoad/image-31.webp"
                                       />
                                       <figcaption>
                                         Take your Silk Roads explorer test and
@@ -4946,12 +4786,10 @@ const SilkRoad = () => {
                                         <img
                                           loading="eager"
                                           className="lazyload not-full-width"
-                                          srcSet="/sites/default/files/styles/uncropped_tiny/public/2023-02/Huo%20logo%20140pixels%20wide.png?itok=4GLTTGk2 140w"
+                                          src="/images/SilkRoad/image-32.webp"
                                           sizes="100vw"
                                           width={140}
                                           height={57}
-                                          src="/sites/default/files/styles/uncropped_huge/public/2023-02/Huo%20logo%20140pixels%20wide.png?itok=PFeGYcHP"
-                                          alt="The Huo Family Foundation logo"
                                         />
                                       </div>
                                     </div>
@@ -4988,12 +4826,10 @@ const SilkRoad = () => {
                                         <img
                                           loading="eager"
                                           className="lazyload not-full-width"
-                                          srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-08/UACF-logo%20white-EN%20140x79px.png?itok=DltRdhxW 140w"
+                                          src="/images/SilkRoad/image-33.webp"
                                           sizes="100vw"
                                           width={140}
                                           height={79}
-                                          src="/sites/default/files/styles/uncropped_huge/public/2024-08/UACF-logo%20white-EN%20140x79px.png?itok=x-vRnAm5"
-                                          alt="Logo for Uzbekistan Art and Culture Development Foundation"
                                         />
                                       </div>
                                     </div>
@@ -5047,31 +4883,10 @@ const SilkRoad = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&itok=0V8qsnpK"
+                                          src="/images/SilkRoad/image-34.webp"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&itok=GwLhCZKK 400w, /sites/default/files/styles/16_9_media_small/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&itok=0V8qsnpK 750w, /sites/default/files/styles/16_9_media_medium/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&itok=e8ubED2p 1000w, /sites/default/files/styles/16_9_media_large/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&itok=qYNy5wG3 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&itok=qgb3T3lV 1600w"
                                           data-focal-position="top center"
-                                          alt="Sketches of the face of an elderly man, a figure, and the archway and pillar of a building float in diagonal rectangular stripes against a black background"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&amp;amp;itok=GwLhCZKK
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&amp;amp;itok=0V8qsnpK
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&amp;amp;itok=e8ubED2p
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&amp;amp;itok=qYNy5wG3
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&amp;amp;itok=qgb3T3lV
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-02/Michelangelo_teaser4_1920x1080.jpg?h=8481eed4&amp;amp;itok=0V8qsnpK"
-                                          data-sizes="auto" alt="Sketches of the
-                                          face of an elderly man, a figure, and
-                                          the archway and pillar of a building
-                                          float in diagonal rectangular stripes
-                                          against a black background" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -5125,29 +4940,10 @@ const SilkRoad = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=dJ0E3RyD"
+                                          src="/images/SilkRoad/image-35.jpg"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=yUjZkpma 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=dJ0E3RyD 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=B5Q5PeO- 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=zHxQpblF 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&itok=wRf85GWB 1600w"
                                           data-focal-position="center center"
-                                          alt="Three figures and calligraphy upon an ancient scroll. "
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=yUjZkpma
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=dJ0E3RyD
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=B5Q5PeO-
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=zHxQpblF
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=wRf85GWB
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/The_Admonitions_Scroll_1000x500.jpg?h=5dabf909&amp;amp;itok=dJ0E3RyD"
-                                          data-sizes="auto" alt="Three figures
-                                          and calligraphy upon an ancient
-                                          scroll. " /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -5203,32 +4999,10 @@ const SilkRoad = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6"
+                                          src="/images/SilkRoad/image-36.jpg"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=bBQ9Fzq8 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=LMuBMahJ 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=L6qjUiGy 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=fhhOqZBV 1600w"
                                           data-focal-position="bottom center"
-                                          alt="Bust of Queen, adorned with regalia of empire including skulls, tropical foliage, brass plaques, and replicas of military insignia including medals of imperial conflicts. "
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=bBQ9Fzq8
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=2U2LQ4z6
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=LMuBMahJ
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=L6qjUiGy
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=fhhOqZBV
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=2U2LQ4z6"
-                                          data-sizes="auto" alt="Bust of Queen,
-                                          adorned with regalia of empire
-                                          including skulls, tropical foliage,
-                                          brass plaques, and replicas of
-                                          military insignia including medals of
-                                          imperial conflicts. " /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -5282,30 +5056,10 @@ const SilkRoad = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=UBP-URaN"
+                                          src="/images/SilkRoad/image-37.webp"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=qyt856Pj 400w, /sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=UBP-URaN 750w, /sites/default/files/styles/16_9_media_medium/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=xBby8ZqG 1000w, /sites/default/files/styles/16_9_media_large/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=zg98V48n 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=8gdRz-UT 1600w"
                                           data-focal-position="center center"
-                                          alt="A black and white view of the Egyptian sculpture gallery of the Dersim Museum from about 1923."
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=qyt856Pj
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=UBP-URaN
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=xBby8ZqG
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=zg98V48n
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=8gdRz-UT
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=UBP-URaN"
-                                          data-sizes="auto" alt="A black and
-                                          white view of the Egyptian sculpture
-                                          gallery of the Dersim Museum from
-                                          about 1923." /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
