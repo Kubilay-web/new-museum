@@ -70,6 +70,7 @@ import Animals from "./pages/Animals/Animals";
 import BeyondSand from "./pages/BeyondSand/BeyondSand";
 import FarHome from "./pages/FarHome/FarHome";
 import SriLanka from "./pages/SriLanka/SriLanka";
+import FootSteps from "./pages/FootSteps/FootSteps";
 
 function App() {
   return (
@@ -186,6 +187,11 @@ function App() {
       <Route
         path="/exhibitions/silk-roads/sri-lanka-suffolk-sutton-hoo-and-silk-roads"
         element={<SriLanka />}
+      />
+
+      <Route
+        path="/blog/footsteps-history-travelling-silk-roads-today"
+        element={<FootSteps />}
       />
     </Routes>
   );
