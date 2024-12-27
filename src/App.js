@@ -75,6 +75,7 @@ import LittleFeet from "./pages/LittleFeet/LittleFeet";
 import DeafLed from "./pages/DeafLed/DeafLed";
 import Nexus from "./pages/Nexus/Nexus";
 import LittleFeetExplore from "./pages/LittleFeetExplore/LittleFeetExplore";
+import Admonitions from "./pages/Admonitions/Admonitions";
 
 function App() {
   return (
@@ -212,6 +213,10 @@ function App() {
       <Route
         path="/events/little-feet-explore-silk-roads-10-Feb"
         element={<LittleFeetExplore />}
+      />
+      <Route
+        path="/exhibitions/admonitions-instructress-court-ladies"
+        element={<Admonitions />}
       />
     </Routes>
   );
