@@ -69,6 +69,7 @@ import LoveIdentity from "./pages/LoveIdentity/LoveIdentity";
 import Animals from "./pages/Animals/Animals";
 import BeyondSand from "./pages/BeyondSand/BeyondSand";
 import FarHome from "./pages/FarHome/FarHome";
+import SriLanka from "./pages/SriLanka/SriLanka";
 
 function App() {
   return (
@@ -180,6 +181,11 @@ function App() {
       <Route
         path="/blog/far-home-travelling-silk-roads"
         element={<FarHome />}
+      />
+
+      <Route
+        path="/exhibitions/silk-roads/sri-lanka-suffolk-sutton-hoo-and-silk-roads"
+        element={<SriLanka />}
       />
     </Routes>
   );
