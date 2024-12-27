@@ -68,6 +68,7 @@ import Egypt from "./pages/Egypt/Egypt";
 import LoveIdentity from "./pages/LoveIdentity/LoveIdentity";
 import Animals from "./pages/Animals/Animals";
 import BeyondSand from "./pages/BeyondSand/BeyondSand";
+import FarHome from "./pages/FarHome/FarHome";
 
 function App() {
   return (
@@ -174,6 +175,11 @@ function App() {
       <Route
         path="/blog/beyond-sand-and-spices-introduction-silk-roads"
         element={<BeyondSand />}
+      />
+
+      <Route
+        path="/blog/far-home-travelling-silk-roads"
+        element={<FarHome />}
       />
     </Routes>
   );
