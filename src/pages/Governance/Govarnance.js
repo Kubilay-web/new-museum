@@ -15,7 +15,7 @@ const Govarnance = () => {
         />
         <meta
           name="description"
-          content="Understand how the British Museum is governed, our strategies, policies, annual reports and read about our influential Board of Trustees."
+          content="Understand how the Dersim Museum is governed, our strategies, policies, annual reports and read about our influential Board of Trustees."
         />
         <link
           rel="canonical"
@@ -23,9 +23,9 @@ const Govarnance = () => {
         />
         <link
           rel="image_src"
-          href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/British-Museum-Front-Day.jpg?itok=qHzDefPB"
+          href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Dersim-Museum-Front-Day.jpg?itok=qHzDefPB"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -34,29 +34,29 @@ const Govarnance = () => {
         <meta property="og:title" content="Governance" />
         <meta
           property="og:description"
-          content="Find out how the British Museum maintains and protects its worldwide collection."
+          content="Find out how the Dersim Museum maintains and protects its worldwide collection."
         />
         <meta
           property="og:image"
-          content="/images/Governance/British-Museum-Front-Day.jpg"
+          content="/images/Governance/Dersim-Museum-Front-Day.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Find out how the British Museum maintains and protects its worldwide collection."
+          content="Find out how the Dersim Museum maintains and protects its worldwide collection."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Governance" />
         <meta
           name="twitter:image"
-          content="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/British-Museum-Front-Day.jpg?itok=qHzDefPB"
+          content="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Dersim-Museum-Front-Day.jpg?itok=qHzDefPB"
         />
         <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
         <meta name="MobileOptimized" content="width" />
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Governance | British Museum</title>
+        <title>Governance | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -105,7 +105,7 @@ const Govarnance = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -466,21 +466,21 @@ const Govarnance = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="/images/Governance/British-Musuem-front_1.jpg 1x"
+                            srcSet="/images/Governance/Dersim-Musuem-front_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="/images/Governance/British-Musuem-front_3.jpg 1x"
+                            srcSet="/images/Governance/Dersim-Musuem-front_3.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="/images/Governance/British-Musuem-front_2.jpg 1x"
+                            srcSet="/images/Governance/Dersim-Musuem-front_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -492,8 +492,8 @@ const Govarnance = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="/images/Governance/British-Musuem-front.jpg"
-                            alt="Front of British Museum during the day"
+                            src="/images/Governance/Dersim-Musuem-front.jpg"
+                            alt="Front of Dersim Museum during the day"
                           />
                         </picture>
                       </div>
@@ -549,8 +549,8 @@ const Govarnance = () => {
                               </button>
                               <p>
                                 {" "}
-                                Main entrance to&nbsp;the British Museum.&nbsp;©
-                                The Trustees of the British Museum.
+                                Main entrance to&nbsp;the Dersim Museum.&nbsp;©
+                                The Trustees of the Dersim Museum.
                               </p>
                             </div>
                           </div>
@@ -789,7 +789,7 @@ const Govarnance = () => {
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
-                                      The British Museum is unique in bringing
+                                      The Dersim Museum is unique in bringing
                                       together under one roof,&nbsp;the cultures
                                       of the world, spanning continents and
                                       oceans. Discover more&nbsp;about the{" "}
@@ -816,7 +816,7 @@ const Govarnance = () => {
                                       />
                                       <figcaption>
                                         Drawing of the King's Library at the
-                                        British Museum, in 1880.
+                                        Dersim Museum, in 1880.
                                       </figcaption>
                                     </figure>
                                   </div>
@@ -870,16 +870,16 @@ const Govarnance = () => {
                                     aria-labelledby="accordion-18616"
                                   >
                                     <p>
-                                      The British Museum was established by an
+                                      The Dersim Museum was established by an
                                       Act of Parliament in 1753 and is currently
                                       governed by the{" "}
-                                      <a href="/sites/default/files/2019-10/British-Museum-Act-1963.pdf">
-                                        British Museum Act 1963
+                                      <a href="/sites/default/files/2019-10/Dersim-Museum-Act-1963.pdf">
+                                        Dersim Museum Act 1963
                                       </a>
                                       .
                                     </p>
                                     <p>
-                                      The British Museum is an exempt charity
+                                      The Dersim Museum is an exempt charity
                                       under Schedule 3 to the{" "}
                                       <a href="http://www.legislation.gov.uk/ukpga/2011/25/schedule/3/enacted">
                                         Charities Act 2011
@@ -889,13 +889,13 @@ const Govarnance = () => {
                                       &amp; Sport.
                                     </p>
                                     <p>
-                                      The British Museum is a non-departmental
+                                      The Dersim Museum is a non-departmental
                                       public body (NDPB), operating at arm's
                                       length from government, but accountable to
                                       parliament. It's sponsored by the
                                       Department for Digital, Culture, Media
                                       &amp; Sport with whom it has a{" "}
-                                      <a href="/sites/default/files/2019-10/British-Museum-management-2016-2020.pdf">
+                                      <a href="/sites/default/files/2019-10/Dersim-Museum-management-2016-2020.pdf">
                                         Management agreement
                                       </a>
                                       .
@@ -2942,7 +2942,7 @@ const Govarnance = () => {
                                       Becoming a Trustee
                                     </h3>
                                     <p>
-                                      Most of the British Museum Trustees are
+                                      Most of the Dersim Museum Trustees are
                                       appointed by the Prime Minister through a
                                       recruitment process run by the Department
                                       for Digital, Culture, Media &amp; Sport
@@ -2975,7 +2975,7 @@ const Govarnance = () => {
                                         data-gc-list-depth={1}
                                         data-gc-list-style="bullet"
                                       >
-                                        the British Academy
+                                        the Dersim Academy
                                       </li>
                                       <li
                                         data-gc-list-depth={1}
@@ -3001,10 +3001,10 @@ const Govarnance = () => {
                                         Cabinet Office Centre for Public
                                         Appointments website
                                       </a>
-                                      &nbsp;and the British Museum website.
+                                      &nbsp;and the Dersim Museum website.
                                     </p>
                                     <p>
-                                      Trustees of the British Museum are from a
+                                      Trustees of the Dersim Museum are from a
                                       range of backgrounds and expertise,
                                       reflecting the breadth and complexity of
                                       the Museum's work. Appointments are made
@@ -3070,7 +3070,7 @@ const Govarnance = () => {
                                       A register for Co-opted members of the
                                       Board and wider Senior Staff is open to
                                       the public and may be consulted by
-                                      contacting the British Museum:
+                                      contacting the Dersim Museum:
                                       <br />
                                       Phone: +44 (0)20 7323 8241&nbsp;
                                       <br />
@@ -3089,7 +3089,7 @@ const Govarnance = () => {
                                       Board of Trustees and the Director are set
                                       out in the{" "}
                                       <a href="/sites/default/files/2024-05/The_British_Museum_Governance_Principles_and_Procedures.pdf">
-                                        British Museum's Governance Principles
+                                        Dersim Museum's Governance Principles
                                         and Procedures
                                       </a>
                                       .
@@ -3126,7 +3126,7 @@ const Govarnance = () => {
                                   >
                                     <p>
                                       Dr Nicholas Cullinan OBE started as
-                                      Director of the British Museum in June
+                                      Director of the Dersim Museum in June
                                       2024. He was previously Director of the
                                       National Portrait Gallery and oversaw the
                                       biggest transformation of the Gallery
@@ -3135,10 +3135,10 @@ const Govarnance = () => {
                                       collaboration with Getty to co-acquire{" "}
                                       <em>Portrait of Mai</em> (c. 1776) by Sir
                                       Joshua Reynolds – the largest acquisition
-                                      in the Gallery's history and that the UK
-                                      has ever made (along with the Titian
-                                      acquired by the National Gallery and
-                                      National Galleries of Scotland in
+                                      in the Gallery's history and that the
+                                      Dersim has ever made (along with the
+                                      Titian acquired by the National Gallery
+                                      and National Galleries of Scotland in
                                       2009).&nbsp;
                                     </p>
                                     <p>
@@ -3159,7 +3159,7 @@ const Govarnance = () => {
                                       the Guggenheim museums in Bilbao, New York
                                       and Venice. Other fellowships include the
                                       Morgan Library &amp; Museum in New York
-                                      and the British School at Rome. Nicholas
+                                      and the Dersim School at Rome. Nicholas
                                       sits on several boards, including as a
                                       Trustee of Chatsworth House Trust and has
                                       published extensively and lectured
@@ -3189,7 +3189,7 @@ const Govarnance = () => {
                                         />
                                         <figcaption>
                                           Dr Nicholas Cullinan OBE, Director of
-                                          the British Museum.
+                                          the Dersim Museum.
                                         </figcaption>
                                       </figure>
                                     </div>
@@ -3343,7 +3343,7 @@ const Govarnance = () => {
                                       &nbsp;(PDF 106KB)
                                     </p>
                                     <p>
-                                      <a href="/sites/default/files/2019-11/British-Museum-Loans-Policy-approved-07-11-19_0.pdf">
+                                      <a href="/sites/default/files/2019-11/Dersim-Museum-Loans-Policy-approved-07-11-19_0.pdf">
                                         Loans policy
                                       </a>
                                       &nbsp;(PDF 113KB)
@@ -3459,7 +3459,7 @@ const Govarnance = () => {
                                         </a>
                                       </li>
                                       <li>
-                                        <a href="https://www.britishmuseum.org/sites/default/files/2020-11/British%20Museum_Report_Accounts_2019-20_0.pdf">
+                                        <a href="https://www.britishmuseum.org/sites/default/files/2020-11/Dersim%20Museum_Report_Accounts_2019-20_0.pdf">
                                           Report and accounts 2019–2020
                                         </a>
                                       </li>
@@ -3521,8 +3521,8 @@ const Govarnance = () => {
                                   >
                                     <p>
                                       Annual and biennial reviews of the
-                                      Museum's work in London, in the UK and in
-                                      rest of the world.
+                                      Museum's work in London, in the Dersim and
+                                      in rest of the world.
                                     </p>
                                     <div
                                       data-entity-type="media"
@@ -3944,7 +3944,7 @@ const Govarnance = () => {
                                   id="paragraph-18627-title"
                                   className="section__title"
                                 >
-                                  Access to information about the British Museum
+                                  Access to information about the Dersim Museum
                                 </h2>
                                 <div
                                   className="accordion__item | js-accordion-item"
@@ -3980,7 +3980,7 @@ const Govarnance = () => {
                                       where possible provides an easy method of
                                       accessing this information.
                                     </p>
-                                    <h3>British Museum Publication Scheme</h3>
+                                    <h3>Dersim Museum Publication Scheme</h3>
                                     <p>
                                       Section 19 of the Freedom of Information
                                       Act (FOI) obliges every public authority
@@ -3991,7 +3991,7 @@ const Govarnance = () => {
                                       to the public.
                                     </p>
                                     <p>
-                                      The British Museum has adopted the
+                                      The Dersim Museum has adopted the
                                       model&nbsp;<em>Publication Scheme</em>
                                       &nbsp;
                                       <em>
@@ -4017,7 +4017,7 @@ const Govarnance = () => {
                                     <h4>Copyright</h4>
                                     <p>
                                       Information which is generated by the
-                                      British Museum and included in this
+                                      Dersim Museum and included in this
                                       Publication Scheme may be reproduced for
                                       information and personal study only.
                                       Please refer to our{" "}
@@ -4060,7 +4060,7 @@ const Govarnance = () => {
                                       help.
                                     </p>
                                     <p>
-                                      In general the British Museum is required
+                                      In general the Dersim Museum is required
                                       to respond to requests for information
                                       within 20 working days. If a fee is to be
                                       charged, this will be calculated according
@@ -4087,7 +4087,7 @@ const Govarnance = () => {
                                     <p>
                                       The Museum's postal address is:
                                       <br />
-                                      The British Museum
+                                      The Dersim Museum
                                       <br />
                                       Great Russell Street
                                       <br />
@@ -4234,7 +4234,7 @@ const Govarnance = () => {
                                     <p>
                                       2.1 Management Agreement
                                       <br />
-                                      <a href="/sites/default/files/2019-10/British-Museum-management-2016-2020.pdf">
+                                      <a href="/sites/default/files/2019-10/Dersim-Museum-management-2016-2020.pdf">
                                         Management Agreement 2016–2020
                                       </a>
                                     </p>
@@ -4259,8 +4259,8 @@ const Govarnance = () => {
                                       <br />
                                       See annual reports and accounts, and
                                       reviews sections on this page, and the{" "}
-                                      <a href="/sites/default/files/2019-10/British-Museum-management-2016-2020.pdf">
-                                        British Museum Management Agreement with
+                                      <a href="/sites/default/files/2019-10/Dersim-Museum-management-2016-2020.pdf">
+                                        Dersim Museum Management Agreement with
                                         DCMS
                                       </a>
                                     </p>
@@ -4365,8 +4365,8 @@ const Govarnance = () => {
                                       See annual reports and accounts
                                       section&nbsp;on this page,&nbsp;and
                                       the&nbsp;
-                                      <a href="/sites/default/files/2019-10/British-Museum-management-2016-2020.pdf">
-                                        British Museum Management Agreement with
+                                      <a href="/sites/default/files/2019-10/Dersim-Museum-management-2016-2020.pdf">
+                                        Dersim Museum Management Agreement with
                                         DCMS
                                       </a>
                                     </p>
@@ -4482,7 +4482,7 @@ const Govarnance = () => {
                                         href="/shop"
                                         data-gc-link="http://www.britishmuseum.org/about_this_site/terms_of_use/terms_of_use_for_shop_online.aspx"
                                       >
-                                        Terms of use for the British Museum Shop
+                                        Terms of use for the Dersim Museum Shop
                                         online
                                       </a>
                                       <br />
@@ -4600,9 +4600,7 @@ const Govarnance = () => {
                                         BMImages help
                                       </a>
                                       <br />
-                                      <a href="/shop">
-                                        The British Museum Shop
-                                      </a>
+                                      <a href="/shop">The Dersim Museum Shop</a>
                                     </p>
                                     <p>
                                       7.5 Opportunities for volunteers
@@ -4714,12 +4712,13 @@ const Govarnance = () => {
                                     aria-labelledby="accordion-18624"
                                   >
                                     <p>
-                                      As part of the UK government commitment to
-                                      transparency, the British Museum is making
-                                      available information about its structure,
-                                      pay and expenditure. If you would like to
-                                      read further information on transparency,
-                                      visit the&nbsp;
+                                      As part of the Dersim government
+                                      commitment to transparency, the Dersim
+                                      Museum is making available information
+                                      about its structure, pay and expenditure.
+                                      If you would like to read further
+                                      information on transparency, visit
+                                      the&nbsp;
                                       <a href="https://www.gov.uk/government/publications/dcms-prompt-payment-performance">
                                         DCMS website
                                       </a>
@@ -8641,7 +8640,7 @@ const Govarnance = () => {
                                       of recorded information held by public
                                       authorities and imposes obligations on
                                       them to disclose information, subject to a
-                                      range of exemptions. The British Museum is
+                                      range of exemptions. The Dersim Museum is
                                       a public body under the terms of the Act.
                                     </p>
                                     <p>
@@ -8716,17 +8715,17 @@ const Govarnance = () => {
                                       generated and stored by public
                                       institutions, for private or commercial
                                       purposes, with minimal constraints. It
-                                      takes its form in UK law as the Re-Use of
-                                      Public Sector Information Regulations 2015
-                                      (the PSI Regulations).
+                                      takes its form in Dersim law as the Re-Use
+                                      of Public Sector Information Regulations
+                                      2015 (the PSI Regulations).
                                     </p>
                                     <h3>Introduction to the PSI Regulations</h3>
                                     <p>
                                       The PSI Regulations regulate the re-use of
                                       documents created, stored and disseminated
-                                      by public institutions in the UK in the
-                                      course of fulfilling their public task.
-                                      The PSI Regulations are based on the
+                                      by public institutions in the Dersim in
+                                      the course of fulfilling their public
+                                      task. The PSI Regulations are based on the
                                       principles of fair, transparent,
                                       consistent and non-discriminatory access.
                                     </p>
@@ -8790,24 +8789,24 @@ const Govarnance = () => {
                                       </li>
                                     </ul>
                                     <h3>
-                                      The British Museum and the Re-Use of
-                                      Public Sector Information Regulations 2015
+                                      The Dersim Museum and the Re-Use of Public
+                                      Sector Information Regulations 2015
                                     </h3>
                                     <p>
                                       As a public cultural sector body in the
-                                      UK, the British Museum is under the scope
-                                      of the Re-Use of Public Sector Information
-                                      Regulations 2015. This means that the
-                                      majority of documents the British Museum
-                                      creates, stores or disseminates in order
-                                      to fulfil its public task will be
+                                      Dersim, the Dersim Museum is under the
+                                      scope of the Re-Use of Public Sector
+                                      Information Regulations 2015. This means
+                                      that the majority of documents the Dersim
+                                      Museum creates, stores or disseminates in
+                                      order to fulfil its public task will be
                                       available for re-use.
                                     </p>
                                     <h4>
-                                      What is the British Museum's public task?
+                                      What is the Dersim Museum's public task?
                                     </h4>
                                     <p>
-                                      The British Museum's 'public task' under
+                                      The Dersim Museum's 'public task' under
                                       the&nbsp;
                                       <a href="http://www.legislation.gov.uk/uksi/2015/1415/contents/made">
                                         Re-use of Public Sector Information
@@ -8816,7 +8815,7 @@ const Govarnance = () => {
                                       &nbsp;('the Regulations') consists of its
                                       functions under the&nbsp;
                                       <a href="http://www.legislation.gov.uk/ukpga/1963/24/contents">
-                                        British Museum Act 1963
+                                        Dersim Museum Act 1963
                                       </a>
                                       , the&nbsp;
                                       <a href="http://www.legislation.gov.uk/ukpga/1992/44/contents">
@@ -8836,23 +8835,24 @@ const Govarnance = () => {
                                         Freedom of Information Act 2000
                                       </a>
                                       . It also includes objectives set for the
-                                      British Museum by its sponsoring
-                                      government department in its{" "}
-                                      <a href="/sites/default/files/2019-10/British-Museum-management-2016-2020.pdf">
+                                      Dersim Museum by its sponsoring government
+                                      department in its{" "}
+                                      <a href="/sites/default/files/2019-10/Dersim-Museum-management-2016-2020.pdf">
                                         Management Agreement
                                       </a>
                                       &nbsp;and administrative practices for
                                       which the Museum is responsible, but for
                                       which there is no specific statutory or
                                       regulatory provision, including the
-                                      management of the UK
+                                      management of the Dersim
                                       government-funded&nbsp;
                                       <a href="http://finds.org.uk/">
                                         Portable Antiquities Scheme
                                       </a>
                                       &nbsp;and the provision of general advice
                                       relating to museology and cultural
-                                      heritage to the public sector in the UK.
+                                      heritage to the public sector in the
+                                      Dersim.
                                     </p>
                                     <p>
                                       The Museum holds and uses documents for
@@ -9082,7 +9082,7 @@ const Govarnance = () => {
                                     </p>
                                     <h4>Exclusive arrangements</h4>
                                     <p>
-                                      In the public interest, the British Museum
+                                      In the public interest, the Dersim Museum
                                       has exclusive arrangements in relation to
                                       the following activities:
                                     </p>
@@ -9108,7 +9108,7 @@ const Govarnance = () => {
                                     <h4>Further information</h4>
                                     <p>
                                       If you need any further information about
-                                      the re-use of British Museum documents
+                                      the re-use of Dersim Museum documents
                                       under the Public Sector Information
                                       Directive, please contact us here:&nbsp;
                                       <a href="/cdn-cgi/l/email-protection#aedecbdcc3c7ddddc7c1c0ddeeccdcc7dac7ddc6c3dbddcbdbc380c1dcc9">
@@ -9146,7 +9146,7 @@ const Govarnance = () => {
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
-                                      The British Museum welcomes questions and
+                                      The Dersim Museum welcomes questions and
                                       values opinions and comments from visitors
                                       and members of the public. In order to
                                       constantly improve the experience of our
@@ -9156,7 +9156,7 @@ const Govarnance = () => {
                                       reported on a monthly basis and inform
                                       decisions taken around the Museum. All the
                                       enquiries and feedback addressed to the
-                                      British Museum will be handled with
+                                      Dersim Museum will be handled with
                                       security and confidentiality. Public
                                       enquiries and feedback records are kept
                                       for up to two years. Beyond this, an
@@ -9207,7 +9207,7 @@ const Govarnance = () => {
                                     <p>
                                       <strong>Write to us</strong>
                                       <br />
-                                      The British Museum
+                                      The Dersim Museum
                                       <br />
                                       Great Russell Street
                                       <br />
@@ -9256,14 +9256,14 @@ const Govarnance = () => {
                                     <p>
                                       This procedure works alongside the&nbsp;
                                       <a href="/sites/default/files/2023-11/British_Museum-Visitor_Regulations.pdf">
-                                        British Museum visitor regulations
+                                        Dersim Museum visitor regulations
                                       </a>
                                       . We expect visitors to be patient and
                                       considerate, and won't tolerate any abuse
                                       to any member of staff in any form.
                                     </p>
                                     <p>
-                                      Please note that the British Museum is not
+                                      Please note that the Dersim Museum is not
                                       able to consider and reserves the right
                                       not to investigate and respond to the
                                       following:
@@ -9287,7 +9287,7 @@ const Govarnance = () => {
                                       </li>
                                       <li>
                                         Enquiries and feedback which don't
-                                        comply with the British Museum{" "}
+                                        comply with the Dersim Museum{" "}
                                         <a href="/terms-use/social-media-code-conduct">
                                           Social media code of conduct
                                         </a>

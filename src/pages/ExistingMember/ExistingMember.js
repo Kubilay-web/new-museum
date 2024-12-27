@@ -15,7 +15,7 @@ const ExistingMember = () => {
         />
         <meta
           name="description"
-          content="Membership benefits include the Membercast, Members' Room, exclusive lectures, discussions, private tours, dining and shop discounts. Renew your British Museum Membership or give it as a gift."
+          content="Membership benefits include the Membercast, Members' Room, exclusive lectures, discussions, private tours, dining and shop discounts. Renew your Dersim Museum Membership or give it as a gift."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const ExistingMember = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2024-01/Members-glass-case-1000x681.jpg?itok=Eh0_NFU8"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const ExistingMember = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Existing Members | British Museum</title>
+        <title>Existing Members | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const ExistingMember = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -796,7 +796,7 @@ const ExistingMember = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              Thank you for being a Member of the British Museum
+                              Thank you for being a Member of the Dersim Museum
                               Friends and for your continued support.
                             </p>
                             <div className="wysiwyg">
@@ -1090,7 +1090,7 @@ const ExistingMember = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Browse the British Museum
+                                                    Browse the Dersim Museum
                                                     Magazine archive, watch
                                                     special Members' YouTube
                                                     videos and more.
@@ -1173,7 +1173,7 @@ const ExistingMember = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     Learn more about the role of
-                                                    the British Museum Friends
+                                                    the Dersim Museum Friends
                                                     Advisory Council.
                                                   </div>
                                                 </div>

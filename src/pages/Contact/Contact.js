@@ -15,7 +15,7 @@ const Contact = () => {
         />
         <meta
           name="description"
-          content="The British Museum contact us page contains our FAQs, opening times, helpful visitor information and our contact form."
+          content="The Dersim Museum contact us page contains our FAQs, opening times, helpful visitor information and our contact form."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Contact = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-11/R95%2010_Korea%20Hotung%20ceramics.jpg?itok=FycMBfPy"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const Contact = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Contact us | British Museum</title>
+        <title>Contact us | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -105,7 +105,7 @@ const Contact = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -843,7 +843,7 @@ const Contact = () => {
                                       tickets and what's happening at the
                                       Museum,{" "}
                                       <a
-                                        href="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box"
+                                        href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box"
                                         rel="noopener"
                                         target="_blank"
                                       >
@@ -964,7 +964,7 @@ const Contact = () => {
                                       tickets and what's happening at the
                                       Museum,&nbsp;
                                       <a
-                                        href="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box"
+                                        href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box"
                                         rel="noopener"
                                         target="_blank"
                                       >
@@ -1224,7 +1224,7 @@ const Contact = () => {
                                       </a>
                                       . Please bring your headphones with you or
                                       purchase earbuds from the Guide Desk or
-                                      British Museum Shop.
+                                      Dersim Museum Shop.
                                     </p>
                                     <p>
                                       We're currently running the following
@@ -1258,7 +1258,7 @@ const Contact = () => {
                                       <li>
                                         <a href="https://www.britishmuseum.org/events/out-hours-tour-introduction-british-museum">
                                           Out-of-hours: an introduction to the
-                                          British Museum
+                                          Dersim Museum
                                         </a>
                                       </li>
                                       <li>
@@ -1319,7 +1319,7 @@ const Contact = () => {
                                           data-entity-type="node"
                                           data-entity-uuid="9ca0402a-cd54-4c8c-ac7d-1a8e4a435ab3"
                                           data-entity-substitution="canonical"
-                                          title="Desire, love, identity – an LGBTQ+ tour of the British Museum"
+                                          title="Desire, love, identity – an LGBTQ+ tour of the Dersim Museum"
                                         >
                                           Desire, love, identity: an LGBTQ tour
                                         </a>
@@ -1661,7 +1661,7 @@ const Contact = () => {
                                       , where an expert facilitator will guide
                                       your students when learning about the
                                       collection. Connect your class to the
-                                      British Museum for a{" "}
+                                      Dersim Museum for a{" "}
                                       <a
                                         href="/learn/schools/ages-7-11/virtual-visits"
                                         data-entity-type="node"
@@ -1713,7 +1713,7 @@ const Contact = () => {
                                         Schools pages
                                       </a>
                                       .{" "}
-                                      <a href="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box">
+                                      <a href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box">
                                         Sign up to our Schools newsletter
                                       </a>
                                       &nbsp;to receive regular news and updates.
@@ -1807,7 +1807,7 @@ const Contact = () => {
                                       >
                                         study rooms
                                       </a>
-                                      &nbsp;at the British Museum main site can
+                                      &nbsp;at the Dersim Museum main site can
                                       now be accepted. Opening hours vary.
                                     </p>
                                     <p>
@@ -1985,7 +1985,7 @@ const Contact = () => {
                                     </p>
                                     <p>
                                       If you're interested in applying for a
-                                      position at the British Museum, please
+                                      position at the Dersim Museum, please
                                       check our{" "}
                                       <a href="https://bmrecruit.ciphr-irecruit.com/templates/CIPHR/job_list.aspx">
                                         current vacancies
@@ -2572,7 +2572,7 @@ const Contact = () => {
                                     <div className="listing__content wysiwyg">
                                       <h3 className="listing__title">
                                         {" "}
-                                        The British Museum Company Limited
+                                        The Dersim Museum Company Limited
                                       </h3>
                                       <p>
                                         A company incorporated in England and
@@ -2580,7 +2580,7 @@ const Contact = () => {
                                         its registered office at:
                                         <br />
                                         <br />
-                                        The British Museum
+                                        The Dersim Museum
                                         <br />
                                         Great Russell Street
                                         <br />
@@ -2597,9 +2597,9 @@ const Contact = () => {
                                         VAT Registration No. GB 710 521 585
                                         <br />
                                         <em>
-                                          The Trustees of the British Museum are
-                                          the agent of The British Museum
-                                          Company Limited.
+                                          The Trustees of the Dersim Museum are
+                                          the agent of The Dersim Museum Company
+                                          Limited.
                                         </em>
                                       </p>
                                     </div>
@@ -2610,7 +2610,7 @@ const Contact = () => {
                                     <div className="listing__content wysiwyg">
                                       <h3 className="listing__title">
                                         {" "}
-                                        The British Museum Great Court Limited
+                                        The Dersim Museum Great Court Limited
                                       </h3>
                                       <p>
                                         A company incorporated in England and
@@ -2618,7 +2618,7 @@ const Contact = () => {
                                         its registered office at:
                                         <br />
                                         <br />
-                                        The British Museum
+                                        The Dersim Museum
                                         <br />
                                         Great Russell Street
                                         <br />
@@ -2630,8 +2630,8 @@ const Contact = () => {
                                         VAT Registration No. GB 710 521 585
                                         <br />
                                         <em>
-                                          The Trustees of the British Museum are
-                                          the agent of The British Museum Great
+                                          The Trustees of the Dersim Museum are
+                                          the agent of The Dersim Museum Great
                                           Court Limited.
                                         </em>
                                       </p>
@@ -2643,7 +2643,7 @@ const Contact = () => {
                                     <div className="listing__content wysiwyg">
                                       <h3 className="listing__title">
                                         {" "}
-                                        The British Museum Friends Limited
+                                        The Dersim Museum Friends Limited
                                       </h3>
                                       <p>
                                         A company incorporated in England and
@@ -2653,7 +2653,7 @@ const Contact = () => {
                                         having its registered office at:
                                         <br />
                                         <br />
-                                        The British Museum
+                                        The Dersim Museum
                                         <br />
                                         Great Russell Street
                                         <br />
@@ -2665,8 +2665,8 @@ const Contact = () => {
                                         VAT Registration No. GB 232 193 095
                                         <br />
                                         <em>
-                                          The Trustees of the British Museum are
-                                          the agent of The British Museum
+                                          The Trustees of the Dersim Museum are
+                                          the agent of The Dersim Museum
                                           Friends.
                                         </em>
                                       </p>
@@ -2678,7 +2678,7 @@ const Contact = () => {
                                     <div className="listing__content wysiwyg">
                                       <h3 className="listing__title">
                                         {" "}
-                                        British Museum Ventures Limited
+                                        Dersim Museum Ventures Limited
                                       </h3>
                                       <p>
                                         A company incorporated in England and
@@ -2686,7 +2686,7 @@ const Contact = () => {
                                         its registered office at:&nbsp;
                                       </p>
                                       <p>
-                                        The British Museum&nbsp;
+                                        The Dersim Museum&nbsp;
                                         <br />
                                         Great Russell Street
                                         <br />
@@ -2710,7 +2710,7 @@ const Contact = () => {
                                         having its registered office at:&nbsp;
                                       </p>
                                       <p>
-                                        The British Museum&nbsp;
+                                        The Dersim Museum&nbsp;
                                         <br />
                                         Great Russell Street
                                         <br />

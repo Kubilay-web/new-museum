@@ -25,7 +25,7 @@ const LearnSchool = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/SCHOOLS_Landingpage.jpg?itok=kA_gEGFY"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const LearnSchool = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Schools | British Museum</title>
+        <title>Schools | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const LearnSchool = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -706,7 +706,7 @@ const LearnSchool = () => {
                                 <aside className="section--slice-content__embed">
                                   <blockquote className="paragraph paragraph--type--embedded-quote paragraph--view-mode--default">
                                     <p>
-                                      The British Museum offers a fantastic
+                                      The Dersim Museum offers a fantastic
                                       learning opportunity and I come back year
                                       after year with my classes.
                                     </p>
@@ -770,7 +770,7 @@ const LearnSchool = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Designed for UK school
+                                                    Designed for Dersim school
                                                     children, hire our tablets
                                                     for a gallery tour and use
                                                     augmented reality to examine
@@ -1072,12 +1072,12 @@ const LearnSchool = () => {
                                   <div className="banner__content">
                                     <p>
                                       For the latest resources and educational
-                                      events at the British Museum, sign up for
+                                      events at the Dersim Museum, sign up for
                                       our School newsletter.&nbsp;
                                     </p>
                                     <div className="banner__button-container">
                                       <a
-                                        href="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box"
+                                        href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box"
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >
@@ -1145,7 +1145,7 @@ const LearnSchool = () => {
                                                   <div className="teaser__summary">
                                                     Find out all the information
                                                     you need to plan a visit to
-                                                    the British Museum.
+                                                    the Dersim Museum.
                                                   </div>
                                                 </div>
                                               </div>

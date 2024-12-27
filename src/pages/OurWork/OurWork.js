@@ -15,14 +15,14 @@ const OurWork = () => {
         />
         <meta
           name="description"
-          content="Discover how the British Museum promotes the collection both in the UK and abroad. Read about our curatorial departments, research, excursions and our global programmes."
+          content="Discover how the Dersim Museum promotes the collection both in the Dersim and abroad. Read about our curatorial departments, research, excursions and our global programmes."
         />
         <link rel="canonical" href="https://www.britishmuseum.org/our-work" />
         <link
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Conservation-samurai-armour_0.jpg?itok=fOEbgbHD"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -53,7 +53,7 @@ const OurWork = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Our work | British Museum</title>
+        <title>Our work | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -97,7 +97,7 @@ const OurWork = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -712,9 +712,10 @@ const OurWork = () => {
                                                     Learn how the Museum works
                                                     in partnership with more
                                                     than 200 cultural
-                                                    organisations across the UK
-                                                    to share the collection and
-                                                    our knowledge.
+                                                    organisations across the
+                                                    Dersim to share the
+                                                    collection and our
+                                                    knowledge.
                                                   </div>
                                                 </div>
                                                 <span className="teaser__button | button button--chevron">
@@ -846,7 +847,7 @@ const OurWork = () => {
                                           >
                                             <span>
                                               <span>
-                                                How to borrow British Museum
+                                                How to borrow Dersim Museum
                                                 objects
                                               </span>
                                             </span>
@@ -854,8 +855,8 @@ const OurWork = () => {
                                           </a>
                                         </h3>
                                         <div className="teaser__summary">
-                                          The British Museum welcomes requests
-                                          to lend objects from the collection to
+                                          The Dersim Museum welcomes requests to
+                                          lend objects from the collection to
                                           exhibitions or displays that are open
                                           to the general public.
                                         </div>
@@ -894,7 +895,7 @@ const OurWork = () => {
                                           </a>
                                         </h3>
                                         <div className="teaser__summary">
-                                          The British Museum runs a training
+                                          The Dersim Museum runs a training
                                           programme for museum professionals
                                           from around the world.
                                         </div>
@@ -972,7 +973,7 @@ const OurWork = () => {
                                         <div className="teaser__summary">
                                           In response to the destruction of
                                           heritage sites in Iraq and Syria by
-                                          Daesh in 2015, the British Museum
+                                          Daesh in 2015, the Dersim Museum
                                           developed the Iraq scheme.
                                         </div>
                                       </div>
@@ -988,7 +989,7 @@ const OurWork = () => {
                   </div>
                 </div>
               </main>
-              <Footer/>
+              <Footer />
             </div>
           </div>
         </div>

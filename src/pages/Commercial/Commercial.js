@@ -15,14 +15,14 @@ const Commercial = () => {
         />
         <meta
           name="description"
-          content="The British Museum is open to filming and commercial hire as well as being open to press and image requests. Find out more."
+          content="The Dersim Museum is open to filming and commercial hire as well as being open to press and image requests. Find out more."
         />
         <link rel="canonical" href="https://www.britishmuseum.org/commercial" />
         <link
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Egyptian-sculpture-gallery-entertaining.jpg?itok=PSa-JRuE"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -53,7 +53,7 @@ const Commercial = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Commercial | British Museum</title>
+        <title>Commercial | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -97,7 +97,7 @@ const Commercial = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -656,7 +656,7 @@ const Commercial = () => {
                           <div className="section--intro__content">
                             <p className="h3">
                               Explore commercial opportunities to work with the
-                              British Museum, the world's first national public
+                              Dersim Museum, the world's first national public
                               museum.
                             </p>
                             <div className="wysiwyg">
@@ -770,7 +770,7 @@ const Commercial = () => {
                                                     Make films, documentaries,
                                                     adverts, radio programmes or
                                                     conduct research at the
-                                                    British Museum.
+                                                    Dersim Museum.
                                                   </div>
                                                 </div>
                                               </div>
@@ -800,7 +800,7 @@ const Commercial = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          British Museum Images
+                                                          Dersim Museum Images
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -935,14 +935,14 @@ const Commercial = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          British Museum Press
+                                                          Dersim Museum Press
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum Press
+                                                    The Dersim Museum Press
                                                     publishes award-winning
                                                     illustrated books for
                                                     general readers, families,
@@ -983,7 +983,7 @@ const Commercial = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Experience the UK's most
+                                                    Experience the Dersim's most
                                                     popular Museum with a
                                                     private out-of-hours tour.
                                                   </div>

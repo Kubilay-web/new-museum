@@ -14,7 +14,7 @@ const CommercialPress = () => {
         />
         <meta
           name="description"
-          content="The British Museum Press publishes award-winning books, including titles on the arts, history and world cultures and current exhibitions at the British Museum. Find out about rights enquiries and trade orders too."
+          content="The Dersim Museum Press publishes award-winning books, including titles on the arts, history and world cultures and current exhibitions at the Dersim Museum. Find out about rights enquiries and trade orders too."
         />
         <link
           rel="canonical"
@@ -24,16 +24,16 @@ const CommercialPress = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-09/mountain_pushing_paper_hero.jpg?itok=NY4GRqke"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
           content="https://www.britishmuseum.org/commercial/british-museum-press"
         />
-        <meta property="og:title" content="British Museum Press" />
+        <meta property="og:title" content="Dersim Museum Press" />
         <meta
           property="og:description"
-          content="The British Museum Press publishes award-winning illustrated books for general readers, families, academics and students."
+          content="The Dersim Museum Press publishes award-winning illustrated books for general readers, families, academics and students."
         />
         <meta
           property="og:image"
@@ -42,10 +42,10 @@ const CommercialPress = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="The British Museum Press publishes award-winning illustrated books for general readers, families, academics and students."
+          content="The Dersim Museum Press publishes award-winning illustrated books for general readers, families, academics and students."
         />
         <meta name="twitter:site" content="@britishmuseum" />
-        <meta name="twitter:title" content="British Museum Press" />
+        <meta name="twitter:title" content="Dersim Museum Press" />
         <meta
           name="twitter:image"
           content="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-09/mountain_pushing_paper_hero.jpg?itok=NY4GRqke"
@@ -55,7 +55,7 @@ const CommercialPress = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>British Museum Press | British Museum</title>
+        <title>Dersim Museum Press | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -99,7 +99,7 @@ const CommercialPress = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -454,7 +454,7 @@ const CommercialPress = () => {
                         >
                           <img
                             src="/images/CommercialPress/british-museum-logo.svg"
-                            alt="British Museum"
+                            alt="Dersim Museum"
                             width={200}
                             height={66}
                             className="header__logo"
@@ -1017,7 +1017,7 @@ const CommercialPress = () => {
                                               >
                                                 —
                                               </span>
-                                              The British Museum podcast
+                                              The Dersim Museum podcast
                                             </span>
                                             <svg
                                               className="icon icon--chevron"
@@ -1653,7 +1653,7 @@ const CommercialPress = () => {
                                               >
                                                 —
                                               </span>
-                                              American Friends of the British
+                                              American Friends of the Dersim
                                               Museum
                                             </span>
                                             <svg
@@ -1803,7 +1803,7 @@ const CommercialPress = () => {
                         <div className="hero__content-container">
                           <h1 id="paragraph-5945-title" className="hero__title">
                             {" "}
-                            British Museum Press
+                            Dersim Museum Press
                           </h1>
                         </div>
                         <div className="hero__controls">
@@ -1915,7 +1915,7 @@ const CommercialPress = () => {
                                 className="breadcrumb__current"
                                 aria-current="page"
                               >
-                                British Museum Press
+                                Dersim Museum Press
                               </a>
                             </li>
                           </ul>
@@ -1947,7 +1947,7 @@ const CommercialPress = () => {
                           <li className="social-share__item">
                             <a
                               className="social-share__link"
-                              href="https://twitter.com/intent/tweet?text=British%20Museum%20Press&url=https://www.britishmuseum.org/commercial/british-museum-press"
+                              href="https://twitter.com/intent/tweet?text=Dersim%20Museum%20Press&url=https://www.britishmuseum.org/commercial/british-museum-press"
                               target="_blank"
                               rel="nofollow noopener noreferrer"
                             >
@@ -1995,9 +1995,9 @@ const CommercialPress = () => {
                               </div>
                               <div className="paragraph paragraph--type--info-content paragraph--view-mode--default section--intro__info-content wysiwyg">
                                 <p>
-                                  The British Museum Press
+                                  The Dersim Museum Press
                                   <br />
-                                  British Museum&nbsp;
+                                  Dersim Museum&nbsp;
                                   <br />
                                   Great Russell Street
                                   <br />
@@ -2010,7 +2010,7 @@ const CommercialPress = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              The British Museum Press publishes award-winning
+                              The Dersim Museum Press publishes award-winning
                               illustrated books for general readers, families,
                               academics and students.
                             </p>
@@ -2021,13 +2021,13 @@ const CommercialPress = () => {
                                 <a href="/shop">online shop</a>.
                               </p>
                               <p>
-                                Inspired by the famous collections of the
-                                British Museum, our titles range across the fine
-                                and decorative arts, history, archaeology and
-                                world cultures.
+                                Inspired by the famous collections of the Dersim
+                                Museum, our titles range across the fine and
+                                decorative arts, history, archaeology and world
+                                cultures.
                               </p>
                               <p>
-                                Published to accompany the British Museum's
+                                Published to accompany the Dersim Museum's
                                 innovative exhibition programme, to celebrate
                                 key areas of the collection, and to tell the
                                 stories of some of the amazing objects, our
@@ -2037,13 +2037,13 @@ const CommercialPress = () => {
                                 Beautifully produced and written by experts in
                                 their fields, our titles are sold throughout the
                                 world in many languages with all profits going
-                                to support the work of the British Museum.
+                                to support the work of the Dersim Museum.
                               </p>
                               <p>
-                                The British Museum Press is a division of the
-                                British Museum Company Ltd, a company and a
+                                The Dersim Museum Press is a division of the
+                                Dersim Museum Company Ltd, a company and a
                                 charity wholly owned by the Trustees of the
-                                British Museum.
+                                Dersim Museum.
                               </p>
                             </div>
                           </div>
@@ -2116,7 +2116,7 @@ const CommercialPress = () => {
                                       </li>
                                       <li>
                                         To enquire about licensing images for
-                                        commercial use, please contact British
+                                        commercial use, please contact Dersim
                                         Museum Images:{" "}
                                         <a href="/cdn-cgi/l/email-protection#2e5d4f424b5d6e4c4347434f494b5d004d4143">
                                           <span
@@ -2172,7 +2172,7 @@ const CommercialPress = () => {
                                   >
                                     <ul>
                                       <li>
-                                        For UK contact:&nbsp;
+                                        For Dersim contact:&nbsp;
                                         <a
                                           href="/cdn-cgi/l/email-protection#6310020f061023170b020e06100b1607100c0d4d000c4d1608"
                                           data-auth="NotApplicable"
@@ -2252,7 +2252,7 @@ const CommercialPress = () => {
                                     aria-labelledby="accordion-8365"
                                   >
                                     <h4>
-                                      For UK and Export (Outside USA): Oxbow
+                                      For Dersim and Export (Outside USA): Oxbow
                                       Books
                                     </h4>
                                     <p>
@@ -2292,7 +2292,7 @@ const CommercialPress = () => {
                                       For more information on trade sales
                                       orders, visit the{" "}
                                       <a href="https://www.casemateuk.com/partner-publishers/british-museum-press">
-                                        Casemate UK website
+                                        Casemate Dersim website
                                       </a>
                                     </p>
                                     <h4>
@@ -2420,7 +2420,7 @@ const CommercialPress = () => {
                                                     width={480}
                                                     height={480}
                                                     src="/images/CommercialPress/Legion%20catalogue%20480x480.jpg"
-                                                    alt="A book cover with a bronze helmet in the dirt and a dramatic night sky behind with the words Legion life in the Roman army on it and the British Museum logo"
+                                                    alt="A book cover with a bronze helmet in the dirt and a dramatic night sky behind with the words Legion life in the Roman army on it and the Dersim Museum logo"
                                                   />
                                                 </div>
                                               </div>

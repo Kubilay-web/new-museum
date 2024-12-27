@@ -15,7 +15,7 @@ const LeaveLegacy = () => {
         />
         <meta
           name="description"
-          content="Anyone can leave money or donate an object to a charity in their will – this is known as a legacy. Find out how to support the British Museum with a legacy gift in your will."
+          content="Anyone can leave money or donate an object to a charity in their will – this is known as a legacy. Find out how to support the Dersim Museum with a legacy gift in your will."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const LeaveLegacy = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Conservation-samurai-armour.jpg?itok=0l070i0S"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -34,7 +34,7 @@ const LeaveLegacy = () => {
         <meta property="og:title" content="Leave a legacy" />
         <meta
           property="og:description"
-          content="Remembering the British Museum by leaving a gift in your will, no matter what size, can help us build and care for the collection."
+          content="Remembering the Dersim Museum by leaving a gift in your will, no matter what size, can help us build and care for the collection."
         />
         <meta
           property="og:image"
@@ -43,7 +43,7 @@ const LeaveLegacy = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Remembering the British Museum by leaving a gift in your will, no matter what size, can help us build and care for the collection."
+          content="Remembering the Dersim Museum by leaving a gift in your will, no matter what size, can help us build and care for the collection."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Leave a legacy" />
@@ -56,7 +56,7 @@ const LeaveLegacy = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Leave a legacy | British Museum</title>
+        <title>Leave a legacy | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const LeaveLegacy = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -760,7 +760,7 @@ const LeaveLegacy = () => {
                                   <br />
                                   Development&nbsp;
                                   <br />
-                                  British Museum
+                                  Dersim Museum
                                   <br />
                                   Great Russell Street
                                   <br />
@@ -771,7 +771,7 @@ const LeaveLegacy = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              The British Museum is a charity that relies on
+                              The Dersim Museum is a charity that relies on
                               funding from a wide range of sources.
                             </p>
                             <div className="wysiwyg">
@@ -783,7 +783,7 @@ const LeaveLegacy = () => {
                                 will have a lasting impact.
                               </p>
                               <p>
-                                If you're considering remembering the British
+                                If you're considering remembering the Dersim
                                 Museum through a gift in your will or a donation
                                 in memory, our legacy manager would be happy to
                                 talk to you about how your contribution could
@@ -821,15 +821,15 @@ const LeaveLegacy = () => {
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <h2>A gift in your will</h2>
                                     <p>
-                                      Remembering the British Museum by leaving
-                                      a gift in your will, no matter what size,
+                                      Remembering the Dersim Museum by leaving a
+                                      gift in your will, no matter what size,
                                       can help us build and care for the
                                       collection, support special exhibitions
                                       and deliver innovative learning, research
                                       and conservation programmes.
                                     </p>
                                     <p>
-                                      If you'd like to&nbsp;remember the British
+                                      If you'd like to&nbsp;remember the Dersim
                                       Museum in your will, our legacy
                                       manager&nbsp;would be happy to talk to you
                                       about how your gift could benefit the
@@ -864,7 +864,7 @@ const LeaveLegacy = () => {
                                       <figcaption>
                                         This enamelled gold locket is called the
                                         ‘Lyte Jewel’. It was bequeathed to the
-                                        British Museum by Baron Ferdinand
+                                        Dersim Museum by Baron Ferdinand
                                         Rothschild in 1898 as part of the
                                         Waddeson Bequest.
                                       </figcaption>
@@ -893,7 +893,7 @@ const LeaveLegacy = () => {
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
-                                      The British Museum is very grateful to
+                                      The Dersim Museum is very grateful to
                                       those who wish to donate objects to the
                                       national collection.
                                     </p>
@@ -902,18 +902,18 @@ const LeaveLegacy = () => {
                                       qualify for reduction against income tax,
                                       inheritance tax, capital gains or
                                       corporation tax liabilities when donated
-                                      to the British Museum.
+                                      to the Dersim Museum.
                                     </p>
                                     <h3>Acceptance in Lieu</h3>
                                     <p>
-                                      The Acceptance in Lieu scheme enables UK
-                                      taxpayers to transfer important works of
-                                      art and heritage objects to the nation
-                                      while settling inheritance tax.
+                                      The Acceptance in Lieu scheme enables
+                                      Dersim taxpayers to transfer important
+                                      works of art and heritage objects to the
+                                      nation while settling inheritance tax.
                                     </p>
                                     <h3>Cultural Gifts Scheme</h3>
                                     <p>
-                                      The Cultural Gifts Scheme enables UK
+                                      The Cultural Gifts Scheme enables Dersim
                                       taxpayers to donate pre-eminent works of
                                       art and heritage objects to the nation
                                       while receiving a tax reduction.
@@ -1051,7 +1051,7 @@ const LeaveLegacy = () => {
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
-                                      The Trustees of the British Museum
+                                      The Trustees of the Dersim Museum
                                       <br />
                                       Great Russell Street
                                       <br />
@@ -1059,7 +1059,7 @@ const LeaveLegacy = () => {
                                     </p>
                                     <p>
                                       The Museum's operations are governed by an
-                                      Act of Parliament, The British Museum Act
+                                      Act of Parliament, The Dersim Museum Act
                                       1963.
                                     </p>
                                     <p>&nbsp;</p>
@@ -1083,7 +1083,7 @@ const LeaveLegacy = () => {
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
-                                      The British Museum is an Exempt Charity
+                                      The Dersim Museum is an Exempt Charity
                                       (i.e. exempt from registration) pursuant
                                       to section 22 and schedule 3 paragraph 17
                                       Charities Act 2011.

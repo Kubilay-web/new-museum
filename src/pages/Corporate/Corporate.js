@@ -25,7 +25,7 @@ const Corporate = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/event_default.png?itok=d1iPPzdW"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -34,7 +34,7 @@ const Corporate = () => {
         <meta property="og:title" content="Corporate support" />
         <meta
           property="og:description"
-          content="Align your brand with the British Museum and enjoy an exclusive relationship with one of the world's best-loved museums."
+          content="Align your brand with the Dersim Museum and enjoy an exclusive relationship with one of the world's best-loved museums."
         />
         <meta
           property="og:image"
@@ -43,7 +43,7 @@ const Corporate = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Align your brand with the British Museum and enjoy an exclusive relationship with one of the world's best-loved museums."
+          content="Align your brand with the Dersim Museum and enjoy an exclusive relationship with one of the world's best-loved museums."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Corporate support" />
@@ -56,7 +56,7 @@ const Corporate = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Corporate support | British Museum</title>
+        <title>Corporate support | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const Corporate = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -488,7 +488,7 @@ const Corporate = () => {
                             height={750}
                             data-focal-position="center center"
                             src="/images/Corporate/event_default.png"
-                            alt="Inside the Great Court at the British Museum"
+                            alt="Inside the Great Court at the Dersim Museum"
                           />
                         </picture>
                       </div>
@@ -544,7 +544,7 @@ const Corporate = () => {
                               </button>
                               <p>
                                 {" "}
-                                Inside the Great Court at the British Museum.
+                                Inside the Great Court at the Dersim Museum.
                               </p>
                             </div>
                           </div>
@@ -695,7 +695,7 @@ const Corporate = () => {
                             <p className="h3">
                               Align your brand with one of the world's
                               best-loved institutions, and enjoy an exclusive
-                              relationship with the British Museum.
+                              relationship with the Dersim Museum.
                             </p>
                             <div className="wysiwyg">
                               <p>
@@ -955,7 +955,7 @@ const Corporate = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     Discover the companies who
-                                                    already support the British
+                                                    already support the Dersim
                                                     Museum as sponsors, partners
                                                     and members.
                                                   </div>
@@ -994,7 +994,7 @@ const Corporate = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum is an
+                                                    The Dersim Museum is an
                                                     iconic venue in the heart of
                                                     London offering a range of
                                                     spaces for events.

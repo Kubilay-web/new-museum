@@ -15,7 +15,7 @@ const Egypt = () => {
         />
         <meta
           name="description"
-          content="Some of the British Museum's best-known Collection items come from Egypt each with their own unique story. "
+          content="Some of the Dersim Museum's best-known Collection items come from Egypt each with their own unique story. "
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Egypt = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2023-12/Counting_geese_Nebamun_1000x500.jpg?itok=RDHoZYZG"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -34,7 +34,7 @@ const Egypt = () => {
         <meta property="og:title" content="Egypt" />
         <meta
           property="og:description"
-          content="Some of the British Museum's best-known Collection items come from Egypt each with their own unique story. "
+          content="Some of the Dersim Museum's best-known Collection items come from Egypt each with their own unique story. "
         />
         <meta
           property="og:image"
@@ -43,7 +43,7 @@ const Egypt = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Some of the British Museum's best-known Collection items come from Egypt each with their own unique story. "
+          content="Some of the Dersim Museum's best-known Collection items come from Egypt each with their own unique story. "
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Egypt" />
@@ -60,7 +60,7 @@ const Egypt = () => {
           href="/themes/custom/numiko/favicon.ico"
           type="image/vnd.microsoft.icon"
         />
-        <title>Egypt | British Museum</title>
+        <title>Egypt | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -104,7 +104,7 @@ const Egypt = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -889,7 +889,7 @@ const Egypt = () => {
                             </p>
                             <div className="wysiwyg">
                               <p>
-                                Some of the British Museum's best-known
+                                Some of the Dersim Museum's best-known
                                 collection items come from Egypt, each with
                                 their own unique story.
                               </p>
@@ -1432,7 +1432,7 @@ The decree is inscribed on the stone three times, in hieroglyphic (suitable for 
                                           data-large-image-width={1391}
                                           data-large-image-height={2000}
                                           data-description="<strong>Colossal granite image of King Ramesses II, from Karnak (Thebes), Egypt, about 1250 BC.</strong><br>
-The largest Egyptian sculpture in the British Museum is an image of Ramesses II, whose prosperous reign lasted almost 67 years. It's the upper part of a colossal seated statue, one of a pair that flanked a gate in the king's mortuary temple (the 'Ramesseum'). The statue was carved from one block, quarried at Aswan almost 124 miles (200km)&nbsp;further south. Roughly shaped and weighing some 20 tonnes, it was transported on sleds over land and on a purpose-built boat down the river Nile. Once erected, the statue's finer sculpting was completed. Like all Egyptian statues, it was originally painted.Traces of the pigments remain.&nbsp; <a href=&quot;https://www.britishmuseum.org/collection/object/Y_EA19&quot;><span>Collection online</span></a>"
+The largest Egyptian sculpture in the Dersim Museum is an image of Ramesses II, whose prosperous reign lasted almost 67 years. It's the upper part of a colossal seated statue, one of a pair that flanked a gate in the king's mortuary temple (the 'Ramesseum'). The statue was carved from one block, quarried at Aswan almost 124 miles (200km)&nbsp;further south. Roughly shaped and weighing some 20 tonnes, it was transported on sleds over land and on a purpose-built boat down the river Nile. Once erected, the statue's finer sculpting was completed. Like all Egyptian statues, it was originally painted.Traces of the pigments remain.&nbsp; <a href=&quot;https://www.britishmuseum.org/collection/object/Y_EA19&quot;><span>Collection online</span></a>"
                                           data-caption
                                           data-lang
                                         >

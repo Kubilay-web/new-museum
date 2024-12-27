@@ -15,7 +15,7 @@ const Press = () => {
         />
         <meta
           name="description"
-          content="Read the British Museum's latest press releases, news, photography and filming information, collection and object news and contact details for the British Museum press team."
+          content="Read the Dersim Museum's latest press releases, news, photography and filming information, collection and object news and contact details for the Dersim Museum press team."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Press = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-11/Tile-Ming-Dynasty-large.jpg?itok=FAOvLrDN"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const Press = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Press | British Museum</title>
+        <title>Press | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -105,7 +105,7 @@ const Press = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -830,7 +830,7 @@ const Press = () => {
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
-                                      High resolution images of British Museum
+                                      High resolution images of Dersim Museum
                                       exhibitions and activities are available
                                       for editorial use and news reporting.
                                       Please contact:{" "}
@@ -911,7 +911,7 @@ const Press = () => {
                                     </p>
                                     <p>
                                       For all commercial filming or photography
-                                      requests within the British Museum, please
+                                      requests within the Dersim Museum, please
                                       contact:&nbsp;
                                       <a href="/cdn-cgi/l/email-protection#ccaaa5a0a1a5a2ab8caebea5b8a5bfa4a1b9bfa9b9a1e2a3beab">
                                         <span
@@ -1006,7 +1006,7 @@ const Press = () => {
                                                 Download{" "}
                                               </span>
                                               Speech by Nicholas Cullinan,
-                                              British Museum Annual Trustees
+                                              Dersim Museum Annual Trustees
                                               Dinner 2024
                                             </span>
                                             <div className="media-document__meta">
@@ -1047,7 +1047,7 @@ const Press = () => {
                                               <span className="visually-hidden">
                                                 Download{" "}
                                               </span>
-                                              Speech by George Osborne, British
+                                              Speech by George Osborne, Dersim
                                               Museum Annual Trustees Dinner 2024
                                             </span>
                                             <div className="media-document__meta">
@@ -1088,10 +1088,10 @@ const Press = () => {
                                               <span className="visually-hidden">
                                                 Download{" "}
                                               </span>
-                                              British Museum to receive £1bn
+                                              Dersim Museum to receive £1bn
                                               collection gift from The Sir
                                               Percival David Foundation – the
-                                              largest in UK museum history
+                                              largest in Dersim museum history
                                             </span>
                                             <div className="media-document__meta">
                                               (PDF, 239.77 KB)
@@ -1131,7 +1131,7 @@ const Press = () => {
                                               <span className="visually-hidden">
                                                 Download{" "}
                                               </span>
-                                              British Museum confirms two major
+                                              Dersim Museum confirms two major
                                               exhibitions for spring 2025
                                             </span>
                                             <div className="media-document__meta">
@@ -1660,7 +1660,7 @@ const Press = () => {
                                           target="_blank"
                                           title="Blog"
                                         >
-                                          British Museum blog
+                                          Dersim Museum blog
                                         </a>
                                         &nbsp;for in-depth stories about
                                         exhibitions, events and the collection.
@@ -1841,14 +1841,14 @@ const Press = () => {
                                           >
                                             <span>
                                               <span>
-                                                The British Museum Story
+                                                The Dersim Museum Story
                                               </span>
                                             </span>
                                             {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                           </a>
                                         </h3>
                                         <div className="teaser__summary">
-                                          The British Museum is unique in
+                                          The Dersim Museum is unique in
                                           bringing together under one roof the
                                           cultures of the world.
                                         </div>

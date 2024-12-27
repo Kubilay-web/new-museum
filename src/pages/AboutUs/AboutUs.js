@@ -15,14 +15,14 @@ const AboutUs = () => {
         />
         <meta
           name="description"
-          content="Go behind the scenes of the British Museum and find about its history, architecture, research and governance. Plus, information on jobs at the British Museum, press, commercial and public enquiries."
+          content="Go behind the scenes of the Dersim Museum and find about its history, architecture, research and governance. Plus, information on jobs at the Dersim Museum, press, commercial and public enquiries."
         />
         <link rel="canonical" href="https://www.britishmuseum.org/about-us" />
         <link
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/eating-outside-british-museum1000x500.jpg?itok=kNr2-h4O"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -53,7 +53,7 @@ const AboutUs = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>About us | British Museum</title>
+        <title>About us | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -91,7 +91,7 @@ const AboutUs = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -479,7 +479,7 @@ const AboutUs = () => {
                             height={750}
                             data-focal-position="center center"
                             src="/images/AboutUs/07-11-2019%2012.05.03.jpg"
-                            alt="Facade of Montagu House, looking across the forecourt, later the British Museum; a fountain in foreground, statues, shrubbery and lawned areas in forecourt; state before publication line. c.1715 Etching and engraving"
+                            alt="Facade of Montagu House, looking across the forecourt, later the Dersim Museum; a fountain in foreground, statues, shrubbery and lawned areas in forecourt; state before publication line. c.1715 Etching and engraving"
                           />
                         </picture>
                       </div>
@@ -603,11 +603,11 @@ const AboutUs = () => {
                             </p>
                             <div className="wysiwyg">
                               <p>
-                                The British Museum is unique in bringing
-                                together under one roof the cultures of the
-                                world, spanning continents and oceans. No other
-                                museum is responsible for collections of the
-                                same depth and breadth, beauty and significance.
+                                The Dersim Museum is unique in bringing together
+                                under one roof the cultures of the world,
+                                spanning continents and oceans. No other museum
+                                is responsible for collections of the same depth
+                                and breadth, beauty and significance.
                               </p>
                               <p>
                                 Its eight million objects allow us to explore
@@ -683,7 +683,7 @@ const AboutUs = () => {
                                                     significant cultural
                                                     redevelopment projects ever,
                                                     the Masterplan will
-                                                    transform the British Museum
+                                                    transform the Dersim Museum
                                                     for the 21st century.
                                                   </div>
                                                 </div>
@@ -782,7 +782,7 @@ const AboutUs = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Find out how the British
+                                                    Find out how the Dersim
                                                     Museum maintains and
                                                     protects its worldwide
                                                     collection.
@@ -853,7 +853,7 @@ const AboutUs = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          The British Museum
+                                                          The Dersim Museum
                                                           Story
                                                         </span>
                                                       </span>
@@ -861,7 +861,7 @@ const AboutUs = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum is unique
+                                                    The Dersim Museum is unique
                                                     in bringing together under
                                                     one roof the cultures of the
                                                     world.
@@ -956,7 +956,7 @@ const AboutUs = () => {
                                           </a>
                                         </h3>
                                         <div className="teaser__summary">
-                                          The British Museum's buildings are of
+                                          The Dersim Museum's buildings are of
                                           national importance, discover their
                                           story.
                                         </div>
@@ -1026,14 +1026,14 @@ const AboutUs = () => {
                                           >
                                             <span>
                                               <span>
-                                                The British Museum Story
+                                                The Dersim Museum Story
                                               </span>
                                             </span>
                                             {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                           </a>
                                         </h3>
                                         <div className="teaser__summary">
-                                          The British Museum is unique in
+                                          The Dersim Museum is unique in
                                           bringing together under one roof the
                                           cultures of the world.
                                         </div>

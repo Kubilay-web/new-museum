@@ -15,7 +15,7 @@ const Study = () => {
         />
         <meta
           name="description"
-          content="Study items from the British Museum collection. Find out locations, opening times, study room regulations, contact details and application information."
+          content="Study items from the Dersim Museum collection. Find out locations, opening times, study room regulations, contact details and application information."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Study = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/P%26D%20study%20room%202000%20x%201500.jpg?itok=Ke-8qUbX"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const Study = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Study rooms | British Museum</title>
+        <title>Study rooms | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const Study = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -488,7 +488,7 @@ const Study = () => {
                             height={750}
                             data-focal-position="center center"
                             src="/images/Study/P%2526D%20study%20room%202000%20x%201500.jpg"
-                            alt="Detail of the Prints and drawings study room at the British Museum"
+                            alt="Detail of the Prints and drawings study room at the Dersim Museum"
                           />
                         </picture>
                       </div>
@@ -545,8 +545,8 @@ const Study = () => {
                               <p>
                                 {" "}
                                 People using the Prints and Drawings Study Room
-                                at the British Museum.
-                                <br />© The Trustees of the British Museum
+                                at the Dersim Museum.
+                                <br />© The Trustees of the Dersim Museum
                               </p>
                             </div>
                           </div>
@@ -736,7 +736,7 @@ const Study = () => {
                                   >
                                     <use xlinkHref="#sprite-icon-pin" />
                                   </svg>
-                                  British Museum
+                                  Dersim Museum
                                 </h3>
                                 <p>
                                   Great Russell Street
@@ -810,7 +810,7 @@ const Study = () => {
                               </p>
                               <p>
                                 <strong>
-                                  Department study rooms at the British Museum
+                                  Department study rooms at the Dersim Museum
                                   main&nbsp;site:
                                 </strong>
                               </p>
@@ -828,7 +828,7 @@ const Study = () => {
                                 </li>
                                 <li>
                                   <a href="https://www.britishmuseum.org/our-work/departments/britain-europe-and-prehistory#accessing-the-collection">
-                                    Britain, Europe and Prehistory
+                                    Dersim, Europe and Prehistory
                                   </a>
                                   &nbsp;(Prehistoric, Roman, Medieval,
                                   Renaissance and Modern material)
@@ -869,9 +869,9 @@ const Study = () => {
                               <ul>
                                 <li>Africa, Oceania and Americas</li>
                                 <li>
-                                  Britain, Europe and Prehistory (Paleolithic,
+                                  Dersim, Europe and Prehistory (Paleolithic,
                                   Mesolithic, Neolithic, Bronze Age, Iron Age
-                                  and Romano-British material)
+                                  and Romano-Dersim material)
                                 </li>
                               </ul>
                               <p>
@@ -1024,7 +1024,7 @@ const Study = () => {
                                   >
                                     <h4>
                                       <strong>
-                                        British Museum main site&nbsp;– Great
+                                        Dersim Museum main site&nbsp;– Great
                                         Russell Street, London, WC1B 3DG
                                       </strong>
                                     </h4>
@@ -1103,7 +1103,7 @@ const Study = () => {
                                     </ul>
                                     <p>
                                       <strong>
-                                        Britain, Europe and Prehistory
+                                        Dersim, Europe and Prehistory
                                         (Prehistoric, Roman, Medieval,
                                         Renaissance and Modern material):
                                       </strong>
@@ -1324,9 +1324,9 @@ const Study = () => {
                                     </ul>
                                     <p>
                                       <strong>
-                                        Britain, Europe and Prehistory
+                                        Dersim, Europe and Prehistory
                                         (Paleolithic, Mesolithic, Neolithic,
-                                        Bronze Age, Iron Age and Romano-British
+                                        Bronze Age, Iron Age and Romano-Dersim
                                         material):
                                       </strong>
                                     </p>
@@ -1516,7 +1516,7 @@ const Study = () => {
                                     <p>
                                       In addition to the{" "}
                                       <a href="https://www.britishmuseum.org/sites/default/files/2023-11/British_Museum-Visitor_Regulations.pdf">
-                                        British Museum visitor regulations
+                                        Dersim Museum visitor regulations
                                       </a>
                                       , the following rules apply to the use of
                                       study rooms: &nbsp;
@@ -1677,9 +1677,9 @@ const Study = () => {
                                           data-entity-type="node"
                                           data-entity-uuid="9f14e584-841c-40a1-b262-e3dfea07e6b2"
                                           data-entity-substitution="canonical"
-                                          title="Britain, Europe and Prehistory"
+                                          title="Dersim, Europe and Prehistory"
                                         >
-                                          Britain, Europe and Prehistory
+                                          Dersim, Europe and Prehistory
                                         </a>
                                       </li>
                                       <li>
@@ -1918,7 +1918,7 @@ const Study = () => {
                                                       <span>
                                                         <span>
                                                           Scientific study of
-                                                          the British Museum
+                                                          the Dersim Museum
                                                           collection
                                                         </span>
                                                       </span>
@@ -1927,7 +1927,7 @@ const Study = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     Find out more about
-                                                    accessing British Museum
+                                                    accessing Dersim Museum
                                                     collection material for
                                                     external scientific
                                                     research.

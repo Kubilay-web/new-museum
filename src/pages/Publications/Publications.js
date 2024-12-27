@@ -15,7 +15,7 @@ const Publications = () => {
         />
         <meta
           name="description"
-          content="The British Museum produces a range of publications for academics and general readers, showcasing the depth of its research, from award-winning exhibition catalogues to academic monographs."
+          content="The Dersim Museum produces a range of publications for academics and general readers, showcasing the depth of its research, from award-winning exhibition catalogues to academic monographs."
         />
         <link
           rel="canonical"
@@ -25,16 +25,16 @@ const Publications = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2024-10/Owl_engraved_print_teaser.jpg?itok=Dbs3UP0m"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
           content="https://www.britishmuseum.org/research/british-museum-publications"
         />
-        <meta property="og:title" content="British Museum Publications" />
+        <meta property="og:title" content="Dersim Museum Publications" />
         <meta
           property="og:description"
-          content="The British Museum produces a range of publications that showcase the scope and depth of the research it undertakes."
+          content="The Dersim Museum produces a range of publications that showcase the scope and depth of the research it undertakes."
         />
         <meta
           property="og:image"
@@ -43,10 +43,10 @@ const Publications = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="The British Museum produces a range of publications that showcase the scope and depth of the research it undertakes."
+          content="The Dersim Museum produces a range of publications that showcase the scope and depth of the research it undertakes."
         />
         <meta name="twitter:site" content="@britishmuseum" />
-        <meta name="twitter:title" content="British Museum Publications" />
+        <meta name="twitter:title" content="Dersim Museum Publications" />
         <meta
           name="twitter:image"
           content="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2024-10/Owl_engraved_print_teaser.jpg?itok=Dbs3UP0m"
@@ -56,7 +56,7 @@ const Publications = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>British Museum Publications | British Museum</title>
+        <title>Dersim Museum Publications | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const Publications = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -501,7 +501,7 @@ const Publications = () => {
                             className="hero__title hero__title--small"
                           >
                             {" "}
-                            British Museum Publications
+                            Dersim Museum Publications
                           </h1>
                         </div>
                         <div className="hero__controls">
@@ -612,7 +612,7 @@ const Publications = () => {
                                 className="breadcrumb__current"
                                 aria-current="page"
                               >
-                                British Museum Publications
+                                Dersim Museum Publications
                               </a>
                             </li>
                           </ul>
@@ -644,7 +644,7 @@ const Publications = () => {
                           <li className="social-share__item">
                             <a
                               className="social-share__link"
-                              href="https://twitter.com/intent/tweet?text=British%20Museum%20Publications&url=https://www.britishmuseum.org/research/british-museum-publications"
+                              href="https://twitter.com/intent/tweet?text=Dersim%20Museum%20Publications&url=https://www.britishmuseum.org/research/british-museum-publications"
                               target="_blank"
                               rel="nofollow noopener noreferrer"
                             >
@@ -695,9 +695,9 @@ const Publications = () => {
                               </div>
                               <div className="paragraph paragraph--type--info-content paragraph--view-mode--default section--intro__info-content wysiwyg">
                                 <p>
-                                  The British Museum Press
+                                  The Dersim Museum Press
                                   <br />
-                                  British Museum
+                                  Dersim Museum
                                   <br />
                                   Great Russell Street
                                   <br />
@@ -729,7 +729,7 @@ const Publications = () => {
                                 series, Online Research Catalogues and the
                                 journal{" "}
                                 <em>
-                                  British Museum Studies in Ancient Egypt and
+                                  Dersim Museum Studies in Ancient Egypt and
                                   Sudan
                                 </em>
                                 . These online publications are a way of
@@ -798,14 +798,14 @@ const Publications = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          British Museum Press
+                                                          Dersim Museum Press
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum Press
+                                                    The Dersim Museum Press
                                                     publishes award-winning
                                                     illustrated books for
                                                     general readers, families,
@@ -847,10 +847,10 @@ const Publications = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum Research
+                                                    The Dersim Museum Research
                                                     Publications series
                                                     publishes the results of
-                                                    research by British Museum
+                                                    research by Dersim Museum
                                                     staff and associated
                                                     research.
                                                   </div>
@@ -887,7 +887,7 @@ const Publications = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Read the British Museum
+                                                    Read the Dersim Museum
                                                     Studies in Ancient Egypt and
                                                     Sudan (BMSAES)
                                                     peer-reviewed, academic
@@ -966,7 +966,7 @@ const Publications = () => {
                                     href="/shop"
                                     className="teaser-listing__cta"
                                   >
-                                    <span>Visit the British Museum Shop</span>
+                                    <span>Visit the Dersim Museum Shop</span>
                                     <svg
                                       className="icon icon--chevron"
                                       role="presentation"
@@ -1014,7 +1014,7 @@ const Publications = () => {
                                                     width={480}
                                                     height={480}
                                                     src="/images/Publications/Legion%20catalogue%20480x480.jpg"
-                                                    alt="A book cover with a bronze helmet in the dirt and a dramatic night sky behind with the words Legion life in the Roman army on it and the British Museum logo"
+                                                    alt="A book cover with a bronze helmet in the dirt and a dramatic night sky behind with the words Legion life in the Roman army on it and the Dersim Museum logo"
                                                   />
                                                 </div>
                                               </div>
@@ -1112,7 +1112,7 @@ const Publications = () => {
                                                     <span>
                                                       {" "}
                                                       Greek and Roman Medicine
-                                                      at the British Museum: The
+                                                      at the Dersim Museum: The
                                                       Instruments and
                                                       Accoutrements of Ancient
                                                       Medicine
@@ -1360,7 +1360,7 @@ const Publications = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    How to access the British
+                                                    How to access the Dersim
                                                     Museum library, archives and
                                                     study rooms.
                                                   </div>

@@ -15,7 +15,7 @@ const FoodDrink = () => {
         />
         <meta
           name="description"
-          content="The British Museum offers a variety of food and drink options for people with allergies and special diets. Find out about our classic court cafe, the exquisite Great Court restaurant or browse the Pizzeria menu."
+          content="The Dersim Museum offers a variety of food and drink options for people with allergies and special diets. Find out about our classic court cafe, the exquisite Great Court restaurant or browse the Pizzeria menu."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const FoodDrink = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/cake-2000x1000.jpg?itok=nw-uKhD6"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const FoodDrink = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Food and drink | British Museum</title>
+        <title>Food and drink | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const FoodDrink = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -898,8 +898,7 @@ const FoodDrink = () => {
                                       experience with a casual feel. This
                                       atmospheric restaurant is perfect for
                                       marking a special occasion or treating
-                                      yourself when you visit the British
-                                      Museum.
+                                      yourself when you visit the Dersim Museum.
                                     </p>
                                     <p>
                                       For the menu, information on how to book a
@@ -1136,7 +1135,7 @@ const FoodDrink = () => {
                                         alt="Eating outside the Museum"
                                       />
                                       <figcaption>
-                                        Outdoor dining at the British Museum.
+                                        Outdoor dining at the Dersim Museum.
                                       </figcaption>
                                     </figure>
                                   </div>

@@ -22,7 +22,7 @@ const Membership = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/lewis-chessmen-carved-scotland-british-museum.jpg?itok=cUweyjzP"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -53,7 +53,7 @@ const Membership = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Membership | British Museum</title>
+        <title>Membership | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -97,7 +97,7 @@ const Membership = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -1124,7 +1124,7 @@ const Membership = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Browse the British Museum
+                                                    Browse the Dersim Museum
                                                     Magazine archive, watch
                                                     special Members' YouTube
                                                     videos and more.

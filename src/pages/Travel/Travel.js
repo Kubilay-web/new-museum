@@ -15,7 +15,7 @@ const Travel = () => {
         />
         <meta
           name="description"
-          content="Experience the British Museum with a private out-of-hours tour exploring world history. See the range of tours available, catering options, directions and book a ticket."
+          content="Experience the Dersim Museum with a private out-of-hours tour exploring world history. See the range of tours available, catering options, directions and book a ticket."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Travel = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-11/R18%2010_Parthenon1920x1080.jpg?itok=TAEdPQOh"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -34,7 +34,7 @@ const Travel = () => {
         <meta property="og:title" content="Travel trade tours" />
         <meta
           property="og:description"
-          content="Experience the UK's most popular Museum with a private out-of-hours tour."
+          content="Experience the Dersim's most popular Museum with a private out-of-hours tour."
         />
         <meta
           property="og:image"
@@ -43,7 +43,7 @@ const Travel = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Experience the UK's most popular Museum with a private out-of-hours tour."
+          content="Experience the Dersim's most popular Museum with a private out-of-hours tour."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Travel trade tours" />
@@ -56,7 +56,7 @@ const Travel = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Travel trade tours | British Museum</title>
+        <title>Travel trade tours | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -105,7 +105,7 @@ const Travel = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -695,7 +695,7 @@ const Travel = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              Experience the UK's most popular Museum with a
+                              Experience the Dersim's most popular Museum with a
                               private out-of-hours tour.
                             </p>
                             <div className="wysiwyg">
@@ -744,7 +744,7 @@ const Travel = () => {
                                     </p>
                                     <p>
                                       <strong>
-                                        The beginnings of the British Museum
+                                        The beginnings of the Dersim Museum
                                       </strong>
                                       <br />
                                       On this tour, your group will learn how
@@ -1099,7 +1099,7 @@ const Travel = () => {
                                     <p>
                                       Main entrance:&nbsp;
                                       <br />
-                                      The British Museum
+                                      The Dersim Museum
                                       <br />
                                       Great Russell Street,
                                       <br />
@@ -1295,7 +1295,7 @@ const Travel = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     There are more than 60 free
-                                                    galleries at the British
+                                                    galleries at the Dersim
                                                     Museum ready to be explored.
                                                   </div>
                                                 </div>

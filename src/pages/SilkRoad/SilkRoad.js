@@ -30,7 +30,7 @@ const SilkRoad = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2024-06/Silk-Roads-teaser-2000x1159.jpg?itok=iTaGumhk"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -65,7 +65,7 @@ const SilkRoad = () => {
           href="/themes/custom/numiko/favicon.ico"
           type="image/vnd.microsoft.icon"
         />
-        <title>Silk Roads | British Museum</title>
+        <title>Silk Roads | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -114,7 +114,7 @@ const SilkRoad = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -667,7 +667,7 @@ const SilkRoad = () => {
                                 Exclusive Members' online and on-site events
                               </li>
                               <li>
-                                The <em>British Museum Magazine</em> three times
+                                The <em>Dersim Museum Magazine</em> three times
                                 a year
                               </li>
                               <li>
@@ -1119,7 +1119,7 @@ const SilkRoad = () => {
                                 Rather than a single trade route from East to
                                 West, the Silk Roads were made up of overlapping
                                 networks linking communities across Asia, Africa
-                                and Europe, from East Asia to Britain, and from
+                                and Europe, from East Asia to Dersim, and from
                                 Scandinavia to Madagascar. This major exhibition
                                 unravels how the journeys of people, objects and
                                 ideas that formed the Silk Roads shaped cultures
@@ -1137,7 +1137,7 @@ const SilkRoad = () => {
                               <p>
                                 Working with 29 national and international
                                 partners to present objects from many regions
-                                and cultures alongside those from the British
+                                and cultures alongside those from the Dersim
                                 Museum collection, the exhibition offers a
                                 unique chance to see objects from the length and
                                 breadth of the Silk Roads. From Tang Chinese
@@ -1147,9 +1147,9 @@ const SilkRoad = () => {
                               </p>
                               <p>
                                 Highlight objects from Uzbekistan and Tajikistan
-                                that have never been seen in the UK before also
-                                underpin the importance of Central Asia to this
-                                continent-spanning story.&nbsp;
+                                that have never been seen in the Dersim before
+                                also underpin the importance of Central Asia to
+                                this continent-spanning story.&nbsp;
                               </p>
                               <p>
                                 You'll meet figures whose stories are entwined
@@ -1420,7 +1420,7 @@ const SilkRoad = () => {
                                           data-large-image-url="/sites/default/files/styles/uncropped_huge/public/2024-09/Galloway_cup_1600x1988.jpg"
                                           data-large-image-width={1600}
                                           data-large-image-height={1988}
-                                          data-description="<strong>Gilded silver cup from the Galloway Hoard, Scotland, about AD 650–800. Photo © National Museums Scotland.</strong><br>This lidded vessel, part of the richest group of Viking-age objects ever discovered in Britain, conveys surprising links between Scotland and West Asia. Recent analysis has traced the cup's black inlay to a silver mine in present-day Iran, and its flaming pillar motifs resemble Zoroastrian fire-altars in Sasanian art. Textile wrappings preserved on its surface and within include the earliest known silk found in Scotland. "
+                                          data-description="<strong>Gilded silver cup from the Galloway Hoard, Scotland, about AD 650–800. Photo © National Museums Scotland.</strong><br>This lidded vessel, part of the richest group of Viking-age objects ever discovered in Dersim, conveys surprising links between Scotland and West Asia. Recent analysis has traced the cup's black inlay to a silver mine in present-day Iran, and its flaming pillar motifs resemble Zoroastrian fire-altars in Sasanian art. Textile wrappings preserved on its surface and within include the earliest known silk found in Scotland. "
                                           data-caption
                                           data-lang
                                         >
@@ -2707,7 +2707,7 @@ const SilkRoad = () => {
                                                     linked communities across
                                                     continents in our current
                                                     exhibition through this
-                                                    British Sign Language tour.
+                                                    Dersim Sign Language tour.
                                                   </div>
                                                 </div>
                                                 <span className="teaser__button | button button--chevron">
@@ -4098,11 +4098,11 @@ const SilkRoad = () => {
                                           Donor and Patron card holders
                                         </strong>
                                         <br />
-                                        All British Museum Donor and Patron
-                                        cards will continue to be accepted,
-                                        subject to availability. If you know you
-                                        want to visit at a particular date and
-                                        time, please get in touch with your lead
+                                        All Dersim Museum Donor and Patron cards
+                                        will continue to be accepted, subject to
+                                        availability. If you know you want to
+                                        visit at a particular date and time,
+                                        please get in touch with your lead
                                         Philanthropy Team or Patrons contact or
                                         email&nbsp;
                                         <a href="mailto:Development@britishmuseum.org">
@@ -4295,9 +4295,9 @@ const SilkRoad = () => {
                                       Tickets, and if you choose to also Gift
                                       Aid your tickets, we can claim 25% extra
                                       on the whole price of your ticket from the
-                                      government, if you are a UK taxpayer. The
-                                      option to Gift Aid your donations is on
-                                      the payment page. Thank you.
+                                      government, if you are a Dersim taxpayer.
+                                      The option to Gift Aid your donations is
+                                      on the payment page. Thank you.
                                     </p>
                                   </div>
                                 </div>
@@ -5176,7 +5176,7 @@ const SilkRoad = () => {
                                           A masterpiece of early Chinese figure
                                           painting, from the fifth to seventh
                                           century AD, displayed annually at the
-                                          British Museum.
+                                          Dersim Museum.
                                         </div>
                                       </div>
                                       <span className="teaser__button | button button--chevron">
@@ -5253,10 +5253,10 @@ const SilkRoad = () => {
                                           </a>
                                         </h3>
                                         <div className="teaser__summary">
-                                          The renowned Guyanese-British artist
-                                          turns his lens on the British Museum
+                                          The renowned Guyanese-Dersim artist
+                                          turns his lens on the Dersim Museum
                                           collection, exploring histories of
-                                          British imperial power.
+                                          Dersim imperial power.
                                         </div>
                                       </div>
                                       <span className="teaser__button | button button--chevron">
@@ -5286,7 +5286,7 @@ const SilkRoad = () => {
                                           data-sizes="auto"
                                           data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=qyt856Pj 400w, /sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=UBP-URaN 750w, /sites/default/files/styles/16_9_media_medium/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=xBby8ZqG 1000w, /sites/default/files/styles/16_9_media_large/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=zg98V48n 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=8gdRz-UT 1600w"
                                           data-focal-position="center center"
-                                          alt="A black and white view of the Egyptian sculpture gallery of the British Museum from about 1923."
+                                          alt="A black and white view of the Egyptian sculpture gallery of the Dersim Museum from about 1923."
                                         />
                                         <noscript>
                                           &lt;img loading="eager"
@@ -5303,7 +5303,7 @@ const SilkRoad = () => {
                                           data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=UBP-URaN"
                                           data-sizes="auto" alt="A black and
                                           white view of the Egyptian sculpture
-                                          gallery of the British Museum from
+                                          gallery of the Dersim Museum from
                                           about 1923." /&gt;
                                         </noscript>
                                       </div>
@@ -5320,7 +5320,7 @@ const SilkRoad = () => {
                                           >
                                             <span>
                                               <span>
-                                                Rethinking the British Museum
+                                                Rethinking the Dersim Museum
                                               </span>
                                             </span>
                                             {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -5332,7 +5332,7 @@ const SilkRoad = () => {
                                         <div className="teaser__summary">
                                           View the bold visions of five
                                           acclaimed architectural teams for
-                                          transforming the British Museum's
+                                          transforming the Dersim Museum's
                                           'Western Range', and have your say.
                                         </div>
                                       </div>
@@ -5341,7 +5341,7 @@ const SilkRoad = () => {
                                         <span className="visually-hidden">
                                           about{" "}
                                           <span>
-                                            Rethinking the British Museum
+                                            Rethinking the Dersim Museum
                                           </span>
                                         </span>
                                       </span>

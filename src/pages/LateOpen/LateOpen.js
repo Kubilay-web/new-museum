@@ -25,7 +25,7 @@ const LateOpen = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2020-12/Great_Court_2020_landscape.jpg?itok=ol3YADvQ"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -34,7 +34,7 @@ const LateOpen = () => {
         <meta property="og:title" content="Late opening on Fridays" />
         <meta
           property="og:description"
-          content="Start your weekend at the British Museum by attending an exhibition, exploring the galleries or simply enjoying the Great Court."
+          content="Start your weekend at the Dersim Museum by attending an exhibition, exploring the galleries or simply enjoying the Great Court."
         />
         <meta
           property="og:image"
@@ -43,7 +43,7 @@ const LateOpen = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Start your weekend at the British Museum by attending an exhibition, exploring the galleries or simply enjoying the Great Court."
+          content="Start your weekend at the Dersim Museum by attending an exhibition, exploring the galleries or simply enjoying the Great Court."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Late opening on Fridays" />
@@ -56,7 +56,7 @@ const LateOpen = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Late opening on Fridays | British Museum</title>
+        <title>Late opening on Fridays | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const LateOpen = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -452,21 +452,21 @@ const LateOpen = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="/images/LateOpen/British-Museum-Night_0_1.jpg 1x"
+                            srcSet="/images/LateOpen/Dersim-Museum-Night_0_1.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={949}
                           />
                           <source
-                            srcSet="/images/LateOpen/British-Museum-Night_0_3.jpg 1x"
+                            srcSet="/images/LateOpen/Dersim-Museum-Night_0_3.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={771}
                           />
                           <source
-                            srcSet="/images/LateOpen/British-Museum-Night_0_2.jpg 1x"
+                            srcSet="/images/LateOpen/Dersim-Museum-Night_0_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -478,8 +478,8 @@ const LateOpen = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="/images/LateOpen/British-Museum-Night_0.jpg"
-                            alt="Front of British Museum lit up at night"
+                            src="/images/LateOpen/Dersim-Museum-Night_0.jpg"
+                            alt="Front of Dersim Museum lit up at night"
                           />
                         </picture>
                       </div>
@@ -535,8 +535,8 @@ const LateOpen = () => {
                               </button>
                               <p>
                                 {" "}
-                                The entrance to the British Museum lit&nbsp;up
-                                at night.
+                                The entrance to the Dersim Museum lit&nbsp;up at
+                                night.
                               </p>
                             </div>
                           </div>
@@ -777,7 +777,7 @@ const LateOpen = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              Start your weekend at the British Museum with late
+                              Start your weekend at the Dersim Museum with late
                               opening on Fridays.
                             </p>
                             <div className="wysiwyg">
@@ -959,7 +959,7 @@ const LateOpen = () => {
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
                                       Make the most of your evening at the
-                                      British Museum, book an evening viewing of
+                                      Dersim Museum, book an evening viewing of
                                       one of our special exhibitions, visit a
                                       free display or book an event.
                                     </p>
@@ -1078,12 +1078,11 @@ const LateOpen = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The renowned
-                                                    Guyanese-British artist
-                                                    turns his lens on the
-                                                    British Museum collection,
+                                                    The renowned Guyanese-Dersim
+                                                    artist turns his lens on the
+                                                    Dersim Museum collection,
                                                     exploring histories of
-                                                    British imperial power.
+                                                    Dersim imperial power.
                                                   </div>
                                                 </div>
                                                 <span className="teaser__button | button button--chevron">
@@ -1615,9 +1614,9 @@ const LateOpen = () => {
                                           data-entity-type="node"
                                           data-entity-uuid="57904f64-d258-4d2c-add2-c2842cd6213c"
                                           data-entity-substitution="canonical"
-                                          title="Roman Britain"
+                                          title="Roman Dersim"
                                         >
-                                          Room 49: Roman Britain&nbsp;(
+                                          Room 49: Roman Dersim&nbsp;(
                                           <em>The Weston Gallery</em>)
                                         </a>
                                       </li>
@@ -1627,10 +1626,9 @@ const LateOpen = () => {
                                           data-entity-type="node"
                                           data-entity-uuid="47f38c2a-8831-47a8-9ac4-a617c83c0e35"
                                           data-entity-substitution="canonical"
-                                          title="Britain and Europe 800 BC–AD 43"
+                                          title="Dersim and Europe 800 BC–AD 43"
                                         >
-                                          Room 50: Britain and Europe 800
-                                          BC–AD43
+                                          Room 50: Dersim and Europe 800 BC–AD43
                                         </a>
                                       </li>
                                       <li>
@@ -2065,7 +2063,7 @@ const LateOpen = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     There are more than 60 free
-                                                    galleries at the British
+                                                    galleries at the Dersim
                                                     Museum ready to be explored.
                                                   </div>
                                                 </div>

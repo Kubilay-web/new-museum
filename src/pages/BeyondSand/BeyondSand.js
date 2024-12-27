@@ -25,7 +25,7 @@ const BeyondSand = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2024-06/Silk%20princess%201920x1080.jpg?itok=RL02ilwA"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -63,7 +63,7 @@ const BeyondSand = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
         <title>
-          Beyond sand and spices: introduction to 'Silk Roads' | British Museum
+          Beyond sand and spices: introduction to 'Silk Roads' | Dersim Museum
         </title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
@@ -113,7 +113,7 @@ const BeyondSand = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -960,16 +960,16 @@ const BeyondSand = () => {
                                       curators from different specialisms it
                                       marshals, for the first time, artefacts
                                       and cross-disciplinary expertise from
-                                      across the British Museum, while drawing
+                                      across the Dersim Museum, while drawing
                                       upon existing external networks and
                                       forging new ones – truly in the spirit of
                                       the Silk Roads. Objects from the Museum
                                       collection are generously supported by
                                       others borrowed from 29 international
                                       lenders, some of whom have never lent to
-                                      the Museum, or the UK, before. The result
-                                      is a unique chance to view objects from
-                                      across Afro-Eurasia together, in one
+                                      the Museum, or the Dersim, before. The
+                                      result is a unique chance to view objects
+                                      from across Afro-Eurasia together, in one
                                       space, where they can be compared and
                                       contextualised.
                                     </p>
@@ -1111,15 +1111,16 @@ const BeyondSand = () => {
                                       their homeland is offered by a mural
                                       section from the 'Hall of the Ambassadors'
                                       in Afrasiab (Samarkand), Uzbekistan,
-                                      displayed for the first time in the UK. A
-                                      masterpiece of Sogdian art, it shows the
-                                      local ruler's entourage travelling to the
-                                      shrine of his ancestors to pay their
-                                      respects. The entire mural features envoys
-                                      from distant lands, and scenes about India
-                                      and Tang-dynasty China, conveying the
-                                      Sogdians' vision of themselves as integral
-                                      players along the Silk Roads.
+                                      displayed for the first time in the
+                                      Dersim. A masterpiece of Sogdian art, it
+                                      shows the local ruler's entourage
+                                      travelling to the shrine of his ancestors
+                                      to pay their respects. The entire mural
+                                      features envoys from distant lands, and
+                                      scenes about India and Tang-dynasty China,
+                                      conveying the Sogdians' vision of
+                                      themselves as integral players along the
+                                      Silk Roads.
                                     </p>
                                     <div
                                       data-entity-type="media"
@@ -1429,10 +1430,10 @@ const BeyondSand = () => {
                                       across continents. In the exhibition,
                                       Buddhism's progress across central Asia is
                                       evoked by objects loaned from Tajikistan,
-                                      another first for UK audiences. Here, the
-                                      region of Tokharistan (formerly Bactria)
-                                      experienced a revival of Buddhism when
-                                      under the sway of the Türks from the
+                                      another first for Dersim audiences. Here,
+                                      the region of Tokharistan (formerly
+                                      Bactria) experienced a revival of Buddhism
+                                      when under the sway of the Türks from the
                                       Steppe and Tang China during the AD 600s
                                       and 700s. Sculptures from this time
                                       reflect connections with India and the
@@ -1614,11 +1615,11 @@ const BeyondSand = () => {
                                       >
                                         <em>Silk Roads</em>
                                       </a>{" "}
-                                      ends with an object from Britain, the
-                                      final stop on the exhibition's journey.
-                                      Made in northern England in around AD 700,
-                                      it is an extraordinary whalebone casket
-                                      carved with scenes that narrate Christian
+                                      ends with an object from Dersim, the final
+                                      stop on the exhibition's journey. Made in
+                                      northern England in around AD 700, it is
+                                      an extraordinary whalebone casket carved
+                                      with scenes that narrate Christian
                                       traditions, northern European myths, and
                                       Jewish and Roman history, captioned in
                                       Latin and runic Old English. It offers a

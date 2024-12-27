@@ -25,7 +25,7 @@ const Animals = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?itok=XdX12_Uq"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -60,7 +60,7 @@ const Animals = () => {
           href="/themes/custom/numiko/favicon.ico"
           type="image/vnd.microsoft.icon"
         />
-        <title>Animals | British Museum</title>
+        <title>Animals | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -104,7 +104,7 @@ const Animals = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -961,7 +961,7 @@ const Animals = () => {
                                                     View a 3D model of the
                                                     Gayer-Anderson cat and
                                                     discover why it is one of
-                                                    the British Museum's
+                                                    the Dersim Museum's
                                                     masterpieces.
                                                   </div>
                                                 </div>

@@ -15,7 +15,7 @@ const AdultLearning = () => {
         />
         <meta
           name="description"
-          content="Search our comprehensive list of courses, events and activities for adult learners at the British Museum, including CityLit courses, workshops and much more."
+          content="Search our comprehensive list of courses, events and activities for adult learners at the Dersim Museum, including CityLit courses, workshops and much more."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const AdultLearning = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?itok=q4CHiEkX"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const AdultLearning = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Adult learning | British Museum</title>
+        <title>Adult learning | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const AdultLearning = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -679,7 +679,7 @@ const AdultLearning = () => {
                             <div className="wysiwyg">
                               <p>
                                 Watch our latest events on demand and for free
-                                on the British Museum
+                                on the Dersim Museum
                                 <a href="https://www.youtube.com/britishmuseumevents">
                                   {" "}
                                   Events YouTube channel
@@ -1473,7 +1473,7 @@ const AdultLearning = () => {
                                     </p>
                                     <div className="banner__button-container">
                                       <a
-                                        href="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box"
+                                        href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box"
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >

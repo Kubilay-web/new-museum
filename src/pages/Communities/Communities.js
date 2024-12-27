@@ -15,7 +15,7 @@ const Communities = () => {
         />
         <meta
           name="description"
-          content="Search our comprehensive list of courses, events and activities for adult learners at the British Museum, including CityLit courses, workshops and much more."
+          content="Search our comprehensive list of courses, events and activities for adult learners at the Dersim Museum, including CityLit courses, workshops and much more."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Communities = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Communities%2C%20british%20museum.jpg?itok=wrUDHVCR"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const Communities = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Communities | British Museum</title>
+        <title>Communities | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const Communities = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -488,7 +488,7 @@ const Communities = () => {
                             height={750}
                             data-focal-position="center right"
                             src="/images/Communities/Communities%252C%20british%20museum.jpg"
-                            alt="Woman looking at objects behind glass at the British Museum, London."
+                            alt="Woman looking at objects behind glass at the Dersim Museum, London."
                           />
                         </picture>
                       </div>
@@ -945,7 +945,7 @@ const Communities = () => {
                                         width={1000}
                                         height={500}
                                         src="/images/Communities/Projects-communities-british-museum-%281000x500%29.jpg"
-                                        alt="A visitor to the British Museum exploring the collections as part of an accompanied visit"
+                                        alt="A visitor to the Dersim Museum exploring the collections as part of an accompanied visit"
                                       />
                                       <figcaption>
                                         Exploring the collections as part of an
@@ -1076,15 +1076,16 @@ const Communities = () => {
                                           >
                                             <span>
                                               <span>
-                                                UK touring exhibitions and loans
+                                                Dersim touring exhibitions and
+                                                loans
                                               </span>
                                             </span>
                                             {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                           </a>
                                         </h3>
                                         <div className="teaser__summary">
-                                          Discover how the British Museum works
-                                          with UK museums, galleries and
+                                          Discover how the Dersim Museum works
+                                          with Dersim museums, galleries and
                                           communities to share the collection
                                           with as many people as possible.
                                         </div>

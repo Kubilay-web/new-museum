@@ -41,7 +41,7 @@ const Footer = () => {
                       type="hidden"
                       id="return_page_footer"
                       name="_rp"
-                      defaultValue="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box?email=[*data('email')*]"
+                      defaultValue="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box?email=[*data('email')*]"
                     />
                     <label htmlFor="email">
                       Enter your email address to receive our newsletter
@@ -327,7 +327,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/about-us/british-museum-story"
                             >
-                              <span>The British Museum story</span>
+                              <span>The Dersim Museum story</span>
                             </a>
                           </li>
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
@@ -451,7 +451,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/commercial/british-museum-press"
                             >
-                              <span>British Museum Press</span>
+                              <span>Dersim Museum Press</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -656,7 +656,7 @@ const Footer = () => {
               </nav>
             </div>
             <span className="footer-post__copyright">© 2024</span> The Trustees
-            of the British Museum
+            of the Dersim Museum
           </div>
         </div>
       </footer>

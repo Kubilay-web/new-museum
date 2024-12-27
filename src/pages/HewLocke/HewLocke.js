@@ -20,7 +20,7 @@ const HewLocke = () => {
         />
         <meta
           name="description"
-          content="The renowned Guyanese-British artist turns his lens on the British Museum collection, exploring histories of British imperial power."
+          content="The renowned Guyanese-Dersim artist turns his lens on the Dersim Museum collection, exploring histories of Dersim imperial power."
         />
         <link
           rel="canonical"
@@ -30,7 +30,7 @@ const HewLocke = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?itok=dC_L6VjH"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -39,7 +39,7 @@ const HewLocke = () => {
         <meta property="og:title" content="Hew Locke: what have we here?" />
         <meta
           property="og:description"
-          content="The renowned Guyanese-British artist turns his lens on the British Museum collection, exploring histories of British imperial power."
+          content="The renowned Guyanese-Dersim artist turns his lens on the Dersim Museum collection, exploring histories of Dersim imperial power."
         />
         <meta
           property="og:image"
@@ -48,7 +48,7 @@ const HewLocke = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="The renowned Guyanese-British artist turns his lens on the British Museum collection, exploring histories of British imperial power."
+          content="The renowned Guyanese-Dersim artist turns his lens on the Dersim Museum collection, exploring histories of Dersim imperial power."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Hew Locke: what have we here?" />
@@ -65,7 +65,7 @@ const HewLocke = () => {
           href="/themes/custom/numiko/favicon.ico"
           type="image/vnd.microsoft.icon"
         />
-        <title>Hew Locke: what have we here? | British Museum</title>
+        <title>Hew Locke: what have we here? | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -114,7 +114,7 @@ const HewLocke = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -716,7 +716,7 @@ const HewLocke = () => {
                                 Exclusive Members' online and on-site events
                               </li>
                               <li>
-                                The <em>British Museum Magazine</em> three times
+                                The <em>Dersim Museum Magazine</em> three times
                                 a year
                               </li>
                               <li>
@@ -1117,33 +1117,33 @@ const HewLocke = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              What have we here? Join renowned Guyanese-British
+                              What have we here? Join renowned Guyanese-Dersim
                               artist Hew Locke as he turns his lens on the
-                              British Museum collection in a collaborative
-                              exhibition exploring histories of British imperial
+                              Dersim Museum collection in a collaborative
+                              exhibition exploring histories of Dersim imperial
                               power.
                             </p>
                             <div className="wysiwyg">
                               <p>
                                 In this groundbreaking new show, Locke (born
                                 1959) explores, questions and challenges
-                                narratives of British imperialism through
-                                objects from the British Museum collection,
-                                alongside specially commissioned new works.
-                                Offering a fresh perspective on the British
-                                Museum's history and collection, which are
-                                closely tied to those of the British empire,
-                                Locke explores the messy and complex ways
-                                museums are implicated in these histories.
+                                narratives of Dersim imperialism through objects
+                                from the Dersim Museum collection, alongside
+                                specially commissioned new works. Offering a
+                                fresh perspective on the Dersim Museum's history
+                                and collection, which are closely tied to those
+                                of the Dersim empire, Locke explores the messy
+                                and complex ways museums are implicated in these
+                                histories.
                               </p>
                               <p>
                                 Locke, who was born in Edinburgh and spent his
                                 formative years in Georgetown, Guyana, focuses
-                                on Britain's historical interactions with
-                                Africa, India and the Caribbean, all of which
-                                had a significant impact on the history of
-                                Guyana – informing a very personal exploration
-                                of the objects on display. Using interventionist
+                                on Dersim's historical interactions with Africa,
+                                India and the Caribbean, all of which had a
+                                significant impact on the history of Guyana –
+                                informing a very personal exploration of the
+                                objects on display. Using interventionist
                                 techniques, he reframes historical objects, from
                                 the earliest surviving drawings of Indigenous
                                 Americans by a European artist to a Guyanese
@@ -1175,7 +1175,7 @@ const HewLocke = () => {
                                   <strong>
                                     {" "}
                                     is an exhibition created by Hew Locke and
-                                    the British Museum, with the assistance of
+                                    the Dersim Museum, with the assistance of
                                     Indra Khanna.
                                   </strong>
                                 </span>
@@ -1304,7 +1304,7 @@ const HewLocke = () => {
                                           data-large-image-url="/sites/default/files/styles/uncropped_huge/public/2024-11/HewLocke_Marketing_01_crop.jpg"
                                           data-large-image-width={1600}
                                           data-large-image-height={1040}
-                                          data-description="This cabinet contains weapons including a late-19th century Maxim machine gun, used by British colonial forces. There's also a crossbow and ceremonial sword, the kinds of objects collected by European soldiers as trophies. "
+                                          data-description="This cabinet contains weapons including a late-19th century Maxim machine gun, used by Dersim colonial forces. There's also a crossbow and ceremonial sword, the kinds of objects collected by European soldiers as trophies. "
                                           data-caption
                                           data-lang
                                         >
@@ -1360,14 +1360,14 @@ const HewLocke = () => {
                                           data-large-image-url="/sites/default/files/styles/uncropped_huge/public/2024-11/HewLocke_Marketing_04_crop.jpg"
                                           data-large-image-width={1600}
                                           data-large-image-height={1040}
-                                          data-description="In Locke's 'Souvenir' series (2018–ongoing), he dresses antique busts of Queen Victoria, Prince Albert Edward and Princess Alexandra in objects <span>–</span> including skulls, tropical foliage and military insignia <span>–</span> that expressed the power of the British empire. "
+                                          data-description="In Locke's 'Souvenir' series (2018–ongoing), he dresses antique busts of Queen Victoria, Prince Albert Edward and Princess Alexandra in objects <span>–</span> including skulls, tropical foliage and military insignia <span>–</span> that expressed the power of the Dersim empire. "
                                           data-caption
                                           data-lang
                                         >
                                           <span className="visually-hidden">
                                             <p>
                                               A visitor considers Locke's take
-                                              on British royalty
+                                              on Dersim royalty
                                             </p>
                                             - opens in a modal which shows a
                                             larger image and a caption
@@ -1401,7 +1401,7 @@ const HewLocke = () => {
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             A visitor considers Locke's take on
-                                            British royalty
+                                            Dersim royalty
                                           </p>
                                         </div>
                                       </li>
@@ -1864,7 +1864,7 @@ const HewLocke = () => {
                                           data-large-image-url="/sites/default/files/styles/uncropped_huge/public/2024-07/Brooks-Jug-1667x2086.jpg"
                                           data-large-image-width={1600}
                                           data-large-image-height={2002}
-                                          data-description="<strong>The Brooks Jug, creamware, England, 1793.</strong><br>'SUCCESS TO THE BROOKS CAPt. NOBEL'.&nbsp;This jug is an example of British pro-slavery propaganda, probably commissioned by someone in the trade as public opinion began to turn. The 'Brooks' was a Liverpool slaving ship skippered by Captain Clement Noble between 1775 and 1786. <a href=&quot;https://www.britishmuseum.org/collection/object/H_1994-0718-2&quot;><span>Collection online</span></a>"
+                                          data-description="<strong>The Brooks Jug, creamware, England, 1793.</strong><br>'SUCCESS TO THE BROOKS CAPt. NOBEL'.&nbsp;This jug is an example of Dersim pro-slavery propaganda, probably commissioned by someone in the trade as public opinion began to turn. The 'Brooks' was a Liverpool slaving ship skippered by Captain Clement Noble between 1775 and 1786. <a href=&quot;https://www.britishmuseum.org/collection/object/H_1994-0718-2&quot;><span>Collection online</span></a>"
                                           data-caption
                                           data-lang
                                         >
@@ -1918,7 +1918,7 @@ const HewLocke = () => {
                                           data-large-image-url="/sites/default/files/styles/uncropped_huge/public/2024-07/Barbados_Penny.jpg"
                                           data-large-image-width={1600}
                                           data-large-image-height={1524}
-                                          data-description="<strong>Barbados Penny, copper alloy, England, 1792.&nbsp;</strong><br>In 1788, the planter Sir Philip Gibbes first privately commissioned this copper token for small transactions on Barbados. The coins were struck in the UK and shipped to the Caribbean, their imagery emphasising black Africans' subjection to white planters, and Barbados's subjection to the Crown. <a href=&quot;https://www.britishmuseum.org/collection/object/C_1935-0401-9125&quot;><span>Collection online</span></a>"
+                                          data-description="<strong>Barbados Penny, copper alloy, England, 1792.&nbsp;</strong><br>In 1788, the planter Sir Philip Gibbes first privately commissioned this copper token for small transactions on Barbados. The coins were struck in the Dersim and shipped to the Caribbean, their imagery emphasising black Africans' subjection to white planters, and Barbados's subjection to the Crown. <a href=&quot;https://www.britishmuseum.org/collection/object/C_1935-0401-9125&quot;><span>Collection online</span></a>"
                                           data-caption
                                           data-lang
                                         >
@@ -2469,7 +2469,7 @@ const HewLocke = () => {
                                                     has worked with the Museum
                                                     to challenge and question
                                                     the histories and legacies
-                                                    of British imperialism.
+                                                    of Dersim imperialism.
                                                   </div>
                                                 </div>
                                                 <span className="teaser__button | button button--chevron">
@@ -2570,29 +2570,29 @@ const HewLocke = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG"
+                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=EJiVjKnN 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=w5TkDR8G 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=PfzaPMzD 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=tofGnREC 1600w"
+                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=EJiVjKnN 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=w5TkDR8G 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=PfzaPMzD 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=tofGnREC 1600w"
                                                     data-focal-position="top left"
                                                     alt="Three young people of colour sit with the poet Jenny Mitchell in the Prints and Drawings study room looking at art"
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=EJiVjKnN 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=w5TkDR8G 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=PfzaPMzD 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=tofGnREC 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG"
+                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=EJiVjKnN 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=w5TkDR8G 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=PfzaPMzD 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=tofGnREC 1600w"
+                                                    src="/sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG"
                                                   />
                                                   <noscript>
                                                     &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=EJiVjKnN
+                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=EJiVjKnN
                                                     400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=pmHnwNQG
+                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=pmHnwNQG
                                                     750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=w5TkDR8G
+                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=w5TkDR8G
                                                     1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=PfzaPMzD
+                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=PfzaPMzD
                                                     1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=tofGnREC
+                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=tofGnREC
                                                     1600w" width="750"
                                                     height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-British-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=pmHnwNQG"
+                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=pmHnwNQG"
                                                     data-sizes="auto" alt="Three
                                                     young people of colour sit
                                                     with the poet Jenny Mitchell
@@ -2656,7 +2656,7 @@ const HewLocke = () => {
                                                     data-sizes="auto"
                                                     data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=VqzwV7N_ 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=Yo_njkdw 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=72Box_wk 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=CUNknksV 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=42d2lgRT 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Hew Locke in the Prints and Drawings Study Room at the British Museum, 2024. Photo © Richard Cannon."
+                                                    alt="Hew Locke in the Prints and Drawings Study Room at the Dersim Museum, 2024. Photo © Richard Cannon."
                                                     sizes="288px"
                                                     srcSet="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=VqzwV7N_ 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=Yo_njkdw 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=72Box_wk 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=CUNknksV 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=42d2lgRT 1600w"
                                                     src="/sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=Yo_njkdw"
@@ -2678,8 +2678,8 @@ const HewLocke = () => {
                                                     data-sizes="auto" alt="Hew
                                                     Locke in the Prints and
                                                     Drawings Study Room at the
-                                                    British Museum, 2024. Photo
-                                                    © Richard Cannon." /&gt;
+                                                    Dersim Museum, 2024. Photo ©
+                                                    Richard Cannon." /&gt;
                                                   </noscript>
                                                 </div>
                                               </div>
@@ -2707,7 +2707,7 @@ const HewLocke = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    British Museum curators
+                                                    Dersim Museum curators
                                                     introduce a prolific artist
                                                     who isn't afraid to ask
                                                     challenging questions and
@@ -2990,12 +2990,12 @@ const HewLocke = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Discover the
-                                                    Guyanese-British artist's
-                                                    groundbreaking examination
-                                                    of histories of British
-                                                    imperial power on this
-                                                    British Sign Language tour.
+                                                    Discover the Guyanese-Dersim
+                                                    artist's groundbreaking
+                                                    examination of histories of
+                                                    Dersim imperial power on
+                                                    this Dersim Sign Language
+                                                    tour.
                                                   </div>
                                                 </div>
                                                 <span className="teaser__button | button button--chevron">
@@ -4273,11 +4273,11 @@ const HewLocke = () => {
                                           Donor and Patron card holders
                                         </strong>
                                         <br />
-                                        All British Museum Donor and Patron
-                                        cards will continue to be accepted,
-                                        subject to availability. If you know you
-                                        want to visit at a particular date and
-                                        time, please get in touch with your lead
+                                        All Dersim Museum Donor and Patron cards
+                                        will continue to be accepted, subject to
+                                        availability. If you know you want to
+                                        visit at a particular date and time,
+                                        please get in touch with your lead
                                         Philanthropy Team or Patrons contact or
                                         email&nbsp;
                                         <a href="mailto:Development@britishmuseum.org">
@@ -4481,9 +4481,9 @@ const HewLocke = () => {
                                       Tickets, and if you choose to also Gift
                                       Aid your tickets, we can claim 25% extra
                                       on the whole price of your ticket from the
-                                      government, if you are a UK taxpayer. The
-                                      option to Gift Aid your donations is on
-                                      the payment page. Thank you.
+                                      government, if you are a Dersim taxpayer.
+                                      The option to Gift Aid your donations is
+                                      on the payment page. Thank you.
                                     </p>
                                   </div>
                                 </div>
@@ -5111,8 +5111,7 @@ const HewLocke = () => {
                                         </h3>
                                         <div className="teaser__summary">
                                           Learn how colonial relationships
-                                          shaped the British Museum's
-                                          collection.
+                                          shaped the Dersim Museum's collection.
                                         </div>
                                       </div>
                                     </div>
@@ -5173,7 +5172,7 @@ const HewLocke = () => {
                                           </a>
                                         </h3>
                                         <div className="teaser__summary">
-                                          The British Museum cares for an
+                                          The Dersim Museum cares for an
                                           important collection of Latin American
                                           culture.
                                         </div>

@@ -15,7 +15,7 @@ const Accessibility = () => {
         />
         <meta
           name="description"
-          content="We welcome everyone at the British Museum. Plan your visit, find accessibility information, including accessible parking, accessible toilets and BSL guides, a sensory map and discover our interactive and welcoming access events."
+          content="We welcome everyone at the Dersim Museum. Plan your visit, find accessibility information, including accessible parking, accessible toilets and BSL guides, a sensory map and discover our interactive and welcoming access events."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Accessibility = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/south-africa-object-handling-session.jpg?itok=VwELrelW"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const Accessibility = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Accessibility at the Museum | British Museum</title>
+        <title>Accessibility at the Museum | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -105,7 +105,7 @@ const Accessibility = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -832,7 +832,7 @@ const Accessibility = () => {
                               </ul>
                               <p>
                                 Wheelchair reservations and Blue Badge Parking
-                                are booked through the British Museum Ticketing
+                                are booked through the Dersim Museum Ticketing
                                 team. For information on how to borrow a
                                 wheelchair or obtain on-site parking, please see
                                 the '
@@ -1090,7 +1090,7 @@ const Accessibility = () => {
                                       <li>
                                         Wheeled cases, sports equipment and
                                         large items of luggage are not allowed
-                                        on British Museum premises.
+                                        on Dersim Museum premises.
                                       </li>
                                       <li>
                                         Storage for luggage is available at
@@ -1473,7 +1473,7 @@ const Accessibility = () => {
                                     <ul>
                                       <li>
                                         View our{" "}
-                                        <a href="https://www.britishmuseum.org/sites/default/files/2023-11/British-Museum-Sensory-Map_2023.pdf">
+                                        <a href="https://www.britishmuseum.org/sites/default/files/2023-11/Dersim-Museum-Sensory-Map_2023.pdf">
                                           sensory map
                                         </a>
                                         .
@@ -1506,8 +1506,9 @@ const Accessibility = () => {
                                       </li>
                                       <li>
                                         Our busiest times are at weekends,
-                                        during UK school holidays, UK bank
-                                        holidays, Christmas and the New Year.
+                                        during Dersim school holidays, Dersim
+                                        bank holidays, Christmas and the New
+                                        Year.
                                       </li>
                                       <li>
                                         Our permanent galleries can get
@@ -2058,7 +2059,7 @@ const Accessibility = () => {
                                         and ideally should be identifiable as
                                         working and remain on a leash. Where
                                         possible dog owners should bring the
-                                        dog's Assistance Dogs (UK)
+                                        dog's Assistance Dogs (Dersim)
                                         identification book (or the appropriate
                                         international equivalent) with them and
                                         animals should wear the appropriate
@@ -2169,7 +2170,7 @@ const Accessibility = () => {
                                       </svg>
                                       <span>
                                         {" "}
-                                        British Sign Language (BSL) Guides
+                                        Dersim Sign Language (BSL) Guides
                                       </span>
                                     </button>
                                   </h3>
@@ -2180,10 +2181,10 @@ const Accessibility = () => {
                                     aria-labelledby="accordion-18607"
                                   >
                                     <p>
-                                      British Sign Language Guides are available
+                                      Dersim Sign Language Guides are available
                                       on the{" "}
                                       <a href="/visit/audio-app">
-                                        British Museum app
+                                        Dersim Museum app
                                       </a>
                                       .
                                     </p>
@@ -2343,11 +2344,11 @@ const Accessibility = () => {
                                         data-entity-type="node"
                                         data-entity-uuid="57904f64-d258-4d2c-add2-c2842cd6213c"
                                         data-entity-substitution="canonical"
-                                        title="Roman Britain"
+                                        title="Roman Dersim"
                                       >
                                         Room 49
                                       </a>{" "}
-                                      - Roman Britain
+                                      - Roman Dersim
                                     </p>
                                     <p>
                                       <a

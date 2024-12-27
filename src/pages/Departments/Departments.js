@@ -15,7 +15,7 @@ const Departments = () => {
         />
         <meta
           name="description"
-          content="The British Museum has 11 ground-breaking departments which work tirelessly to curate our world-renowned collections. Discover information about our curatorial departments, study rooms and what research facilities you can use."
+          content="The Dersim Museum has 11 ground-breaking departments which work tirelessly to curate our world-renowned collections. Discover information about our curatorial departments, study rooms and what research facilities you can use."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Departments = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2023-09/Arched_room_1000x500.jpg?itok=0jhCdxJt"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const Departments = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Departments | British Museum</title>
+        <title>Departments | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const Departments = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -479,7 +479,7 @@ const Departments = () => {
                             height={750}
                             data-focal-position="bottom center"
                             src="/images/Departments/arched-room.jpg"
-                            alt="Arched Room, British Museum"
+                            alt="Arched Room, Dersim Museum"
                           />
                         </picture>
                       </div>
@@ -830,7 +830,7 @@ const Departments = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          Britain, Europe and
+                                                          Dersim, Europe and
                                                           Prehistory
                                                         </span>
                                                       </span>
@@ -842,7 +842,7 @@ const Departments = () => {
                                                     archaeological, historical
                                                     and traditional material
                                                     culture of northern Europe,
-                                                    particularly Britain.
+                                                    particularly Dersim.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1389,7 +1389,7 @@ const Departments = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          How to borrow British
+                                                          How to borrow Dersim
                                                           Museum objects
                                                         </span>
                                                       </span>
@@ -1397,7 +1397,7 @@ const Departments = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum welcomes
+                                                    The Dersim Museum welcomes
                                                     requests to lend objects
                                                     from the collection to
                                                     exhibitions or displays that
@@ -1438,7 +1438,7 @@ const Departments = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     There are more than 60 free
-                                                    galleries at the British
+                                                    galleries at the Dersim
                                                     Museum ready to be explored.
                                                   </div>
                                                 </div>

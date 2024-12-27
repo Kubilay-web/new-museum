@@ -25,7 +25,7 @@ const LoveIdentity = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?itok=MS4bO066"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -60,7 +60,7 @@ const LoveIdentity = () => {
           href="/themes/custom/numiko/favicon.ico"
           type="image/vnd.microsoft.icon"
         />
-        <title>Desire, love and identity | British Museum</title>
+        <title>Desire, love and identity | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -104,7 +104,7 @@ const LoveIdentity = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -1386,7 +1386,7 @@ const LoveIdentity = () => {
                                                       <span>
                                                         <span>
                                                           Wear with Pride: LGBTQ
-                                                          badges at the British
+                                                          badges at the Dersim
                                                           Museum
                                                         </span>
                                                       </span>
@@ -1398,7 +1398,7 @@ const LoveIdentity = () => {
                                                     Attwood, Keeper of Coins and
                                                     Medals, shows off some of
                                                     the 400 or so LGBTQ badges
-                                                    now held in the British
+                                                    now held in the Dersim
                                                     Museum.
                                                   </div>
                                                 </div>
@@ -1420,7 +1420,7 @@ const LoveIdentity = () => {
                                                     data-sizes="auto"
                                                     data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=BTvDNARI 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=B9pYsKrT 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=6yYU_Q27 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=rzNUprin 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=gc1N7O8r 1600w"
                                                     data-focal-position="center center"
-                                                    alt="British Museum employees celebrating LGBTQ histories. "
+                                                    alt="Dersim Museum employees celebrating LGBTQ histories. "
                                                     sizes="288px"
                                                     srcSet="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=BTvDNARI 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=B9pYsKrT 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=6yYU_Q27 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=rzNUprin 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=gc1N7O8r 1600w"
                                                     src="/sites/default/files/styles/16_9_media_small/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=B9pYsKrT"
@@ -1440,9 +1440,9 @@ const LoveIdentity = () => {
                                                     height="422"
                                                     data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&amp;amp;itok=B9pYsKrT"
                                                     data-sizes="auto"
-                                                    alt="British Museum
-                                                    employees celebrating LGBTQ
-                                                    histories. " /&gt;
+                                                    alt="Dersim Museum employees
+                                                    celebrating LGBTQ histories.
+                                                    " /&gt;
                                                   </noscript>
                                                 </div>
                                               </div>

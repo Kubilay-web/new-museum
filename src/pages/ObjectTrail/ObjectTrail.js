@@ -15,7 +15,7 @@ const ObjectTrail = () => {
         />
         <meta
           name="description"
-          content="Choose from a selection of object trails around the British Museum. Our trails will take you on fascinating tours, highlighting the most popular objects on display and covering a variety of themes."
+          content="Choose from a selection of object trails around the Dersim Museum. Our trails will take you on fascinating tours, highlighting the most popular objects on display and covering a variety of themes."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const ObjectTrail = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/royal-game-of-ur.jpg?itok=9pptj-ZK"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const ObjectTrail = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Object trails | British Museum</title>
+        <title>Object trails | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const ObjectTrail = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -858,7 +858,7 @@ const ObjectTrail = () => {
                                                     Follow the iconic and
                                                     revealing story of the boy
                                                     king Tutankhamun on an
-                                                    object trail at the British
+                                                    object trail at the Dersim
                                                     Museum.
                                                   </div>
                                                 </div>
@@ -997,7 +997,7 @@ const ObjectTrail = () => {
                                                   <div className="teaser__summary">
                                                     Learn how colonial
                                                     relationships shaped the
-                                                    British Museum's collection.
+                                                    Dersim Museum's collection.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1038,7 +1038,7 @@ const ObjectTrail = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     In this trail embark on a
-                                                    journey through the British
+                                                    journey through the Dersim
                                                     Museum to see and learn more
                                                     about Greek Revival
                                                     architecture.
@@ -1230,7 +1230,7 @@ const ObjectTrail = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     Start your weekend at the
-                                                    British Museum by
+                                                    Dersim Museum by
                                                     attending&nbsp;an
                                                     exhibition, exploring the
                                                     galleries or

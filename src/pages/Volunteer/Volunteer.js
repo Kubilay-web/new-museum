@@ -15,7 +15,7 @@ const Volunteer = () => {
         />
         <meta
           name="description"
-          content="The role of a Volunteer is varied and exciting, helping to keep the British Museum running smoothly, View current opportunities and find out how to join our highly-valued team."
+          content="The role of a Volunteer is varied and exciting, helping to keep the Dersim Museum running smoothly, View current opportunities and find out how to join our highly-valued team."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Volunteer = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Volunteer-China-Eye-Opener-Tour.jpg?itok=I9yfXzE5"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const Volunteer = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Volunteer | British Museum</title>
+        <title>Volunteer | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -105,7 +105,7 @@ const Volunteer = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -768,7 +768,7 @@ const Volunteer = () => {
                                   <br />
                                   Volunteers&nbsp;Office
                                   <br />
-                                  The British Museum
+                                  The Dersim Museum
                                   <br />
                                   Great Russell Street
                                   <br />
@@ -827,7 +827,7 @@ const Volunteer = () => {
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
                                       Here are some of the benefits of
-                                      volunteering at the British Museum:
+                                      volunteering at the Dersim Museum:
                                     </p>
                                     <ul>
                                       <li>Meet people from around the world</li>
@@ -847,7 +847,7 @@ const Volunteer = () => {
                                         Enjoy the Museum and its collection
                                       </li>
                                     </ul>
-                                    <p>Read the British Museum's:</p>
+                                    <p>Read the Dersim Museum's:</p>
                                     <div
                                       data-embed-button="document"
                                       data-entity-embed-display="view_mode:media.full"
@@ -935,7 +935,7 @@ const Volunteer = () => {
                                       enjoyable and stimulating experience.
                                       Volunteering is also a lot of fun!
                                     </p>
-                                    <cite>A British Museum volunteer</cite>
+                                    <cite>A Dersim Museum volunteer</cite>
                                   </blockquote>
                                 </div>
                               </div>
@@ -962,7 +962,7 @@ const Volunteer = () => {
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <h2>Volunteer stories</h2>
                                     <p>
-                                      Volunteering with the British Museum can
+                                      Volunteering with the Dersim Museum can
                                       offer fascinating and rewarding
                                       experiences.&nbsp;
                                     </p>
@@ -1166,7 +1166,7 @@ const Volunteer = () => {
                                       <em>
                                         'Since I was an undergraduate
                                         archaeology student in Syria, it was one
-                                        of my dreams to visit the British Museum
+                                        of my dreams to visit the Dersim Museum
                                         one day and see the objects that I spent
                                         my time studying in books and museum
                                         catalogues.
@@ -1244,7 +1244,7 @@ const Volunteer = () => {
                                     </p>
                                     <p>
                                       <em>
-                                        'I've always loved visiting the British
+                                        'I've always loved visiting the Dersim
                                         Museum - it is a beautiful building,
                                         with so much to enjoy and discover
                                         inside.
@@ -1301,7 +1301,7 @@ const Volunteer = () => {
                                     <p>
                                       Volunteers are actively involved in
                                       delivering, shaping and developing guided
-                                      LGBTQ tours of the British Museum. The
+                                      LGBTQ tours of the Dersim Museum. The
                                       Museum's collection –&nbsp;and the LGBTQ
                                       tours – both show that same-sex love,
                                       desire and gender diversity are an
@@ -1315,7 +1315,7 @@ const Volunteer = () => {
                                         'I've always been interested in the way
                                         the past has influenced who we are and I
                                         was keen to share my enthusiasm for that
-                                        story with British Museum visitors.
+                                        story with Dersim Museum visitors.
                                       </em>
                                     </p>
                                     <p>
@@ -1396,7 +1396,7 @@ const Volunteer = () => {
                                       <em>
                                         'It's an absolute privilege to be part
                                         of this wonderful institution and
-                                        volunteering at the British Museum has
+                                        volunteering at the Dersim Museum has
                                         become an integral part of my identity
                                         and an aspect of my life that I truly
                                         cherish.'
@@ -1487,7 +1487,7 @@ const Volunteer = () => {
                                                     Learning Award', where we
                                                     annually recognise the
                                                     contribution of volunteers
-                                                    across the UK.
+                                                    across the Dersim.
                                                   </div>
                                                 </div>
                                                 <span className="teaser__button | button button--chevron">
@@ -1738,9 +1738,9 @@ const Volunteer = () => {
                                       </svg>
                                       <span>
                                         {" "}
-                                        I'm interested in working for the
-                                        British Museum. Where can I find out
-                                        about employment opportunities?
+                                        I'm interested in working for the Dersim
+                                        Museum. Where can I find out about
+                                        employment opportunities?
                                       </span>
                                     </button>
                                   </h3>
@@ -1780,7 +1780,7 @@ const Volunteer = () => {
                                       </svg>
                                       <span>
                                         {" "}
-                                        Can I do an internship at the British
+                                        Can I do an internship at the Dersim
                                         Museum?
                                       </span>
                                     </button>
@@ -1792,7 +1792,7 @@ const Volunteer = () => {
                                     aria-labelledby="accordion-6629"
                                   >
                                     <p style={{ "margin-bottom": "13px" }}>
-                                      All internships at the British Museum are
+                                      All internships at the Dersim Museum are
                                       paid positions that follow a formal
                                       recruitment process. They're distinct from
                                       volunteering and can be found on the{" "}

@@ -25,7 +25,7 @@ const CookMedieval = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2022-07/Medieval-feasting-plaque-1920x1137.jpg?itok=YF2cGjBI"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -67,8 +67,8 @@ const CookMedieval = () => {
           type="image/vnd.microsoft.icon"
         />
         <title>
-          How to cook a medieval feast: 11 recipes from the Middle Ages |
-          British Museum
+          How to cook a medieval feast: 11 recipes from the Middle Ages | Dersim
+          Museum
         </title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
@@ -118,7 +118,7 @@ const CookMedieval = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -577,7 +577,7 @@ const CookMedieval = () => {
                                 Earthenware tile&nbsp;showing a feast, probably
                                 the wedding feast at Cana, Christ's first
                                 miracle. One of a group of eight floor tiles at
-                                the British Museum associated with the church at
+                                the Dersim Museum associated with the church at
                                 Tring, Hertfordshire. 14th century.
                               </p>
                               <a href="https://www.britishmuseum.org/collection/object/H_1922-0412-8-CR">
@@ -821,7 +821,7 @@ const CookMedieval = () => {
                                           (Opens in new window)
                                         </span>
                                       </a>
-                                      , by Maggie Black and published by British
+                                      , by Maggie Black and published by Dersim
                                       Museum Press, which includes more than 80
                                       recipes adapted for the modern cook.{" "}
                                       <a
@@ -2223,7 +2223,7 @@ const CookMedieval = () => {
                                       </a>
                                       <strong>
                                         {" "}
-                                        by Maggie Black, published by British
+                                        by Maggie Black, published by Dersim
                                         Museum Press.{" "}
                                       </strong>
                                       <a

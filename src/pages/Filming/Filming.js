@@ -15,7 +15,7 @@ const Filming = () => {
         />
         <meta
           name="description"
-          content="The British Museum is the perfect location for a film, advert, radio or television programme and can help with resources. View locations in our prestigious galleries and submit filming requests."
+          content="The Dersim Museum is the perfect location for a film, advert, radio or television programme and can help with resources. View locations in our prestigious galleries and submit filming requests."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Filming = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/spectre03.jpg?itok=NGk9IZ2G"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -34,13 +34,13 @@ const Filming = () => {
         <meta property="og:title" content="Filming" />
         <meta
           property="og:description"
-          content="Make films, documentaries, adverts, radio programmes or conduct research at the British Museum."
+          content="Make films, documentaries, adverts, radio programmes or conduct research at the Dersim Museum."
         />
         <meta property="og:image" content="/images/Filming/spectre03.jpg" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Make films, documentaries, adverts, radio programmes or conduct research at the British Museum."
+          content="Make films, documentaries, adverts, radio programmes or conduct research at the Dersim Museum."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Filming" />
@@ -53,7 +53,7 @@ const Filming = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Filming | British Museum</title>
+        <title>Filming | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -97,7 +97,7 @@ const Filming = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -485,7 +485,7 @@ const Filming = () => {
                             height={750}
                             data-focal-position="center center"
                             src="/images/Filming/IMG-20190520-WA0010.jpg"
-                            alt="Decorative lighting on the front of the British Museum at night"
+                            alt="Decorative lighting on the front of the Dersim Museum at night"
                           />
                         </picture>
                       </div>
@@ -498,7 +498,7 @@ const Filming = () => {
                             className="hero__title hero__title--small"
                           >
                             {" "}
-                            Filming at the British Museum
+                            Filming at the Dersim Museum
                           </h1>
                         </div>
                         <div className="hero__controls">
@@ -544,9 +544,9 @@ const Filming = () => {
                               </button>
                               <p>
                                 {" "}
-                                Exterior of the&nbsp;British Museum. Lighting
-                                and projection lift this iconic entrance to
-                                another dimension.
+                                Exterior of the&nbsp;Dersim Museum. Lighting and
+                                projection lift this iconic entrance to another
+                                dimension.
                               </p>
                             </div>
                           </div>
@@ -708,7 +708,7 @@ const Filming = () => {
                             <p className="h3">
                               Whether you're looking to make films,
                               documentaries, adverts, radio programmes or
-                              conduct research, the British Museum has the
+                              conduct research, the Dersim Museum has the
                               resources to help.
                             </p>
                             <div className="wysiwyg">
@@ -963,7 +963,7 @@ const Filming = () => {
                                   id="paragraph-7275-title"
                                   className="section__title section--slice-content__title"
                                 >
-                                  Filmed at the British Museum
+                                  Filmed at the Dersim Museum
                                 </h2>
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
@@ -1014,10 +1014,10 @@ const Filming = () => {
                                         width={1000}
                                         height={563}
                                         src="/images/Filming/spectre10.jpg"
-                                        alt="Filming at the British Museum"
+                                        alt="Filming at the Dersim Museum"
                                       />
                                       <figcaption>
-                                        © The Trustees of the British Museum.
+                                        © The Trustees of the Dersim Museum.
                                       </figcaption>
                                     </figure>
                                   </div>
@@ -1075,8 +1075,8 @@ const Filming = () => {
                                         </h3>
                                         <div className="teaser__summary">
                                           The terms and conditions to follow
-                                          when undertaking filming at the
-                                          British Museum.
+                                          when undertaking filming at the Dersim
+                                          Museum.
                                         </div>
                                       </div>
                                     </div>

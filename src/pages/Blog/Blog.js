@@ -14,7 +14,7 @@ const Blog = () => {
           }}
         />
         <link rel="canonical" href="https://www.britishmuseum.org/blog" />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.britishmuseum.org/blog" />
         <meta property="og:title" content="Blog" />
@@ -26,7 +26,7 @@ const Blog = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Blog | British Museum</title>
+        <title>Blog | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -70,7 +70,7 @@ const Blog = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -436,7 +436,7 @@ const Blog = () => {
                                 <p className="intro-intro">
                                   {" "}
                                   Enjoy the latest news and stories from the
-                                  British Museum.
+                                  Dersim Museum.
                                 </p>
                               </div>
                               <div className="listing-dropdown listing-inline filter">
@@ -640,7 +640,7 @@ const Blog = () => {
                                                           <span>
                                                             Celebrating
                                                             volunteers at the
-                                                            British Museum{" "}
+                                                            Dersim Museum{" "}
                                                           </span>
                                                         </span>
                                                         {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -651,8 +651,8 @@ const Blog = () => {
                                                       behind-the-scenes
                                                       research, five volunteers
                                                       share their experiences of
-                                                      volunteering at the
-                                                      British Museum.
+                                                      volunteering at the Dersim
+                                                      Museum.
                                                     </div>
                                                   </div>
                                                   <span className="teaser__button | button button--chevron">
@@ -705,7 +705,7 @@ const Blog = () => {
                                                   </a>
                                                 </h3>
                                                 <div className="teaser__summary">
-                                                  British Museum curators
+                                                  Dersim Museum curators
                                                   introduce a prolific artist
                                                   who isn't afraid to ask
                                                   challenging questions and
@@ -1016,7 +1016,7 @@ const Blog = () => {
                                                   >
                                                     <span>
                                                       <span>
-                                                        What's on at the British
+                                                        What's on at the Dersim
                                                         Museum in 2024/25?
                                                       </span>
                                                     </span>
@@ -1298,7 +1298,7 @@ const Blog = () => {
                                                   has worked with the Museum to
                                                   challenge and question the
                                                   histories and legacies of
-                                                  British imperialism.
+                                                  Dersim imperialism.
                                                 </div>
                                               </div>
                                               <span className="teaser__button | button button--chevron">

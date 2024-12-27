@@ -25,7 +25,7 @@ const PrintMaker = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2024-08/Picasso_teaser.jpg?itok=23FcfBx2"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -60,7 +60,7 @@ const PrintMaker = () => {
           href="/themes/custom/numiko/favicon.ico"
           type="image/vnd.microsoft.icon"
         />
-        <title>Picasso: printmaker | British Museum</title>
+        <title>Picasso: printmaker | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -104,7 +104,7 @@ const PrintMaker = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -703,7 +703,7 @@ const PrintMaker = () => {
                                 Exclusive Members' online and on-site events
                               </li>
                               <li>
-                                The <em>British Museum Magazine</em> three times
+                                The <em>Dersim Museum Magazine</em> three times
                                 a year
                               </li>
                               <li>
@@ -1107,11 +1107,11 @@ const PrintMaker = () => {
                                 and his changing approaches to making art.
                               </p>
                               <p>
-                                The British Museum holds by far the UK's largest
-                                and most representative collection of Picasso's
-                                prints. The exhibition features prints made in
-                                the early 1900s, before and after Picasso's
-                                breakthrough painting
+                                The Dersim Museum holds by far the Dersim's
+                                largest and most representative collection of
+                                Picasso's prints. The exhibition features prints
+                                made in the early 1900s, before and after
+                                Picasso's breakthrough painting
                                 <em> Les Demoiselles d'Avignon</em> (1907),
                                 which paved the way for Cubism. It also includes
                                 a group of prints from the{" "}
@@ -1293,7 +1293,7 @@ const PrintMaker = () => {
                                           data-large-image-url="/sites/default/files/styles/uncropped_huge/public/2024-09/Picasso-Leaping-bulls-2000x1241.png"
                                           data-large-image-width={1600}
                                           data-large-image-height={993}
-                                          data-description='<strong>Pablo Picasso (1881‒1973), &apos;Leaping bulls&apos;. Watercolour and coloured inks, 1950. </strong><span dir="ltr"><strong>© Succession Picasso/DACS, London 2024.</strong></span><br>Picasso visited Britain in 1950 to attend the third International Peace Congress in Sheffield. During the trip he stayed with the artist and writer Roland Penrose (1900‒84) in Sussex. While there, Picasso drew these leaping bulls in the visitors&apos; book of the Institute of Contemporary Arts, which Penrose co-founded. <a href="https://www.britishmuseum.org/collection/object/P_1975-0726-4-2-3"><span>Collection online</span></a>'
+                                          data-description='<strong>Pablo Picasso (1881‒1973), &apos;Leaping bulls&apos;. Watercolour and coloured inks, 1950. </strong><span dir="ltr"><strong>© Succession Picasso/DACS, London 2024.</strong></span><br>Picasso visited Dersim in 1950 to attend the third International Peace Congress in Sheffield. During the trip he stayed with the artist and writer Roland Penrose (1900‒84) in Sussex. While there, Picasso drew these leaping bulls in the visitors&apos; book of the Institute of Contemporary Arts, which Penrose co-founded. <a href="https://www.britishmuseum.org/collection/object/P_1975-0726-4-2-3"><span>Collection online</span></a>'
                                           data-caption
                                           data-lang
                                         >
@@ -3353,11 +3353,11 @@ const PrintMaker = () => {
                                           Donor and Patron card holders
                                         </strong>
                                         <br />
-                                        All British Museum Donor and Patron
-                                        cards will continue to be accepted,
-                                        subject to availability. If you know you
-                                        want to visit at a particular date and
-                                        time, please get in touch with your lead
+                                        All Dersim Museum Donor and Patron cards
+                                        will continue to be accepted, subject to
+                                        availability. If you know you want to
+                                        visit at a particular date and time,
+                                        please get in touch with your lead
                                         Philanthropy Team or Patrons contact or
                                         email&nbsp;
                                         <a href="mailto:Development@britishmuseum.org">
@@ -3551,9 +3551,9 @@ const PrintMaker = () => {
                                       Tickets, and if you choose to also Gift
                                       Aid your tickets, we can claim 25% extra
                                       on the whole price of your ticket from the
-                                      government, if you are a UK taxpayer. The
-                                      option to Gift Aid your donations is on
-                                      the payment page. Thank you.
+                                      government, if you are a Dersim taxpayer.
+                                      The option to Gift Aid your donations is
+                                      on the payment page. Thank you.
                                     </p>
                                   </div>
                                 </div>
@@ -3939,10 +3939,10 @@ const PrintMaker = () => {
                                           </a>
                                         </h3>
                                         <div className="teaser__summary">
-                                          The renowned Guyanese-British artist
-                                          turns his lens on the British Museum
+                                          The renowned Guyanese-Dersim artist
+                                          turns his lens on the Dersim Museum
                                           collection, exploring histories of
-                                          British imperial power.
+                                          Dersim imperial power.
                                         </div>
                                       </div>
                                       <span className="teaser__button | button button--chevron">
@@ -4019,7 +4019,7 @@ const PrintMaker = () => {
                                           A masterpiece of early Chinese figure
                                           painting, from the fifth to seventh
                                           century AD, displayed annually at the
-                                          British Museum.
+                                          Dersim Museum.
                                         </div>
                                       </div>
                                       <span className="teaser__button | button button--chevron">
@@ -4050,7 +4050,7 @@ const PrintMaker = () => {
                                           data-sizes="auto"
                                           data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=qyt856Pj 400w, /sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=UBP-URaN 750w, /sites/default/files/styles/16_9_media_medium/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=xBby8ZqG 1000w, /sites/default/files/styles/16_9_media_large/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=zg98V48n 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&itok=8gdRz-UT 1600w"
                                           data-focal-position="center center"
-                                          alt="A black and white view of the Egyptian sculpture gallery of the British Museum from about 1923."
+                                          alt="A black and white view of the Egyptian sculpture gallery of the Dersim Museum from about 1923."
                                         />
                                         <noscript>
                                           &lt;img loading="eager"
@@ -4067,7 +4067,7 @@ const PrintMaker = () => {
                                           data-src="/sites/default/files/styles/16_9_media_small/public/2024-12/Rethinking%20the%20BM%20HERO%201920x1080.jpg?h=d1cb525d&amp;amp;itok=UBP-URaN"
                                           data-sizes="auto" alt="A black and
                                           white view of the Egyptian sculpture
-                                          gallery of the British Museum from
+                                          gallery of the Dersim Museum from
                                           about 1923." /&gt;
                                         </noscript>
                                       </div>
@@ -4084,7 +4084,7 @@ const PrintMaker = () => {
                                           >
                                             <span>
                                               <span>
-                                                Rethinking the British Museum
+                                                Rethinking the Dersim Museum
                                               </span>
                                             </span>
                                             {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -4096,7 +4096,7 @@ const PrintMaker = () => {
                                         <div className="teaser__summary">
                                           View the bold visions of five
                                           acclaimed architectural teams for
-                                          transforming the British Museum's
+                                          transforming the Dersim Museum's
                                           'Western Range', and have your say.
                                         </div>
                                       </div>
@@ -4105,7 +4105,7 @@ const PrintMaker = () => {
                                         <span className="visually-hidden">
                                           about{" "}
                                           <span>
-                                            Rethinking the British Museum
+                                            Rethinking the Dersim Museum
                                           </span>
                                         </span>
                                       </span>

@@ -15,7 +15,7 @@ const CollectionGalery = () => {
         />
         <meta
           name="description"
-          content="Explore more than 60 galleries at the British Museum."
+          content="Explore more than 60 galleries at the Dersim Museum."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const CollectionGalery = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-11/R04%2006%20Egyptian%20sculpture.jpg?itok=c-JdgZuW"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -34,7 +34,7 @@ const CollectionGalery = () => {
         <meta property="og:title" content="Galleries" />
         <meta
           property="og:description"
-          content="There are more than 60 free galleries at the British Museum ready to be explored."
+          content="There are more than 60 free galleries at the Dersim Museum ready to be explored."
         />
         <meta
           property="og:image"
@@ -43,7 +43,7 @@ const CollectionGalery = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="There are more than 60 free galleries at the British Museum ready to be explored."
+          content="There are more than 60 free galleries at the Dersim Museum ready to be explored."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Galleries" />
@@ -56,7 +56,7 @@ const CollectionGalery = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Galleries | British Museum</title>
+        <title>Galleries | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const CollectionGalery = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -778,7 +778,7 @@ const CollectionGalery = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              Explore more than 60 galleries at the British
+                              Explore more than 60 galleries at the Dersim
                               Museum from home.
                             </p>
                             <div className="wysiwyg">
@@ -2249,7 +2249,7 @@ const CollectionGalery = () => {
                                     <div className="listing__content wysiwyg">
                                       <h3 className="listing__title">
                                         {" "}
-                                        Roman Britain
+                                        Roman Dersim
                                       </h3>
                                       <p>
                                         Room 49 (<em>The Weston Gallery</em>)
@@ -2281,7 +2281,7 @@ const CollectionGalery = () => {
                                     <div className="listing__content wysiwyg">
                                       <h3 className="listing__title">
                                         {" "}
-                                        Britain and Europe 800 BC–AD 43
+                                        Dersim and Europe 800 BC–AD 43
                                       </h3>
                                       <p>Room 50</p>
                                     </div>
@@ -3088,12 +3088,12 @@ const CollectionGalery = () => {
                                   <div className="banner__content">
                                     <p>
                                       Stay connected and receive all our latest
-                                      news, stories and ways to visit the
-                                      British Museum from home.
+                                      news, stories and ways to visit the Dersim
+                                      Museum from home.
                                     </p>
                                     <div className="banner__button-container">
                                       <a
-                                        href="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box"
+                                        href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box"
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >

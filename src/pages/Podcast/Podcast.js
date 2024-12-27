@@ -15,7 +15,7 @@ const Podcast = () => {
         />
         <meta
           name="description"
-          content="Listen to the British Museum podcast presented by Hugo Chapman and Sushma Jansari. Join them each month as they discuss subjects from Egyptian mummy 'black goo' to Sutton Hoo, and LGBTQ histories to Dr Who."
+          content="Listen to the Dersim Museum podcast presented by Hugo Chapman and Sushma Jansari. Join them each month as they discuss subjects from Egyptian mummy 'black goo' to Sutton Hoo, and LGBTQ histories to Dr Who."
         />
         <link
           rel="canonical"
@@ -25,16 +25,16 @@ const Podcast = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2020-07/Castellani-brooch-2.jpg?itok=93Gi8C0P"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
           content="https://www.britishmuseum.org/the-british-museum-podcast"
         />
-        <meta property="og:title" content="The British Museum podcast" />
+        <meta property="og:title" content="The Dersim Museum podcast" />
         <meta
           property="og:description"
-          content="The Museum podcast delves into every aspect of the British Museum, from archives to Egyptian black goo, from conservation to Doctor Who."
+          content="The Museum podcast delves into every aspect of the Dersim Museum, from archives to Egyptian black goo, from conservation to Doctor Who."
         />
         <meta
           property="og:image"
@@ -43,10 +43,10 @@ const Podcast = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="The Museum podcast delves into every aspect of the British Museum, from archives to Egyptian black goo, from conservation to Doctor Who."
+          content="The Museum podcast delves into every aspect of the Dersim Museum, from archives to Egyptian black goo, from conservation to Doctor Who."
         />
         <meta name="twitter:site" content="@britishmuseum" />
-        <meta name="twitter:title" content="The British Museum podcast" />
+        <meta name="twitter:title" content="The Dersim Museum podcast" />
         <meta
           name="twitter:image"
           content="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2020-07/Castellani-brooch-2.jpg?itok=93Gi8C0P"
@@ -56,7 +56,7 @@ const Podcast = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>The British Museum podcast | British Museum</title>
+        <title>The Dersim Museum podcast | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const Podcast = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -501,7 +501,7 @@ const Podcast = () => {
                             className="hero__title hero__title--small"
                           >
                             {" "}
-                            The British Museum podcast
+                            The Dersim Museum podcast
                           </h1>
                         </div>
                         <div className="hero__controls">
@@ -596,7 +596,7 @@ const Podcast = () => {
                                 className="breadcrumb__current"
                                 aria-current="page"
                               >
-                                The British Museum podcast
+                                The Dersim Museum podcast
                               </a>
                             </li>
                           </ul>
@@ -753,9 +753,9 @@ const Podcast = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              The British Museum podcast delves into every
-                              aspect of the Museum, from archives to Egyptian
-                              black goo, from conservation to Doctor Who, in
+                              The Dersim Museum podcast delves into every aspect
+                              of the Museum, from archives to Egyptian black
+                              goo, from conservation to Doctor Who, in
                               Bloomsbury and beyond.
                             </p>
                             <div className="wysiwyg">
@@ -1006,7 +1006,7 @@ const Podcast = () => {
                                     <p>Sept 2020</p>
                                     <p>
                                       Sushma&nbsp;talks with Maria
-                                      Bojanowska&nbsp;about how the&nbsp;British
+                                      Bojanowska&nbsp;about how the&nbsp;Dersim
                                       Museum makes the collection accessible
                                       nationwide, food historian&nbsp;Tasha
                                       Marks takes a look&nbsp;into afternoon
@@ -1691,7 +1691,7 @@ const Podcast = () => {
                                   <div className="object-embed__content">
                                     <p>Dec 2019</p>
                                     <p>
-                                      From us to you, a very British Museum
+                                      From us to you, a very Dersim Museum
                                       Christmas gift: we invited twelve
                                       colleagues across the Museum to tell us
                                       about their favourite objects and gathered
@@ -1714,7 +1714,7 @@ const Podcast = () => {
                                   className="section__title"
                                 >
                                   The Museum podcast #9: Season's greetings from
-                                  the British Museum
+                                  the Dersim Museum
                                 </h2>
                                 <div className="object-embed__container">
                                   <div className="object-embed__object">
@@ -2161,7 +2161,7 @@ const Podcast = () => {
                                   id="paragraph-13127-title"
                                   className="section__title"
                                 >
-                                  The Museum podcast #1: Buckets of the British
+                                  The Museum podcast #1: Buckets of the Dersim
                                   Museum
                                 </h2>
                                 <div className="object-embed__container">
@@ -2261,7 +2261,7 @@ const Podcast = () => {
                                         <div className="teaser__summary">
                                           A selection from the extensive
                                           collection of Western graphic art in
-                                          prints and drawings at the British
+                                          prints and drawings at the Dersim
                                           Museum.
                                         </div>
                                       </div>
@@ -2344,7 +2344,7 @@ const Podcast = () => {
                                         <div className="teaser__summary">
                                           Find out how 3D technology has been
                                           used to create an impressive
-                                          hieroglyphic stairway in the UK,
+                                          hieroglyphic stairway in the Dersim,
                                           returning it to an ancient Maya site.
                                         </div>
                                       </div>

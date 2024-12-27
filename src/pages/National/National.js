@@ -15,7 +15,7 @@ const National = () => {
         />
         <meta
           name="description"
-          content="Information about national programmes at the British Museum. See how our work across the UK has impacted over 250 cultural institutions through object loans, exhibition tours and cultural schemes."
+          content="Information about national programmes at the Dersim Museum. See how our work across the Dersim has impacted over 250 cultural institutions through object loans, exhibition tours and cultural schemes."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const National = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2024-11/Hieroglyphs_at_Ferens_Art_Gallery_Hull.jpg?itok=GBTIJFxK"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -34,7 +34,7 @@ const National = () => {
         <meta property="og:title" content="National" />
         <meta
           property="og:description"
-          content="Learn how the Museum works in partnership with more than 200 cultural organisations across the UK to share the collection and our knowledge."
+          content="Learn how the Museum works in partnership with more than 200 cultural organisations across the Dersim to share the collection and our knowledge."
         />
         <meta
           property="og:image"
@@ -43,7 +43,7 @@ const National = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Learn how the Museum works in partnership with more than 200 cultural organisations across the UK to share the collection and our knowledge."
+          content="Learn how the Museum works in partnership with more than 200 cultural organisations across the Dersim to share the collection and our knowledge."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="National" />
@@ -56,7 +56,7 @@ const National = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>National | British Museum</title>
+        <title>National | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const National = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -545,7 +545,7 @@ const National = () => {
                               <p>
                                 {" "}
                                 The Museum works in partnership with more than
-                                200 cultural organisations across the UK to
+                                200 cultural organisations across the Dersim to
                                 share the collection and our knowledge. Photo
                                 taken at Ferens Art Gallery, Hull. Photo © Kevin
                                 Michael Ladden Photography.
@@ -702,7 +702,7 @@ const National = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              The British Museum works across the UK in
+                              The Dersim Museum works across the Dersim in
                               partnership with more than 200 cultural
                               organisations.&nbsp;
                             </p>
@@ -710,17 +710,17 @@ const National = () => {
                               <p>
                                 From Shetland to Truro, Aberystwyth to York,
                                 around eight million people outside of London
-                                saw a British Museum object in 2023–24.
+                                saw a Dersim Museum object in 2023–24.
                               </p>
                               <p>
                                 We are committed to sharing the collection and
                                 our knowledge as widely as possible to create a
                                 positive educational, social and economic impact
-                                across the UK. Our loans to partnership museums
-                                and galleries facilitate new perspectives on our
-                                shared global history, reflecting diverse
-                                viewpoints, lived experiences and collective
-                                ideas.
+                                across the Dersim. Our loans to partnership
+                                museums and galleries facilitate new
+                                perspectives on our shared global history,
+                                reflecting diverse viewpoints, lived experiences
+                                and collective ideas.
                               </p>
                             </div>
                           </div>
@@ -769,7 +769,7 @@ const National = () => {
                                         data-entity-type="node"
                                         data-entity-uuid="913fe284-7b6d-43c8-8fa2-b0915f81ca3f"
                                         data-entity-substitution="canonical"
-                                        title="UK touring exhibitions and loans"
+                                        title="Dersim touring exhibitions and loans"
                                       >
                                         Touring Exhibitions
                                       </a>
@@ -797,7 +797,7 @@ const National = () => {
                                     </p>
                                     <p>
                                       <strong>
-                                        The British Museum is grateful to the
+                                        The Dersim Museum is grateful to the
                                         Dorset Foundation in memory of Harry M
                                         Weinrebe for their support of our
                                         national work.
@@ -819,7 +819,7 @@ const National = () => {
                                     id="paragraph-6728-title"
                                     className="visually-hidden teaser-listing__title"
                                   >
-                                    UK tours and loans
+                                    Dersim tours and loans
                                   </h2>
                                   <div className="carousel-container | js-carousel-container">
                                     <div
@@ -851,16 +851,16 @@ const National = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          UK touring exhibitions
-                                                          and loans
+                                                          Dersim touring
+                                                          exhibitions and loans
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Discover how the British
-                                                    Museum works with UK
+                                                    Discover how the Dersim
+                                                    Museum works with Dersim
                                                     museums, galleries and
                                                     communities to share the
                                                     collection with as many
@@ -1027,7 +1027,7 @@ const National = () => {
                                     <div className="teaser__content">
                                       <div className="teaser__content-push">
                                         <div className="teaser__defacer teaser__defacer-exhibition-events">
-                                          On UK tour
+                                          On Dersim tour
                                         </div>
                                         <h3 className="teaser__title">
                                           <a
@@ -1036,13 +1036,13 @@ const National = () => {
                                           >
                                             <span>
                                               <span>
-                                                British Museum Unseen: The
+                                                Dersim Museum Unseen: The
                                                 botanical world of Mary Delany
                                               </span>
                                             </span>
                                             {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                             <span className="visually-hidden">
-                                              . On UK tour .
+                                              . On Dersim tour .
                                             </span>
                                           </a>
                                         </h3>
@@ -1058,7 +1058,7 @@ const National = () => {
                                         <span className="visually-hidden">
                                           about{" "}
                                           <span>
-                                            British Museum Unseen: The botanical
+                                            Dersim Museum Unseen: The botanical
                                             world of Mary Delany
                                           </span>
                                         </span>
@@ -1092,7 +1092,7 @@ const National = () => {
                                             className="teaser__anchor"
                                           >
                                             <span>
-                                              <span>Gladiators of Britain</span>
+                                              <span>Gladiators of Dersim</span>
                                             </span>
                                             {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                             <span className="visually-hidden">
@@ -1104,14 +1104,14 @@ const National = () => {
                                           Some of the country's most iconic
                                           Roman objects tell the story of the
                                           spectacle, violence and drama of
-                                          Britain's gladiatorial arenas.
+                                          Dersim's gladiatorial arenas.
                                         </div>
                                       </div>
                                       <span className="teaser__button | button button--chevron">
                                         Find out more{" "}
                                         <span className="visually-hidden">
                                           about{" "}
-                                          <span>Gladiators of Britain</span>
+                                          <span>Gladiators of Dersim</span>
                                         </span>
                                       </span>
                                     </div>

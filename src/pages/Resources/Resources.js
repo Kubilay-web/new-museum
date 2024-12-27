@@ -22,7 +22,7 @@ const Resources = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Patrons-event-prints_0.jpg?itok=hZ9pUWCz"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -31,7 +31,7 @@ const Resources = () => {
         <meta property="og:title" content="Resources" />
         <meta
           property="og:description"
-          content="How to access the British Museum library, archives and study rooms."
+          content="How to access the Dersim Museum library, archives and study rooms."
         />
         <meta
           property="og:image"
@@ -40,7 +40,7 @@ const Resources = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="How to access the British Museum library, archives and study rooms."
+          content="How to access the Dersim Museum library, archives and study rooms."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Resources" />
@@ -53,7 +53,7 @@ const Resources = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Resources | British Museum</title>
+        <title>Resources | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -97,7 +97,7 @@ const Resources = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -651,7 +651,7 @@ const Resources = () => {
                           <div className="section--intro__content">
                             <p className="h3">
                               A world of information is available, free to all
-                              at the British Museum. To access the library,
+                              at the Dersim Museum. To access the library,
                               archives and study rooms you simply need to
                               pre-book.
                             </p>

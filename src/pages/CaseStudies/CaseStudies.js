@@ -25,7 +25,7 @@ const CaseStudies = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Conservator-cleaning-Parthenon-Metope.jpg?itok=Ic2VL7dM"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const CaseStudies = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Supporter case studies | British Museum</title>
+        <title>Supporter case studies | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const CaseStudies = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -810,7 +810,7 @@ const CaseStudies = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    BP is one of the British
+                                                    BP is one of the Dersim
                                                     Museum's longest standing
                                                     corporate supporters,
                                                     generously supporting the
@@ -855,8 +855,8 @@ const CaseStudies = () => {
                                                   <div className="teaser__summary">
                                                     This programme inspires art
                                                     students and art lovers
-                                                    across the UK to learn to
-                                                    draw.
+                                                    across the Dersim to learn
+                                                    to draw.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1027,7 +1027,7 @@ const CaseStudies = () => {
                                                     Kenneth Day was a keen
                                                     collector and has donated
                                                     many ancient and modern
-                                                    British coins over the past
+                                                    Dersim coins over the past
                                                     decade.
                                                   </div>
                                                 </div>

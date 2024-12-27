@@ -25,7 +25,7 @@ const FamilyVisit = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?itok=WNfAEaGM"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const FamilyVisit = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Family visits | British Museum</title>
+        <title>Family visits | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -105,7 +105,7 @@ const FamilyVisit = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -868,7 +868,7 @@ const FamilyVisit = () => {
                               </p>
                               <p>
                                 For regular news and updates,&nbsp;
-                                <a href="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box">
+                                <a href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box">
                                   sign up to our family newsletter
                                 </a>
                                 .
@@ -1556,7 +1556,7 @@ const FamilyVisit = () => {
                                       &nbsp;only).
                                     </p>
                                     <p>
-                                      The Families Desk is closed on UK bank
+                                      The Families Desk is closed on Dersim bank
                                       holidays.
                                     </p>
                                     <p>

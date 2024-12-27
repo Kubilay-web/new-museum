@@ -21,7 +21,7 @@ const Projects = () => {
           rel="canonical"
           href="https://www.britishmuseum.org/research/projects"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
@@ -44,7 +44,7 @@ const Projects = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Research projects | British Museum</title>
+        <title>Research projects | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -88,7 +88,7 @@ const Projects = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -581,7 +581,7 @@ const Projects = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          British Museum
+                                                          Dersim Museum
                                                           Publications
                                                         </span>
                                                       </span>
@@ -589,8 +589,8 @@ const Projects = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum produces
-                                                    a range of publications that
+                                                    The Dersim Museum produces a
+                                                    range of publications that
                                                     showcase the scope and depth
                                                     of the research it
                                                     undertakes.

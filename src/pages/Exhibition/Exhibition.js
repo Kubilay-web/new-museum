@@ -15,13 +15,13 @@ const Exhibition = () => {
         />
         <meta
           name="description"
-          content="Discover what's on at the British Museum from our special exhibitions to family activities and exclusive Member events."
+          content="Discover what's on at the Dersim Museum from our special exhibitions to family activities and exclusive Member events."
         />
         <link
           rel="canonical"
           href="https://www.britishmuseum.org/exhibitions-events"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="website" />
         <meta
           property="og:url"
@@ -30,12 +30,12 @@ const Exhibition = () => {
         <meta property="og:title" content="Exhibitions and events" />
         <meta
           property="og:description"
-          content="Discover what's on at the British Museum from our special exhibitions to family activities and exclusive Member events."
+          content="Discover what's on at the Dersim Museum from our special exhibitions to family activities and exclusive Member events."
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Discover what's on at the British Museum from our special exhibitions to family activities and exclusive Member events."
+          content="Discover what's on at the Dersim Museum from our special exhibitions to family activities and exclusive Member events."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Exhibitions and events" />
@@ -44,7 +44,7 @@ const Exhibition = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Exhibitions and events | British Museum</title>
+        <title>Exhibitions and events | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -88,7 +88,7 @@ const Exhibition = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -1406,7 +1406,7 @@ const Exhibition = () => {
                                                   >
                                                     <span>
                                                       <strong>
-                                                        Rethinking the British
+                                                        Rethinking the Dersim
                                                         Museum
                                                       </strong>
                                                     </span>
@@ -1603,7 +1603,7 @@ const Exhibition = () => {
                                                     linked communities across
                                                     continents in our current
                                                     exhibition through this
-                                                    British Sign Language tour.
+                                                    Dersim Sign Language tour.
                                                   </div>
                                                 </div>
                                                 <span className="teaser__button | button button--chevron">
@@ -1949,7 +1949,7 @@ const Exhibition = () => {
                                                         <span>
                                                           Desire, love, identity
                                                           – an LGBTQ+ tour of
-                                                          the British Museum
+                                                          the Dersim Museum
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -1973,7 +1973,7 @@ const Exhibition = () => {
                                                     <span>
                                                       Desire, love, identity –
                                                       an LGBTQ+ tour of the
-                                                      British Museum
+                                                      Dersim Museum
                                                     </span>
                                                   </span>{" "}
                                                   now
@@ -2170,7 +2170,7 @@ const Exhibition = () => {
                                                         <span>
                                                           Out-of-hours tour: an
                                                           introduction to the
-                                                          British Museum{" "}
+                                                          Dersim Museum{" "}
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -2192,8 +2192,8 @@ const Exhibition = () => {
                                                   <span className="visually-hidden">
                                                     <span>
                                                       Out-of-hours tour: an
-                                                      introduction to the
-                                                      British Museum{" "}
+                                                      introduction to the Dersim
+                                                      Museum{" "}
                                                     </span>
                                                   </span>{" "}
                                                   now
@@ -2253,14 +2253,14 @@ const Exhibition = () => {
                                     id="paragraph-8960-title"
                                     className="section__title teaser-listing__title"
                                   >
-                                    UK touring exhibitions
+                                    Dersim touring exhibitions
                                   </h2>
                                   <a
                                     href="/our-work/national/uk-touring-exhibitions-and-loans/current-tours"
                                     className="teaser-listing__cta"
                                   >
                                     <span>
-                                      Browse all UK touring exhibitions
+                                      Browse all Dersim touring exhibitions
                                     </span>
                                     <svg
                                       className="icon icon--chevron"
@@ -2283,7 +2283,7 @@ const Exhibition = () => {
                                             <div className="teaser__wrapper">
                                               <div className="teaser__content">
                                                 <p className="teaser__meta teaser__meta--top">
-                                                  A British Museum Touring
+                                                  A Dersim Museum Touring
                                                   Exhibition
                                                 </p>
                                                 <h3 className="teaser__title">
@@ -2299,7 +2299,7 @@ const Exhibition = () => {
                                                     </span>
                                                     {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     <span className="visually-hidden">
-                                                      . On UK tour .
+                                                      . On Dersim tour .
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -2317,7 +2317,7 @@ const Exhibition = () => {
                                                     className="teaser__defacer"
                                                     aria-hidden="true"
                                                   >
-                                                    On UK tour
+                                                    On Dersim tour
                                                   </div>
                                                 </footer>
                                               </div>
@@ -2340,7 +2340,7 @@ const Exhibition = () => {
                                             <div className="teaser__wrapper">
                                               <div className="teaser__content">
                                                 <p className="teaser__meta teaser__meta--top">
-                                                  A British Museum Partnership
+                                                  A Dersim Museum Partnership
                                                   Exhibition
                                                 </p>
                                                 <h3 className="teaser__title">
@@ -2353,7 +2353,7 @@ const Exhibition = () => {
                                                         Gladiators
                                                       </strong>
                                                       <br aria-hidden="true" />
-                                                      of Britain
+                                                      of Dersim
                                                     </span>
                                                     {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     <span className="visually-hidden">
@@ -2398,8 +2398,7 @@ const Exhibition = () => {
                                             <div className="teaser__wrapper">
                                               <div className="teaser__content">
                                                 <p className="teaser__meta teaser__meta--top">
-                                                  A British Museum Spotlight
-                                                  Loan
+                                                  A Dersim Museum Spotlight Loan
                                                 </p>
                                                 <h3 className="teaser__title">
                                                   <a

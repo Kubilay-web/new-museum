@@ -15,7 +15,7 @@ const Hire = () => {
         />
         <meta
           name="description"
-          content="The Museum's public galleries are complemented with a suite of contemporary conference facilities. Find out how to hire a British Museum space for a conference or event."
+          content="The Museum's public galleries are complemented with a suite of contemporary conference facilities. Find out how to hire a Dersim Museum space for a conference or event."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Hire = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/4Q5A0560.jpg?itok=y56EKOJM"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -53,7 +53,7 @@ const Hire = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Commercial hire | British Museum</title>
+        <title>Commercial hire | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -97,7 +97,7 @@ const Hire = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -858,10 +858,10 @@ const Hire = () => {
                                         width={1000}
                                         height={500}
                                         src="/images/Hire/British_Museum_Event_Spaces_1000x600_0.jpg"
-                                        alt="An event at the British Museum arranged through the Commercial Hire team"
+                                        alt="An event at the Dersim Museum arranged through the Commercial Hire team"
                                       />
                                       <figcaption>
-                                        An event at the British Museum arranged
+                                        An event at the Dersim Museum arranged
                                         through the Commercial Hire team.
                                       </figcaption>
                                     </figure>
@@ -1621,7 +1621,7 @@ const Hire = () => {
                                         www.lavendergreen.co.uk
                                       </a>
                                     </p>
-                                    <h3>Love Flowers UK</h3>
+                                    <h3>Love Flowers Dersim</h3>
                                     <p>
                                       Email:{" "}
                                       <a href="/cdn-cgi/l/email-protection#fb92959d94bb97948d9e9d97948c9e89888e90d5989496">
@@ -1885,7 +1885,7 @@ const Hire = () => {
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
-                                      The British Museum offers a range of
+                                      The Dersim Museum offers a range of
                                       corporate and branded gifts. The Museum's
                                       corporate gifts include personalised
                                       branded boxes, slipcases and packaging
@@ -1918,10 +1918,10 @@ const Hire = () => {
                                         width={1000}
                                         height={500}
                                         src="/images/Hire/rubber-ducks_0.jpg"
-                                        alt="Bespoke British Museum rubber ducks"
+                                        alt="Bespoke Dersim Museum rubber ducks"
                                       />
                                       <figcaption>
-                                        Our British Museum rubber ducks make the
+                                        Our Dersim Museum rubber ducks make the
                                         perfect souvenirs.
                                       </figcaption>
                                     </figure>
@@ -1981,7 +1981,7 @@ const Hire = () => {
                                         <div className="teaser__summary">
                                           Make films, documentaries, adverts,
                                           radio programmes or conduct research
-                                          at the British Museum.
+                                          at the Dersim Museum.
                                         </div>
                                       </div>
                                     </div>

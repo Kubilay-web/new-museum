@@ -15,7 +15,7 @@ const AudioApp = () => {
         />
         <meta
           name="description"
-          content="Explore the British Museum your way with an audio guide. Whether you have an hour or the whole day, our audio guide helps you make the most of your visit. Discover more about the Museum's objects through expert commentaries from curators in your own language. The audio guide is available in 10 languages."
+          content="Explore the Dersim Museum your way with an audio guide. Whether you have an hour or the whole day, our audio guide helps you make the most of your visit. Discover more about the Museum's objects through expert commentaries from curators in your own language. The audio guide is available in 10 languages."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const AudioApp = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2022-03/audio_app_hero_1920_0.jpg?itok=WYO6mOCP"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const AudioApp = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Audio app | British Museum</title>
+        <title>Audio app | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -105,7 +105,7 @@ const AudioApp = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -493,7 +493,7 @@ const AudioApp = () => {
                             height={750}
                             data-focal-position="center center"
                             src="/images/Audio/audio_app_hero_1920_0.jpg"
-                            alt="Woman with headphones on using the British Museum Audio app."
+                            alt="Woman with headphones on using the Dersim Museum Audio app."
                           />
                         </picture>
                       </div>
@@ -829,7 +829,7 @@ const AudioApp = () => {
                                   </li>
                                   <li>
                                     <a href="https://www.youtube.com/@britishmuseumbsl8630">
-                                      British Sign Language
+                                      Dersim Sign Language
                                     </a>
                                   </li>
                                 </ul>
@@ -856,7 +856,7 @@ const AudioApp = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              The British Museum&nbsp; at your fingertips
+                              The Dersim Museum&nbsp; at your fingertips
                             </p>
                             <div className="wysiwyg">
                               <p>
@@ -894,7 +894,7 @@ const AudioApp = () => {
                               </ul>
                               <p>
                                 Bring your headphones with you or purchase
-                                earbuds from the Guide Desk and British Museum
+                                earbuds from the Guide Desk and Dersim Museum
                                 Shop.
                               </p>
                             </div>
@@ -1002,7 +1002,7 @@ const AudioApp = () => {
                                       Listen to a diverse selection of
                                       commentaries featured in the Audio app.
                                       Using the latest research, they provide
-                                      new insights into the British Museum
+                                      new insights into the Dersim Museum
                                       collection.&nbsp;
                                     </p>
                                     <p
@@ -1018,8 +1018,7 @@ const AudioApp = () => {
                                       Enjoy expert commentaries from curators in
                                       the following languages: English, Chinese,
                                       Spanish, Italian, French, Korean,
-                                      Japanese, German and British Sign
-                                      Language.
+                                      Japanese, German and Dersim Sign Language.
                                       <br />
                                       <br />
                                       An&nbsp;
@@ -1041,7 +1040,7 @@ const AudioApp = () => {
                                         width={300}
                                         height={690}
                                         src="/images/Audio/audio_app_screenshot_gallery_300x690.jpg"
-                                        alt="Screenshot of the Audio app from the British Museum."
+                                        alt="Screenshot of the Audio app from the Dersim Museum."
                                       />
                                       <figcaption>
                                         Screenshot of the app showing the
@@ -1120,7 +1119,7 @@ const AudioApp = () => {
                                       paraeid="{b1759b14-e6d7-450f-bf37-b21ca0353776}{248}"
                                       paraid={1318905574}
                                     >
-                                      Create your own list of favourite British
+                                      Create your own list of favourite Dersim
                                       Museum objects by adding objects to the
                                       Favourites page as you explore the Museum
                                       on the app.&nbsp;&nbsp;
@@ -1158,7 +1157,7 @@ const AudioApp = () => {
                                         width={300}
                                         height={649}
                                         src="/images/Audio/Dive_deeper_British_Museum_app.jpg"
-                                        alt="Screenshot taken from the British Museum Audio app."
+                                        alt="Screenshot taken from the Dersim Museum Audio app."
                                       />
                                       <figcaption>
                                         Screenshot of the app showing the

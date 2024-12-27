@@ -617,7 +617,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        The British Museum podcast
+                                        The Dersim Museum podcast
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1268,7 +1268,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        American Friends of the British Museum
+                                        American Friends of the Dersim Museum
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1901,7 +1901,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          The British Museum podcast
+                                          The Dersim Museum podcast
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2552,7 +2552,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          American Friends of the British Museum
+                                          American Friends of the Dersim Museum
                                         </span>
                                         <svg
                                           className="icon icon--chevron"

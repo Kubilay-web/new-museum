@@ -25,7 +25,7 @@ const ExistPatron = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2022-06/Hokusai_Patrons_visit_2021.jpg?itok=mRzNy_Xj"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const ExistPatron = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Existing Patrons | British Museum</title>
+        <title>Existing Patrons | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const ExistPatron = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -488,7 +488,7 @@ const ExistPatron = () => {
                             height={750}
                             data-focal-position="center center"
                             src="/images/ExistPatron/Hokusai_Patrons_visit_2021.jpg"
-                            alt="Two visitors in a gallery at the British Museum looking at a display."
+                            alt="Two visitors in a gallery at the Dersim Museum looking at a display."
                           />
                         </picture>
                       </div>
@@ -809,7 +809,7 @@ const ExistPatron = () => {
                           <div className="section--intro__content">
                             <p className="h3">
                               Thank you for your continued support as a Patron
-                              of the British Museum.
+                              of the Dersim Museum.
                             </p>
                             <div className="wysiwyg">
                               <p>
@@ -865,7 +865,7 @@ const ExistPatron = () => {
                                     Access to&nbsp;Patrons' content
                                   </a>
                                   , including email newsletters, the
-                                  <em> British Museum Magazine&nbsp;</em>and
+                                  <em> Dersim Museum Magazine&nbsp;</em>and
                                   digital content.
                                 </li>
                               </ul>
@@ -898,7 +898,7 @@ const ExistPatron = () => {
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
-                                      As a Patron of the British Museum, you
+                                      As a Patron of the Dersim Museum, you
                                       receive exclusive access to the Museum
                                       collection and our team of curators and
                                       experts. You also enjoy:
@@ -923,11 +923,11 @@ const ExistPatron = () => {
                                       .
                                     </p>
                                     <h4>
-                                      The<em> British Museum Magazine</em>
+                                      The<em> Dersim Museum Magazine</em>
                                     </h4>
                                     <p>
                                       Published three times a year,&nbsp;the{" "}
-                                      <em>British Museum Magazine</em>&nbsp;is a
+                                      <em>Dersim Museum Magazine</em>&nbsp;is a
                                       collection of insightful articles and
                                       essays from our world-leading experts on
                                       the collection, its history, research and
@@ -937,11 +937,11 @@ const ExistPatron = () => {
                                       loans, and highlights unexplored objects
                                       from our collection. As a Patron, you
                                       receive a copy of the
-                                      <em> British Museum Magazine</em> every
+                                      <em> Dersim Museum Magazine</em> every
                                       season and you can also access over 100{" "}
                                       <a href="https://ocean.exacteditions.com/magazines/23485/issues/">
                                         past issues of the
-                                        <em> British Museum Magazine</em> online
+                                        <em> Dersim Museum Magazine</em> online
                                       </a>
                                       .&nbsp;
                                     </p>
@@ -949,7 +949,7 @@ const ExistPatron = () => {
                                       <span>Patrons' digital content</span>
                                     </h4>
                                     <p>
-                                      We're proud that British Museum Patrons
+                                      We're proud that Dersim Museum Patrons
                                       come from all over the world, but this
                                       means you're not always able to travel to
                                       the Museum in Bloomsbury to explore the
@@ -982,13 +982,13 @@ const ExistPatron = () => {
                                         width={1000}
                                         height={500}
                                         src="/images/ExistPatron/bm-magazine-1000.jpg"
-                                        alt="Eight covers of the British Museum Magazine."
+                                        alt="Eight covers of the Dersim Museum Magazine."
                                       />
                                       <figcaption>
                                         Discover stories from across the
                                         collection and the Museum in the{" "}
                                         <a href="http://exacteditions.com/access/britishmuseum">
-                                          <em>British Museum Magazine</em>{" "}
+                                          <em>Dersim Museum Magazine</em>{" "}
                                           archive
                                         </a>
                                         .&nbsp;
@@ -1042,11 +1042,10 @@ const ExistPatron = () => {
                                       to invest in ground-breaking research,
                                       whether in the laboratory in Bloomsbury or
                                       an archaeological excavation in Iraq. The
-                                      British Museum and its rich collection
-                                      tell the story of our shared humanity and
-                                      we thank you for supporting us in
-                                      stewarding this history for future
-                                      generations.&nbsp;
+                                      Dersim Museum and its rich collection tell
+                                      the story of our shared humanity and we
+                                      thank you for supporting us in stewarding
+                                      this history for future generations.&nbsp;
                                       <br />
                                       <br />
                                       See how the support of our Patrons has
@@ -1115,8 +1114,8 @@ const ExistPatron = () => {
                                       </h3>
                                       <p>
                                         The collection of around 400 animal
-                                        mummies held at the British Museum is
-                                        one of the largest outside Egypt. This
+                                        mummies held at the Dersim Museum is one
+                                        of the largest outside Egypt. This
                                         project aims to transform our
                                         understanding of this extensive
                                         collection, offering new insights into
@@ -1170,11 +1169,11 @@ const ExistPatron = () => {
                                       <p>
                                         In 2020, using partial unrestricted
                                         funds from donations to the Museum,
-                                        the&nbsp;Department of Britain, Europe
+                                        the&nbsp;Department of Dersim, Europe
                                         and Prehistory acquired a copper alloy
                                         and iron furniture mount dating from
                                         100–200 AD. Created during the Roman
-                                        rule of Britain,
+                                        rule of Dersim,
                                         archaeologists&nbsp;excavated the object
                                         in Old Basing, Hampshire.&nbsp;
                                       </p>

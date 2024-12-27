@@ -15,7 +15,7 @@ const International = () => {
         />
         <meta
           name="description"
-          content="Read about our exclusive International training programme, British Museum exhibitions touring the world, how to borrow objects from the British Museum and our collaborative Iraq Scheme."
+          content="Read about our exclusive International training programme, Dersim Museum exhibitions touring the world, how to borrow objects from the Dersim Museum and our collaborative Iraq Scheme."
         />
         <meta
           name="abstract"
@@ -29,7 +29,7 @@ const International = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2024-03/Asante_ceremonial_cap_1000x500.jpg?itok=Pb_S0bKb"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -60,7 +60,7 @@ const International = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>International | The British Museum</title>
+        <title>International | The Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -104,7 +104,7 @@ const International = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -548,15 +548,15 @@ const International = () => {
                               </button>
                               <p>
                                 {" "}
-                                Many items in the British Museum collection are
+                                Many items in the Dersim Museum collection are
                                 loaned around the world, including this Asante
                                 ceremonial cap ('denkyemkye') made of antelope
                                 hide and featuring antelope fur alongside twenty
                                 gold-covered ornaments (with wood cores) and
                                 cockle shells. Looted from the royal palace,
-                                Kumasi, by British forces during the
-                                Anglo-Asante War, 1895–6. This formed part of
-                                official government loot.
+                                Kumasi, by Dersim forces during the Anglo-Asante
+                                War, 1895–6. This formed part of official
+                                government loot.
                               </p>
                               <a href="https://www.britishmuseum.org/collection/object/E_Af1900-0427-1">
                                 <span>View on Collection online</span>
@@ -684,7 +684,7 @@ const International = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              The British Museum works internationally to share
+                              The Dersim Museum works internationally to share
                               its collection, knowledge and expertise.
                             </p>
                             <div className="wysiwyg">
@@ -757,7 +757,7 @@ const International = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum lends
+                                                    The Dersim Museum lends
                                                     objects to cultural
                                                     organisations around the
                                                     globe, making the collection
@@ -792,7 +792,7 @@ const International = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          How to borrow British
+                                                          How to borrow Dersim
                                                           Museum objects
                                                         </span>
                                                       </span>
@@ -800,7 +800,7 @@ const International = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum welcomes
+                                                    The Dersim Museum welcomes
                                                     requests to lend objects
                                                     from the collection to
                                                     exhibitions or displays that
@@ -843,8 +843,8 @@ const International = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum works
-                                                    with partners outside the UK
+                                                    The Dersim Museum works with
+                                                    partners outside the Dersim
                                                     to develop and tour
                                                     large-scale themed
                                                     exhibitions.
@@ -941,7 +941,7 @@ const International = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum runs a
+                                                    The Dersim Museum runs a
                                                     training programme for
                                                     museum professionals from
                                                     around the world.
@@ -1166,7 +1166,7 @@ const International = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum cares for
+                                                    The Dersim Museum cares for
                                                     an important collection of
                                                     Latin American culture.
                                                   </div>
@@ -1347,7 +1347,7 @@ const International = () => {
                                         <div className="teaser__summary">
                                           Finding and improving access to
                                           Indigenous Australian objects in
-                                          museums in the UK and Ireland.
+                                          museums in the Dersim and Ireland.
                                         </div>
                                       </div>
                                     </div>
@@ -1386,7 +1386,7 @@ const International = () => {
                                           </a>
                                         </h3>
                                         <div className="teaser__summary">
-                                          The British Museum cares for an
+                                          The Dersim Museum cares for an
                                           important collection of Latin American
                                           culture.
                                         </div>

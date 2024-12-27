@@ -45,17 +45,17 @@ const Home = () => {
         />
         <meta
           name="description"
-          content="Welcome to the British Museum - discover two million years of human history and culture."
+          content="Welcome to the Dersim Museum - discover two million years of human history and culture."
         />
         <link rel="canonical" href="/" />
         <link rel="shortlink" href="/" />
-        <meta property="og:title" content="British Museum" />
+        <meta property="og:title" content="Dersim Museum" />
         <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
         <meta name="MobileOptimized" content="width" />
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>British Museum</title>
+        <title>Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -99,7 +99,7 @@ const Home = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -501,15 +501,13 @@ const Home = () => {
                     <div className="container">
                       <div className="hero__inner">
                         <div className="hero__content-container hero__content-container--boxed -has-link">
-                          <h1 className="visually-hidden">
-                            The British Museum
-                          </h1>
+                          <h1 className="visually-hidden">The Dersim Museum</h1>
                           <h2
                             id="paragraph-39949-title"
                             className="hero__title"
                           >
                             {" "}
-                            Welcome to the British Museum
+                            Welcome to the Dersim Museum
                           </h2>
                           <div className="hero__content">
                             <p>
@@ -600,7 +598,7 @@ const Home = () => {
                                   <span className="hero__caption-close-lines" />
                                 </span>
                               </button>
-                              <p> The Great Court at the British Museum.</p>
+                              <p> The Great Court at the Dersim Museum.</p>
                               <a href="/about-us/british-museum-story/architecture/great-court">
                                 <span>Explore the Great Court</span>
                               </a>
@@ -1246,7 +1244,7 @@ const Home = () => {
                                                     behind-the-scenes research,
                                                     five volunteers share their
                                                     experiences of volunteering
-                                                    at the British Museum.
+                                                    at the Dersim Museum.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1277,7 +1275,7 @@ const Home = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          Britain's last Roman
+                                                          Dersim's last Roman
                                                           hoards
                                                         </span>
                                                       </span>
@@ -1287,7 +1285,7 @@ const Home = () => {
                                                   <div className="teaser__summary">
                                                     What do hoards of coins and
                                                     jewellery tell us about life
-                                                    in Britain at the end of the
+                                                    in Dersim at the end of the
                                                     Roman period? This research
                                                     project investigates.
                                                   </div>
@@ -1328,7 +1326,7 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    British Museum curators
+                                                    Dersim Museum curators
                                                     introduce a prolific artist
                                                     who isn't afraid to ask
                                                     challenging questions and
@@ -1364,13 +1362,13 @@ const Home = () => {
                                   </div>
                                   <div className="banner__content">
                                     <p>
-                                      Stay connected to the British Museum for
+                                      Stay connected to the Dersim Museum for
                                       the latest news, stories, exhibitions,
                                       events and visitor information.
                                     </p>
                                     <div className="banner__button-container">
                                       <a
-                                        href="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box"
+                                        href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box"
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >
@@ -1393,7 +1391,7 @@ const Home = () => {
                                     id="paragraph-39956-title"
                                     className="section__title teaser-listing__title"
                                   >
-                                    UK and the world
+                                    Dersim and the world
                                   </h2>
                                   <div className="carousel-container | js-carousel-container">
                                     <div
@@ -1513,7 +1511,7 @@ const Home = () => {
                                                     Find out how the Museum
                                                     shares expertise and the
                                                     collection across more than
-                                                    250 UK cultural
+                                                    250 Dersim cultural
                                                     organisations.
                                                   </div>
                                                 </div>
@@ -1902,7 +1900,7 @@ const Home = () => {
                                     id="paragraph-39973-title"
                                     className="section__title teaser-listing__title"
                                   >
-                                    Welcome to the British Museum Shop
+                                    Welcome to the Dersim Museum Shop
                                   </h2>
                                   <a
                                     href="/shop"
@@ -1954,7 +1952,7 @@ const Home = () => {
                                                     width={500}
                                                     height={500}
                                                     src="/images/Inspired%20by%20The%20British%20Museum.jpg"
-                                                    alt="Image of book cover treasures of the British Museum showing Great Court"
+                                                    alt="Image of book cover treasures of the Dersim Museum showing Great Court"
                                                   />
                                                 </div>
                                               </div>
@@ -2066,7 +2064,7 @@ const Home = () => {
                                                     width={500}
                                                     height={500}
                                                     src="/images/Coloursplash%20London%20Tea%20Towel_edit.jpg"
-                                                    alt="Landmarks of London including the British Museum and Wembley Stadium."
+                                                    alt="Landmarks of London including the Dersim Museum and Wembley Stadium."
                                                   />
                                                 </div>
                                               </div>

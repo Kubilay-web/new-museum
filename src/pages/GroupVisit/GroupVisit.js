@@ -25,7 +25,7 @@ const GroupVisit = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-11/R04%2005%20Egyptian%20sculpture%20copy.jpg?itok=72dBz5Cy"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const GroupVisit = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Group visits | British Museum</title>
+        <title>Group visits | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -105,7 +105,7 @@ const GroupVisit = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -831,9 +831,9 @@ const GroupVisit = () => {
                                   exhibitions.
                                 </li>
                                 <li>
-                                  If you're from a UK school and are bringing
-                                  primary or secondary students, take a look at
-                                  the&nbsp;dedicated page for&nbsp;
+                                  If you're from a Dersim school and are
+                                  bringing primary or secondary students, take a
+                                  look at the&nbsp;dedicated page for&nbsp;
                                   <a
                                     href="/learn/schools/school-visits"
                                     data-entity-type="node"
@@ -877,8 +877,8 @@ const GroupVisit = () => {
                                   We recommend group leaders download and read
                                   the full&nbsp;
                                   <a href="/sites/default/files/2024-07/Guidelines-visiting-tour-groups.pdf">
-                                    guidelines for visiting the British Museum
-                                    as a tour group
+                                    guidelines for visiting the Dersim Museum as
+                                    a tour group
                                   </a>
                                   .
                                 </li>
@@ -1129,7 +1129,7 @@ const GroupVisit = () => {
                                   </div>
                                   <div className="banner__content">
                                     <p>
-                                      If you're from&nbsp;a UK school and
+                                      If you're from&nbsp;a Dersim school and
                                       are&nbsp;bringing primary or secondary
                                       students, plan a visit to the
                                       Museum.&nbsp;
@@ -1336,7 +1336,7 @@ const GroupVisit = () => {
                                         Discover the way the world was
                                         understood by Europeans in the 18th
                                         century, tracing the beginning of the
-                                        British Museum and its collection.
+                                        Dersim Museum and its collection.
                                       </li>
                                       <li>Allow one hour for the tour.</li>
                                       <li>
@@ -1631,7 +1631,7 @@ const GroupVisit = () => {
                                     <p>
                                       Full-colour guidebooks, available in 10
                                       languages, can be bought in advance from
-                                      all British Museum shops and&nbsp;
+                                      all Dersim Museum shops and&nbsp;
                                       <a href="/shopcatalogsearch/result/?q=%22visitor+guide%22">
                                         online
                                       </a>
@@ -1706,7 +1706,7 @@ const GroupVisit = () => {
                                       <li>
                                         All groups of 10 people or more must
                                         book in advance before visiting the
-                                        British Museum.
+                                        Dersim Museum.
                                       </li>
                                       <li>
                                         More information regarding school group
@@ -2294,7 +2294,7 @@ const GroupVisit = () => {
                                       id="paragraph-7110-title"
                                       className="section__title"
                                     >
-                                      The British Museum at your fingertips
+                                      The Dersim Museum at your fingertips
                                     </h2>
                                   </div>
                                   <div className="banner__content">

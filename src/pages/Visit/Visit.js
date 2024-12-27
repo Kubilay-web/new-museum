@@ -15,14 +15,14 @@ const Visit = () => {
         />
         <meta
           name="description"
-          content="Find out the latest information on visiting the British Museum."
+          content="Find out the latest information on visiting the Dersim Museum."
         />
         <link rel="canonical" href="https://www.britishmuseum.org/visit" />
         <link
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Great%20Court%2004.jpg?itok=PKKEIUbn"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="https://www.britishmuseum.org/visit" />
         <meta property="og:title" content="Visit" />
@@ -50,7 +50,7 @@ const Visit = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Visit | British Museum</title>
+        <title>Visit | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -93,7 +93,7 @@ const Visit = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -805,7 +805,7 @@ const Visit = () => {
                                   >
                                     <use xlinkHref="#sprite-icon-pin" />
                                   </svg>
-                                  The British Museum
+                                  The Dersim Museum
                                 </h3>
                                 <p>
                                   Great Russell Street, London, WC1B 3DG
@@ -1166,13 +1166,13 @@ const Visit = () => {
                                   </div>
                                   <div className="banner__content">
                                     <p>
-                                      Stay connected to the British Museum for
+                                      Stay connected to the Dersim Museum for
                                       the latest news, stories, exhibitions,
                                       events and visitor information.
                                     </p>
                                     <div className="banner__button-container">
                                       <a
-                                        href="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box"
+                                        href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box"
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >
@@ -1317,7 +1317,7 @@ const Visit = () => {
                                         delays to your entry.
                                       </li>
                                       <li>
-                                        <a href="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box">
+                                        <a href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box">
                                           Sign up to our newsletter
                                         </a>{" "}
                                         to receive the latest updates.
@@ -1662,7 +1662,7 @@ const Visit = () => {
                                           Audio app
                                         </a>{" "}
                                         (available in various&nbsp;languages
-                                        including British Sign Language).
+                                        including Dersim Sign Language).
                                         Download via the&nbsp;
                                         <a href="https://apps.apple.com/gb/app/british-museum-audio/id1609255954">
                                           App Store
@@ -1673,7 +1673,7 @@ const Visit = () => {
                                         </a>
                                         . Please bring your headphones with you
                                         or purchase earbuds from the Guide Desk
-                                        or British Museum Shop.
+                                        or Dersim Museum Shop.
                                       </li>
                                     </ul>
                                   </div>
@@ -2105,9 +2105,9 @@ const Visit = () => {
                                           data-entity-type="node"
                                           data-entity-uuid="57904f64-d258-4d2c-add2-c2842cd6213c"
                                           data-entity-substitution="canonical"
-                                          title="Roman Britain"
+                                          title="Roman Dersim"
                                         >
-                                          Room 49: Roman Britain (
+                                          Room 49: Roman Dersim (
                                           <em>The Weston Gallery</em>)
                                         </a>
                                       </li>
@@ -2117,10 +2117,9 @@ const Visit = () => {
                                           data-entity-type="node"
                                           data-entity-uuid="47f38c2a-8831-47a8-9ac4-a617c83c0e35"
                                           data-entity-substitution="canonical"
-                                          title="Britain and Europe 800 BC–AD 43"
+                                          title="Dersim and Europe 800 BC–AD 43"
                                         >
-                                          Room 50: Britain and Europe 800
-                                          BC–AD43
+                                          Room 50: Dersim and Europe 800 BC–AD43
                                         </a>
                                       </li>
                                       <li>
@@ -2935,12 +2934,11 @@ const Visit = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The renowned
-                                                    Guyanese-British artist
-                                                    turns his lens on the
-                                                    British Museum collection,
+                                                    The renowned Guyanese-Dersim
+                                                    artist turns his lens on the
+                                                    Dersim Museum collection,
                                                     exploring histories of
-                                                    British imperial power.
+                                                    Dersim imperial power.
                                                   </div>
                                                 </div>
                                                 <span className="teaser__button | button button--chevron">
@@ -3374,7 +3372,7 @@ const Visit = () => {
                                       >
                                         study rooms
                                       </a>{" "}
-                                      at the British Museum main site can now be
+                                      at the Dersim Museum main site can now be
                                       accepted. Opening hours vary.
                                       <br />
                                       <br />
@@ -3469,7 +3467,7 @@ const Visit = () => {
                                     <p>
                                       Main entrance:&nbsp;
                                       <br />
-                                      The British Museum
+                                      The Dersim Museum
                                       <br />
                                       Great Russell Street,
                                       <br />
@@ -3895,15 +3893,15 @@ const Visit = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/images/Visit/British-Museum-aerial_3.jpg 400w, /images/Visit/British-Museum-aerial_1.jpg 750w, /images/Visit/British-Museum-aerial_2.jpg 1000w"
+                                        srcSet="/images/Visit/Dersim-Museum-aerial_3.jpg 400w, /images/Visit/Dersim-Museum-aerial_1.jpg 750w, /images/Visit/Dersim-Museum-aerial_2.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={500}
-                                        src="/images/Visit/British-Museum-aerial.jpg"
-                                        alt="Aerial photograph of the British Museum building."
+                                        src="/images/Visit/Dersim-Museum-aerial.jpg"
+                                        alt="Aerial photograph of the Dersim Museum building."
                                       />
                                       <figcaption>
-                                        Aerial photograph of the British Museum
+                                        Aerial photograph of the Dersim Museum
                                         building.
                                       </figcaption>
                                     </figure>
@@ -3964,7 +3962,7 @@ const Visit = () => {
                                       <li>
                                         Wheeled cases, sports equipment and
                                         large items of luggage are not allowed
-                                        on British Museum premises.
+                                        on Dersim Museum premises.
                                       </li>
                                       <li>
                                         Storage for luggage is available at
@@ -4422,7 +4420,7 @@ const Visit = () => {
                                         to the Museum.
                                       </li>
                                       <li>
-                                        Please connect to 'British Museum
+                                        Please connect to 'Dersim Museum
                                         WiFi'&nbsp;only.
                                       </li>
                                       <li>
@@ -4714,8 +4712,7 @@ const Visit = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          The British Museum
-                                                          Shop
+                                                          The Dersim Museum Shop
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -4759,7 +4756,7 @@ const Visit = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Explore the British Museum
+                                                    Explore the Dersim Museum
                                                     collection and journey
                                                     through two million years of
                                                     human history.

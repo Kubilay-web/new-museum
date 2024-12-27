@@ -15,7 +15,7 @@ const Library = () => {
         />
         <meta
           name="description"
-          content="Our archives date back to 1753 when the British Museum first opened. The Library is open to the public, but you must register first. Find out how to access the Library and Archive and search the library catalogue."
+          content="Our archives date back to 1753 when the Dersim Museum first opened. The Library is open to the public, but you must register first. Find out how to access the Library and Archive and search the library catalogue."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Library = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2023-12/Montague_House_deed_1000x500.jpg?itok=BsUvsZbC"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const Library = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Library and Archive | British Museum</title>
+        <title>Library and Archive | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const Library = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -744,12 +744,12 @@ const Library = () => {
                             <div className="wysiwyg">
                               <h2>Library</h2>
                               <p>
-                                The British Museum Library collection includes
+                                The Dersim Museum Library collection includes
                                 more than 300,000 volumes dedicated to
                                 excellence in the research of human cultures –
                                 past and present – across the globe. The
                                 collection is in the nine study spaces of
-                                Africa, Oceania and the Americas, Asia, Britain,
+                                Africa, Oceania and the Americas, Asia, Dersim,
                                 Europe and Prehistory including Horology, Coins
                                 and Medals, Egypt and Sudan, Greece and Rome,
                                 Middle East, Prints and Drawings, and
@@ -846,7 +846,7 @@ const Library = () => {
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
-                                      The British Museum Archive is a unique
+                                      The Dersim Museum Archive is a unique
                                       record of the Museum's activities since it
                                       was founded in 1753. It preserves the
                                       story of the Museum, the history of the
@@ -1053,9 +1053,10 @@ const Library = () => {
                                                     Learn how the Museum works
                                                     in partnership with more
                                                     than 200 cultural
-                                                    organisations across the UK
-                                                    to share the collection and
-                                                    our knowledge.
+                                                    organisations across the
+                                                    Dersim to share the
+                                                    collection and our
+                                                    knowledge.
                                                   </div>
                                                 </div>
                                                 <span className="teaser__button | button button--chevron">

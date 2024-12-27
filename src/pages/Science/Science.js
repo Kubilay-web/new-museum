@@ -15,7 +15,7 @@ const Science = () => {
         />
         <meta
           name="description"
-          content="The British Museum's collection is available for scientific examination and analysis by external researchers. Find out how to apply to access it, as well as how our experts preserve and care for the collection."
+          content="The Dersim Museum's collection is available for scientific examination and analysis by external researchers. Find out how to apply to access it, as well as how our experts preserve and care for the collection."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Science = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Mummy-Mask-scientific-study-british-museum.jpg?itok=BNrac_aa"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -33,11 +33,11 @@ const Science = () => {
         />
         <meta
           property="og:title"
-          content="Scientific study of the British Museum collection"
+          content="Scientific study of the Dersim Museum collection"
         />
         <meta
           property="og:description"
-          content="Find out more about accessing British Museum collection material for external scientific research."
+          content="Find out more about accessing Dersim Museum collection material for external scientific research."
         />
         <meta
           property="og:image"
@@ -46,12 +46,12 @@ const Science = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Find out more about accessing British Museum collection material for external scientific research."
+          content="Find out more about accessing Dersim Museum collection material for external scientific research."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta
           name="twitter:title"
-          content="Scientific study of the British Museum collection"
+          content="Scientific study of the Dersim Museum collection"
         />
         <meta
           name="twitter:image"
@@ -63,7 +63,7 @@ const Science = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
         <title>
-          Scientific study of the British Museum collection | British Museum
+          Scientific study of the Dersim Museum collection | Dersim Museum
         </title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
@@ -108,7 +108,7 @@ const Science = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -509,7 +509,7 @@ const Science = () => {
                             className="hero__title hero__title--small"
                           >
                             {" "}
-                            Scientific study of the British Museum collection
+                            Scientific study of the Dersim Museum collection
                           </h1>
                         </div>
                         <div className="hero__controls">
@@ -609,8 +609,7 @@ const Science = () => {
                                 className="breadcrumb__current"
                                 aria-current="page"
                               >
-                                Scientific study of the British Museum
-                                collection
+                                Scientific study of the Dersim Museum collection
                               </a>
                             </li>
                           </ul>
@@ -749,7 +748,7 @@ const Science = () => {
                                     <p>
                                       Decisions to permit access are based on
                                       the expert opinions of a review panel made
-                                      up of British Museum curators and
+                                      up of Dersim Museum curators and
                                       scientists with relevant expertise.
                                     </p>
                                     <p>
@@ -774,7 +773,7 @@ const Science = () => {
                                         target="_blank"
                                         title="Human Remains policy"
                                       >
-                                        British Museum policy on human remains
+                                        Dersim Museum policy on human remains
                                       </a>
                                     </p>
                                     <p>&nbsp;</p>
@@ -939,7 +938,7 @@ const Science = () => {
                                     </p>
                                     <p>
                                       We may also suggest collaboration with
-                                      British Museum scientists, particularly
+                                      Dersim Museum scientists, particularly
                                       where the Museum has a research interest
                                       in the area or if the material concerned
                                       is very fragile.
@@ -1059,9 +1058,8 @@ const Science = () => {
                                     <p>
                                       To apply to use samples for scientific
                                       study or to conduct non-destructive
-                                      analysis of British Museum material,
-                                      please fill out the appropriate form
-                                      below:
+                                      analysis of Dersim Museum material, please
+                                      fill out the appropriate form below:
                                     </p>
                                     <p>
                                       <a
@@ -1205,7 +1203,7 @@ const Science = () => {
                                         All analytical data and results must be
                                         made available, in confidence and prior
                                         to publication, to the appropriate
-                                        department of the British Museum.
+                                        department of the Dersim Museum.
                                       </li>
                                       <li
                                         data-gc-list-depth={1}
@@ -1221,10 +1219,10 @@ const Science = () => {
                                         data-gc-list-style="bullet"
                                       >
                                         All residual samples remain the property
-                                        of the British Museum (all mounted and
+                                        of the Dersim Museum (all mounted and
                                         residual samples shall be returned to
-                                        the British Museum within one year
-                                        unless otherwise agreed).
+                                        the Dersim Museum within one year unless
+                                        otherwise agreed).
                                       </li>
                                       <li
                                         data-gc-list-depth={1}
@@ -1246,7 +1244,7 @@ const Science = () => {
                                         data-gc-list-depth={1}
                                         data-gc-list-style="bullet"
                                       >
-                                        Any agreed costs of sampling by British
+                                        Any agreed costs of sampling by Dersim
                                         Museum staff shall be paid by the
                                         applicant
                                       </li>
@@ -1262,7 +1260,7 @@ const Science = () => {
                                         data-gc-list-depth={1}
                                         data-gc-list-style="bullet"
                                       >
-                                        The British Museum may also consult with
+                                        The Dersim Museum may also consult with
                                         other institutions when assessing
                                         applications, particularly if samples
                                         have been requested from several

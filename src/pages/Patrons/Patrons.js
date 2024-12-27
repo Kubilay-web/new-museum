@@ -15,7 +15,7 @@ const Patrons = () => {
         />
         <meta
           name="description"
-          content="Would you like to become a Patron of the British Museum? Explore our programme of diverse activities, partnerships and Special Interest Groups that champion our cultural impact around the world."
+          content="Would you like to become a Patron of the Dersim Museum? Explore our programme of diverse activities, partnerships and Special Interest Groups that champion our cultural impact around the world."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Patrons = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2022-06/Troy_Patrons_private_view_2019_British_Museum.jpg?itok=ysgQauD7"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const Patrons = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Become a Patron | British Museum</title>
+        <title>Become a Patron | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const Patrons = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -544,7 +544,7 @@ const Patrons = () => {
                               </button>
                               <p>
                                 {" "}
-                                A Patron event at the British Museum. Photo
+                                A Patron event at the Dersim Museum. Photo
                                 ©&nbsp;Benedict Johnson Photography Limited.
                               </p>
                             </div>
@@ -816,7 +816,7 @@ const Patrons = () => {
                           <div className="section--intro__content">
                             <p className="h3">
                               The invaluable support of our Patrons enables the
-                              British Museum to continue to care for our
+                              Dersim Museum to continue to care for our
                               world-renowned collection and share it with
                               audiences in London and around the globe.
                             </p>
@@ -837,7 +837,7 @@ const Patrons = () => {
                                 <br />
                                 <span>
                                   We invite you to become a part of the special
-                                  community at the heart of the British Museum:
+                                  community at the heart of the Dersim Museum:
                                 </span>
                               </p>
                               <ul>

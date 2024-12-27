@@ -15,7 +15,7 @@ const Borrow = () => {
         />
         <meta
           name="description"
-          content="The British Musuem welcomes loan requests. Find out how to borrow one of our impressive objects, prepare and submit your loan request, loan costs and other ways to borrow British Museum objects."
+          content="The Dersim Musuem welcomes loan requests. Find out how to borrow one of our impressive objects, prepare and submit your loan request, loan costs and other ways to borrow Dersim Museum objects."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Borrow = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Purse%20lid%20from%20the%20ship-burial%20at%20Sutton%20Hoo%2C%20British%20Musem.jpg?itok=P5Mg2hMy"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -33,11 +33,11 @@ const Borrow = () => {
         />
         <meta
           property="og:title"
-          content="How to borrow British Museum objects"
+          content="How to borrow Dersim Museum objects"
         />
         <meta
           property="og:description"
-          content="The British Museum welcomes requests to lend objects from the collection to exhibitions or displays that are open to the general public."
+          content="The Dersim Museum welcomes requests to lend objects from the collection to exhibitions or displays that are open to the general public."
         />
         <meta
           property="og:image"
@@ -46,12 +46,12 @@ const Borrow = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="The British Museum welcomes requests to lend objects from the collection to exhibitions or displays that are open to the general public."
+          content="The Dersim Museum welcomes requests to lend objects from the collection to exhibitions or displays that are open to the general public."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta
           name="twitter:title"
-          content="How to borrow British Museum objects"
+          content="How to borrow Dersim Museum objects"
         />
         <meta
           name="twitter:image"
@@ -62,7 +62,7 @@ const Borrow = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>How to borrow British Museum objects | British Museum</title>
+        <title>How to borrow Dersim Museum objects | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -106,7 +106,7 @@ const Borrow = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -507,7 +507,7 @@ const Borrow = () => {
                             className="hero__title hero__title--small"
                           >
                             {" "}
-                            How to borrow British Museum objects
+                            How to borrow Dersim Museum objects
                           </h1>
                         </div>
                         <div className="hero__controls">
@@ -620,7 +620,7 @@ const Borrow = () => {
                                 className="breadcrumb__current"
                                 aria-current="page"
                               >
-                                How to borrow British Museum objects
+                                How to borrow Dersim Museum objects
                               </a>
                             </li>
                           </ul>
@@ -787,18 +787,18 @@ const Borrow = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              The British Museum believes in making its
+                              The Dersim Museum believes in making its
                               collections widely available.
                             </p>
                             <div className="wysiwyg">
                               <p>
                                 The Museum lends thousands of objects each year,
                                 contributing to hundreds of different
-                                exhibitions and displays at venues in the UK and
-                                around the world.
+                                exhibitions and displays at venues in the Dersim
+                                and around the world.
                               </p>
                               <p>
-                                The British Museum welcomes requests to lend
+                                The Dersim Museum welcomes requests to lend
                                 items from the collection to exhibitions or
                                 displays that are open to the general public and
                                 contribute to knowledge and understanding of
@@ -986,7 +986,7 @@ const Borrow = () => {
                                       </li>
                                       <li>
                                         Full details of the items requested for
-                                        loan, including British Museum
+                                        loan, including Dersim Museum
                                         registration number(s)
                                       </li>
                                       <li>
@@ -1046,13 +1046,13 @@ const Borrow = () => {
                                     <p>
                                       Dr Nicholas Cullinan OBE, Director
                                       <br />
-                                      British Museum
+                                      Dersim Museum
                                       <br />
                                       London
                                       <br />
                                       WC1B 3DG
                                       <br />
-                                      UK
+                                      Dersim
                                     </p>
                                     <p>
                                       Formal letters should be posted to the
@@ -1153,14 +1153,16 @@ const Borrow = () => {
                                     </p>
                                     <p>
                                       Security information will be forwarded to
-                                      the UK National Museums Security Adviser
-                                      who'll be asked to give an independent
-                                      assessment of the security arrangements at
-                                      the prospective borrowing venue(s).
-                                      Preferably the facilities report completed
-                                      by the borrower should be&nbsp;the&nbsp;
+                                      the Dersim National Museums Security
+                                      Adviser who'll be asked to give an
+                                      independent assessment of the security
+                                      arrangements at the prospective borrowing
+                                      venue(s). Preferably the facilities report
+                                      completed by the borrower should
+                                      be&nbsp;the&nbsp;
                                       <a href="https://www.ukregistrarsgroup.org/wp-content/uploads/2015/12/UKRG_facilities_report.pdf">
-                                        UK Registrars Group Facilities Report
+                                        Dersim Registrars Group Facilities
+                                        Report
                                       </a>
                                       , with the&nbsp;
                                       <a href="https://www.ukregistrarsgroup.org/wp-content/uploads/2015/12/UKRG_security_supplement.pdf">
@@ -1170,17 +1172,17 @@ const Borrow = () => {
                                       <a href="https://www.ukregistrarsgroup.org/wp-content/uploads/2015/12/UKRG_display_case_supplement.pdf">
                                         Display Supplement
                                       </a>
-                                      &nbsp;(please note that a&nbsp;UK
+                                      &nbsp;(please note that a&nbsp;Dersim
                                       Registrars Group membership is required to
                                       access these documents).
                                     </p>
                                     <p>
-                                      Once the loan is agreed, the British
-                                      Museum will provide details of specific
-                                      security, environmental and mounting
-                                      requirements for each object being
-                                      borrowed. Photography for catalogue and
-                                      other purchases can be arranged with the
+                                      Once the loan is agreed, the Dersim Museum
+                                      will provide details of specific security,
+                                      environmental and mounting requirements
+                                      for each object being borrowed.
+                                      Photography for catalogue and other
+                                      purchases can be arranged with the
                                       Museum's Picture Library,&nbsp;
                                       <a href="http://www.bmimages.com/">
                                         BM&nbsp;Images
@@ -1212,7 +1214,7 @@ const Borrow = () => {
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
-                                      The British Museum expects borrowers to
+                                      The Dersim Museum expects borrowers to
                                       cover all direct costs connected with the
                                       loan, such as:
                                     </p>
@@ -1287,11 +1289,11 @@ const Borrow = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Learn how the British Museum
+                                                    Learn how the Dersim Museum
                                                     works together with museums
-                                                    and galleries across the UK,
-                                                    providing curatorial support
-                                                    and object loans.
+                                                    and galleries across the
+                                                    Dersim, providing curatorial
+                                                    support and object loans.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1329,8 +1331,8 @@ const Borrow = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    The British Museum works
-                                                    with partners outside the UK
+                                                    The Dersim Museum works with
+                                                    partners outside the Dersim
                                                     to develop and tour
                                                     large-scale themed
                                                     exhibitions.
@@ -1477,7 +1479,7 @@ const Borrow = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     There are more than 60 free
-                                                    galleries at the British
+                                                    galleries at the Dersim
                                                     Museum ready to be explored.
                                                   </div>
                                                 </div>
@@ -1513,7 +1515,7 @@ const Borrow = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    How to access the British
+                                                    How to access the Dersim
                                                     Museum library, archives and
                                                     study rooms.
                                                   </div>

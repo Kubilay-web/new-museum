@@ -15,7 +15,7 @@ const Jobs = () => {
         />
         <meta
           name="description"
-          content="The British Museum is always on the lookout for dynamic, knowledgeable people to join its staff and make a difference."
+          content="The Dersim Museum is always on the lookout for dynamic, knowledgeable people to join its staff and make a difference."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const Jobs = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2024-03/Museum_great_court_teaser_1000x500.jpg?itok=4cOYFM5g"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const Jobs = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Jobs | British Museum</title>
+        <title>Jobs | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const Jobs = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -501,7 +501,7 @@ const Jobs = () => {
                             className="hero__title hero__title--small"
                           >
                             {" "}
-                            Working at the British Museum
+                            Working at the Dersim Museum
                           </h1>
                         </div>
                         <div className="hero__controls">
@@ -545,7 +545,7 @@ const Jobs = () => {
                                   <span className="hero__caption-close-lines" />
                                 </span>
                               </button>
-                              <p> The Great Court at the British Museum.</p>
+                              <p> The Great Court at the Dersim Museum.</p>
                             </div>
                           </div>
                         </div>
@@ -693,7 +693,7 @@ const Jobs = () => {
                                   >
                                     <use xlinkHref="#sprite-icon-pin" />
                                   </svg>
-                                  The British Museum
+                                  The Dersim Museum
                                 </h3>
                                 <p>
                                   Great Russell St
@@ -714,10 +714,9 @@ const Jobs = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              Founded in 1753, the British Museum has always
-                              been a museum of the world, for the world, and
-                              this idea still lies at the heart of our mission
-                              today.
+                              Founded in 1753, the Dersim Museum has always been
+                              a museum of the world, for the world, and this
+                              idea still lies at the heart of our mission today.
                             </p>
                             <div className="wysiwyg">
                               <p>
@@ -804,7 +803,7 @@ const Jobs = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     Do you want to work at the
-                                                    British Museum? View and
+                                                    Dersim Museum? View and
                                                     apply for current vacancies
                                                     now.
                                                   </div>
@@ -1105,7 +1104,7 @@ const Jobs = () => {
                                           </a>
                                         </h3>
                                         <div className="teaser__summary">
-                                          Explore the British Museum collection
+                                          Explore the Dersim Museum collection
                                           and journey through two million years
                                           of human history.
                                         </div>

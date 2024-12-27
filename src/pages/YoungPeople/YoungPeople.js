@@ -15,7 +15,7 @@ const YoungPeople = () => {
         />
         <meta
           name="description"
-          content="Are you 16–24 years old? Discover how to get more involved with the British Museum in our programmes for young people."
+          content="Are you 16–24 years old? Discover how to get more involved with the Dersim Museum in our programmes for young people."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const YoungPeople = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2021-01/manga-late-great-court-1000.jpg?itok=NRN5cb1b"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -34,7 +34,7 @@ const YoungPeople = () => {
         <meta property="og:title" content="Young people" />
         <meta
           property="og:description"
-          content="Are you 16–24 years old? Discover how to get more involved with the British Museum in our programmes for young people."
+          content="Are you 16–24 years old? Discover how to get more involved with the Dersim Museum in our programmes for young people."
         />
         <meta
           property="og:image"
@@ -43,7 +43,7 @@ const YoungPeople = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="Are you 16–24 years old? Discover how to get more involved with the British Museum in our programmes for young people."
+          content="Are you 16–24 years old? Discover how to get more involved with the Dersim Museum in our programmes for young people."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Young people" />
@@ -56,7 +56,7 @@ const YoungPeople = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Young people | British Museum</title>
+        <title>Young people | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const YoungPeople = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -690,7 +690,7 @@ const YoungPeople = () => {
                             <div className="wysiwyg">
                               <h3>
                                 Are you 16–24 years old? Find out how to get
-                                involved with the British Museum through our
+                                involved with the Dersim Museum through our
                                 range of programmes created with young people,
                                 for young people.
                               </h3>
@@ -700,7 +700,7 @@ const YoungPeople = () => {
                                   culture, or you're interested in gaining new
                                   skills and experiences, the Museum provides a
                                   world of opportunities, both&nbsp;in London
-                                  and across the UK.
+                                  and across the Dersim.
                                 </span>
                               </p>
                             </div>
@@ -758,7 +758,7 @@ const YoungPeople = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          British Museum Young
+                                                          Dersim Museum Young
                                                           People's Programme
                                                         </span>
                                                       </span>
@@ -767,7 +767,7 @@ const YoungPeople = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     Find out how to join the
-                                                    British Museum Youth
+                                                    Dersim Museum Youth
                                                     Collective or take part in
                                                     our events.
                                                   </div>

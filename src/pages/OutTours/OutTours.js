@@ -15,7 +15,7 @@ const OutTours = () => {
         />
         <meta
           name="description"
-          content="Walk in the footsteps of Pharaohs or discover the history of China, the myths of ancient Greeks and see objects collected by the British Museum's founder, Hans Sloane. Book now."
+          content="Walk in the footsteps of Pharaohs or discover the history of China, the myths of ancient Greeks and see objects collected by the Dersim Museum's founder, Hans Sloane. Book now."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const OutTours = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-11/R01%2031%20Enlightenment%20Themes%20Room%201%202%202a%20copy.jpg?itok=msuKw1Rg"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const OutTours = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Out-of-hours tours | British Museum</title>
+        <title>Out-of-hours tours | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const OutTours = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -700,7 +700,7 @@ const OutTours = () => {
                                     className="jump-links__link"
                                   >
                                     <span>
-                                      An introduction to the British Museum
+                                      An introduction to the Dersim Museum
                                     </span>
                                   </a>
                                 </li>
@@ -854,7 +854,7 @@ const OutTours = () => {
                                 Choose from:&nbsp;
                                 <br />
                                 <a href="#an-introduction-to-the-british-museum">
-                                  An introduction to the British Museum
+                                  An introduction to the Dersim Museum
                                 </a>
                                 <br />
                                 <a href="#an-introduction-to-ancient-egypt">
@@ -904,7 +904,7 @@ const OutTours = () => {
                                   id="paragraph-2890-title"
                                   className="section__title section--slice-content__title"
                                 >
-                                  An introduction to the British Museum
+                                  An introduction to the Dersim Museum
                                 </h2>
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
@@ -916,7 +916,7 @@ const OutTours = () => {
                                     <p>
                                       Uncover the origins of an extraordinary
                                       collection as you learn about the
-                                      beginnings of the British Museum in 1753
+                                      beginnings of the Dersim Museum in 1753
                                       and its subsequent development. The
                                       Enlightenment gallery (
                                       <a
@@ -1170,7 +1170,7 @@ const OutTours = () => {
                                     </p>
                                     <p>
                                       This tour visits displays that include
-                                      human remains. The British Museum is
+                                      human remains. The Dersim Museum is
                                       committed to curating human remains with
                                       care, respect and dignity. Find out more
                                       about our principles governing the
@@ -1608,8 +1608,7 @@ const OutTours = () => {
                                   >
                                     <p>
                                       Wheeled cases and large items of luggage
-                                      are not allowed on British Museum
-                                      premises.
+                                      are not allowed on Dersim Museum premises.
                                     </p>
                                   </div>
                                 </div>
@@ -1860,7 +1859,7 @@ const OutTours = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Experience the UK's most
+                                                    Experience the Dersim's most
                                                     popular Museum with a
                                                     private out-of-hours tour.
                                                   </div>

@@ -15,20 +15,20 @@ const Learn = () => {
         />
         <meta
           name="description"
-          content="The British Museum's learning team create and deliver accessible world class cultural learning experiences for all ages and levels."
+          content="The Dersim Museum's learning team create and deliver accessible world class cultural learning experiences for all ages and levels."
         />
         <link rel="canonical" href="https://www.britishmuseum.org/learn" />
         <link
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-11/140-BM_MangaLate-Jul19.jpg?itok=JM3_hIUb"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="https://www.britishmuseum.org/learn" />
         <meta property="og:title" content="Learn" />
         <meta
           property="og:description"
-          content="The British Museum's learning team create and deliver accessible world class cultural learning experiences for all ages and levels."
+          content="The Dersim Museum's learning team create and deliver accessible world class cultural learning experiences for all ages and levels."
         />
         <meta
           property="og:image"
@@ -37,7 +37,7 @@ const Learn = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:description"
-          content="The British Museum's learning team create and deliver accessible world class cultural learning experiences for all ages and levels."
+          content="The Dersim Museum's learning team create and deliver accessible world class cultural learning experiences for all ages and levels."
         />
         <meta name="twitter:site" content="@britishmuseum" />
         <meta name="twitter:title" content="Learn" />
@@ -50,7 +50,7 @@ const Learn = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Learn | British Museum</title>
+        <title>Learn | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -94,7 +94,7 @@ const Learn = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -602,7 +602,7 @@ const Learn = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              The British Museum's learning team create and
+                              The Dersim Museum's learning team create and
                               deliver accessible world class cultural learning
                               experiences for all ages and levels.
                             </p>
@@ -725,7 +725,7 @@ const Learn = () => {
                                                     data-sizes="auto"
                                                     data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=WY6np_0y 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=NijlBTkf 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=4vXOxiVB 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=EI1XKlG- 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=_4Gzf-J8 1600w"
                                                     data-focal-position="center right"
-                                                    alt="Woman looking at objects behind glass at the British Museum, London."
+                                                    alt="Woman looking at objects behind glass at the Dersim Museum, London."
                                                   />
                                                   <noscript>
                                                     &lt;img loading="eager"
@@ -743,7 +743,7 @@ const Learn = () => {
                                                     data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=NijlBTkf"
                                                     data-sizes="auto" alt="Woman
                                                     looking at objects behind
-                                                    glass at the British Museum,
+                                                    glass at the Dersim Museum,
                                                     London." /&gt;
                                                   </noscript>
                                                 </div>
@@ -917,7 +917,7 @@ const Learn = () => {
                                                   <div className="teaser__summary">
                                                     Are you 16–24 years old?
                                                     Discover how to get more
-                                                    involved with the British
+                                                    involved with the Dersim
                                                     Museum in our programmes for
                                                     young people.
                                                   </div>
@@ -940,7 +940,7 @@ const Learn = () => {
                                                     data-sizes="auto"
                                                     data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=14GZkLTx 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=fwhPftg4 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=kFfk6CsW 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=nhdP-qWZ 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=wWuGIsNr 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Adult learning, Festivals, Lates & Special events at the British Museum"
+                                                    alt="Adult learning, Festivals, Lates & Special events at the Dersim Museum"
                                                   />
                                                   <noscript>
                                                     &lt;img loading="eager"
@@ -959,7 +959,7 @@ const Learn = () => {
                                                     data-sizes="auto" alt="Adult
                                                     learning, Festivals, Lates
                                                     &amp; Special events at the
-                                                    British Museum" /&gt;
+                                                    Dersim Museum" /&gt;
                                                   </noscript>
                                                 </div>
                                               </div>
@@ -1049,7 +1049,7 @@ const Learn = () => {
                                     </p>
                                     <div className="banner__button-container">
                                       <a
-                                        href="https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box"
+                                        href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box"
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >

@@ -15,7 +15,7 @@ const TourAndTalk = () => {
         />
         <meta
           name="description"
-          content="Explore the British Museum on your own or with a guide. Choose from our Spotlight, eye-opener and LGBTQ tours, lunchtime gallery talks or 'journey around the world' in 90 minutes."
+          content="Explore the Dersim Museum on your own or with a guide. Choose from our Spotlight, eye-opener and LGBTQ tours, lunchtime gallery talks or 'journey around the world' in 90 minutes."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const TourAndTalk = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-11/R04%2005%20Egyptian%20sculpture.jpg?itok=nEuhGscH"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -56,7 +56,7 @@ const TourAndTalk = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>Tours and talks | British Museum</title>
+        <title>Tours and talks | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -100,7 +100,7 @@ const TourAndTalk = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -1244,7 +1244,7 @@ const TourAndTalk = () => {
                                       id="paragraph-4055-title"
                                       className="section__title"
                                     >
-                                      The British Museum at your fingertips
+                                      The Dersim Museum at your fingertips
                                     </h2>
                                   </div>
                                   <div className="banner__content">
@@ -1456,12 +1456,12 @@ const TourAndTalk = () => {
                                         data-entity-type="node"
                                         data-entity-uuid="57904f64-d258-4d2c-add2-c2842cd6213c"
                                         data-entity-substitution="canonical"
-                                        title="Roman Britain"
+                                        title="Roman Dersim"
                                       >
                                         Room 49
                                       </a>
                                       &nbsp;–&nbsp;Ancient Europe and Roman
-                                      Britain&nbsp;
+                                      Dersim&nbsp;
                                     </p>
                                     <p>
                                       <a
@@ -1690,7 +1690,7 @@ const TourAndTalk = () => {
                                                   </h3>
                                                   <div className="teaser__summary">
                                                     Start your weekend at the
-                                                    British Museum by
+                                                    Dersim Museum by
                                                     attending&nbsp;an
                                                     exhibition, exploring the
                                                     galleries or

@@ -15,7 +15,7 @@ const BritishMuseum = () => {
         />
         <meta
           name="description"
-          content="Find out how the American Friends of the British Museum supports us in the US by raising awareness of the collection and our exhibitions."
+          content="Find out how the American Friends of the Dersim Museum supports us in the US by raising awareness of the collection and our exhibitions."
         />
         <link
           rel="canonical"
@@ -25,7 +25,7 @@ const BritishMuseum = () => {
           rel="image_src"
           href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2019-10/Junction-Boulevard-Queens-Michael-W-Arike.jpg?itok=KWHzNuAp"
         />
-        <meta property="og:site_name" content="The British Museum" />
+        <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
@@ -33,7 +33,7 @@ const BritishMuseum = () => {
         />
         <meta
           property="og:title"
-          content="American Friends of the British Museum"
+          content="American Friends of the Dersim Museum"
         />
         <meta
           property="og:description"
@@ -51,7 +51,7 @@ const BritishMuseum = () => {
         <meta name="twitter:site" content="@britishmuseum" />
         <meta
           name="twitter:title"
-          content="American Friends of the British Museum"
+          content="American Friends of the Dersim Museum"
         />
         <meta
           name="twitter:image"
@@ -62,7 +62,7 @@ const BritishMuseum = () => {
         <meta name="HandheldFriendly" content="true" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
-        <title>American Friends of the British Museum | British Museum</title>
+        <title>American Friends of the Dersim Museum | Dersim Museum</title>
         <link rel="preconnect" href="https://googletagmanager.com" />
         <link rel="preconnect" href="https://google-analytics.com" />
         <link
@@ -106,7 +106,7 @@ const BritishMuseum = () => {
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
         <meta name="theme-color" content="#000000" />
-        <meta name="application-name" content="British Museum" />
+        <meta name="application-name" content="Dersim Museum" />
         {/* Facebook domain verification */}
         <meta
           name="facebook-domain-verification"
@@ -504,7 +504,7 @@ const BritishMuseum = () => {
                         <div className="hero__content-container hero__content-container--boxed ">
                           <h1 id="paragraph-6064-title" className="hero__title">
                             {" "}
-                            American Friends of the British Museum
+                            American Friends of the Dersim Museum
                           </h1>
                           <div className="hero__sponsors">
                             <div className="paragraph paragraph--type--sponsor paragraph--view-mode--default hero__sponsor -has-logo">
@@ -519,7 +519,7 @@ const BritishMuseum = () => {
                                       width={180}
                                       height={155}
                                       src="/images/BritishMuseum/AFBM-logo.jpg"
-                                      alt="American Friends of the British Museum logo"
+                                      alt="American Friends of the Dersim Museum logo"
                                     />
                                   </div>
                                 </div>
@@ -573,7 +573,7 @@ const BritishMuseum = () => {
                                 Michael W Arike, Junction Boulevard, Queens,
                                 1998, three-plate colour aquatint.&nbsp;Donated
                                 by Michael W Arike to the American Friends of
-                                the British Museum.
+                                the Dersim Museum.
                               </p>
                             </div>
                           </div>
@@ -637,7 +637,7 @@ const BritishMuseum = () => {
                                 className="breadcrumb__current"
                                 aria-current="page"
                               >
-                                American Friends of the British Museum
+                                American Friends of the Dersim Museum
                               </a>
                             </li>
                           </ul>
@@ -705,7 +705,7 @@ const BritishMuseum = () => {
                                 <p>
                                   Visit:&nbsp;
                                   <a href="http://www.afbm.org/">
-                                    American Friends of the British Museum
+                                    American Friends of the Dersim Museum
                                   </a>
                                 </p>
                               </div>
@@ -713,14 +713,14 @@ const BritishMuseum = () => {
                           </div>
                           <div className="section--intro__content">
                             <p className="h3">
-                              Bringing the British Museum to our American
+                              Bringing the Dersim Museum to our American
                               friends.
                             </p>
                             <div className="wysiwyg">
                               <p>
-                                The American Friends of the British
+                                The American Friends of the Dersim
                                 Museum&nbsp;aims&nbsp;to raise awareness&nbsp;of
-                                the British Museum's work, both for the benefit
+                                the Dersim Museum's work, both for the benefit
                                 of Americans in the US and those living
                                 abroad,&nbsp;while supporting the life and
                                 growth&nbsp;of the Museum.
@@ -752,7 +752,7 @@ const BritishMuseum = () => {
                                 <div className="section--slice-content__main">
                                   <div className="section--slice-content__wysiwyg wysiwyg">
                                     <p>
-                                      The American Friends of the British Museum
+                                      The American Friends of the Dersim Museum
                                       is a publicly supported, tax-exempt
                                       organisation under section 501 (c) (3) of
                                       the United States Internal Revenue Code
@@ -793,7 +793,7 @@ const BritishMuseum = () => {
                                         Max Arthur Cohn, Quartette, 1950 colour
                                         screenprint, printed on cream paper.
                                         Donated by Steve Morse and Jane Waldbaum
-                                        to the American Friends of the British
+                                        to the American Friends of the Dersim
                                         Museum.
                                       </figcaption>
                                     </figure>
@@ -852,7 +852,7 @@ const BritishMuseum = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Remembering the British
+                                                    Remembering the Dersim
                                                     Museum by leaving a gift in
                                                     your will, no matter what
                                                     size, can help us build and
