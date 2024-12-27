@@ -2110,6 +2110,7 @@ const PrintMaker = () => {
                                                     height={422}
                                                     data-sizes="auto"
                                                     data-focal-position="center center"
+                                                    src="/images/PrintMaker/image-05.jpg"
                                                   />
                                                 </div>
                                               </div>
