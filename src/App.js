@@ -74,6 +74,7 @@ import FootSteps from "./pages/FootSteps/FootSteps";
 import LittleFeet from "./pages/LittleFeet/LittleFeet";
 import DeafLed from "./pages/DeafLed/DeafLed";
 import Nexus from "./pages/Nexus/Nexus";
+import LittleFeetExplore from "./pages/LittleFeetExplore/LittleFeetExplore";
 
 function App() {
   return (
@@ -208,6 +209,10 @@ function App() {
       />
 
       <Route path="/events/istanbul-nexus-silk-roads" element={<Nexus />} />
+      <Route
+        path="/events/little-feet-explore-silk-roads-10-Feb"
+        element={<LittleFeetExplore />}
+      />
     </Routes>
   );
 }
