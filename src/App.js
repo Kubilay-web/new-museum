@@ -33,7 +33,7 @@ import CaseStudies from "./pages/CaseStudies/CaseStudies";
 import Volunteer from "./pages/Volunteer/Volunteer";
 import ExistPatron from "./pages/ExistPatron/ExistPatron";
 import LeaveLegacy from "./pages/LeaveLegacy/LeaveLegacy";
-import BritishMuseum from "./pages/BritishMuseum/BritishMuseum";
+import DersimMuseum from "./pages/DersimMuseum/DersimMuseum";
 import Search from "./pages/Search/Search";
 import AboutUs from "./pages/AboutUs/AboutUs";
 import Govarnance from "./pages/Governance/Govarnance";
@@ -109,7 +109,7 @@ function App() {
       <Route path="/support-us/leave-legacy" element={<LeaveLegacy />} />
       <Route
         path="/support-us/american-friends-british-museum"
-        element={<BritishMuseum />}
+        element={<DersimMuseum />}
       />
       <Route path="/search" element={<Search />} />
       <Route path="/about-us" element={<AboutUs />} />

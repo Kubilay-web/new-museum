@@ -2,7 +2,7 @@ import React from "react";
 import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
 
-const BritishMuseum = () => {
+const DersimMuseum = () => {
   return (
     <div>
       <div>
@@ -41,7 +41,7 @@ const BritishMuseum = () => {
         />
         <meta
           property="og:image"
-          content="/images/BritishMuseum/Junction-Boulevard-Queens-Michael-W-Arike_1.jpg"
+          content="/images/DersimMuseum/Junction-Boulevard-Queens-Michael-W-Arike_1.jpg"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta
@@ -84,24 +84,24 @@ const BritishMuseum = () => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href="/images/BritishMuseum/apple-touch-icon.png"
+          href="/images/DersimMuseum/apple-touch-icon.png"
         />
         <link
           rel="icon"
           type="image/png"
-          href="/images/BritishMuseum/favicon-32x32.png"
+          href="/images/DersimMuseum/favicon-32x32.png"
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href="/images/BritishMuseum/favicon-16x16.png"
+          href="/images/DersimMuseum/favicon-16x16.png"
           sizes="16x16"
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="/images/BritishMuseum/safari-pinned-tab.svg"
+          href="/images/DersimMuseum/safari-pinned-tab.svg"
           color="#5bbad5"
         />
         <meta name="msapplication-TileColor" content="#FFFFFF" />
@@ -467,21 +467,21 @@ const BritishMuseum = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="/images/BritishMuseum/Junction-Boulevard-Queens-Michael-W-Arike_3.jpg 1x"
+                            srcSet="/images/DersimMuseum/Junction-Boulevard-Queens-Michael-W-Arike_3.jpg 1x"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1034}
                           />
                           <source
-                            srcSet="/images/BritishMuseum/Junction-Boulevard-Queens-Michael-W-Arike_1.jpg 1x"
+                            srcSet="/images/DersimMuseum/Junction-Boulevard-Queens-Michael-W-Arike_1.jpg 1x"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={840}
                           />
                           <source
-                            srcSet="/images/BritishMuseum/Junction-Boulevard-Queens-Michael-W-Arike_2.jpg 1x"
+                            srcSet="/images/DersimMuseum/Junction-Boulevard-Queens-Michael-W-Arike_2.jpg 1x"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -493,7 +493,7 @@ const BritishMuseum = () => {
                             width={750}
                             height={750}
                             data-focal-position="bottom center"
-                            src="/images/BritishMuseum/Junction-Boulevard-Queens-Michael-W-Arike.jpg"
+                            src="/images/DersimMuseum/Junction-Boulevard-Queens-Michael-W-Arike.jpg"
                             alt="View of street with shop units, signage and figures with tree to left"
                           />
                         </picture>
@@ -514,11 +514,11 @@ const BritishMuseum = () => {
                                     <img
                                       loading="eager"
                                       className="lazyload not-full-width"
-                                      srcSet="/images/BritishMuseum/AFBM-logo_1.jpg 180w"
+                                      srcSet="/images/DersimMuseum/AFBM-logo_1.jpg 180w"
                                       sizes="100vw"
                                       width={180}
                                       height={155}
-                                      src="/images/BritishMuseum/AFBM-logo.jpg"
+                                      src="/images/DersimMuseum/AFBM-logo.jpg"
                                       alt="American Friends of the Dersim Museum logo"
                                     />
                                   </div>
@@ -782,11 +782,11 @@ const BritishMuseum = () => {
                                       <img
                                         loading="eager"
                                         className="lazyload not-full-width"
-                                        srcSet="/images/BritishMuseum/string-quartet-max-arthur-cohn-small_2.jpg 400w, /images/BritishMuseum/string-quartet-max-arthur-cohn-small_3.jpg 750w, /images/BritishMuseum/string-quartet-max-arthur-cohn-small_1.jpg 1000w"
+                                        srcSet="/images/DersimMuseum/string-quartet-max-arthur-cohn-small_2.jpg 400w, /images/DersimMuseum/string-quartet-max-arthur-cohn-small_3.jpg 750w, /images/DersimMuseum/string-quartet-max-arthur-cohn-small_1.jpg 1000w"
                                         sizes="100vw"
                                         width={1000}
                                         height={501}
-                                        src="/images/BritishMuseum/string-quartet-max-arthur-cohn-small.jpg"
+                                        src="/images/DersimMuseum/string-quartet-max-arthur-cohn-small.jpg"
                                         alt="Colour screenprint of four men playing string instruments"
                                       />
                                       <figcaption>
@@ -832,7 +832,7 @@ const BritishMuseum = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/BritishMuseum/image-01.jpg"
+                                                    src="/images/DersimMuseum/image-01.jpg"
                                                   />
                                                 </div>
                                               </div>
@@ -873,7 +873,7 @@ const BritishMuseum = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/BritishMuseum/image-02.webp"
+                                                    src="/images/DersimMuseum/image-02.webp"
                                                   />
                                                 </div>
                                               </div>
@@ -914,7 +914,7 @@ const BritishMuseum = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/BritishMuseum/image-03.jpg"
+                                                    src="/images/DersimMuseum/image-03.jpg"
                                                   />
                                                 </div>
                                               </div>
@@ -1089,4 +1089,4 @@ const BritishMuseum = () => {
   );
 };
 
-export default BritishMuseum;
+export default DersimMuseum;
