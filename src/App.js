@@ -71,6 +71,8 @@ import BeyondSand from "./pages/BeyondSand/BeyondSand";
 import FarHome from "./pages/FarHome/FarHome";
 import SriLanka from "./pages/SriLanka/SriLanka";
 import FootSteps from "./pages/FootSteps/FootSteps";
+import LittleFeet from "./pages/LittleFeet/LittleFeet";
+import DeafLed from "./pages/DeafLed/DeafLed";
 
 function App() {
   return (
@@ -192,6 +194,16 @@ function App() {
       <Route
         path="/blog/footsteps-history-travelling-silk-roads-today"
         element={<FootSteps />}
+      />
+
+      <Route
+        path="/events/little-feet-silk-roads-exhibition-explorer-17-Jan"
+        element={<LittleFeet />}
+      />
+
+      <Route
+        path="/events/deaf-led-bsl-tour-silk-roads"
+        element={<DeafLed />}
       />
     </Routes>
   );
