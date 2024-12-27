@@ -483,21 +483,21 @@ const HewLocke = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_huge/public/2024-10/Hew_Locke_QV_2000x1125.jpg?itok=hUwRc9qS 1x"
+                            src="/images/HewLocke/image-01.jpg"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_large/public/2024-10/Hew_Locke_QV_2000x1125.jpg?itok=20gI_TeR 1x"
+                            src="/images/HewLocke/image-01.jpg"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/1_1_media_medium/public/2024-10/Hew_Locke_QV_2000x1125.jpg?h=858b1e57&itok=t8k_yVCQ 1x"
+                            src="/images/HewLocke/image-01.jpg"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -509,8 +509,7 @@ const HewLocke = () => {
                             width={750}
                             height={750}
                             data-focal-position="bottom right"
-                            src="/sites/default/files/styles/1_1_media_small/public/2024-10/Hew_Locke_QV_2000x1125.jpg?h=858b1e57&itok=WBYr6_sw"
-                            alt="Bust of Queen, adorned with regalia of empire including skulls, tropical foliage, brass plaques, and replicas of military insignia including medals of imperial conflicts. "
+                            src="/images/HewLocke/image-01.jpg"
                           />
                         </picture>
                       </div>
@@ -563,12 +562,10 @@ const HewLocke = () => {
                                     <img
                                       loading="eager"
                                       className="not-full-width ls-is-cached lazyloaded"
-                                      srcSet="/sites/default/files/styles/uncropped_tiny/public/2019-10/Cockane.png?itok=flfXDbgl 187w"
+                                      src="/images/HewLocke/image-02.webp"
                                       sizes="100vw"
                                       width={187}
                                       height={54}
-                                      src="/sites/default/files/styles/uncropped_huge/public/2019-10/Cockane.png?itok=bSeMDw5T"
-                                      alt="Cockayne logo"
                                     />
                                   </div>
                                 </div>
@@ -581,12 +578,10 @@ const HewLocke = () => {
                                     <img
                                       loading="eager"
                                       className="not-full-width ls-is-cached lazyloaded"
-                                      srcSet="/sites/default/files/styles/uncropped_tiny/public/2019-10/Dersim%20Community%20trimmed.png?itok=djRCh6Co 227w"
+                                      src="/images/HewLocke/image-03.webp"
                                       sizes="100vw"
                                       width={227}
                                       height={134}
-                                      src="/sites/default/files/styles/uncropped_huge/public/2019-10/Dersim%20Community%20trimmed.png?itok=-vWy3aQi"
-                                      alt="logo of london community foundation"
                                     />
                                   </div>
                                 </div>
@@ -762,29 +757,8 @@ const HewLocke = () => {
                                 height={422}
                                 data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6"
                                 data-sizes="auto"
-                                data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=bBQ9Fzq8 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=2U2LQ4z6 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=LMuBMahJ 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=L6qjUiGy 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&itok=fhhOqZBV 1600w"
                                 data-focal-position="bottom center"
-                                alt="Bust of Queen, adorned with regalia of empire including skulls, tropical foliage, brass plaques, and replicas of military insignia including medals of imperial conflicts. "
                               />
-                              <noscript>
-                                &lt;img loading="eager"
-                                srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=bBQ9Fzq8
-                                400w,
-                                /sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=2U2LQ4z6
-                                750w,
-                                /sites/default/files/styles/16_9_media_medium/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=LMuBMahJ
-                                1000w,
-                                /sites/default/files/styles/16_9_media_large/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=L6qjUiGy
-                                1300w,
-                                /sites/default/files/styles/16_9_media_huge/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=fhhOqZBV
-                                1600w" width="750" height="422"
-                                data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Hew_Locke_Souvenir_20_1920x1080.jpg?h=70c8bc7d&amp;amp;itok=2U2LQ4z6"
-                                data-sizes="auto" alt="Bust of Queen, adorned
-                                with regalia of empire including skulls,
-                                tropical foliage, brass plaques, and replicas of
-                                military insignia including medals of imperial
-                                conflicts. " /&gt;
-                              </noscript>
                             </div>
                           </div>
                         </div>
@@ -1267,24 +1241,12 @@ const HewLocke = () => {
                                               className="not-full-width lazyautosizes lazyloaded"
                                               width={1077}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_05_crop.jpg?itok=clX274oV"
+                                              src="/images/HewLocke/image-04.webp"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_05_crop.jpg?itok=clX274oV 1077w"
                                               data-focal-position="center center"
                                               alt="Visitors inside Hew Locke: what have we here?"
                                               sizes="769px"
-                                              srcSet="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_05_crop.jpg?itok=clX274oV 1077w"
-                                              src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_05_crop.jpg?itok=clX274oV"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_05_crop.jpg?itok=clX274oV
-                                              1077w" width="1077" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_05_crop.jpg?itok=clX274oV"
-                                              data-sizes="auto" alt="Visitors
-                                              inside Hew Locke: what have we
-                                              here?" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             A visitor examining Locke's work
@@ -1324,24 +1286,11 @@ const HewLocke = () => {
                                               className="not-full-width lazyautosizes lazyloaded"
                                               width={1077}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_01_crop.jpg?itok=sSEG1_Vb"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_01_crop.jpg?itok=sSEG1_Vb 1077w"
                                               data-focal-position="center center"
-                                              alt="Visitors inside Hew Locke: what have we here?"
+                                              src="/images/HewLocke/image-05.webp"
                                               sizes="769px"
-                                              srcSet="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_01_crop.jpg?itok=sSEG1_Vb 1077w"
-                                              src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_01_crop.jpg?itok=sSEG1_Vb"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_01_crop.jpg?itok=sSEG1_Vb
-                                              1077w" width="1077" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-11/HewLocke_Marketing_01_crop.jpg?itok=sSEG1_Vb"
-                                              data-sizes="auto" alt="Visitors
-                                              inside Hew Locke: what have we
-                                              here?" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             Visitors contemplate weapons of war
@@ -1825,28 +1774,11 @@ const HewLocke = () => {
                                               className="not-full-width lazyautosizes lazyloaded"
                                               width={500}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Souvenir%2020%20%28Queen%20Victoria%29%2C%20Hew%20Locke%202024.%20Photo%20by%20Anna%20Arca%20%C2%A9%20Hew%20Locke-1429x2000_0.jpg?itok=Uf19l_nf"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Souvenir%2020%20%28Queen%20Victoria%29%2C%20Hew%20Locke%202024.%20Photo%20by%20Anna%20Arca%20%C2%A9%20Hew%20Locke-1429x2000_0.jpg?itok=Uf19l_nf 500w"
                                               data-focal-position="center center"
-                                              alt="Bust of Queen Victoria, adorned with regalia of empire including skulls, tropical foliage, brass plaques, and replicas of military insignia including medals of imperial conflicts. "
+                                              src="/images/HewLocke/image-06.jpg"
                                               sizes="357px"
-                                              srcSet="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Souvenir%2020%20%28Queen%20Victoria%29%2C%20Hew%20Locke%202024.%20Photo%20by%20Anna%20Arca%20%C2%A9%20Hew%20Locke-1429x2000_0.jpg?itok=Uf19l_nf 500w"
-                                              src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Souvenir%2020%20%28Queen%20Victoria%29%2C%20Hew%20Locke%202024.%20Photo%20by%20Anna%20Arca%20%C2%A9%20Hew%20Locke-1429x2000_0.jpg?itok=Uf19l_nf"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Souvenir%2020%20%28Queen%20Victoria%29%2C%20Hew%20Locke%202024.%20Photo%20by%20Anna%20Arca%20%C2%A9%20Hew%20Locke-1429x2000_0.jpg?itok=Uf19l_nf
-                                              500w" width="500" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Souvenir%2020%20%28Queen%20Victoria%29%2C%20Hew%20Locke%202024.%20Photo%20by%20Anna%20Arca%20%C2%A9%20Hew%20Locke-1429x2000_0.jpg?itok=Uf19l_nf"
-                                              data-sizes="auto" alt="Bust of
-                                              Queen Victoria, adorned with
-                                              regalia of empire including
-                                              skulls, tropical foliage, brass
-                                              plaques, and replicas of military
-                                              insignia including medals of
-                                              imperial conflicts. " /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             'Souvenir 20 (Queen Victoria)'
@@ -1881,26 +1813,11 @@ const HewLocke = () => {
                                               className="not-full-width lazyautosizes lazyloaded"
                                               width={559}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Brooks-Jug-1667x2086.jpg?itok=8KGFoKt9"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Brooks-Jug-1667x2086.jpg?itok=8KGFoKt9 559w"
                                               data-focal-position="center center"
-                                              alt="Creamware jug, slightly waisted near the base with loop handle, printed with a sailing ship, vines and flowers"
+                                              src="/images/HewLocke/image-07.webp"
                                               sizes="399px"
-                                              srcSet="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Brooks-Jug-1667x2086.jpg?itok=8KGFoKt9 559w"
-                                              src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Brooks-Jug-1667x2086.jpg?itok=8KGFoKt9"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Brooks-Jug-1667x2086.jpg?itok=8KGFoKt9
-                                              559w" width="559" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Brooks-Jug-1667x2086.jpg?itok=8KGFoKt9"
-                                              data-sizes="auto" alt="Creamware
-                                              jug, slightly waisted near the
-                                              base with loop handle, printed
-                                              with a sailing ship, vines and
-                                              flowers" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             The Brooks Jug
@@ -1935,25 +1852,12 @@ const HewLocke = () => {
                                               className="not-full-width lazyautosizes lazyloaded"
                                               width={735}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Barbados_Penny.jpg?itok=RxLkjR4O"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Barbados_Penny.jpg?itok=RxLkjR4O 735w"
                                               data-focal-position="center center"
                                               alt="One side of a copper-coloured alloy coin, showing the crowned head of an African man."
                                               sizes="525px"
-                                              srcSet="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Barbados_Penny.jpg?itok=RxLkjR4O 735w"
-                                              src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Barbados_Penny.jpg?itok=RxLkjR4O"
+                                              src="/images/HewLocke/image-08.webp"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Barbados_Penny.jpg?itok=RxLkjR4O
-                                              735w" width="735" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2024-07/Barbados_Penny.jpg?itok=RxLkjR4O"
-                                              data-sizes="auto" alt="One side of
-                                              a copper-coloured alloy coin,
-                                              showing the crowned head of an
-                                              African man." /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             Barbados Penny
@@ -2411,34 +2315,11 @@ const HewLocke = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=Wswsw_8Z"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=8g4bt6mR 400w, /sites/default/files/styles/16_9_media_small/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=Wswsw_8Z 750w, /sites/default/files/styles/16_9_media_medium/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=C6Dtsjcm 1000w, /sites/default/files/styles/16_9_media_large/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=hs-fezRf 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=hwvsrL9d 1600w"
                                                     data-focal-position="top left"
-                                                    alt="Man sitting on stairs with colour masked figures behind him."
+                                                    src="/images/HewLocke/image-09.jpeg"
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=8g4bt6mR 400w, /sites/default/files/styles/16_9_media_small/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=Wswsw_8Z 750w, /sites/default/files/styles/16_9_media_medium/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=C6Dtsjcm 1000w, /sites/default/files/styles/16_9_media_large/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=hs-fezRf 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=hwvsrL9d 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&itok=Wswsw_8Z"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;amp;itok=8g4bt6mR
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;amp;itok=Wswsw_8Z
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;amp;itok=C6Dtsjcm
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;amp;itok=hs-fezRf
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;amp;itok=hwvsrL9d
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-08/I9xTJRtQ.jpeg?h=f3d113e0&amp;amp;itok=Wswsw_8Z"
-                                                    data-sizes="auto" alt="Man
-                                                    sitting on stairs with
-                                                    colour masked figures behind
-                                                    him." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2490,34 +2371,11 @@ const HewLocke = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=GPbOHNW7"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=ufx2fKa9 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=GPbOHNW7 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=1rmmtsx1 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=28vFR-XQ 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=oswA18lj 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Hew Locke wears blue gloves and examines a penny through a magnifying glass"
+                                                    src="/images/HewLocke/image-10.webp"
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=ufx2fKa9 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=GPbOHNW7 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=1rmmtsx1 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=28vFR-XQ 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=oswA18lj 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&itok=GPbOHNW7"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;amp;itok=ufx2fKa9
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;amp;itok=GPbOHNW7
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;amp;itok=1rmmtsx1
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;amp;itok=28vFR-XQ
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;amp;itok=oswA18lj
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/HewLocke-Penny-RCannon-1920x1080.png?h=d1cb525d&amp;amp;itok=GPbOHNW7"
-                                                    data-sizes="auto" alt="Hew
-                                                    Locke wears blue gloves and
-                                                    examines a penny through a
-                                                    magnifying glass" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2570,36 +2428,11 @@ const HewLocke = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=EJiVjKnN 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=w5TkDR8G 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=PfzaPMzD 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=tofGnREC 1600w"
                                                     data-focal-position="top left"
-                                                    alt="Three young people of colour sit with the poet Jenny Mitchell in the Prints and Drawings study room looking at art"
+                                                    src="/images/HewLocke/image-11.jpg"
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=EJiVjKnN 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=w5TkDR8G 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=PfzaPMzD 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=tofGnREC 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&itok=pmHnwNQG"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=EJiVjKnN
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=pmHnwNQG
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=w5TkDR8G
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=PfzaPMzD
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=tofGnREC
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Young-people-Black-Dersim-History-research-1920x1080.jpg?h=bb657648&amp;amp;itok=pmHnwNQG"
-                                                    data-sizes="auto" alt="Three
-                                                    young people of colour sit
-                                                    with the poet Jenny Mitchell
-                                                    in the Prints and Drawings
-                                                    study room looking at art"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2652,35 +2485,11 @@ const HewLocke = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=Yo_njkdw"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=VqzwV7N_ 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=Yo_njkdw 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=72Box_wk 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=CUNknksV 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=42d2lgRT 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Hew Locke in the Prints and Drawings Study Room at the Dersim Museum, 2024. Photo © Richard Cannon."
+                                                    src="/images/HewLocke/image-12.webp"
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=VqzwV7N_ 400w, /sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=Yo_njkdw 750w, /sites/default/files/styles/16_9_media_medium/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=72Box_wk 1000w, /sites/default/files/styles/16_9_media_large/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=CUNknksV 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=42d2lgRT 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&itok=Yo_njkdw"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;amp;itok=VqzwV7N_
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;amp;itok=Yo_njkdw
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;amp;itok=72Box_wk
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;amp;itok=CUNknksV
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;amp;itok=42d2lgRT
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-11/Who-is-Hew-Locke-teaser-1000x634.png?h=0c488664&amp;amp;itok=Yo_njkdw"
-                                                    data-sizes="auto" alt="Hew
-                                                    Locke in the Prints and
-                                                    Drawings Study Room at the
-                                                    Dersim Museum, 2024. Photo ©
-                                                    Richard Cannon." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2762,32 +2571,10 @@ const HewLocke = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=e5a-nF2z"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=A_OXmD8N 400w, /sites/default/files/styles/16_9_media_small/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=e5a-nF2z 750w, /sites/default/files/styles/16_9_media_medium/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=JpF-jfC7 1000w, /sites/default/files/styles/16_9_media_large/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=pRDaICEP 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=P_VsA48G 1600w"
                                                     data-focal-position="center center"
-                                                    alt="One side of a copper-coloured alloy coin, showing the crowned head of an African man."
+                                                    src="/images/HewLocke/image-13.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=A_OXmD8N
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=e5a-nF2z
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=JpF-jfC7
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=pRDaICEP
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=P_VsA48G
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=e5a-nF2z"
-                                                    data-sizes="auto" alt="One
-                                                    side of a copper-coloured
-                                                    alloy coin, showing the
-                                                    crowned head of an African
-                                                    man." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -2884,32 +2671,10 @@ const HewLocke = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=e5a-nF2z"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=A_OXmD8N 400w, /sites/default/files/styles/16_9_media_small/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=e5a-nF2z 750w, /sites/default/files/styles/16_9_media_medium/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=JpF-jfC7 1000w, /sites/default/files/styles/16_9_media_large/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=pRDaICEP 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&itok=P_VsA48G 1600w"
                                                     data-focal-position="center center"
-                                                    alt="One side of a copper-coloured alloy coin, showing the crowned head of an African man."
+                                                    src="/images/HewLocke/image-14.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=A_OXmD8N
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=e5a-nF2z
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=JpF-jfC7
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=pRDaICEP
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=P_VsA48G
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-07/Barbados_penny_teaser.jpg?h=d1cb525d&amp;amp;itok=e5a-nF2z"
-                                                    data-sizes="auto" alt="One
-                                                    side of a copper-coloured
-                                                    alloy coin, showing the
-                                                    crowned head of an African
-                                                    man." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3060,35 +2825,9 @@ const HewLocke = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=mWzNpwZE"
-                                                    data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=c6-aW51A 400w, /sites/default/files/styles/16_9_media_small/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=mWzNpwZE 750w, /sites/default/files/styles/16_9_media_medium/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=veFlJMf7 1000w, /sites/default/files/styles/16_9_media_large/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=VxIkWiYE 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&itok=KqNuoGGk 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Bust of Queen Victoria, adorned with regalia of empire including skulls, tropical foliage, brass plaques, and replicas of military insignia including medals of imperial conflicts. "
+                                                    src="/images/HewLocke/image-15.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;amp;itok=c6-aW51A
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;amp;itok=mWzNpwZE
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;amp;itok=veFlJMf7
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;amp;itok=VxIkWiYE
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;amp;itok=KqNuoGGk
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Souvenir_20_1920x1080.jpg?h=f60f1e8c&amp;amp;itok=mWzNpwZE"
-                                                    data-sizes="auto" alt="Bust
-                                                    of Queen Victoria, adorned
-                                                    with regalia of empire
-                                                    including skulls, tropical
-                                                    foliage, brass plaques, and
-                                                    replicas of military
-                                                    insignia including medals of
-                                                    imperial conflicts. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3197,29 +2936,10 @@ const HewLocke = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&itok=gtGe8eIW"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&itok=KKMju3lV 400w, /sites/default/files/styles/16_9_media_small/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&itok=gtGe8eIW 750w, /sites/default/files/styles/16_9_media_medium/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&itok=_B-PRJlz 1000w, /sites/default/files/styles/16_9_media_large/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&itok=0MtccpHr 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&itok=r2znWrax 1600w"
                                                     data-focal-position="center center"
-                                                    alt="TBC"
+                                                    src="/images/HewLocke/image-16.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&amp;amp;itok=KKMju3lV
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&amp;amp;itok=gtGe8eIW
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&amp;amp;itok=_B-PRJlz
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&amp;amp;itok=0MtccpHr
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&amp;amp;itok=r2znWrax
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-10/Confederate_States_of_America_1920x1080.jpg?h=d1cb525d&amp;amp;itok=gtGe8eIW"
-                                                    data-sizes="auto" alt="TBC"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -3600,12 +3320,10 @@ const HewLocke = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-10/Hew%20Locke%20what%20have%20we%20here.jpg?itok=X4F38RK2 400w, /sites/default/files/styles/uncropped_small/public/2024-10/Hew%20Locke%20what%20have%20we%20here.jpg?itok=frSKseOt 750w, /sites/default/files/styles/uncropped_medium/public/2024-10/Hew%20Locke%20what%20have%20we%20here.jpg?itok=KxWm-X7v 1000w, /sites/default/files/styles/uncropped_large/public/2024-10/Hew%20Locke%20what%20have%20we%20here.jpg?itok=V-CWHMSt 1200w"
                                                     sizes="100vw"
                                                     width={1200}
                                                     height={1200}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-10/Hew%20Locke%20what%20have%20we%20here.jpg?itok=3CD8KL-V"
-                                                    alt="A bust of Queen Victoria adorned with gold decoration on the cover of the Hew Locke: what have we here? exhibition book"
+                                                    src="/images/HewLocke/image-17.jpg"
                                                   />
                                                 </div>
                                               </div>
@@ -3651,12 +3369,10 @@ const HewLocke = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-10/Chinese_Imperial_Gold_11.jpg?itok=0o49pDJN 400w, /sites/default/files/styles/uncropped_small/public/2024-10/Chinese_Imperial_Gold_11.jpg?itok=oRhHrD19 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-10/Chinese_Imperial_Gold_11.jpg?itok=oc0YVAlt"
-                                                    alt="A reproduction of a Chinese Imperial share certificate overpainted with a multi-coloured jigsaw puzzle map of Africa by artist Hew Locke"
+                                                    src="/images/HewLocke/image-18.jpg"
                                                   />
                                                 </div>
                                               </div>
@@ -3702,12 +3418,10 @@ const HewLocke = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-10/Maria_Sibylla_Merian%20_Tea_Towel.jpg?itok=KlQFFkTQ 400w, /sites/default/files/styles/uncropped_small/public/2024-10/Maria_Sibylla_Merian%20_Tea_Towel.jpg?itok=bM2Q0KUy 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-10/Maria_Sibylla_Merian%20_Tea_Towel.jpg?itok=t52u1Tkv"
-                                                    alt="A tea towel with colourful wildlife paintings, including two birds wrestling with snakes, by artist Maria Sibylla Merian."
+                                                    src="/images/HewLocke/image-19.webp"
                                                   />
                                                 </div>
                                               </div>
@@ -3752,12 +3466,10 @@ const HewLocke = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-10/Adinkra_Symbol_Socks.jpg?itok=pdjq46LF 400w, /sites/default/files/styles/uncropped_small/public/2024-10/Adinkra_Symbol_Socks.jpg?itok=9Ki8KTMp 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2024-10/Adinkra_Symbol_Socks.jpg?itok=vcqNMPKi"
-                                                    alt="A pair of multicoloured socks."
+                                                    src="/images/HewLocke/image-20.webp"
                                                   />
                                                 </div>
                                               </div>
@@ -4993,12 +4705,10 @@ const HewLocke = () => {
                                         <img
                                           loading="eager"
                                           className="lazyload not-full-width"
-                                          srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-07/Cockayne_61x18.png?itok=PtXBkF-R 61w"
                                           sizes="100vw"
                                           width={61}
                                           height={18}
-                                          src="/sites/default/files/styles/uncropped_huge/public/2024-07/Cockayne_61x18.png?itok=KFFfewSN"
-                                          alt="Cockayne logo"
+                                          src="/images/HewLocke/image-21.webp"
                                         />
                                       </div>
                                     </div>
@@ -5015,12 +4725,10 @@ const HewLocke = () => {
                                         <img
                                           loading="eager"
                                           className="lazyload not-full-width"
-                                          srcSet="/sites/default/files/styles/uncropped_tiny/public/2024-07/London_Community_62x37.png?itok=U7401FOu 62w"
                                           sizes="100vw"
                                           width={62}
                                           height={37}
-                                          src="/sites/default/files/styles/uncropped_huge/public/2024-07/London_Community_62x37.png?itok=j_iBzDga"
-                                          alt="Dersim Community Foundation logo"
+                                          src="/images/HewLocke/image-22.webp"
                                         />
                                       </div>
                                     </div>
@@ -5069,29 +4777,10 @@ const HewLocke = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=XxKczNpi"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=50ndP1Dv 400w, /sites/default/files/styles/16_9_media_small/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=XxKczNpi 750w, /sites/default/files/styles/16_9_media_medium/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=Hh1khsdq 1000w, /sites/default/files/styles/16_9_media_large/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=IkZvh6RJ 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&itok=ZcsCPq5W 1600w"
+                                          src="/images/HewLocke/image-23.jpg"
                                           data-focal-position="center center"
-                                          alt="Painting with purple background, with black snakes moving across the composition"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;amp;itok=50ndP1Dv
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;amp;itok=XxKczNpi
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;amp;itok=Hh1khsdq
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;amp;itok=IkZvh6RJ
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;amp;itok=ZcsCPq5W
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/pukara-spinifex-people-1920.jpg?h=d1cb525d&amp;amp;itok=XxKczNpi"
-                                          data-sizes="auto" alt="Painting with
-                                          purple background, with black snakes
-                                          moving across the composition" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -5128,30 +4817,10 @@ const HewLocke = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=NevPkSr2"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=ml0JUlzP 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=NevPkSr2 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=l8T3kEyL 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=N1cpGDsR 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&itok=SuqDQTIE 1600w"
                                           data-focal-position="center center"
-                                          alt="Gold funerary mask, the Santo Domingo Centre of Excellence for Latin American Research"
+                                          src="/images/HewLocke/image-24.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;amp;itok=ml0JUlzP
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;amp;itok=NevPkSr2
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;amp;itok=l8T3kEyL
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;amp;itok=N1cpGDsR
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;amp;itok=SuqDQTIE
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Gold-funerary-mask-The-Santo-Domingo-Centre-of-Excellence-for-Latin-American-Research-british-museum.jpg?h=d1cb525d&amp;amp;itok=NevPkSr2"
-                                          data-sizes="auto" alt="Gold funerary
-                                          mask, the Santo Domingo Centre of
-                                          Excellence for Latin American
-                                          Research" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -5191,28 +4860,10 @@ const HewLocke = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=-rqJcwlf"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=1VYezG_8 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=-rqJcwlf 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=4l7aQ2kQ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=aKiQ-3sS 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&itok=5me9BTDh 1600w"
                                           data-focal-position="center center"
-                                          alt="South American fabric with bird"
+                                          src="/images/HewLocke/image-25.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;amp;itok=1VYezG_8
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;amp;itok=-rqJcwlf
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;amp;itok=4l7aQ2kQ
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;amp;itok=aKiQ-3sS
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;amp;itok=5me9BTDh
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/South%20American%20fabric%20with%20bird%2C%20EMKP%20british%20museum.jpg?h=f6a644f0&amp;amp;itok=-rqJcwlf"
-                                          data-sizes="auto" alt="South American
-                                          fabric with bird" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -5252,29 +4903,10 @@ const HewLocke = () => {
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&itok=-W_W5I23"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&itok=sWT7US0c 400w, /sites/default/files/styles/16_9_media_small/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&itok=-W_W5I23 750w, /sites/default/files/styles/16_9_media_medium/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&itok=WKeK-5FD 1000w, /sites/default/files/styles/16_9_media_large/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&itok=vUl3mLGn 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&itok=YfLu9RJU 1600w"
                                           data-focal-position="center center"
-                                          alt="Wide view shot of the horse head sculpture from the Parthenon marbles"
+                                          src="/images/HewLocke/image-26.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&amp;amp;itok=sWT7US0c
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&amp;amp;itok=-W_W5I23
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&amp;amp;itok=WKeK-5FD
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&amp;amp;itok=vUl3mLGn
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&amp;amp;itok=YfLu9RJU
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2020-02/R18%2018_Parthenon%20edit.jpg?h=24444dd2&amp;amp;itok=-W_W5I23"
-                                          data-sizes="auto" alt="Wide view shot
-                                          of the horse head sculpture from the
-                                          Parthenon marbles" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
