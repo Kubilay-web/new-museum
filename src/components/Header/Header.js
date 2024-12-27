@@ -42,10 +42,10 @@ const Header = () => {
                   className="header__logo-container"
                 >
                   <img
-                    src="/images/british-museum-logo.svg"
-                    alt="British Museum"
-                    width={200}
-                    height={66}
+                    src="/images/Header/dersim_logo.png"
+                    alt="dersim_logo"
+                    width={100}
+                    height={100}
                     className="header__logo"
                   />
                 </a>

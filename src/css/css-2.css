@@ -3174,16 +3174,16 @@
   }
   .header__logo-container {
     display: block;
-    width: 140px;
+    width: 100px;
   }
   @media (min-width: 768px) {
     .header__logo-container {
-      width: 167px;
+      width: 100px;
     }
   }
   @media (min-width: 1280px) {
     .header__logo-container {
-      width: 195px;
+      width: 100px;
     }
   }
   .header__logo {
