@@ -73,6 +73,7 @@ import SriLanka from "./pages/SriLanka/SriLanka";
 import FootSteps from "./pages/FootSteps/FootSteps";
 import LittleFeet from "./pages/LittleFeet/LittleFeet";
 import DeafLed from "./pages/DeafLed/DeafLed";
+import Nexus from "./pages/Nexus/Nexus";
 
 function App() {
   return (
@@ -205,6 +206,8 @@ function App() {
         path="/events/deaf-led-bsl-tour-silk-roads"
         element={<DeafLed />}
       />
+
+      <Route path="/events/istanbul-nexus-silk-roads" element={<Nexus />} />
     </Routes>
   );
 }
