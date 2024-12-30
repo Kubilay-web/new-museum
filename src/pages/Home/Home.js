@@ -1202,12 +1202,13 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Learn more about the
-                                                    Masterplan, one of the most
-                                                    significant cultural
-                                                    redevelopment projects
-                                                    undertaken anywhere in the
-                                                    world.
+                                                    Ağır insan hakları ihlalleri
+                                                    ile ilgili hakikatlerin
+                                                    ortaya çıkarılması ve kalıcı
+                                                    barışın sağlanmasına yönelik
+                                                    çalışır. Belgeleme,
+                                                    raporlama, hafızalaştırma ve
+                                                    barış çalışmaları yürütür.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1245,11 +1246,13 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    From Touch tours to
-                                                    behind-the-scenes research,
-                                                    five volunteers share their
-                                                    experiences of volunteering
-                                                    at the Dersim Museum.
+                                                    Ağır insan hakları
+                                                    ihlalleriyle hesaplaşmak
+                                                    için hak ihlallerine uğramış
+                                                    grupların adalete erişiminin
+                                                    sağlanmasına ve adaletin
+                                                    tecelli etmesine yönelik
+                                                    hukuki çalışmalar yürütür.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1288,11 +1291,12 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    What do hoards of coins and
-                                                    jewellery tell us about life
-                                                    in Dersim at the end of the
-                                                    Roman period? This research
-                                                    project investigates.
+                                                    Hak savunucularına yönelik
+                                                    baskılar ve sivil alanın
+                                                    daralması karşısında, bu
+                                                    durumla mücadeleye yönelik
+                                                    izleme, raporlama ve destek
+                                                    çalışmaları yürütür.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1330,12 +1334,12 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Dersim Museum curators
-                                                    introduce a prolific artist
-                                                    who isn't afraid to ask
-                                                    challenging questions and
-                                                    grapple with the messiness
-                                                    of history.
+                                                    Dünyada ve yakın bölgemizde
+                                                    barış, yüzleşme ve insan
+                                                    hakları gibi alanlarda STK
+                                                    ve kişilerle ilişkiler
+                                                    geliştirir, ortak çalışmalar
+                                                    gerçekleştirir.
                                                   </div>
                                                 </div>
                                               </div>
