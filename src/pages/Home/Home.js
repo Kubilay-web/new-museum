@@ -1418,7 +1418,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/laser-conservation-research-1000.jpg"
+                                                    src="/images/Dersim-Museum-1.png"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
@@ -1458,7 +1458,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Lewis_Chessmen_British_Museum_2.jpg"
+                                                    src="/images/Dersim Museum-2.jpeg"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
@@ -1498,7 +1498,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Courtly India (47).webp"
+                                                    src="/images/Dersim-Museum-3.png"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
@@ -1538,7 +1538,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/iraq-scheme02.jpg"
+                                                    src="/images/Dersim-Museum-4.png"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
