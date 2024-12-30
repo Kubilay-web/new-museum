@@ -501,21 +501,21 @@ const LoveIdentity = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_huge/public/2020-01/Earthenware-figures-hero.jpg?itok=JvUl7UuK 1x"
+                            src="/images/LoveIdentity/image-01.webp"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1015}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_large/public/2020-01/Earthenware-figures-hero.jpg?itok=ZKc6DC_e 1x"
+                            src="/images/LoveIdentity/image-01.webp"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={825}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/1_1_media_medium/public/2020-01/Earthenware-figures-hero.jpg?h=d7f0db2e&itok=_cLkk1J- 1x"
+                            src="/images/LoveIdentity/image-01.webp"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -527,8 +527,7 @@ const LoveIdentity = () => {
                             width={750}
                             height={750}
                             data-focal-position="top right"
-                            src="/sites/default/files/styles/1_1_media_small/public/2020-01/Earthenware-figures-hero.jpg?h=d7f0db2e&itok=V_xIixWe"
-                            alt="Three cream-colour figures, two women and a man in centre"
+                            src="/images/LoveIdentity/image-01.webp"
                           />
                         </picture>
                       </div>
@@ -912,35 +911,11 @@ const LoveIdentity = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=KgMa5Ia2"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=NfpV5_AK 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=KgMa5Ia2 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=-oMXE2hd 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=uW2VEv-9 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=r9T4DdSc 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Sketch in charcoal and red chalk of Anne Damer, with large hair and glancing upwards"
                                                     sizes="638px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=NfpV5_AK 400w, /sites/default/files/styles/16_9_media_small/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=KgMa5Ia2 750w, /sites/default/files/styles/16_9_media_medium/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=-oMXE2hd 1000w, /sites/default/files/styles/16_9_media_large/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=uW2VEv-9 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=r9T4DdSc 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&itok=KgMa5Ia2"
+                                                    src="/images/LoveIdentity/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&amp;amp;itok=NfpV5_AK
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&amp;amp;itok=KgMa5Ia2
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&amp;amp;itok=-oMXE2hd
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&amp;amp;itok=uW2VEv-9
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&amp;amp;itok=r9T4DdSc
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-06/Damer-Downman-teaser-1000x562.jpg?h=73545cb6&amp;amp;itok=KgMa5Ia2"
-                                                    data-sizes="auto"
-                                                    alt="Sketch in charcoal and
-                                                    red chalk of Anne Damer,
-                                                    with large hair and glancing
-                                                    upwards" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -989,34 +964,11 @@ const LoveIdentity = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=jY8TIoa2"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=0FhrlBc0 400w, /sites/default/files/styles/16_9_media_small/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=jY8TIoa2 750w, /sites/default/files/styles/16_9_media_medium/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=YVWxzn9K 1000w, /sites/default/files/styles/16_9_media_large/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=R7ixyRsI 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=6qnq6PVL 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Two patterned porcelain cups with lids and a saucer"
                                                     sizes="638px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=0FhrlBc0 400w, /sites/default/files/styles/16_9_media_small/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=jY8TIoa2 750w, /sites/default/files/styles/16_9_media_medium/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=YVWxzn9K 1000w, /sites/default/files/styles/16_9_media_large/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=R7ixyRsI 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=6qnq6PVL 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&itok=jY8TIoa2"
+                                                    src="/images/LoveIdentity/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&amp;amp;itok=0FhrlBc0
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&amp;amp;itok=jY8TIoa2
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&amp;amp;itok=YVWxzn9K
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&amp;amp;itok=R7ixyRsI
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&amp;amp;itok=6qnq6PVL
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-01/Chocolate-cups-teaser-crop_2.jpg?h=7148766a&amp;amp;itok=jY8TIoa2"
-                                                    data-sizes="auto" alt="Two
-                                                    patterned porcelain cups
-                                                    with lids and a saucer"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1072,25 +1024,6 @@ const LoveIdentity = () => {
                                                     srcSet="/sites/default/files/styles/16_9_media_tiny/public/2020-01/Chevalier.jpg?h=4233dd59&itok=u8XsfqZ_ 400w, /sites/default/files/styles/16_9_media_small/public/2020-01/Chevalier.jpg?h=4233dd59&itok=X5Bz846X 750w, /sites/default/files/styles/16_9_media_medium/public/2020-01/Chevalier.jpg?h=4233dd59&itok=s9f2bpMl 1000w, /sites/default/files/styles/16_9_media_large/public/2020-01/Chevalier.jpg?h=4233dd59&itok=rCiYVlNM 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-01/Chevalier.jpg?h=4233dd59&itok=JviMcIkm 1600w"
                                                     src="/sites/default/files/styles/16_9_media_small/public/2020-01/Chevalier.jpg?h=4233dd59&itok=X5Bz846X"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-01/Chevalier.jpg?h=4233dd59&amp;amp;itok=u8XsfqZ_
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-01/Chevalier.jpg?h=4233dd59&amp;amp;itok=X5Bz846X
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-01/Chevalier.jpg?h=4233dd59&amp;amp;itok=s9f2bpMl
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-01/Chevalier.jpg?h=4233dd59&amp;amp;itok=rCiYVlNM
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-01/Chevalier.jpg?h=4233dd59&amp;amp;itok=JviMcIkm
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-01/Chevalier.jpg?h=4233dd59&amp;amp;itok=X5Bz846X"
-                                                    data-sizes="auto"
-                                                    alt="Satirical print showing
-                                                    a room of stockbrokers with
-                                                    speech bubbles" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1211,33 +1144,11 @@ const LoveIdentity = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=_FLZL1Ig"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=t3GPf9it 400w, /sites/default/files/styles/16_9_media_small/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=_FLZL1Ig 750w, /sites/default/files/styles/16_9_media_medium/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=QBMTINyX 1000w, /sites/default/files/styles/16_9_media_large/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=-c9hw_xT 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=ISXAqMCR 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Two figures, possibly human, in a loving embrace"
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=t3GPf9it 400w, /sites/default/files/styles/16_9_media_small/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=_FLZL1Ig 750w, /sites/default/files/styles/16_9_media_medium/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=QBMTINyX 1000w, /sites/default/files/styles/16_9_media_large/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=-c9hw_xT 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=ISXAqMCR 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&itok=_FLZL1Ig"
+                                                    src="/images/LoveIdentity/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&amp;amp;itok=t3GPf9it
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&amp;amp;itok=_FLZL1Ig
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&amp;amp;itok=QBMTINyX
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&amp;amp;itok=-c9hw_xT
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&amp;amp;itok=ISXAqMCR
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?h=b51ec95c&amp;amp;itok=_FLZL1Ig"
-                                                    data-sizes="auto" alt="Two
-                                                    figures, possibly human, in
-                                                    a loving embrace" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1276,35 +1187,12 @@ const LoveIdentity = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=PZbyCWuK"
                                                     data-sizes="auto"
                                                     data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=acvc7M61 400w, /sites/default/files/styles/16_9_media_small/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=PZbyCWuK 750w, /sites/default/files/styles/16_9_media_medium/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=7SCP5TyL 1000w, /sites/default/files/styles/16_9_media_large/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=6gF5LGgn 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=SYjEaLpX 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Two sides of coin, one inscribed with 'From Fred to Nellie France 1916'"
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=acvc7M61 400w, /sites/default/files/styles/16_9_media_small/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=PZbyCWuK 750w, /sites/default/files/styles/16_9_media_medium/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=7SCP5TyL 1000w, /sites/default/files/styles/16_9_media_large/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=6gF5LGgn 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=SYjEaLpX 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2020-05/Love-token-1000_0.png?h=c59607c6&itok=PZbyCWuK"
+                                                    src="/images/LoveIdentity/image-05.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-05/Love-token-1000_0.png?h=c59607c6&amp;amp;itok=acvc7M61
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-05/Love-token-1000_0.png?h=c59607c6&amp;amp;itok=PZbyCWuK
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-05/Love-token-1000_0.png?h=c59607c6&amp;amp;itok=7SCP5TyL
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-05/Love-token-1000_0.png?h=c59607c6&amp;amp;itok=6gF5LGgn
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-05/Love-token-1000_0.png?h=c59607c6&amp;amp;itok=SYjEaLpX
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-05/Love-token-1000_0.png?h=c59607c6&amp;amp;itok=PZbyCWuK"
-                                                    data-sizes="auto" alt="Two
-                                                    sides of coin, one inscribed
-                                                    with &amp;#039;From Fred to
-                                                    Nellie France
-                                                    1916&amp;#039;" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1345,35 +1233,11 @@ const LoveIdentity = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=tloUA3To"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=pyg3pPYv 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=tloUA3To 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=LBPMPxCz 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=LPfq6xi8 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=M0aWpCbc 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Selection of LGBTQ+ campaign badges from the 1970s onwards, mixed media"
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=pyg3pPYv 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=tloUA3To 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=LBPMPxCz 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=LPfq6xi8 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=M0aWpCbc 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2019-10/LGBTQ-Badges.jpg?h=018da541&itok=tloUA3To"
+                                                    src="/images/LoveIdentity/image-06.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/LGBTQ-Badges.jpg?h=018da541&amp;amp;itok=pyg3pPYv
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/LGBTQ-Badges.jpg?h=018da541&amp;amp;itok=tloUA3To
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/LGBTQ-Badges.jpg?h=018da541&amp;amp;itok=LBPMPxCz
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/LGBTQ-Badges.jpg?h=018da541&amp;amp;itok=LPfq6xi8
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/LGBTQ-Badges.jpg?h=018da541&amp;amp;itok=M0aWpCbc
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/LGBTQ-Badges.jpg?h=018da541&amp;amp;itok=tloUA3To"
-                                                    data-sizes="auto"
-                                                    alt="Selection of LGBTQ+
-                                                    campaign badges from the
-                                                    1970s onwards, mixed media"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1416,34 +1280,11 @@ const LoveIdentity = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=B9pYsKrT"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=BTvDNARI 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=B9pYsKrT 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=6yYU_Q27 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=rzNUprin 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=gc1N7O8r 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Dersim Museum employees celebrating LGBTQ histories. "
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=BTvDNARI 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=B9pYsKrT 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=6yYU_Q27 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=rzNUprin 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=gc1N7O8r 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&itok=B9pYsKrT"
+                                                    src="/images/LoveIdentity/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&amp;amp;itok=BTvDNARI
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&amp;amp;itok=B9pYsKrT
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&amp;amp;itok=6yYU_Q27
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&amp;amp;itok=rzNUprin
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&amp;amp;itok=gc1N7O8r
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Dan_Vo_Project_Coordinator_of_LGBTQ_tours_at_the_V.jpg?h=e2bcc475&amp;amp;itok=B9pYsKrT"
-                                                    data-sizes="auto"
-                                                    alt="Dersim Museum employees
-                                                    celebrating LGBTQ histories.
-                                                    " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1548,21 +1389,10 @@ This print depicts Sarah Ponsonby (left) and Eleanor Butler (right) late in life
                                               className="lazyload not-full-width"
                                               width={529}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-01/Ladies-of-Llangollen-Richard-James-Lane-2000.jpg?itok=Pd-X8p47"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-01/Ladies-of-Llangollen-Richard-James-Lane-2000.jpg?itok=Pd-X8p47 529w"
                                               data-focal-position="center center"
-                                              alt="Sarah Ponsonby (left) and Eleanor Butler (right) late in life"
+                                              src="/images/LoveIdentity/image-08.jpg"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-01/Ladies-of-Llangollen-Richard-James-Lane-2000.jpg?itok=Pd-X8p47
-                                              529w" width="529" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-01/Ladies-of-Llangollen-Richard-James-Lane-2000.jpg?itok=Pd-X8p47"
-                                              data-sizes="auto" alt="Sarah
-                                              Ponsonby (left) and Eleanor Butler
-                                              (right) late in life" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             'Ladies of Llangollen'&nbsp;by
@@ -1599,21 +1429,10 @@ The natural shape of a calcite cobble has been used to represent the outline of 
                                               className="lazyload not-full-width"
                                               width={939}
                                               height={699}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?itok=fAWXxuly"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?itok=fAWXxuly 939w"
                                               data-focal-position="center center"
-                                              alt="Two figures, possibly human, in a loving embrace"
+                                              src="/images/LoveIdentity/image-09.jpg"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?itok=fAWXxuly
-                                              939w" width="939" height="699"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-01/Figurine%20Mesolithic%20Ain%20Sakhri_gallery.jpg?itok=fAWXxuly"
-                                              data-sizes="auto" alt="Two
-                                              figures, possibly human, in a
-                                              loving embrace" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             Ain Sakhri&nbsp;lovers sculpture
@@ -1937,12 +1756,10 @@ This sculpture may have been part of a larger group of statuary (collection of s
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/sites/default/files/styles/uncropped_tiny/public/2020-08/little-gay-history-1200.jpg?itok=h5UlhwxY 400w, /sites/default/files/styles/uncropped_small/public/2020-08/little-gay-history-1200.jpg?itok=IJJaSW19 750w, /sites/default/files/styles/uncropped_medium/public/2020-08/little-gay-history-1200.jpg?itok=sB8OBaFL 1000w, /sites/default/files/styles/uncropped_large/public/2020-08/little-gay-history-1200.jpg?itok=uBrNTxnI 1200w"
                                                     sizes="100vw"
                                                     width={1200}
                                                     height={1200}
-                                                    src="/sites/default/files/styles/uncropped_huge/public/2020-08/little-gay-history-1200.jpg?itok=AHIZ7lDA"
-                                                    alt="A Little Gay History cover"
+                                                    src="/images/LoveIdentity/image-12.webp"
                                                   />
                                                 </div>
                                               </div>
@@ -2032,30 +1849,10 @@ This sculpture may have been part of a larger group of statuary (collection of s
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=5kDh7ddt"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=TfQ3CUMx 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=5kDh7ddt 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=m_NUeqSy 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=e8IKj40_ 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=Xx8eCBUE 1600w"
                                           data-focal-position="center center"
-                                          alt="A turquoise two-headed serpent mouth ajar, heads pointing in different directions."
+                                          src="/images/LoveIdentity/image-13.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=TfQ3CUMx
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=5kDh7ddt
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=m_NUeqSy
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=e8IKj40_
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=Xx8eCBUE
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=5kDh7ddt"
-                                          data-sizes="auto" alt="A turquoise
-                                          two-headed serpent mouth ajar, heads
-                                          pointing in different directions."
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2092,28 +1889,10 @@ This sculpture may have been part of a larger group of statuary (collection of s
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=UGIhAUth"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=Zd5SAlsv 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=UGIhAUth 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=jerdaTSn 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=Omwq5WSI 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=GJ8ZhCKw 1600w"
                                           data-focal-position="center center"
-                                          alt="A crystal translucent skull"
+                                          src="/images/LoveIdentity/image-14.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=Zd5SAlsv
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=UGIhAUth
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=jerdaTSn
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=Omwq5WSI
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=GJ8ZhCKw
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=UGIhAUth"
-                                          data-sizes="auto" alt="A crystal
-                                          translucent skull" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2148,28 +1927,10 @@ This sculpture may have been part of a larger group of statuary (collection of s
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=q3Nu1z2G"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=njPvdF3T 400w, /sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=q3Nu1z2G 750w, /sites/default/files/styles/16_9_media_medium/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=7ijh1iVG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=COZvxhvv 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=yYwdawmq 1600w"
                                           data-focal-position="center right"
-                                          alt="BM Dragon"
+                                          src="/images/LoveIdentity/image-15.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=njPvdF3T
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=q3Nu1z2G
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=7ijh1iVG
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=COZvxhvv
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=yYwdawmq
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=q3Nu1z2G"
-                                          data-sizes="auto" alt="BM Dragon"
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -2205,28 +1966,10 @@ This sculpture may have been part of a larger group of statuary (collection of s
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=SsvVFn-P"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=-DdOKxvd 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=SsvVFn-P 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=UyzDoHGn 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=oyNVdVgT 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=9WZED8rU 1600w"
                                           data-focal-position="center center"
-                                          alt="A bronze Amazonian on horseback"
+                                          src="/images/LoveIdentity/image-16.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=-DdOKxvd
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=SsvVFn-P
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=UyzDoHGn
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=oyNVdVgT
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=9WZED8rU
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=SsvVFn-P"
-                                          data-sizes="auto" alt="A bronze
-                                          Amazonian on horseback" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
