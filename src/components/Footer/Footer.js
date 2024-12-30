@@ -258,13 +258,13 @@ const Footer = () => {
                         Ücretsiz Giriş
                       </h2>
                       <p>
-                        Great Russell Street
+                        Brüdergasse 16-18
                         <br />
-                        Dersim WC1B 3DG
+                        53111 Bonn/Deutschland
                       </p>
                       <p>
-                        <a href="tel:+442073238000">
-                          <span>+44 (0)20 7323 8000</span>
+                        <a href="mailto:info@dersim-stiftung.de">
+                          <span>info@dersim-stiftung.de</span>
                         </a>
                         <br />
                         &nbsp;
