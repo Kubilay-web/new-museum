@@ -1660,7 +1660,9 @@ const Home = () => {
                                                       href="/collection/egypt"
                                                       className="teaser__anchor"
                                                     >
-                                                      <span> Egypt</span>
+                                                      <span>
+                                                        Sasaniler Dönemi
+                                                      </span>
                                                       <span className="visually-hidden">
                                                         Read more
                                                       </span>
@@ -1694,8 +1696,7 @@ const Home = () => {
                                                     >
                                                       <span>
                                                         {" "}
-                                                        Desire, love and
-                                                        identity
+                                                        Osmanlı Dönemi
                                                       </span>
                                                       <span className="visually-hidden">
                                                         Read the blog
@@ -1728,7 +1729,10 @@ const Home = () => {
                                                       href="/collection/animals"
                                                       className="teaser__anchor"
                                                     >
-                                                      <span> Animals</span>
+                                                      <span>
+                                                        {" "}
+                                                        Cumhuriyet Dönemi
+                                                      </span>
                                                       <span className="visually-hidden">
                                                         See the collection
                                                       </span>
