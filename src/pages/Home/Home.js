@@ -762,7 +762,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Picasso_teaser.jpg"
+                                                    src="/images/1-Belgesel.jpg"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
@@ -822,7 +822,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Hew_Locke_Souvenir_20_1920x1080.jpg"
+                                                    src="/images/2-cumartesi anneleri.jpg"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
@@ -882,8 +882,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Silk-Roads-teaser-2000x1159.webp"
-                                                    alt="Procession of camels with lone figure leading in shadow against orange sky"
+                                                    src="/images/3-Anadil.jpg"
                                                   />
                                                 </div>
                                               </div>
