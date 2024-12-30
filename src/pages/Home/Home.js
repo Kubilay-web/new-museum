@@ -493,10 +493,7 @@ const Home = () => {
                       muted
                       loop
                     >
-                      <source
-                        src="/media/Tour_of_the_British_Museum.mp4"
-                        type="video/mp4"
-                      />
+                      <source src="/images/video.mp4" type="video/mp4" />
                     </video>
                     <div className="container">
                       <div className="hero__inner">
