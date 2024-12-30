@@ -1164,7 +1164,7 @@ const Home = () => {
                                     id="paragraph-39954-title"
                                     className="section__title teaser-listing__title"
                                   >
-                                    What's online...
+                                    Demokrasi Çalışmaları
                                   </h2>
                                   <div className="carousel-container | js-carousel-container">
                                     <div
@@ -1399,7 +1399,7 @@ const Home = () => {
                                     id="paragraph-39956-title"
                                     className="section__title teaser-listing__title"
                                   >
-                                    Dersim and the world
+                                    Dersim Vakfından Haberler
                                   </h2>
                                   <div className="carousel-container | js-carousel-container">
                                     <div
