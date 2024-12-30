@@ -473,21 +473,21 @@ const Animals = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_huge/public/2020-02/Bronze-figures-hero.jpg?itok=ZrCmvEFy 1x"
+                            src="/images/Animals/image-01.webp"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={900}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_large/public/2020-02/Bronze-figures-hero.jpg?itok=kHZBNR7n 1x"
+                            src="/images/Animals/image-01.webp"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={731}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/1_1_media_medium/public/2020-02/Bronze-figures-hero.jpg?h=f9ebc475&itok=y5ulKQts 1x"
+                            src="/images/Animals/image-01.webp"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -499,8 +499,7 @@ const Animals = () => {
                             width={750}
                             height={750}
                             data-focal-position="center left"
-                            src="/sites/default/files/styles/1_1_media_small/public/2020-02/Bronze-figures-hero.jpg?h=f9ebc475&itok=1V7RHd40"
-                            alt="Two bronze Amazonians on horseback"
+                            src="/images/Animals/image-01.webp"
                           />
                         </picture>
                       </div>
@@ -844,34 +843,11 @@ const Animals = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=9HweWUox"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=sKRvgBPT 400w, /sites/default/files/styles/16_9_media_small/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=9HweWUox 750w, /sites/default/files/styles/16_9_media_medium/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=BKbgf4Nm 1000w, /sites/default/files/styles/16_9_media_large/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=ZRCYD8kS 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=Kq_eIMJO 1600w"
                                                     data-focal-position="center center"
-                                                    alt="A pineapple plant with cockroaches on its green leaves."
                                                     sizes="638px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=sKRvgBPT 400w, /sites/default/files/styles/16_9_media_small/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=9HweWUox 750w, /sites/default/files/styles/16_9_media_medium/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=BKbgf4Nm 1000w, /sites/default/files/styles/16_9_media_large/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=ZRCYD8kS 1300w, /sites/default/files/styles/16_9_media_huge/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=Kq_eIMJO 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&itok=9HweWUox"
+                                                    src="/images/Animals/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&amp;amp;itok=sKRvgBPT
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&amp;amp;itok=9HweWUox
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&amp;amp;itok=BKbgf4Nm
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&amp;amp;itok=ZRCYD8kS
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&amp;amp;itok=Kq_eIMJO
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2022-03/Maria_Merian_Sibyll_Pineapple_and_examples_of_five_insects_hero.jpg?h=29f3dc6b&amp;amp;itok=9HweWUox"
-                                                    data-sizes="auto" alt="A
-                                                    pineapple plant with
-                                                    cockroaches on its green
-                                                    leaves." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -913,33 +889,11 @@ const Animals = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=sB59KsBw"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=mFY7d_L2 400w, /sites/default/files/styles/16_9_media_small/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=sB59KsBw 750w, /sites/default/files/styles/16_9_media_medium/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=UEcaASd2 1000w, /sites/default/files/styles/16_9_media_large/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=4qROfLqM 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=j01L9MwQ 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Gayer-Anderson cat at the Museum"
+                                                    src="/images/Animals/image-03.webp"
                                                     sizes="638px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=mFY7d_L2 400w, /sites/default/files/styles/16_9_media_small/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=sB59KsBw 750w, /sites/default/files/styles/16_9_media_medium/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=UEcaASd2 1000w, /sites/default/files/styles/16_9_media_large/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=4qROfLqM 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=j01L9MwQ 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&itok=sB59KsBw"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&amp;amp;itok=mFY7d_L2
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&amp;amp;itok=sB59KsBw
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&amp;amp;itok=UEcaASd2
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&amp;amp;itok=4qROfLqM
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&amp;amp;itok=j01L9MwQ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-03/Gayer-Anderson-cat-Museum-teaser_3.jpg?h=59e55433&amp;amp;itok=sB59KsBw"
-                                                    data-sizes="auto"
-                                                    alt="Gayer-Anderson cat at
-                                                    the Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1023,33 +977,11 @@ const Animals = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=2u8XV2tJ"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=raEUryCh 400w, /sites/default/files/styles/16_9_media_small/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=2u8XV2tJ 750w, /sites/default/files/styles/16_9_media_medium/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=2mW7GevN 1000w, /sites/default/files/styles/16_9_media_large/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=bjSHADS4 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=k2SHaE__ 1600w"
                                                     data-focal-position="center center"
-                                                    alt="The Flopsy Bunnies eating lettuce. "
                                                     sizes="638px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=raEUryCh 400w, /sites/default/files/styles/16_9_media_small/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=2u8XV2tJ 750w, /sites/default/files/styles/16_9_media_medium/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=2mW7GevN 1000w, /sites/default/files/styles/16_9_media_large/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=bjSHADS4 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=k2SHaE__ 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&itok=2u8XV2tJ"
+                                                    src="/images/Animals/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&amp;amp;itok=raEUryCh
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&amp;amp;itok=2u8XV2tJ
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&amp;amp;itok=2mW7GevN
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&amp;amp;itok=bjSHADS4
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&amp;amp;itok=k2SHaE__
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-03/2_hompage_teaser_The_Tale_of_the_Flopsy_Bunnies_Beatrix_Potter_British_Museum.jpg?h=5dabf909&amp;amp;itok=2u8XV2tJ"
-                                                    data-sizes="auto" alt="The
-                                                    Flopsy Bunnies eating
-                                                    lettuce.&amp;nbsp;" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1097,34 +1029,11 @@ const Animals = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=62I5wKTO"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=Kdf-CIZw 400w, /sites/default/files/styles/16_9_media_small/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=62I5wKTO 750w, /sites/default/files/styles/16_9_media_medium/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=ewd8v1s_ 1000w, /sites/default/files/styles/16_9_media_large/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=ZJ5-MYaP 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=s7lOKl1V 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Screenshot of Laura Osorio with dolphin-tooth necklace."
                                                     sizes="638px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=Kdf-CIZw 400w, /sites/default/files/styles/16_9_media_small/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=62I5wKTO 750w, /sites/default/files/styles/16_9_media_medium/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=ewd8v1s_ 1000w, /sites/default/files/styles/16_9_media_large/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=ZJ5-MYaP 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=s7lOKl1V 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&itok=62I5wKTO"
+                                                    src="/images/Animals/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&amp;amp;itok=Kdf-CIZw
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&amp;amp;itok=62I5wKTO
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&amp;amp;itok=ewd8v1s_
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&amp;amp;itok=ZJ5-MYaP
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&amp;amp;itok=s7lOKl1V
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2023-05/Curator%27s-Corner-Dolphin-Necklace-1344x713.jpg?h=f222b10f&amp;amp;itok=62I5wKTO"
-                                                    data-sizes="auto"
-                                                    alt="Screenshot of Laura
-                                                    Osorio with dolphin-tooth
-                                                    necklace." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1357,23 +1266,11 @@ A four-horse chariot group (quadriga) was positioned on the top of the stepped p
                                               className="not-full-width lazyautosizes lazyloaded"
                                               width={432}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/Horse-Halikarnassos.jpg?itok=AbkptYgf"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/Horse-Halikarnassos.jpg?itok=AbkptYgf 432w"
                                               data-focal-position="center center"
-                                              alt="Head of horse"
                                               sizes="309px"
-                                              srcSet="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/Horse-Halikarnassos.jpg?itok=AbkptYgf 432w"
-                                              src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/Horse-Halikarnassos.jpg?itok=AbkptYgf"
+                                              src="/images/Animals/image-06.webp"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/Horse-Halikarnassos.jpg?itok=AbkptYgf
-                                              432w" width="432" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/Horse-Halikarnassos.jpg?itok=AbkptYgf"
-                                              data-sizes="auto" alt="Head of
-                                              horse" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             Classical Greek marble statue of
@@ -1410,23 +1307,11 @@ A woodcut of a rhinoceros standing in profile to the right, and five and a half 
                                               className="not-full-width lazyautosizes lazyloaded"
                                               width={878}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/durer-rhino-2000.jpg?itok=frWnI1ND"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/durer-rhino-2000.jpg?itok=frWnI1ND 878w"
                                               data-focal-position="center center"
-                                              alt="Print of a rhino with writing above"
+                                              src="/images/Animals/image-07.jpg"
                                               sizes="627px"
-                                              srcSet="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/durer-rhino-2000.jpg?itok=frWnI1ND 878w"
-                                              src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/durer-rhino-2000.jpg?itok=frWnI1ND"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/durer-rhino-2000.jpg?itok=frWnI1ND
-                                              878w" width="878" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/durer-rhino-2000.jpg?itok=frWnI1ND"
-                                              data-sizes="auto" alt="Print of a
-                                              rhino with writing above" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             'The Rhinoceros' by Albrecht Durer
@@ -1462,23 +1347,11 @@ One of a pair of model elephants. Made of porcelain in a mould and decorated in 
                                               className="not-full-width lazyautosizes lazyloaded"
                                               width={807}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/elephant_2000.jpg?itok=limMI-XB"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/elephant_2000.jpg?itok=limMI-XB 807w"
                                               data-focal-position="center center"
-                                              alt="Painted elephant ornament"
                                               sizes="576px"
-                                              srcSet="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/elephant_2000.jpg?itok=limMI-XB 807w"
-                                              src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/elephant_2000.jpg?itok=limMI-XB"
+                                              src="/images/Animals/image-08.webp"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/elephant_2000.jpg?itok=limMI-XB
-                                              807w" width="807" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-02/elephant_2000.jpg?itok=limMI-XB"
-                                              data-sizes="auto" alt="Painted
-                                              elephant ornament" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             Porcelain elephant from Edo Period,
@@ -1713,30 +1586,10 @@ Detail of gypsum wall panel relief from the North Palace, showing king Ashurbani
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=5kDh7ddt"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=TfQ3CUMx 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=5kDh7ddt 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=m_NUeqSy 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=e8IKj40_ 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=Xx8eCBUE 1600w"
                                           data-focal-position="center center"
-                                          alt="A turquoise two-headed serpent mouth ajar, heads pointing in different directions."
+                                          src="/images/Animals/image-09.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=TfQ3CUMx
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=5kDh7ddt
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=m_NUeqSy
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=e8IKj40_
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=Xx8eCBUE
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=5kDh7ddt"
-                                          data-sizes="auto" alt="A turquoise
-                                          two-headed serpent mouth ajar, heads
-                                          pointing in different directions."
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1773,28 +1626,10 @@ Detail of gypsum wall panel relief from the North Palace, showing king Ashurbani
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=UGIhAUth"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=Zd5SAlsv 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=UGIhAUth 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=jerdaTSn 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=Omwq5WSI 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=GJ8ZhCKw 1600w"
                                           data-focal-position="center center"
-                                          alt="A crystal translucent skull"
+                                          src="/images/Animals/image-10.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=Zd5SAlsv
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=UGIhAUth
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=jerdaTSn
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=Omwq5WSI
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=GJ8ZhCKw
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=UGIhAUth"
-                                          data-sizes="auto" alt="A crystal
-                                          translucent skull" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1829,28 +1664,10 @@ Detail of gypsum wall panel relief from the North Palace, showing king Ashurbani
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=W9A1oBUW"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=lkb7H3PZ 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=W9A1oBUW 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=Dnteakto 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=xzHWBODI 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=7RO2-irR 1600w"
                                           data-focal-position="center center"
-                                          alt="Three nude glazed earthenware figures"
+                                          src="/images/Animals/image-11.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=lkb7H3PZ
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=W9A1oBUW
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=Dnteakto
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=xzHWBODI
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=7RO2-irR
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=W9A1oBUW"
-                                          data-sizes="auto" alt="Three nude
-                                          glazed earthenware figures" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1887,28 +1704,10 @@ Detail of gypsum wall panel relief from the North Palace, showing king Ashurbani
                                           className="lazyload"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=q3Nu1z2G"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=njPvdF3T 400w, /sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=q3Nu1z2G 750w, /sites/default/files/styles/16_9_media_medium/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=7ijh1iVG 1000w, /sites/default/files/styles/16_9_media_large/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=COZvxhvv 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-06/bm-dragon.jpg?h=99f9f49c&itok=yYwdawmq 1600w"
                                           data-focal-position="center right"
-                                          alt="BM Dragon"
+                                          src="/images/Animals/image-12.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=njPvdF3T
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=q3Nu1z2G
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=7ijh1iVG
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=COZvxhvv
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=yYwdawmq
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2019-06/bm-dragon.jpg?h=99f9f49c&amp;amp;itok=q3Nu1z2G"
-                                          data-sizes="auto" alt="BM Dragon"
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
