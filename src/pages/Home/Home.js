@@ -1593,10 +1593,10 @@ const Home = () => {
                                   </div>
                                   <div className="banner__content">
                                     <p>
-                                      From the Rosetta Stone to Japanese
-                                      netsuke, discover a wealth of information
-                                      about Museum objects in our searchable
-                                      database.
+                                      Dersim'in zengin tarihi ve kültürel
+                                      birikimini daha derin bir şekilde
+                                      incelemek için koleksiyonlarımızı
+                                      inceleyin.
                                     </p>
                                     <div className="banner__button-container">
                                       <a
