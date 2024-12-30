@@ -688,7 +688,7 @@ const Home = () => {
                                     id="paragraph-39951-title"
                                     className="section__title teaser-listing__title"
                                   >
-                                    Exhibitions and events
+                                    Konferanslar ve Sergiler
                                   </h2>
                                   <a
                                     href="/exhibitions-events"
@@ -712,17 +712,19 @@ const Home = () => {
                                     >
                                       <ul className="l-grid l-grid--3-col | teaser-listing__teasers swiper-wrapper">
                                         <li className="l-grid__item swiper-slide">
-                                          <div className="teaser teaser--exhibition teaser--exhibition-5204">
+                                          <div className="teaser teaser--exhibition teaser--exhibition-5365">
                                             <div className="teaser__wrapper">
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="/exhibitions/silk-roads"
+                                                    href="/exhibitions/picasso-printmaker"
                                                     className="teaser__anchor"
                                                   >
                                                     <span>
+                                                      Bitmeyen Veda
+                                                      <br aria-hidden="true" />
                                                       <strong>
-                                                        Silk Roads
+                                                        Dersim Belgesel Filmi
                                                       </strong>
                                                     </span>
                                                     {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -740,8 +742,8 @@ const Home = () => {
                                                     <li className="teaser__meta-item">
                                                       {" "}
                                                       <span className="date-display-range">
-                                                        26 September 2024 – 23
-                                                        February 2025
+                                                        7 Kasım 2024 – 30 Mart
+                                                        2025
                                                       </span>
                                                     </li>
                                                   </ul>
@@ -760,7 +762,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Silk-Roads-teaser-2000x1159.webp"
+                                                    src="/images/Picasso_teaser.jpg"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
@@ -768,6 +770,7 @@ const Home = () => {
                                             </div>
                                           </div>
                                         </li>
+
                                         <li className="l-grid__item swiper-slide">
                                           <div className="teaser teaser--exhibition teaser--exhibition-5224">
                                             <div className="teaser__wrapper">
@@ -778,10 +781,10 @@ const Home = () => {
                                                     className="teaser__anchor"
                                                   >
                                                     <span>
-                                                      Hew Locke
+                                                      Cumartesi Anneleri
                                                       <br aria-hidden="true" />
                                                       <strong>
-                                                        what have we here?
+                                                        Berlin Konferansı
                                                       </strong>
                                                     </span>
                                                     {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -799,8 +802,8 @@ const Home = () => {
                                                     <li className="teaser__meta-item">
                                                       {" "}
                                                       <span className="date-display-range">
-                                                        17 October 2024 – 9
-                                                        February 2025
+                                                        17 Ekim 2024 – 9 Şubat
+                                                        2025
                                                       </span>
                                                     </li>
                                                   </ul>
@@ -827,20 +830,19 @@ const Home = () => {
                                             </div>
                                           </div>
                                         </li>
+
                                         <li className="l-grid__item swiper-slide">
-                                          <div className="teaser teaser--exhibition teaser--exhibition-5365">
+                                          <div className="teaser teaser--exhibition teaser--exhibition-5204">
                                             <div className="teaser__wrapper">
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="/exhibitions/picasso-printmaker"
+                                                    href="/exhibitions/silk-roads"
                                                     className="teaser__anchor"
                                                   >
                                                     <span>
-                                                      Picasso
-                                                      <br aria-hidden="true" />
                                                       <strong>
-                                                        printmaker
+                                                        Dünya Anadil Etkinliği
                                                       </strong>
                                                     </span>
                                                     {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -853,13 +855,15 @@ const Home = () => {
                                                   <ul className="teaser__meta teaser__meta--footer">
                                                     <li className="teaser__meta-item">
                                                       {" "}
-                                                      <span>Exhibition</span>
+                                                      <span>
+                                                        Etkinlik-Berlin
+                                                      </span>
                                                     </li>
                                                     <li className="teaser__meta-item">
                                                       {" "}
                                                       <span className="date-display-range">
-                                                        7 November 2024 – 30
-                                                        March 2025
+                                                        26 Eylül 2024 – 23 Şubat
+                                                        2025
                                                       </span>
                                                     </li>
                                                   </ul>
@@ -878,7 +882,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Picasso_teaser.jpg"
+                                                    src="/images/Silk-Roads-teaser-2000x1159.webp"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
