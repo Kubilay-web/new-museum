@@ -734,7 +734,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Schools
+                                        Okullar
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -759,7 +759,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Communities
+                                        Topluluklar
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -2018,7 +2018,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Schools
+                                          Okullar
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2043,7 +2043,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Communities
+                                          Topluluklar
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
