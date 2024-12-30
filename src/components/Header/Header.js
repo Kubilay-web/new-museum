@@ -89,7 +89,7 @@ const Header = () => {
                             onClick={toggleDropDown}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                           >
-                            <span>Visit</span>
+                            <span>Ziyaret</span>
                             <svg
                               className="icon icon--chevron"
                               role="presentation"
@@ -134,7 +134,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Visit
+                                        Ziyaret
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -159,7 +159,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Visit
+                                        Ziyaret
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -184,7 +184,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Family visits
+                                        Aile Ziyaretleri
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -209,7 +209,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Group visits
+                                        Grup Ziyaretleri
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -234,7 +234,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Audio app
+                                        Sesli Kayıtlar
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -259,7 +259,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Out-of-hours tours
+                                        Ziyaret Dışı Saatler
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -284,7 +284,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Tours and talks
+                                        Tur ve Rehberlik
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -309,7 +309,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Object trails
+                                        Nesneler
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -334,7 +334,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Accessibility
+                                        Ulaşılabilirlik
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -359,7 +359,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Food and drink
+                                        Yeme ve İçme
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -384,7 +384,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Late opening on Fridays
+                                        Cuma Günleri
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -409,7 +409,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Museum map
+                                        Müze Haritası
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -431,7 +431,7 @@ const Header = () => {
                             href="/exhibitions-events"
                             className="menu__link menu__link--level-0 menu__toggle"
                           >
-                            <span>Exhibitions and events</span>
+                            <span>Sergilerimiz</span>
                             <svg
                               className="icon icon--chevron"
                               role="presentation"
@@ -447,7 +447,7 @@ const Header = () => {
                             onClick={toggleDropDown2}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                           >
-                            <span>Collection</span>
+                            <span>Koleksiyon</span>
                             <svg
                               className="icon icon--chevron"
                               role="presentation"
@@ -492,7 +492,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Collection
+                                        Koleksiyon
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -504,10 +504,10 @@ const Header = () => {
                                       </svg>
                                     </div>
                                   </li>
-                                  <li className="menu__item menu__item--level-1 menu__item--Collection homepage">
+                                  <li className="menu__item menu__item--level-1 menu__item--Koleksiyon homepage">
                                     <a
                                       href="/"
-                                      className="menu__link menu__link--level-1 menu__toggle menu__link--Collection homepage js-Collection homepage"
+                                      className="menu__link menu__link--level-1 menu__toggle menu__link--Koleksiyon homepage js-Koleksiyon homepage"
                                     >
                                       <span>
                                         <span
@@ -517,7 +517,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Collection
+                                        Koleksiyon
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -542,7 +542,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Collection online
+                                        Online Koleksiyon
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -567,7 +567,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Galleries
+                                        Galeriler
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -639,7 +639,7 @@ const Header = () => {
                             onClick={toggleDropDown3}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                           >
-                            <span>Learn</span>
+                            <span>Eğitim</span>
                             <svg
                               className="icon icon--chevron"
                               role="presentation"
@@ -684,7 +684,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Learn
+                                        Eğitim
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -696,10 +696,10 @@ const Header = () => {
                                       </svg>
                                     </div>
                                   </li>
-                                  <li className="menu__item menu__item--level-1 menu__item--Learning and schools home">
+                                  <li className="menu__item menu__item--level-1 menu__item--Eğitiming and schools home">
                                     <a
                                       href="/learn"
-                                      className="menu__link menu__link--level-1 menu__toggle menu__link--Learning and schools home js-Learning and schools home"
+                                      className="menu__link menu__link--level-1 menu__toggle menu__link--Eğitiming and schools home js-Eğitiming and schools home"
                                     >
                                       <span>
                                         <span
@@ -709,7 +709,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Learn
+                                        Eğitim
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -831,7 +831,7 @@ const Header = () => {
                             onClick={toggleDropDown4}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                           >
-                            <span>Membership</span>
+                            <span>Üyelik</span>
                             <svg
                               className="icon icon--chevron"
                               role="presentation"
@@ -876,7 +876,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Membership
+                                        Üyelik
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -901,7 +901,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Membership
+                                        Üyelik
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1001,7 +1001,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Visiting as a Member
+                                        Ziyareting as a Member
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1023,7 +1023,7 @@ const Header = () => {
                             onClick={toggleDropDown5}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                           >
-                            <span>Support us</span>
+                            <span>Bizi Destekleyin</span>
                             <svg
                               className="icon icon--chevron"
                               role="presentation"
@@ -1068,7 +1068,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Support us
+                                        Bizi Destekleyin
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1093,7 +1093,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Donate
+                                        Bağış
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1315,7 +1315,7 @@ const Header = () => {
                         >
                           <use xlinkHref="#sprite-icon-shop" />
                         </svg>
-                        <span>Shop</span>
+                        <span>Alışveriş</span>
                       </a>
                     </li>
                     <li className="menu-item menu__item--level-0">
@@ -1331,7 +1331,7 @@ const Header = () => {
                         >
                           <use xlinkHref="#sprite-icon-search" />
                         </svg>
-                        <span>Search</span>
+                        <span>Arama</span>
                       </a>
                     </li>
                     <li className="menu-item menu__item--level-0">
@@ -1339,7 +1339,7 @@ const Header = () => {
                         className="menu__link menu__link--level-0 menu__link--donate"
                         href="/support-us/donate"
                       >
-                        <span>Donate</span>
+                        <span>Bağış</span>
                       </a>
                     </li>
                   </ul>
@@ -1373,7 +1373,7 @@ const Header = () => {
                               onClick={toggleDropDown}
                               className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                             >
-                              <span>Visit</span>
+                              <span>Ziyaret</span>
                               <svg
                                 className="icon icon--chevron"
                                 role="presentation"
@@ -1418,7 +1418,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Visit
+                                          Ziyaret
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1443,7 +1443,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Visit
+                                          Ziyaret
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1468,7 +1468,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Family visits
+                                          Aile Ziyaretleri
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1493,7 +1493,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Group visits
+                                          Grup Ziyaretleri
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1518,7 +1518,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Audio app
+                                          Sesli Kayıtlar
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1543,7 +1543,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Out-of-hours tours
+                                          Ziyaret Dışı Saatler
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1568,7 +1568,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Tours and talks
+                                          Tur ve Rehberlik
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1593,7 +1593,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Object trails
+                                          Nesneler
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1618,7 +1618,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Accessibility
+                                          Ulaşılabilirlik
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1643,7 +1643,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Food and drink
+                                          Yeme ve İçme
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1668,7 +1668,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Late opening on Fridays
+                                          Cuma Günleri
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1693,7 +1693,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Museum map
+                                          Müze Haritası
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1715,7 +1715,7 @@ const Header = () => {
                               href="/exhibitions-events"
                               className="menu__link menu__link--level-0 menu__toggle"
                             >
-                              <span>Exhibitions and events</span>
+                              <span>Sergilerimiz</span>
                               <svg
                                 className="icon icon--chevron"
                                 role="presentation"
@@ -1731,7 +1731,7 @@ const Header = () => {
                               onClick={toggleDropDown2}
                               className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                             >
-                              <span>Collection</span>
+                              <span>Koleksiyon</span>
                               <svg
                                 className="icon icon--chevron"
                                 role="presentation"
@@ -1776,7 +1776,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Collection
+                                          Koleksiyon
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1788,10 +1788,10 @@ const Header = () => {
                                         </svg>
                                       </div>
                                     </li>
-                                    <li className="menu__item menu__item--level-1 menu__item--Collection homepage">
+                                    <li className="menu__item menu__item--level-1 menu__item--Koleksiyon homepage">
                                       <a
                                         href="/"
-                                        className="menu__link menu__link--level-1 menu__toggle menu__link--Collection homepage js-Collection homepage"
+                                        className="menu__link menu__link--level-1 menu__toggle menu__link--Koleksiyon homepage js-Koleksiyon homepage"
                                       >
                                         <span>
                                           <span
@@ -1801,7 +1801,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Collection
+                                          Koleksiyon
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1826,7 +1826,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Collection online
+                                          Online Koleksiyon
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1851,7 +1851,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Galleries
+                                          Galeriler
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1923,7 +1923,7 @@ const Header = () => {
                               onClick={toggleDropDown3}
                               className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                             >
-                              <span>Learn</span>
+                              <span>Eğitim</span>
                               <svg
                                 className="icon icon--chevron"
                                 role="presentation"
@@ -1968,7 +1968,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Learn
+                                          Eğitim
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -1980,10 +1980,10 @@ const Header = () => {
                                         </svg>
                                       </div>
                                     </li>
-                                    <li className="menu__item menu__item--level-1 menu__item--Learning and schools home">
+                                    <li className="menu__item menu__item--level-1 menu__item--Eğitiming and schools home">
                                       <a
                                         href="/learn"
-                                        className="menu__link menu__link--level-1 menu__toggle menu__link--Learning and schools home js-Learning and schools home"
+                                        className="menu__link menu__link--level-1 menu__toggle menu__link--Eğitiming and schools home js-Eğitiming and schools home"
                                       >
                                         <span>
                                           <span
@@ -1993,7 +1993,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Learn
+                                          Eğitim
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2115,7 +2115,7 @@ const Header = () => {
                               onClick={toggleDropDown4}
                               className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                             >
-                              <span>Membership</span>
+                              <span>Üyelik</span>
                               <svg
                                 className="icon icon--chevron"
                                 role="presentation"
@@ -2160,7 +2160,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Membership
+                                          Üyelik
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2185,7 +2185,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Membership
+                                          Üyelik
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2285,7 +2285,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Visiting as a Member
+                                          Ziyareting as a Member
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2307,7 +2307,7 @@ const Header = () => {
                               onClick={toggleDropDown5}
                               className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                             >
-                              <span>Support us</span>
+                              <span>Bizi Destekleyin</span>
                               <svg
                                 className="icon icon--chevron"
                                 role="presentation"
@@ -2352,7 +2352,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Support us
+                                          Bizi Destekleyin
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2377,7 +2377,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Donate
+                                          Bağış
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2599,7 +2599,7 @@ const Header = () => {
                           >
                             <use xlinkHref="#sprite-icon-shop" />
                           </svg>
-                          <span>Shop</span>
+                          <span>Alışveriş</span>
                         </a>
                       </li>
                       <li className="menu-item menu__item--level-0">
@@ -2615,7 +2615,7 @@ const Header = () => {
                           >
                             <use xlinkHref="#sprite-icon-search" />
                           </svg>
-                          <span>Search</span>
+                          <span>Arama</span>
                         </a>
                       </li>
                       <li className="menu-item menu__item--level-0">
@@ -2623,7 +2623,7 @@ const Header = () => {
                           className="menu__link menu__link--level-0 menu__link--donate"
                           href="/support-us/donate"
                         >
-                          <span>Donate</span>
+                          <span>Bağış</span>
                         </a>
                       </li>
                     </ul>
