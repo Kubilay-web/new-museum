@@ -1118,7 +1118,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Corporate support
+                                        Kurumsal Destek
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1143,7 +1143,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Become a Patron
+                                        Destekçi Ol
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1168,7 +1168,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Supporter case studies
+                                        Bağış Yapma Yöntemleri
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1193,7 +1193,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Become a Volunteer
+                                        Gönüllü Ol
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1218,7 +1218,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Existing Patrons
+                                        Mevcut Destekçilerimiz
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1243,7 +1243,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Leave a legacy
+                                        Geleceğe Miras
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1268,7 +1268,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        American Friends of the Dersim Museum
+                                        Yurtdışındaki Dostlarımız
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -2402,7 +2402,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Corporate support
+                                          Kurumsal Destek
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2427,7 +2427,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Become a Patron
+                                          Destekçi Ol
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2452,7 +2452,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Supporter case studies
+                                          Bağış Yapma Yöntemleri
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2477,7 +2477,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Become a Volunteer
+                                          Gönüllü Ol
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2502,7 +2502,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Existing Patrons
+                                          Mevcut Destekçilerimiz
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2527,7 +2527,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Leave a legacy
+                                          Geleceğe Miras
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2552,7 +2552,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          American Friends of the Dersim Museum
+                                          Yurtdışındaki Dostlarımız
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
