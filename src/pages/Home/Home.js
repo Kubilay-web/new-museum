@@ -1667,7 +1667,7 @@ const Home = () => {
                                                   <div className="media media-discover media-image js-media">
                                                     <img
                                                       loading="lazy"
-                                                      src="/images/1-Persler Dönemi.jpg"
+                                                      src="/images/sasaniler.jpg"
                                                       width={286}
                                                       height={425}
                                                       alt="Mummy mask"
@@ -1702,7 +1702,7 @@ const Home = () => {
                                                   <div className="media media-discover media-image js-media">
                                                     <img
                                                       loading="lazy"
-                                                      src="/images/2-Osmanlılar Dönemi.png"
+                                                      src="/images/osmanlı.jpg"
                                                       width={226}
                                                       height={480}
                                                       alt="Two lgbtq badges on same image"
@@ -1737,7 +1737,7 @@ const Home = () => {
                                                   <div className="media media-discover media-image js-media">
                                                     <img
                                                       loading="lazy"
-                                                      src="/images/3-Cumhuriyet Dönemi.webp"
+                                                      src="/images/cumhuriyet.webp"
                                                       width={214}
                                                       height={480}
                                                       alt="Southwark made earthenware jug in shape of cat"
