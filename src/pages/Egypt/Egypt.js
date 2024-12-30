@@ -501,21 +501,21 @@ const Egypt = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_huge/public/2019-09/counting-geese-tomb-nebamun-british-museum.jpg?itok=XAmiOXgy 1x"
+                            src="/images/Egypt/image-01.jpg"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1018}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/uncropped_large/public/2019-09/counting-geese-tomb-nebamun-british-museum.jpg?itok=ddI0USdA 1x"
+                            src="/images/Egypt/image-01.jpg"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={827}
                           />
                           <source
-                            srcSet="/sites/default/files/styles/1_1_media_medium/public/2019-09/counting-geese-tomb-nebamun-british-museum.jpg?h=a0d1d332&itok=lm1isLq0 1x"
+                            src="/images/Egypt/image-01.jpg"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -527,8 +527,7 @@ const Egypt = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="/sites/default/files/styles/1_1_media_small/public/2019-09/counting-geese-tomb-nebamun-british-museum.jpg?h=a0d1d332&itok=Z64ptWyy"
-                            alt="Egyptian's hard at work counting geese. "
+                            src="/images/Egypt/image-01.jpg"
                           />
                         </picture>
                       </div>
@@ -958,35 +957,12 @@ const Egypt = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=3b6K4axH"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=oTNG_kF6 400w, /sites/default/files/styles/16_9_media_small/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=3b6K4axH 750w, /sites/default/files/styles/16_9_media_medium/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=jsZyktAO 1000w, /sites/default/files/styles/16_9_media_large/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=vQ0MlykK 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=ZpmrpPjX 1600w"
                                                     data-focal-position="center left"
                                                     alt="Visitors examining the Rosetta Stone in the Egyptian Sculpture gallery"
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=oTNG_kF6 400w, /sites/default/files/styles/16_9_media_small/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=3b6K4axH 750w, /sites/default/files/styles/16_9_media_medium/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=jsZyktAO 1000w, /sites/default/files/styles/16_9_media_large/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=vQ0MlykK 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=ZpmrpPjX 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&itok=3b6K4axH"
+                                                    src="/images/Egypt/image-02.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;amp;itok=oTNG_kF6
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;amp;itok=3b6K4axH
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;amp;itok=jsZyktAO
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;amp;itok=vQ0MlykK
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;amp;itok=ZpmrpPjX
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-08/rosetta-stone-egyptian-sculpture-room-1920_0.jpg?h=eb9bad8a&amp;amp;itok=3b6K4axH"
-                                                    data-sizes="auto"
-                                                    alt="Visitors examining the
-                                                    Rosetta Stone in the
-                                                    Egyptian Sculpture gallery"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1027,33 +1003,11 @@ const Egypt = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=vnRDmwZ0"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=Qs-Ivy7j 400w, /sites/default/files/styles/16_9_media_small/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=vnRDmwZ0 750w, /sites/default/files/styles/16_9_media_medium/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=PxN-NxH4 1000w, /sites/default/files/styles/16_9_media_large/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=FMNogD54 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=XhAuAxrJ 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Mummy case of young girl with gilded face"
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=Qs-Ivy7j 400w, /sites/default/files/styles/16_9_media_small/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=vnRDmwZ0 750w, /sites/default/files/styles/16_9_media_medium/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=PxN-NxH4 1000w, /sites/default/files/styles/16_9_media_large/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=FMNogD54 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=XhAuAxrJ 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&itok=vnRDmwZ0"
+                                                    src="/images/Egypt/image-03.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&amp;amp;itok=Qs-Ivy7j
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&amp;amp;itok=vnRDmwZ0
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&amp;amp;itok=PxN-NxH4
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&amp;amp;itok=FMNogD54
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&amp;amp;itok=XhAuAxrJ
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-05/Mummy-gilded-800.png?h=8869a3dd&amp;amp;itok=vnRDmwZ0"
-                                                    data-sizes="auto" alt="Mummy
-                                                    case of young girl with
-                                                    gilded face" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1094,32 +1048,11 @@ const Egypt = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=OD-WVRMM"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=xYRsAU7w 400w, /sites/default/files/styles/16_9_media_small/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=OD-WVRMM 750w, /sites/default/files/styles/16_9_media_medium/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=6QUvZtgt 1000w, /sites/default/files/styles/16_9_media_large/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=264vLbYJ 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=a8rlJ4KK 1600w"
                                                     data-focal-position="center center"
-                                                    alt="Amandine Mérat."
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=xYRsAU7w 400w, /sites/default/files/styles/16_9_media_small/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=OD-WVRMM 750w, /sites/default/files/styles/16_9_media_medium/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=6QUvZtgt 1000w, /sites/default/files/styles/16_9_media_large/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=264vLbYJ 1300w, /sites/default/files/styles/16_9_media_huge/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=a8rlJ4KK 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&itok=OD-WVRMM"
+                                                    src="/images/Egypt/image-04.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&amp;amp;itok=xYRsAU7w
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&amp;amp;itok=OD-WVRMM
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&amp;amp;itok=6QUvZtgt
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&amp;amp;itok=264vLbYJ
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&amp;amp;itok=a8rlJ4KK
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2020-05/Amandine_Merat_teaser.png?h=c59607c6&amp;amp;itok=OD-WVRMM"
-                                                    data-sizes="auto"
-                                                    alt="Amandine Mérat." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1158,33 +1091,11 @@ const Egypt = () => {
                                                     className="lazyautosizes lazyloaded"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=p3pb0PBs"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=TWK-3a6s 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=p3pb0PBs 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=jmPR2rT- 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=X3x3TDXr 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=sHEmWXQG 1600w"
                                                     data-focal-position="center center"
-                                                    alt="A light teal 60s sewing machine."
                                                     sizes="288px"
-                                                    srcSet="/sites/default/files/styles/16_9_media_tiny/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=TWK-3a6s 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=p3pb0PBs 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=jmPR2rT- 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=X3x3TDXr 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=sHEmWXQG 1600w"
-                                                    src="/sites/default/files/styles/16_9_media_small/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&itok=p3pb0PBs"
+                                                    src="/images/Egypt/image-05.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&amp;amp;itok=TWK-3a6s
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&amp;amp;itok=p3pb0PBs
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&amp;amp;itok=jmPR2rT-
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&amp;amp;itok=X3x3TDXr
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&amp;amp;itok=sHEmWXQG
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/The%20Nefertiti%20sewing%20machine%2C%20modern%20Egypt%2C%20collection%2C%20British%20Musuem%20%281%29.jpg?h=e2bcc475&amp;amp;itok=p3pb0PBs"
-                                                    data-sizes="auto" alt="A
-                                                    light teal 60s sewing
-                                                    machine." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1288,25 +1199,11 @@ Glazed composition 'wedjat' eye amulet.&nbsp;Its basic design is the eye and eye
                                               className="not-full-width lazyautosizes lazyloaded"
                                               width={946}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-amulet.jpg?itok=x7QclKEK"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-amulet.jpg?itok=x7QclKEK 946w"
                                               data-focal-position="center center"
-                                              alt="Glazed composition 'wedjat' eye amulet"
                                               sizes="676px"
-                                              srcSet="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-amulet.jpg?itok=x7QclKEK 946w"
-                                              src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-amulet.jpg?itok=x7QclKEK"
+                                              src="/images/Egypt/image-06.webp"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-amulet.jpg?itok=x7QclKEK
-                                              946w" width="946" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-amulet.jpg?itok=x7QclKEK"
-                                              data-sizes="auto" alt="Glazed
-                                              composition
-                                              &amp;#039;wedjat&amp;#039; eye
-                                              amulet" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             Amulet
@@ -1342,24 +1239,11 @@ Black granite head: from lifesize figure of a queen or deity, wearing long stria
                                               className="not-full-width lazyautosizes lazyloaded"
                                               width={916}
                                               height={700}
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-figure.jpg?itok=VG23Ahto"
                                               data-sizes="auto"
-                                              data-srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-figure.jpg?itok=VG23Ahto 916w"
                                               data-focal-position="center center"
-                                              alt="Black granite head of lifesize figure of a queen or deity"
                                               sizes="654px"
-                                              srcSet="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-figure.jpg?itok=VG23Ahto 916w"
-                                              src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-figure.jpg?itok=VG23Ahto"
+                                              src="/images/Egypt/image-07.jpg"
                                             />
-                                            <noscript>
-                                              &lt;img loading="eager"
-                                              srcset="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-figure.jpg?itok=VG23Ahto
-                                              916w" width="916" height="700"
-                                              data-src="/sites/default/files/styles/bm_gallery_medium_700h/public/2020-03/Egyptian-figure.jpg?itok=VG23Ahto"
-                                              data-sizes="auto" alt="Black
-                                              granite head of lifesize figure of
-                                              a queen or deity" /&gt;
-                                            </noscript>
                                           </div>
                                           <p className="carousel--gallery__item-title">
                                             Black granite head of queen or deity
@@ -1708,31 +1592,11 @@ Animals associated with deities were regularly mummified in the later periods of
                                           className="lazyautosizes lazyloaded"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=UGIhAUth"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=Zd5SAlsv 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=UGIhAUth 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=jerdaTSn 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=Omwq5WSI 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=GJ8ZhCKw 1600w"
                                           data-focal-position="center center"
-                                          alt="A crystal translucent skull"
                                           sizes="288px"
-                                          srcSet="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=Zd5SAlsv 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=UGIhAUth 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=jerdaTSn 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=Omwq5WSI 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=GJ8ZhCKw 1600w"
-                                          src="/sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&itok=UGIhAUth"
+                                          src="/images/Egypt/image-08.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=Zd5SAlsv
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=UGIhAUth
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=jerdaTSn
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=Omwq5WSI
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=GJ8ZhCKw
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Rock_crystal_skull_1000x500.jpg?h=5dabf909&amp;amp;itok=UGIhAUth"
-                                          data-sizes="auto" alt="A crystal
-                                          translucent skull" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1769,31 +1633,10 @@ Animals associated with deities were regularly mummified in the later periods of
                                           height={422}
                                           data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=5kDh7ddt"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=TfQ3CUMx 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=5kDh7ddt 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=m_NUeqSy 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=e8IKj40_ 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=Xx8eCBUE 1600w"
                                           data-focal-position="center center"
-                                          alt="A turquoise two-headed serpent mouth ajar, heads pointing in different directions."
                                           sizes="288px"
-                                          srcSet="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=TfQ3CUMx 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=5kDh7ddt 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=m_NUeqSy 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=e8IKj40_ 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=Xx8eCBUE 1600w"
-                                          src="/sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&itok=5kDh7ddt"
+                                          src="/images/Egypt/image-09.jpg"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=TfQ3CUMx
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=5kDh7ddt
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=m_NUeqSy
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=e8IKj40_
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=Xx8eCBUE
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Double-headed_serpent_mosaic-1000x500.jpg?h=5dabf909&amp;amp;itok=5kDh7ddt"
-                                          data-sizes="auto" alt="A turquoise
-                                          two-headed serpent mouth ajar, heads
-                                          pointing in different directions."
-                                          /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1830,31 +1673,11 @@ Animals associated with deities were regularly mummified in the later periods of
                                           className="lazyautosizes lazyloaded"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=W9A1oBUW"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=lkb7H3PZ 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=W9A1oBUW 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=Dnteakto 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=xzHWBODI 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=7RO2-irR 1600w"
                                           data-focal-position="center center"
-                                          alt="Three nude glazed earthenware figures"
                                           sizes="288px"
-                                          srcSet="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=lkb7H3PZ 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=W9A1oBUW 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=Dnteakto 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=xzHWBODI 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=7RO2-irR 1600w"
-                                          src="/sites/default/files/styles/16_9_media_small/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&itok=W9A1oBUW"
+                                          src="/images/Egypt/image-10.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=lkb7H3PZ
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=W9A1oBUW
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=Dnteakto
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=xzHWBODI
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=7RO2-irR
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Earthenware_figures_Augusta_Kaiser-1000x500.jpg?h=5dabf909&amp;amp;itok=W9A1oBUW"
-                                          data-sizes="auto" alt="Three nude
-                                          glazed earthenware figures" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
@@ -1891,31 +1714,12 @@ Animals associated with deities were regularly mummified in the later periods of
                                           className="lazyautosizes lazyloaded"
                                           width={750}
                                           height={422}
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=SsvVFn-P"
                                           data-sizes="auto"
-                                          data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=-DdOKxvd 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=SsvVFn-P 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=UyzDoHGn 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=oyNVdVgT 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=9WZED8rU 1600w"
                                           data-focal-position="center center"
                                           alt="A bronze Amazonian on horseback"
                                           sizes="288px"
-                                          srcSet="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=-DdOKxvd 400w, /sites/default/files/styles/16_9_media_small/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=SsvVFn-P 750w, /sites/default/files/styles/16_9_media_medium/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=UyzDoHGn 1000w, /sites/default/files/styles/16_9_media_large/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=oyNVdVgT 1300w, /sites/default/files/styles/16_9_media_huge/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=9WZED8rU 1600w"
-                                          src="/sites/default/files/styles/16_9_media_small/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&itok=SsvVFn-P"
+                                          src="/images/Egypt/image-11.webp"
                                         />
-                                        <noscript>
-                                          &lt;img loading="eager"
-                                          srcset="/sites/default/files/styles/16_9_media_tiny/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=-DdOKxvd
-                                          400w,
-                                          /sites/default/files/styles/16_9_media_small/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=SsvVFn-P
-                                          750w,
-                                          /sites/default/files/styles/16_9_media_medium/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=UyzDoHGn
-                                          1000w,
-                                          /sites/default/files/styles/16_9_media_large/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=oyNVdVgT
-                                          1300w,
-                                          /sites/default/files/styles/16_9_media_huge/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=9WZED8rU
-                                          1600w" width="750" height="422"
-                                          data-src="/sites/default/files/styles/16_9_media_small/public/2023-12/Bronze_figure_mounted_Amazon_1000x500.jpg?h=5dabf909&amp;amp;itok=SsvVFn-P"
-                                          data-sizes="auto" alt="A bronze
-                                          Amazonian on horseback" /&gt;
-                                        </noscript>
                                       </div>
                                     </div>
                                     <div className="teaser__content">
