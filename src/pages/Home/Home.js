@@ -1439,11 +1439,9 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Driving the care, display
-                                                    and understanding of the
-                                                    collection, find out about
-                                                    projects, studentships and
-                                                    publications.
+                                                    Almanya'da Sürgünde Dersim
+                                                    Müzesi'nin kurulması için
+                                                    çalışmalarımız devam ediyor.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1482,10 +1480,8 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Learn about our research
-                                                    departments, outreach,
-                                                    training, study rooms and
-                                                    access to the collection.
+                                                    Hasan Saltık'ı kaybetmenin
+                                                    derin üzüntüsünü yaşıyoruz.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1523,11 +1519,9 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Find out how the Museum
-                                                    shares expertise and the
-                                                    collection across more than
-                                                    250 Dersim cultural
-                                                    organisations.
+                                                    Dersim Vakfı olarak
+                                                    öğrencilere desteğimizi
+                                                    sürdürüyoruz.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1565,11 +1559,9 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Loans, research and touring
-                                                    exhibitions are some of the
-                                                    many ways we build ties
-                                                    internationally. See our
-                                                    current collaborations.
+                                                    Mültecilerin eğitimlerine
+                                                    devam edebilmeleri için
+                                                    çalışmalar yapıyoruz.
                                                   </div>
                                                 </div>
                                               </div>
