@@ -784,7 +784,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Adult learning
+                                        Yetişkinler için Eğitim
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -809,7 +809,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Young people
+                                        Gençler için Eğitim
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -2068,7 +2068,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Adult learning
+                                          Yetişkinler için Eğitim
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2093,7 +2093,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Young people
+                                          Gençler için Eğitim
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
