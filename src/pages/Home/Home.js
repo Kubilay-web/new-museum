@@ -1587,7 +1587,7 @@ const Home = () => {
                                       id="paragraph-39957-title"
                                       className="section__title"
                                     >
-                                      Search Collection online
+                                      Online Koleksiyonu Araştır
                                     </h2>
                                   </div>
                                   <div className="banner__content">
@@ -1603,7 +1603,7 @@ const Home = () => {
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >
-                                        <span>Start your search</span>
+                                        <span>Araştırmaya Başla</span>
                                       </a>
                                     </div>
                                   </div>
