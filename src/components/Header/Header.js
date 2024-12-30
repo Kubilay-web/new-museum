@@ -926,7 +926,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Members' events
+                                        Üyeler için Etkinlikler
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -951,7 +951,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Young Friends
+                                        Genç Üyeler
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -976,7 +976,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Existing Members
+                                        Mevcut Üyeler
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -1001,7 +1001,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Ziyareting as a Member
+                                        Üye Olarak Ziyaret
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
@@ -2210,7 +2210,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Members' events
+                                          Üyeler için Etkinlikler
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2235,7 +2235,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Young Friends
+                                          Genç Üyeler
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2260,7 +2260,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Existing Members
+                                          Mevcut Üyeler
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
@@ -2285,7 +2285,7 @@ const Header = () => {
                                           >
                                             —
                                           </span>
-                                          Ziyareting as a Member
+                                          Üye Olarak Ziyaret
                                         </span>
                                         <svg
                                           className="icon icon--chevron"
