@@ -15,7 +15,7 @@ const Footer = () => {
                   <form
                     className="footer__form"
                     id="adestra_footer_form"
-                    action="https://britishmuseum.msgfocus.com/s/"
+                    action="/"
                     method="POST"
                     target="_blank"
                   >
@@ -73,7 +73,7 @@ const Footer = () => {
                   <div id="block-sociallinks">
                     <ul className="menu menu--icon-menu menu--level-0">
                       <li>
-                        <a href="https://www.facebook.com/britishmuseum">
+                        <a href="https://www.facebook.com/">
                           <span className="menu--icon__icon-container">
                             <svg
                               className="icon icon--facebook"
@@ -88,7 +88,7 @@ const Footer = () => {
                         </a>
                       </li>
                       <li>
-                        <a href="https://twitter.com/britishmuseum">
+                        <a href="https://twitter.com">
                           <span className="menu--icon__icon-container">
                             <svg
                               className="icon icon--x"
@@ -105,7 +105,7 @@ const Footer = () => {
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.instagram.com/britishmuseum/">
+                        <a href="https://www.instagram.com">
                           <span className="menu--icon__icon-container">
                             <svg
                               className="icon icon--instagram"
@@ -120,7 +120,7 @@ const Footer = () => {
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.youtube.com/user/britishmuseum">
+                        <a href="https://www.youtube.com">
                           <span className="menu--icon__icon-container">
                             <svg
                               className="icon icon--youtube"
@@ -135,7 +135,7 @@ const Footer = () => {
                         </a>
                       </li>
                       <li>
-                        <a href="https://weibo.com/britishmuseumlondon">
+                        <a href="https://weibo.com">
                           <span className="menu--icon__icon-container">
                             <svg
                               className="icon icon--weibo"
