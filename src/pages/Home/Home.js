@@ -1129,15 +1129,15 @@ const Home = () => {
                                       id="paragraph-39953-title"
                                       className="section__title"
                                     >
-                                      Üye Ol
+                                      Müzemize Üye Olun
                                     </h2>
                                   </div>
                                   <div className="banner__content">
                                     <p>
-                                      Enjoy exclusive events, unlimited access
-                                      to exhibitions and the Members' Room, plus
-                                      discounts in the Museum shops, cafés and
-                                      restaurants.
+                                      Müzemizdeki sınırlı kontenjana sahip
+                                      etkinliklere ve konferanslara katılmak
+                                      için ve müze mağazımızdan indirimi
+                                      alışveriş yapabilmek için üye olun.
                                     </p>
                                     <div className="banner__button-container">
                                       <a
@@ -1370,9 +1370,9 @@ const Home = () => {
                                   </div>
                                   <div className="banner__content">
                                     <p>
-                                      Stay connected to the Dersim Museum for
-                                      the latest news, stories, exhibitions,
-                                      events and visitor information.
+                                      Dersim Müzesi'nin bültenine abone olarak
+                                      Dersim ile ilgili en son gelişmelerden
+                                      haberdar olabilirsiniz.
                                     </p>
                                     <div className="banner__button-container">
                                       <a
