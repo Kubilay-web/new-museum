@@ -1429,7 +1429,9 @@ const Home = () => {
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
-                                                        <span>Research</span>
+                                                        <span>
+                                                          Sürgünde Dersim Müzesi
+                                                        </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     </a>
@@ -1469,7 +1471,10 @@ const Home = () => {
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
-                                                        <span>Departments</span>
+                                                        <span>
+                                                          Hasan Saltık'ı
+                                                          Yitirdik
+                                                        </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     </a>
