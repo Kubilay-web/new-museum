@@ -937,7 +937,7 @@ const Home = () => {
                                     id="paragraph-39952-title"
                                     className="section__title teaser-listing__title"
                                   >
-                                    Visit the Museum
+                                    Müzemizi Ziyaret Edin
                                   </h2>
                                   <div className="carousel-container | js-carousel-container">
                                     <div
@@ -970,7 +970,7 @@ const Home = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          Plan your visit
+                                                          Ziyaretinizi Planlayın
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -1010,7 +1010,9 @@ const Home = () => {
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
-                                                        <span>Museum map</span>
+                                                        <span>
+                                                          Müze Krokisi
+                                                        </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     </a>
@@ -1049,7 +1051,7 @@ const Home = () => {
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
-                                                        <span>Galleries</span>
+                                                        <span>Galeriler</span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     </a>
@@ -1089,7 +1091,7 @@ const Home = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          Family visits
+                                                          Aile Ziyareti
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -1126,7 +1128,7 @@ const Home = () => {
                                       id="paragraph-39953-title"
                                       className="section__title"
                                     >
-                                      Become a Member
+                                      Üye Ol
                                     </h2>
                                   </div>
                                   <div className="banner__content">
@@ -1142,7 +1144,7 @@ const Home = () => {
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >
-                                        <span>Find out more</span>
+                                        <span>Daha Fazlası</span>
                                       </a>
                                     </div>
                                   </div>
@@ -1362,7 +1364,7 @@ const Home = () => {
                                       id="paragraph-39955-title"
                                       className="section__title"
                                     >
-                                      Sign up to our newsletters
+                                      Bültenlerimize Abone Olun
                                     </h2>
                                   </div>
                                   <div className="banner__content">
@@ -1377,7 +1379,7 @@ const Home = () => {
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >
-                                        <span>Sign up</span>
+                                        <span>Abone Ol</span>
                                       </a>
                                     </div>
                                   </div>
