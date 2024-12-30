@@ -1184,7 +1184,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Masterplan_aerial_view_teaser.jpg"
+                                                    src="/images/Barış Çalışmaları.jpg"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
@@ -1227,7 +1227,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Volunteers-blog-hero-1920x1080.jpg"
+                                                    src="/images/Hukuk Çalışmaları.jpg"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
@@ -1269,7 +1269,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Roman-hoards-Hero-thetford-1920x1080.webp"
+                                                    src="/images/İnsan Hakları çalışmaları.png"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
@@ -1312,7 +1312,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Who-is-Hew-Locke-teaser-1000x634.webp"
+                                                    src="/images/Küresel İşbirliği.jpg"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
