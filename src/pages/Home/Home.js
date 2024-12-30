@@ -619,8 +619,8 @@ const Home = () => {
                               id="paragraph-39950-title"
                               className="intro__title"
                             >
-                              Discover two million years of human history and
-                              culture
+                              Yurt İçinde ve Yurt Dışında Yürüttüğümüz
+                              Çalışmalarımız
                             </h2>
                           </div>
                           <div className="section--intro__info">
@@ -634,12 +634,13 @@ const Home = () => {
                                 <use xlinkHref="#sprite-icon-ticket" />
                               </svg>
                               <p>
-                                Free entry –
+                                Ücretsiz Giriş –
                                 <a
-                                  href="https://ticketing.britishmuseum.org/events?k=general%20admission"
+                                  // href="https://ticketing.britishmuseum.org/events?k=general%20admission"
+                                  href="/"
                                   className="section--intro__booking-link"
                                 >
-                                  <span>book online</span>
+                                  <span>Rezervasyon</span>
                                 </a>
                               </p>
                             </div>
@@ -652,7 +653,7 @@ const Home = () => {
                               >
                                 <use xlinkHref="#sprite-icon-clock" />
                               </svg>
-                              <p>Open today: 10.00–17.00</p>
+                              <p>Müze Ziyareti: 10.00–17.00</p>
                             </div>
                             <div className="section--intro__info-detail">
                               <svg
@@ -663,7 +664,7 @@ const Home = () => {
                               >
                                 <use xlinkHref="#sprite-icon-clock" />
                               </svg>
-                              <p>Last entry: 16.45</p>
+                              <p>Son Giriş: 16.45</p>
                             </div>
                           </div>
                         </div>
