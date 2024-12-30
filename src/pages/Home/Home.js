@@ -1674,7 +1674,7 @@ const Home = () => {
                                                   <div className="media media-discover media-image js-media">
                                                     <img
                                                       loading="lazy"
-                                                      src="/images/mummy_mask-teaser.png"
+                                                      src="/images/1-Persler Dönemi.jpg"
                                                       width={286}
                                                       height={425}
                                                       alt="Mummy mask"
@@ -1709,7 +1709,7 @@ const Home = () => {
                                                   <div className="media media-discover media-image js-media">
                                                     <img
                                                       loading="lazy"
-                                                      src="/images/Untitled.png"
+                                                      src="/images/2-Osmanlılar Dönemi.png"
                                                       width={226}
                                                       height={480}
                                                       alt="Two lgbtq badges on same image"
@@ -1744,7 +1744,7 @@ const Home = () => {
                                                   <div className="media media-discover media-image js-media">
                                                     <img
                                                       loading="lazy"
-                                                      src="/images/southwark%20cat%20%281%29.png"
+                                                      src="/images/3-Cumhuriyet Dönemi.webp"
                                                       width={214}
                                                       height={480}
                                                       alt="Southwark made earthenware jug in shape of cat"
