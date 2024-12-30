@@ -239,11 +239,6 @@ const Footer = () => {
         <div className="region region--footer footer-main">
           <div className="container">
             <div className="footer__inner footer-spacer">
-              <img
-                className="footer__image not-full-width lazyload"
-                src="/images/footer-turtle.webp"
-                alt="footer-turtle"
-              />
               <div className="footer__content">
                 <div className="footer__info">
                   <div className="footer__info-inner">
