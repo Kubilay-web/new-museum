@@ -1197,7 +1197,7 @@ const Home = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          The Masterplan
+                                                          Barış Çalışmaları
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -1240,8 +1240,7 @@ const Home = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          Inside 'Hew Locke:
-                                                          what have we here?'
+                                                          Hukuk Çalışmaları
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -1283,8 +1282,8 @@ const Home = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          Dersim's last Roman
-                                                          hoards
+                                                          İnsan Haklarının
+                                                          Savunulması
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
@@ -1326,8 +1325,7 @@ const Home = () => {
                                                     >
                                                       <span>
                                                         <span>
-                                                          How to cook medieval
-                                                          fast?
+                                                          Küresel İş Birliği
                                                         </span>
                                                       </span>
                                                       {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
