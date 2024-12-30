@@ -1908,7 +1908,7 @@ const Home = () => {
                                     id="paragraph-39973-title"
                                     className="section__title teaser-listing__title"
                                   >
-                                    Welcome to the Dersim Museum Shop
+                                    Dersim Müzesinin Mağazasına Hoşgeldiniz
                                   </h2>
                                   <a
                                     href="/shop"
