@@ -131,7 +131,7 @@ function App() {
       <Route path="/our-work/national" element={<National />} />
       <Route path="/our-work/international" element={<International />} />
       <Route
-        path="/our-work/how-borrow-british-museum-objects"
+        path="/our-work/how-borrow-dersim-museum-objects"
         element={<Borrow />}
       />
       <Route path="/research" element={<Research />} />
@@ -141,7 +141,7 @@ function App() {
         element={<Publications />}
       />
       <Route
-        path="/scientific-study-british-museum-collection"
+        path="/scientific-study-dersim-museum-collection"
         element={<Science />}
       />
       <Route path="/commercial" element={<Commercial />} />

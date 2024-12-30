@@ -426,7 +426,7 @@ const Footer = () => {
                           <li className="menu-item menu__item--level-1">
                             <a
                               className="menu__link menu__link--level-1"
-                              href="https://www.bmimages.com/"
+                              href="https://www.dersimimages.com/"
                             >
                               <span>Dersim Resim</span>
                             </a>
@@ -492,7 +492,7 @@ const Footer = () => {
                           <li className="menu-item menu__item--level-1">
                             <a
                               className="menu__link menu__link--level-1"
-                              href="/our-work/how-borrow-british-museum-objects"
+                              href="/our-work/how-borrow-dersim-museum-objects"
                             >
                               <span>Geçici Koleksiyon</span>
                             </a>
@@ -526,7 +526,7 @@ const Footer = () => {
                           <li className="menu-item menu__item--level-1">
                             <a
                               className="menu__link menu__link--level-1"
-                              href="/scientific-study-british-museum-collection"
+                              href="/scientific-study-dersim-museum-collection"
                             >
                               <span>Bilimsel Çalışmalar</span>
                             </a>

@@ -787,7 +787,7 @@ const International = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/our-work/how-borrow-british-museum-objects"
+                                                      href="/our-work/how-borrow-dersim-museum-objects"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>

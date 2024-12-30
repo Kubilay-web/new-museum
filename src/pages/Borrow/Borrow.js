@@ -19,7 +19,7 @@ const Borrow = () => {
         />
         <link
           rel="canonical"
-          href="https://www.britishmuseum.org/our-work/how-borrow-british-museum-objects"
+          href="https://www.britishmuseum.org/our-work/how-borrow-dersim-museum-objects"
         />
         <link
           rel="image_src"
@@ -29,7 +29,7 @@ const Borrow = () => {
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
-          content="https://www.britishmuseum.org/our-work/how-borrow-british-museum-objects"
+          content="https://www.britishmuseum.org/our-work/how-borrow-dersim-museum-objects"
         />
         <meta
           property="og:title"
@@ -616,7 +616,7 @@ const Borrow = () => {
                                 <use xlinkHref="#sprite-icon-chevron" />
                               </svg>
                               <a
-                                href="https://www.britishmuseum.org/our-work/how-borrow-british-museum-objects"
+                                href="https://www.britishmuseum.org/our-work/how-borrow-dersim-museum-objects"
                                 className="breadcrumb__current"
                                 aria-current="page"
                               >
@@ -632,7 +632,7 @@ const Borrow = () => {
                           <li className="social-share__item">
                             <a
                               className="social-share__link"
-                              href="http://www.facebook.com/share.php?u=https://www.britishmuseum.org/our-work/how-borrow-british-museum-objects"
+                              href="http://www.facebook.com/share.php?u=https://www.britishmuseum.org/our-work/how-borrow-dersim-museum-objects"
                               target="_blank"
                               rel="nofollow noopener noreferrer"
                             >
@@ -652,7 +652,7 @@ const Borrow = () => {
                           <li className="social-share__item">
                             <a
                               className="social-share__link"
-                              href="https://twitter.com/intent/tweet?text=How%20to%20borrow%20British%20Museum%20objects&url=https://www.britishmuseum.org/our-work/how-borrow-british-museum-objects"
+                              href="https://twitter.com/intent/tweet?text=How%20to%20borrow%20British%20Museum%20objects&url=https://www.britishmuseum.org/our-work/how-borrow-dersim-museum-objects"
                               target="_blank"
                               rel="nofollow noopener noreferrer"
                             >

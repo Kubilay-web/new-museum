@@ -1278,7 +1278,7 @@ const Home = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/research/projects/britains-last-roman-hoards"
+                                                      href="/research/projects/dersim-last-roman-hoards"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -1376,7 +1376,7 @@ const Home = () => {
                                     </p>
                                     <div className="banner__button-container">
                                       <a
-                                        href="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box"
+                                        href="https://emails.dersimmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box"
                                         className="button button--chevron"
                                         data-tracking="cta"
                                       >
@@ -1666,11 +1666,11 @@ const Home = () => {
                                                 <div className="teaser--animate__image">
                                                   <div className="media media-discover media-image js-media">
                                                     <img
+                                                      className="image-style"
                                                       loading="lazy"
                                                       src="/images/sasaniler.jpg"
                                                       width={286}
                                                       height={425}
-                                                      alt="Mummy mask"
                                                     />
                                                   </div>
                                                 </div>
@@ -1701,6 +1701,7 @@ const Home = () => {
                                                 <div className="teaser--animate__image">
                                                   <div className="media media-discover media-image js-media">
                                                     <img
+                                                      className="image-style"
                                                       loading="lazy"
                                                       src="/images/osmanlı.jpg"
                                                       width={226}
@@ -1736,6 +1737,7 @@ const Home = () => {
                                                 <div className="teaser--animate__image">
                                                   <div className="media media-discover media-image js-media">
                                                     <img
+                                                      className="image-style"
                                                       loading="lazy"
                                                       src="/images/cumhuriyet.webp"
                                                       width={214}
@@ -1939,7 +1941,7 @@ const Home = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="/shopinspired-by/inspired-by-the-british-museum.html?_ga=2.117272261.236295749.1596441842-1583734833.1593694052"
+                                                    href="/shopinspired-by/inspired-by-the-dersim-museum.html?_ga=2.117272261.236295749.1596441842-1583734833.1593694052"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -2042,7 +2044,7 @@ const Home = () => {
                                               <div className="teaser__content">
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="/shopinspired-by/inspired-by-london.html"
+                                                    href="/shopinspired-by/inspired-by-dersim.html"
                                                     className="teaser__anchor"
                                                     data-tracking="shop-slice"
                                                   >
@@ -2050,7 +2052,7 @@ const Home = () => {
                                                       Dersim Müzesi Porselen
                                                     </span>
                                                     <span className="visually-hidden">
-                                                      /shopinspired-by/inspired-by-london.html
+                                                      /shopinspired-by/inspired-by-dersim.html
                                                     </span>
                                                   </a>
                                                 </h3>

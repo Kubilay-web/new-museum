@@ -19,7 +19,7 @@ const Science = () => {
         />
         <link
           rel="canonical"
-          href="https://www.britishmuseum.org/scientific-study-british-museum-collection"
+          href="https://www.britishmuseum.org/scientific-study-dersim-museum-collection"
         />
         <link
           rel="image_src"
@@ -29,7 +29,7 @@ const Science = () => {
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
-          content="https://www.britishmuseum.org/scientific-study-british-museum-collection"
+          content="https://www.britishmuseum.org/scientific-study-dersim-museum-collection"
         />
         <meta
           property="og:title"
@@ -605,7 +605,7 @@ const Science = () => {
                                 <use xlinkHref="#sprite-icon-chevron" />
                               </svg>
                               <a
-                                href="https://www.britishmuseum.org/scientific-study-british-museum-collection"
+                                href="https://www.britishmuseum.org/scientific-study-dersim-museum-collection"
                                 className="breadcrumb__current"
                                 aria-current="page"
                               >
@@ -621,7 +621,7 @@ const Science = () => {
                           <li className="social-share__item">
                             <a
                               className="social-share__link"
-                              href="http://www.facebook.com/share.php?u=https://www.britishmuseum.org/scientific-study-british-museum-collection"
+                              href="http://www.facebook.com/share.php?u=https://www.britishmuseum.org/scientific-study-dersim-museum-collection"
                               target="_blank"
                               rel="nofollow noopener noreferrer"
                             >
@@ -641,7 +641,7 @@ const Science = () => {
                           <li className="social-share__item">
                             <a
                               className="social-share__link"
-                              href="https://twitter.com/intent/tweet?text=Scientific%20study%20of%20the%20British%20Museum%20collection&url=https://www.britishmuseum.org/scientific-study-british-museum-collection"
+                              href="https://twitter.com/intent/tweet?text=Scientific%20study%20of%20the%20British%20Museum%20collection&url=https://www.britishmuseum.org/scientific-study-dersim-museum-collection"
                               target="_blank"
                               rel="nofollow noopener noreferrer"
                             >

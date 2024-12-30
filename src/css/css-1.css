@@ -101,3 +101,8 @@
     width: 100%;
   }
 }
+
+img.image-style {
+  padding: 0px 10px 0px 10px !important;
+  height: 480px !important;
+}

@@ -1912,7 +1912,7 @@ const Study = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/scientific-study-british-museum-collection"
+                                                      href="/scientific-study-dersim-museum-collection"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
