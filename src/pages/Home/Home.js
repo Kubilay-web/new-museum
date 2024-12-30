@@ -1266,7 +1266,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/İnsan Hakları çalışmaları.png"
+                                                    src="/images/insan hakları çalışmaları.webp"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
@@ -1309,7 +1309,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Küresel İşbirliği.jpg"
+                                                    src="/images/global cooperation.webp"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
