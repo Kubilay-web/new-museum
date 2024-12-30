@@ -841,6 +841,7 @@ const Home = () => {
                                                     className="teaser__anchor"
                                                   >
                                                     <span>
+                                                      Zazaca Konferansı <br />
                                                       <strong>
                                                         Dünya Anadil Etkinliği
                                                       </strong>
