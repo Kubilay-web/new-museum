@@ -1623,13 +1623,13 @@ const Home = () => {
                                     id="paragraph-39964-title"
                                     className="section__title teaser-listing__title"
                                   >
-                                    Explore the collection
+                                    Koleksiyonlarımızı Keşfedin
                                   </h2>
                                   <a
                                     href="/collection"
                                     className="teaser-listing__cta"
                                   >
-                                    <span>See all</span>
+                                    <span>Hepsini Görüntüleyin</span>
                                     <svg
                                       className="icon icon--chevron"
                                       role="presentation"
