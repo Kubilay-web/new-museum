@@ -688,7 +688,7 @@ const Home = () => {
                                     id="paragraph-39951-title"
                                     className="section__title teaser-listing__title"
                                   >
-                                    Konferanslar ve Sergiler
+                                    Konferanslar ve Etkinlikler
                                   </h2>
                                   <a
                                     href="/exhibitions-events"
