@@ -694,7 +694,7 @@ const Home = () => {
                                     href="/exhibitions-events"
                                     className="teaser-listing__cta"
                                   >
-                                    <span>Tüm Sergiler ve Etkinlikler</span>
+                                    <span>Tüm Konferanslar ve Etkinlikler</span>
                                     <svg
                                       className="icon icon--chevron"
                                       role="presentation"
