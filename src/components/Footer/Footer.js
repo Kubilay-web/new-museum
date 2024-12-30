@@ -264,7 +264,7 @@ const Footer = () => {
                       </p>
                       <p>
                         <a href="mailto:info@dersim-stiftung.de">
-                          <span>info@dersim-stiftung.de</span>
+                          <span>Email: info@dersim-stiftung.de</span>
                         </a>
                         <br />
                         &nbsp;
@@ -318,7 +318,7 @@ const Footer = () => {
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
                             <a
                               className="menu__link menu__link--level-1"
-                              href="/about-us/british-museum-story"
+                              href="/about-us/dersim-museum-story"
                             >
                               <span>Sürgünde Dersim Müzesi</span>
                             </a>
@@ -442,7 +442,7 @@ const Footer = () => {
                           <li className="menu-item menu__item--level-1">
                             <a
                               className="menu__link menu__link--level-1"
-                              href="/commercial/british-museum-press"
+                              href="/commercial/dersim-museum-press"
                             >
                               <span>Dersim Müzesi Yayınları</span>
                             </a>
@@ -518,7 +518,7 @@ const Footer = () => {
                           <li className="menu-item menu__item--level-1">
                             <a
                               className="menu__link menu__link--level-1"
-                              href="/research/british-museum-publications"
+                              href="/research/dersim-museum-publications"
                             >
                               <span>Yayınlar</span>
                             </a>

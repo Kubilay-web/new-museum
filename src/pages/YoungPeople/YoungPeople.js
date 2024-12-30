@@ -753,7 +753,7 @@ const YoungPeople = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/learn/young-people/british-museum-young-peoples-programme"
+                                                      href="/learn/young-people/dersim-museum-young-peoples-programme"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>

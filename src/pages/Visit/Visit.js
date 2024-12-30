@@ -831,7 +831,7 @@ const Visit = () => {
                                     Audio app
                                   </a>
                                   , available on the{" "}
-                                  <a href="https://apps.apple.com/gb/app/british-museum-audio/id1609255954">
+                                  <a href="https://apps.apple.com/gb/app/dersim-museum-audio/id1609255954">
                                     App Store
                                   </a>
                                   ,{" "}
@@ -1664,7 +1664,7 @@ const Visit = () => {
                                         (available in various&nbsp;languages
                                         including Dersim Sign Language).
                                         Download via the&nbsp;
-                                        <a href="https://apps.apple.com/gb/app/british-museum-audio/id1609255954">
+                                        <a href="https://apps.apple.com/gb/app/dersim-museum-audio/id1609255954">
                                           App Store
                                         </a>
                                         &nbsp;or&nbsp;

@@ -4913,7 +4913,7 @@ const HewLocke = () => {
                                       <div className="teaser__content-push">
                                         <h3 className="teaser__title">
                                           <a
-                                            href="/about-us/british-museum-story/contested-objects-collection"
+                                            href="/about-us/dersim-museum-story/contested-objects-collection"
                                             className="teaser__anchor"
                                           >
                                             <span>

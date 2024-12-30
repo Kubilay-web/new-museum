@@ -596,7 +596,7 @@ const Home = () => {
                                 </span>
                               </button>
                               <p> The Great Court at the Dersim Museum.</p>
-                              <a href="/about-us/british-museum-story/architecture/great-court">
+                              <a href="/about-us/dersim-museum-story/architecture/great-court">
                                 <span>Explore the Great Court</span>
                               </a>
                             </div>

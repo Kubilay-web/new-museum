@@ -2288,7 +2288,7 @@ const Exhibition = () => {
                                                 </p>
                                                 <h3 className="teaser__title">
                                                   <a
-                                                    href="/our-work/national/uk-touring-exhibitions-and-loans/current-tours/british-museum-unseen-botanical-world-mary-delany"
+                                                    href="/our-work/national/uk-touring-exhibitions-and-loans/current-tours/dersim-museum-unseen-botanical-world-mary-delany"
                                                     className="teaser__anchor"
                                                   >
                                                     <span>

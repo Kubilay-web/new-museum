@@ -838,7 +838,7 @@ const AudioApp = () => {
                                 <a
                                   data-tracking="cta"
                                   className="button button--chevron"
-                                  href="https://apps.apple.com/gb/app/british-museum-audio/id1609255954"
+                                  href="https://apps.apple.com/gb/app/dersim-museum-audio/id1609255954"
                                 >
                                   <span>Download on Apple App Store</span>
                                 </a>

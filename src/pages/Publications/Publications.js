@@ -19,7 +19,7 @@ const Publications = () => {
         />
         <link
           rel="canonical"
-          href="https://www.britishmuseum.org/research/british-museum-publications"
+          href="https://www.britishmuseum.org/research/dersim-museum-publications"
         />
         <link
           rel="image_src"
@@ -29,7 +29,7 @@ const Publications = () => {
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
-          content="https://www.britishmuseum.org/research/british-museum-publications"
+          content="https://www.britishmuseum.org/research/dersim-museum-publications"
         />
         <meta property="og:title" content="Dersim Museum Publications" />
         <meta
@@ -608,7 +608,7 @@ const Publications = () => {
                                 <use xlinkHref="#sprite-icon-chevron" />
                               </svg>
                               <a
-                                href="https://www.britishmuseum.org/research/british-museum-publications"
+                                href="https://www.britishmuseum.org/research/dersim-museum-publications"
                                 className="breadcrumb__current"
                                 aria-current="page"
                               >
@@ -624,7 +624,7 @@ const Publications = () => {
                           <li className="social-share__item">
                             <a
                               className="social-share__link"
-                              href="http://www.facebook.com/share.php?u=https://www.britishmuseum.org/research/british-museum-publications"
+                              href="http://www.facebook.com/share.php?u=https://www.britishmuseum.org/research/dersim-museum-publications"
                               target="_blank"
                               rel="nofollow noopener noreferrer"
                             >
@@ -644,7 +644,7 @@ const Publications = () => {
                           <li className="social-share__item">
                             <a
                               className="social-share__link"
-                              href="https://twitter.com/intent/tweet?text=Dersim%20Museum%20Publications&url=https://www.britishmuseum.org/research/british-museum-publications"
+                              href="https://twitter.com/intent/tweet?text=Dersim%20Museum%20Publications&url=https://www.britishmuseum.org/research/dersim-museum-publications"
                               target="_blank"
                               rel="nofollow noopener noreferrer"
                             >
@@ -793,7 +793,7 @@ const Publications = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/commercial/british-museum-press"
+                                                      href="/commercial/dersim-museum-press"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -834,7 +834,7 @@ const Publications = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/research/british-museum-publications/research-publications-series"
+                                                      href="/research/dersim-museum-publications/research-publications-series"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -877,7 +877,7 @@ const Publications = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/research/british-museum-publications/bmsaes"
+                                                      href="/research/dersim-museum-publications/bmsaes"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>

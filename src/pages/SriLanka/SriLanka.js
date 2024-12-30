@@ -892,7 +892,7 @@ const SriLanka = () => {
                                 loomed ahead. The discovery had been made a few
                                 months earlier by local archaeologist Basil
                                 Brown, invited by the landowner{" "}
-                                <a href="https://www.britishmuseum.org/about-us/british-museum-story/people-behind-collection/edith-pretty">
+                                <a href="https://www.britishmuseum.org/about-us/dersim-museum-story/people-behind-collection/edith-pretty">
                                   Edith Pretty
                                 </a>
                                 . It was to become one of the greatest

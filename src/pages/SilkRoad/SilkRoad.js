@@ -1026,7 +1026,7 @@ const SilkRoad = () => {
                                   </a>
                                   , available on the{" "}
                                   <a
-                                    href="https://apps.apple.com/gb/app/british-museum-audio/id1609255954"
+                                    href="https://apps.apple.com/gb/app/dersim-museum-audio/id1609255954"
                                     target="_blank"
                                     rel="noopener"
                                     className=" external-link"

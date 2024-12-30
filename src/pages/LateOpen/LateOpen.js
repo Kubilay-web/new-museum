@@ -790,7 +790,7 @@ const LateOpen = () => {
                                 n exhibition, explore the galleries or
                                 simply&nbsp;<span>enjoy&nbsp;</span>the{" "}
                                 <a
-                                  href="/about-us/british-museum-story/architecture"
+                                  href="/about-us/dersim-museum-story/architecture"
                                   data-entity-type="node"
                                   data-entity-uuid="d550de3a-dce1-4c0a-ad57-e96436b5783e"
                                 >

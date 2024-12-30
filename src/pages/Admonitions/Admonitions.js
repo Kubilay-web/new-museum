@@ -754,7 +754,7 @@ const Admonitions = () => {
                                     Audio app
                                   </a>
                                   , available on the{" "}
-                                  <a href="https://apps.apple.com/gb/app/british-museum-audio/id1609255954">
+                                  <a href="https://apps.apple.com/gb/app/dersim-museum-audio/id1609255954">
                                     App Store
                                   </a>
                                   ,{" "}

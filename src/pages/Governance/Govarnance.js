@@ -793,7 +793,7 @@ const Govarnance = () => {
                                       together under one roof,&nbsp;the cultures
                                       of the world, spanning continents and
                                       oceans. Discover more&nbsp;about the{" "}
-                                      <a href="/about-us/british-museum-story">
+                                      <a href="/about-us/dersim-museum-story">
                                         history, architecture, people and
                                         acquisitions
                                       </a>

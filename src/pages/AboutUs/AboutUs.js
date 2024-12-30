@@ -848,7 +848,7 @@ const AboutUs = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/about-us/british-museum-story"
+                                                      href="/about-us/dersim-museum-story"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -946,7 +946,7 @@ const AboutUs = () => {
                                       <div className="teaser__content-push">
                                         <h3 className="teaser__title">
                                           <a
-                                            href="/about-us/british-museum-story/architecture"
+                                            href="/about-us/dersim-museum-story/architecture"
                                             className="teaser__anchor"
                                           >
                                             <span>
@@ -1021,7 +1021,7 @@ const AboutUs = () => {
                                       <div className="teaser__content-push">
                                         <h3 className="teaser__title">
                                           <a
-                                            href="/about-us/british-museum-story"
+                                            href="/about-us/dersim-museum-story"
                                             className="teaser__anchor"
                                           >
                                             <span>

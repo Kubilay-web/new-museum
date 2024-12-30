@@ -1023,7 +1023,7 @@ const Research = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/research/british-museum-publications"
+                                                      href="/research/dersim-museum-publications"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>

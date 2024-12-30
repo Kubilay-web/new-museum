@@ -18,7 +18,7 @@ const CommercialPress = () => {
         />
         <link
           rel="canonical"
-          href="https://www.britishmuseum.org/commercial/british-museum-press"
+          href="https://www.britishmuseum.org/commercial/dersim-museum-press"
         />
         <link
           rel="image_src"
@@ -28,7 +28,7 @@ const CommercialPress = () => {
         <meta property="og:type" content="article" />
         <meta
           property="og:url"
-          content="https://www.britishmuseum.org/commercial/british-museum-press"
+          content="https://www.britishmuseum.org/commercial/dersim-museum-press"
         />
         <meta property="og:title" content="Dersim Museum Press" />
         <meta
@@ -453,7 +453,7 @@ const CommercialPress = () => {
                           className="header__logo-container"
                         >
                           <img
-                            src="/images/CommercialPress/british-museum-logo.svg"
+                            src="/images/CommercialPress/dersim-museum-logo.svg"
                             alt="Dersim Museum"
                             width={200}
                             height={66}
@@ -1911,7 +1911,7 @@ const CommercialPress = () => {
                                 <use xlinkHref="#sprite-icon-chevron" />
                               </svg>
                               <a
-                                href="https://www.britishmuseum.org/commercial/british-museum-press"
+                                href="https://www.britishmuseum.org/commercial/dersim-museum-press"
                                 className="breadcrumb__current"
                                 aria-current="page"
                               >
@@ -1927,7 +1927,7 @@ const CommercialPress = () => {
                           <li className="social-share__item">
                             <a
                               className="social-share__link"
-                              href="http://www.facebook.com/share.php?u=https://www.britishmuseum.org/commercial/british-museum-press"
+                              href="http://www.facebook.com/share.php?u=https://www.britishmuseum.org/commercial/dersim-museum-press"
                               target="_blank"
                               rel="nofollow noopener noreferrer"
                             >
@@ -1947,7 +1947,7 @@ const CommercialPress = () => {
                           <li className="social-share__item">
                             <a
                               className="social-share__link"
-                              href="https://twitter.com/intent/tweet?text=Dersim%20Museum%20Press&url=https://www.britishmuseum.org/commercial/british-museum-press"
+                              href="https://twitter.com/intent/tweet?text=Dersim%20Museum%20Press&url=https://www.britishmuseum.org/commercial/dersim-museum-press"
                               target="_blank"
                               rel="nofollow noopener noreferrer"
                             >
@@ -2291,7 +2291,7 @@ const CommercialPress = () => {
                                     <p>
                                       For more information on trade sales
                                       orders, visit the{" "}
-                                      <a href="https://www.casemateuk.com/partner-publishers/british-museum-press">
+                                      <a href="https://www.casemateuk.com/partner-publishers/dersim-museum-press">
                                         Casemate Dersim website
                                       </a>
                                     </p>

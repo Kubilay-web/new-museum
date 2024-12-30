@@ -1265,7 +1265,7 @@ const Press = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/about-us/british-museum-story/contested-objects-collection/asante-gold-regalia"
+                                                      href="/about-us/dersim-museum-story/contested-objects-collection/asante-gold-regalia"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -1306,7 +1306,7 @@ const Press = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/about-us/british-museum-story/contested-objects-collection/benin-bronzes"
+                                                      href="/about-us/dersim-museum-story/contested-objects-collection/benin-bronzes"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -1387,7 +1387,7 @@ const Press = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/about-us/british-museum-story/contested-objects-collection/maqdala-collection"
+                                                      href="/about-us/dersim-museum-story/contested-objects-collection/maqdala-collection"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -1454,7 +1454,7 @@ const Press = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/about-us/british-museum-story/contested-objects-collection/moai"
+                                                      href="/about-us/dersim-museum-story/contested-objects-collection/moai"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -1492,7 +1492,7 @@ const Press = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/about-us/british-museum-story/contested-objects-collection/parthenon-sculptures"
+                                                      href="/about-us/dersim-museum-story/contested-objects-collection/parthenon-sculptures"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -1527,7 +1527,7 @@ const Press = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/about-us/british-museum-story/contested-objects-collection/early-shield-australia"
+                                                      href="/about-us/dersim-museum-story/contested-objects-collection/early-shield-australia"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -1567,7 +1567,7 @@ const Press = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="/about-us/british-museum-story/contested-objects-collection/1933-45-provenance"
+                                                      href="/about-us/dersim-museum-story/contested-objects-collection/1933-45-provenance"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>
@@ -1761,7 +1761,7 @@ const Press = () => {
                                       <div className="teaser__content-push">
                                         <h3 className="teaser__title">
                                           <a
-                                            href="/about-us/british-museum-story/history"
+                                            href="/about-us/dersim-museum-story/history"
                                             className="teaser__anchor"
                                           >
                                             <span>
@@ -1836,7 +1836,7 @@ const Press = () => {
                                       <div className="teaser__content-push">
                                         <h3 className="teaser__title">
                                           <a
-                                            href="/about-us/british-museum-story"
+                                            href="/about-us/dersim-museum-story"
                                             className="teaser__anchor"
                                           >
                                             <span>

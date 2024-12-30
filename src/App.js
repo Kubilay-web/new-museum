@@ -122,7 +122,7 @@ function App() {
       <Route path="/search" element={<Search />} />
       <Route path="/about-us" element={<AboutUs />} />
       <Route path="/about-us/governance" element={<Govarnance />} />
-      <Route path="/about-us/british-museum-story" element={<Story />} />
+      <Route path="/about-us/dersim-museum-story" element={<Story />} />
       <Route path="/about-us/jobs" element={<Jobs />} />
       <Route path="/about-us/press" element={<Press />} />
       <Route path="/about-us/contact-us" element={<Contact />} />
@@ -137,7 +137,7 @@ function App() {
       <Route path="/research" element={<Research />} />
       <Route path="/research/projects" element={<Projects />} />
       <Route
-        path="/research/british-museum-publications"
+        path="/research/dersim-museum-publications"
         element={<Publications />}
       />
       <Route
@@ -149,7 +149,7 @@ function App() {
       <Route path="/commercial/filming" element={<Filming />} />
       <Route path="/commercial/licensing" element={<Licensing />} />
       <Route
-        path="/commercial/british-museum-press"
+        path="/commercial/dersim-museum-press"
         element={<CommercialPress />}
       />
       <Route path="/commercial/travel-trade-tours" element={<Travel />} />
