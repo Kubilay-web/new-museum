@@ -1944,8 +1944,8 @@ const Home = () => {
                                                     data-tracking="shop-slice"
                                                   >
                                                     <span>
-                                                      {" "}
-                                                      Inspired by the Museum
+                                                      Dersim Müzesi Kürtçe
+                                                      Sözlük
                                                     </span>
                                                     <span className="visually-hidden">
                                                       /shopinspired-by/inspired-by-the-british-mus…
@@ -1958,12 +1958,10 @@ const Home = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/images/Inspired%20by%20The%20British%20Museum_2.jpg 400w, /images/Inspired%20by%20The%20British%20Museum_1.jpg 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/images/Inspired%20by%20The%20British%20Museum.jpg"
-                                                    alt="Image of book cover treasures of the Dersim Museum showing Great Court"
+                                                    src="/images/shop-1.webp"
                                                   />
                                                 </div>
                                               </div>
@@ -1981,9 +1979,7 @@ const Home = () => {
                                                     data-tracking="shop-slice"
                                                   >
                                                     <span>
-                                                      {" "}
-                                                      Inspired by the Lewis
-                                                      Chessmen
+                                                      Dersim Müzesi Kupa Bardak
                                                     </span>
                                                     <span className="visually-hidden">
                                                       /shopinspired-by/lewis-chessmen-collection.h…
@@ -1996,12 +1992,10 @@ const Home = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/images/Lewis-chessmen-shop_edit_1.jpg 400w, /images/Lewis-chessmen-shop_edit_2.jpg 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/images/Lewis-chessmen-shop_edit.jpg"
-                                                    alt="A piece from the Lewis Chessmen"
+                                                    src="/images/shop-2.webp"
                                                   />
                                                 </div>
                                               </div>
@@ -2019,8 +2013,7 @@ const Home = () => {
                                                     data-tracking="shop-slice"
                                                   >
                                                     <span>
-                                                      {" "}
-                                                      Inspired by Sutton Hoo
+                                                      Dersim Müzesi Anahtarlık
                                                     </span>
                                                     <span className="visually-hidden">
                                                       /shopinspired-by/sutton-hoo.html
@@ -2033,12 +2026,10 @@ const Home = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/images/Sutton-Hoo-Helmet_2.jpg 400w, /images/Sutton-Hoo-Helmet_1.jpg 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/images/Sutton-Hoo-Helmet.jpg"
-                                                    alt="Helmet found at Sutton Hoo, brown and gold"
+                                                    src="/images/shop-3.webp"
                                                   />
                                                 </div>
                                               </div>
@@ -2056,8 +2047,7 @@ const Home = () => {
                                                     data-tracking="shop-slice"
                                                   >
                                                     <span>
-                                                      {" "}
-                                                      Inspired by Dersim
+                                                      Dersim Müzesi Porselen
                                                     </span>
                                                     <span className="visually-hidden">
                                                       /shopinspired-by/inspired-by-london.html
@@ -2070,12 +2060,10 @@ const Home = () => {
                                                   <img
                                                     loading="eager"
                                                     className="lazyload not-full-width"
-                                                    srcSet="/images/Coloursplash%20London%20Tea%20Towel_edit_2.jpg 400w, /images/Coloursplash%20London%20Tea%20Towel_edit_1.jpg 500w"
                                                     sizes="100vw"
                                                     width={500}
                                                     height={500}
-                                                    src="/images/Coloursplash%20London%20Tea%20Towel_edit.jpg"
-                                                    alt="Landmarks of Dersim including the Dersim Museum and Wembley Stadium."
+                                                    src="/images/shop-4.jpg"
                                                   />
                                                 </div>
                                               </div>
