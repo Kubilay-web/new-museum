@@ -976,10 +976,10 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Book tickets and plan your
-                                                    day including exhibitions,
-                                                    facilities, access, food and
-                                                    travel.
+                                                    Müzedeki her türlü sergi,
+                                                    konferans, etkinlik ve diğer
+                                                    tüm imkanlar için biletinizi
+                                                    temin edebilirsiniz.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1017,10 +1017,9 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Navigate the Museum with
-                                                    ease, using our
-                                                    floor-by-floor plan and
-                                                    discover what not to miss.
+                                                    Müzede kolaylıkla
+                                                    gezinebilmek için müze
+                                                    krokisini kullanabilirsiniz.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1056,10 +1055,10 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    Walk through two million
-                                                    years of history and culture
-                                                    across more than 50
-                                                    galleries.
+                                                    Dersim'in zengin kültürünü
+                                                    ve tarihini keşfetmek için
+                                                    galerilerimizi
+                                                    gezebilirsiniz.
                                                   </div>
                                                 </div>
                                               </div>
@@ -1097,11 +1096,14 @@ const Home = () => {
                                                     </a>
                                                   </h3>
                                                   <div className="teaser__summary">
-                                                    From family facilities to
-                                                    activities and events,
-                                                    discover how to make the
-                                                    most of your day at the
-                                                    Museum.
+                                                    Müzedeki aileler için özel
+                                                    hazırlanmış olan
+                                                    etkinlikleri
+                                                    kaçırmayın.Müzedeki her
+                                                    türlü sergi, konferans,
+                                                    etkinlik ve diğer tüm
+                                                    imkanlar için biletinizi
+                                                    temin edebilirsiniz.
                                                   </div>
                                                 </div>
                                               </div>
