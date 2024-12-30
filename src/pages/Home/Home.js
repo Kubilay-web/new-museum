@@ -1914,7 +1914,7 @@ const Home = () => {
                                     href="/shop"
                                     className="teaser-listing__cta"
                                   >
-                                    <span>Shop now</span>
+                                    <span>Alışverişe Başla</span>
                                     <svg
                                       className="icon icon--chevron"
                                       role="presentation"
