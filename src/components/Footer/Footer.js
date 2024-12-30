@@ -629,22 +629,6 @@ const Footer = () => {
                       <span>Terms of use</span>
                     </a>
                   </li>
-                  <li className="menu-item">
-                    <a
-                      className="menu__link menu__link--level-0"
-                      href="/modern-slavery-act-transparency-statement"
-                    >
-                      <span>Modern Slavery Act Statement</span>
-                    </a>
-                  </li>
-                  <li className="menu-item">
-                    <a
-                      className="menu__link menu__link--level-0"
-                      href="http://britishmuseum.org.cn/"
-                    >
-                      <span>Chinese site 中文</span>
-                    </a>
-                  </li>
                 </ul>
               </nav>
             </div>
