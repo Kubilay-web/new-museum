@@ -507,12 +507,12 @@ const Home = () => {
                             className="hero__title"
                           >
                             {" "}
-                            Welcome to the Dersim Museum
+                            Dersim Müzesine Hoşgeldiniz
                           </h2>
                           <div className="hero__content">
                             <p>
-                              Experience cultures across the globe, from the
-                              dawn of human history to the present.&nbsp;
+                              Dersimin binlerce yıllık tarihini ve kültürünü
+                              birlikte keşfedelim.
                             </p>
                           </div>
                           <div className="hero__button-container">
@@ -521,7 +521,7 @@ const Home = () => {
                               className="hero__button button button--chevron"
                               data-tracking="homepage-hero-button"
                             >
-                              <span>Plan your visit</span>
+                              <span>Ziyaretinizi Planlayın</span>
                             </a>
                           </div>
                         </div>
