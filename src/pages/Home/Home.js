@@ -694,7 +694,7 @@ const Home = () => {
                                     href="/exhibitions-events"
                                     className="teaser-listing__cta"
                                   >
-                                    <span>See all exhibitions and events</span>
+                                    <span>Tüm Sergiler ve Etkinlikler</span>
                                     <svg
                                       className="icon icon--chevron"
                                       role="presentation"
@@ -729,7 +729,7 @@ const Home = () => {
                                                     </span>
                                                     {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     <span className="visually-hidden">
-                                                      . Book now .
+                                                      . Rezervasyon .
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -737,7 +737,7 @@ const Home = () => {
                                                   <ul className="teaser__meta teaser__meta--footer">
                                                     <li className="teaser__meta-item">
                                                       {" "}
-                                                      <span>Exhibition</span>
+                                                      <span>Konferans</span>
                                                     </li>
                                                     <li className="teaser__meta-item">
                                                       {" "}
@@ -751,7 +751,7 @@ const Home = () => {
                                                     className="teaser__defacer"
                                                     aria-hidden="true"
                                                   >
-                                                    Book now
+                                                    Rezervasyon
                                                   </div>
                                                 </footer>
                                               </div>
@@ -789,7 +789,7 @@ const Home = () => {
                                                     </span>
                                                     {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     <span className="visually-hidden">
-                                                      . Book now .
+                                                      . Rezervasyon .
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -797,7 +797,7 @@ const Home = () => {
                                                   <ul className="teaser__meta teaser__meta--footer">
                                                     <li className="teaser__meta-item">
                                                       {" "}
-                                                      <span>Exhibition</span>
+                                                      <span>Konferans</span>
                                                     </li>
                                                     <li className="teaser__meta-item">
                                                       {" "}
@@ -811,7 +811,7 @@ const Home = () => {
                                                     className="teaser__defacer"
                                                     aria-hidden="true"
                                                   >
-                                                    Book now
+                                                    Rezervasyon
                                                   </div>
                                                 </footer>
                                               </div>
@@ -847,7 +847,7 @@ const Home = () => {
                                                     </span>
                                                     {/* Add visually hidden defacer for screen-reader. Use full stops for reader punctuation. */}
                                                     <span className="visually-hidden">
-                                                      . Book now .
+                                                      . Rezervasyon .
                                                     </span>
                                                   </a>
                                                 </h3>
@@ -871,7 +871,7 @@ const Home = () => {
                                                     className="teaser__defacer"
                                                     aria-hidden="true"
                                                   >
-                                                    Book now
+                                                    Rezervasyon
                                                   </div>
                                                 </footer>
                                               </div>
