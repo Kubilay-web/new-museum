@@ -1181,7 +1181,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Barış Çalışmaları.jpg"
+                                                    src="/images/barış çalışmaları.jpg"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
@@ -1224,7 +1224,7 @@ const Home = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    src="/images/Hukuk Çalışmaları.jpg"
+                                                    src="/images/hukuk çalışmaları.jpg"
                                                     alt="Procession of camels with lone figure leading in shadow against orange sky"
                                                   />
                                                 </div>
