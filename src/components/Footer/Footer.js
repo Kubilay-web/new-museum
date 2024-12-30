@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="footer-pre__inner footer-spacer">
               <div className="footer-pre__content">
                 <div className="footer-pre__content-item footer-pre__content-item--title">
-                  <h3 className="footer__title">Connect with us</h3>
+                  <h3 className="footer__title">Bizi Takip Edin</h3>
                 </div>
                 <div className="footer-pre__content-item footer-pre__content-item--newsletter">
                   <form
@@ -43,9 +43,7 @@ const Footer = () => {
                       name="_rp"
                       defaultValue="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box?email=[*data('email')*]"
                     />
-                    <label htmlFor="email">
-                      Enter your email address to receive our newsletter
-                    </label>
+                    <label htmlFor="email">Email Adresinizi Girin</label>
                     <div className="footer__form-fields">
                       <input
                         type="email"
@@ -61,7 +59,7 @@ const Footer = () => {
                         type="submit"
                         id="footer_submit_button"
                       >
-                        Sign up
+                        Kayıt Ol
                         <span className="visually-hidden">
                           {" "}
                           - opens in a new window
@@ -222,7 +220,7 @@ const Footer = () => {
                 <div className="footer-pre__content-item footer-pre__content-item--top-link">
                   <div className="footer-pre__top-link-container">
                     <a href="#page-top" className="footer-pre__top-link">
-                      <span>Back to the top</span>
+                      <span>Yukarı Çık</span>
                       <svg
                         className="icon icon--chevron"
                         role="presentation"
@@ -262,7 +260,7 @@ const Footer = () => {
                         >
                           <use xlinkHref="#sprite-icon-ticket" />
                         </svg>
-                        Free entry
+                        Ücretsiz Giriş
                       </h2>
                       <p>
                         Great Russell Street
@@ -290,12 +288,12 @@ const Footer = () => {
                         >
                           <use xlinkHref="#sprite-icon-clock" />
                         </svg>
-                        Opening hours
+                        Ziyaret Saatleri
                       </h2>
                       <p>
-                        Daily: 10.00–17.00 (Fridays: 20.30)
+                        Haftaiçi: 10.00–17.00 (Cuma: 20.30)
                         <br />
-                        Last entry: 16.45&nbsp;(Fridays: 20.15)
+                        Son Giriş: 16.45&nbsp;(Cuma: 20.15)
                       </p>
                     </div>
                   </div>
@@ -311,7 +309,7 @@ const Footer = () => {
                           className="menu__link menu__link--level-0 menu__link--expanded"
                           href="/about-us"
                         >
-                          <span>About us</span>
+                          <span>Hakkımızda</span>
                         </a>
                         <ul className="menu menu--level-1">
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
@@ -319,7 +317,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/about-us/governance"
                             >
-                              <span>Governance</span>
+                              <span>Yönetim</span>
                             </a>
                           </li>
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
@@ -327,7 +325,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/about-us/british-museum-story"
                             >
-                              <span>The Dersim Museum story</span>
+                              <span>Sürgünde Dersim Müzesi</span>
                             </a>
                           </li>
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
@@ -335,7 +333,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/about-us/jobs"
                             >
-                              <span>Jobs</span>
+                              <span>Açık Pozisyonlar</span>
                             </a>
                           </li>
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
@@ -343,7 +341,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/about-us/press"
                             >
-                              <span>Press</span>
+                              <span>Basın</span>
                             </a>
                           </li>
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
@@ -351,7 +349,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/about-us/contact-us"
                             >
-                              <span>Contact us</span>
+                              <span>İletişim</span>
                             </a>
                           </li>
                         </ul>
@@ -361,7 +359,7 @@ const Footer = () => {
                           className="menu__link menu__link--level-0 menu__link--expanded"
                           href="/visit"
                         >
-                          <span>Visit</span>
+                          <span>Ziyaret</span>
                         </a>
                         <ul className="menu menu--level-1">
                           <li className="menu-item menu__item--level-1">
@@ -369,7 +367,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/visit/museum-map"
                             >
-                              <span>Museum map</span>
+                              <span>Müze Krokisi</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -377,7 +375,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/exhibitions-events"
                             >
-                              <span>Exhibitions and events</span>
+                              <span>Etkinlikler</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -385,7 +383,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/visit/accessibility-museum"
                             >
-                              <span>Accessibility</span>
+                              <span>Ulaşılabilirlik</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -393,7 +391,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/visit/food-and-drink"
                             >
-                              <span>Food and drink</span>
+                              <span>Yiyecek İçecek</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -401,7 +399,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/visit/audio-app"
                             >
-                              <span>Audio guide</span>
+                              <span>Sesli Rehber</span>
                             </a>
                           </li>
                         </ul>
@@ -411,7 +409,7 @@ const Footer = () => {
                           className="menu__link menu__link--level-0 menu__link--expanded"
                           href="/commercial"
                         >
-                          <span>Commercial</span>
+                          <span>Ticari</span>
                         </a>
                         <ul className="menu menu--level-1">
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
@@ -419,7 +417,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/commercial/commercial-hire"
                             >
-                              <span>Commercial hire</span>
+                              <span>Ticari Kiralama</span>
                             </a>
                           </li>
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
@@ -427,7 +425,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/commercial/filming"
                             >
-                              <span>Filming</span>
+                              <span>Dersim Video</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -435,7 +433,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="https://www.bmimages.com/"
                             >
-                              <span>BM Images</span>
+                              <span>Dersim Resim</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -443,7 +441,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/commercial/licensing"
                             >
-                              <span>Licensing</span>
+                              <span>Lisanslama</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -451,7 +449,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/commercial/british-museum-press"
                             >
-                              <span>Dersim Museum Press</span>
+                              <span>Dersim Müzesi Yayınları</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -459,7 +457,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/commercial/travel-trade-tours"
                             >
-                              <span>Travel trade tours</span>
+                              <span>Seyahat İmkanları</span>
                             </a>
                           </li>
                         </ul>
@@ -469,7 +467,7 @@ const Footer = () => {
                           className="menu__link menu__link--level-0 menu__link--expanded"
                           href="/our-work"
                         >
-                          <span>Our work</span>
+                          <span>Yaptıklarımız</span>
                         </a>
                         <ul className="menu menu--level-1">
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
@@ -477,7 +475,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/our-work/departments"
                             >
-                              <span>Departments</span>
+                              <span>Bölümler</span>
                             </a>
                           </li>
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
@@ -485,7 +483,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/our-work/national"
                             >
-                              <span>National</span>
+                              <span>Ulusal</span>
                             </a>
                           </li>
                           <li className="menu-item menu-item--collapsed menu__item--level-1">
@@ -493,7 +491,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/our-work/international"
                             >
-                              <span>International</span>
+                              <span>Uluslararası</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -501,7 +499,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/our-work/how-borrow-british-museum-objects"
                             >
-                              <span>How to borrow</span>
+                              <span>Geçici Koleksiyon</span>
                             </a>
                           </li>
                         </ul>
@@ -511,7 +509,7 @@ const Footer = () => {
                           className="menu__link menu__link--level-0 menu__link--expanded"
                           href="/research"
                         >
-                          <span>Research</span>
+                          <span>Akademik</span>
                         </a>
                         <ul className="menu menu--level-1">
                           <li className="menu-item menu__item--level-1">
@@ -519,7 +517,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/research/projects"
                             >
-                              <span>Research projects</span>
+                              <span>Projeler</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -527,7 +525,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/research/british-museum-publications"
                             >
-                              <span>Research publications</span>
+                              <span>Yayınlar</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -535,7 +533,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/scientific-study-british-museum-collection"
                             >
-                              <span>Scientific studies</span>
+                              <span>Bilimsel Çalışmalar</span>
                             </a>
                           </li>
                         </ul>
@@ -545,7 +543,7 @@ const Footer = () => {
                           className="menu__link menu__link--level-0 menu__link--expanded"
                           href="/resources"
                         >
-                          <span>Resources</span>
+                          <span>Kaynaklar</span>
                         </a>
                         <ul className="menu menu--level-1">
                           <li className="menu-item menu__item--level-1">
@@ -553,7 +551,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/resources/study-rooms"
                             >
-                              <span>Study rooms</span>
+                              <span>Çalışma Odaları</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -561,7 +559,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/resources/library-and-archive"
                             >
-                              <span>Library and archive</span>
+                              <span>Kütüphane</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
@@ -569,7 +567,7 @@ const Footer = () => {
                               className="menu__link menu__link--level-1"
                               href="/collection"
                             >
-                              <span>Search the collection</span>
+                              <span>Koleksiyonları Araştır</span>
                             </a>
                           </li>
                           <li className="menu-item menu__item--level-1">
