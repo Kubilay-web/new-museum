@@ -106,3 +106,15 @@ img.image-style {
   padding: 0px 10px 0px 10px !important;
   height: 480px !important;
 }
+
+@media (min-width: 1271px) {
+  div.dropdownref {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1271px) {
+  div.dropdownref {
+    display: block !important;
+  }
+}
