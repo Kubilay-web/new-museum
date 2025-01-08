@@ -78,6 +78,7 @@ import LittleFeetExplore from "./pages/LittleFeetExplore/LittleFeetExplore";
 import Admonitions from "./pages/Admonitions/Admonitions";
 import ExhibitionEvents from "./pages/ExhibitionEvents/ExhibitionEvents";
 import VisitMember from "./pages/VisitMember/VisitMember";
+import Admin from "./pages/Admin/Admin";
 
 function App() {
   return (
@@ -232,6 +233,8 @@ function App() {
         path="/membership/visiting-as-a-member"
         element={<VisitMember />}
       />
+
+      <Route path="/admin" element={<Admin />} />
     </Routes>
   );
 }
