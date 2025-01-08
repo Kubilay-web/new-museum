@@ -683,7 +683,7 @@ const Membership = () => {
                                 <a
                                   data-tracking="cta"
                                   className="link link--chevron"
-                                  href="https://www.britishmuseum.org/exhibitions-events/members-exclusive"
+                                  href="/exhibitions-events/members-exclusive"
                                 >
                                   <span>Members' events</span>
                                   <svg
@@ -925,7 +925,7 @@ const Membership = () => {
                                                 <div className="teaser__content-push">
                                                   <h3 className="teaser__title">
                                                     <a
-                                                      href="https://www.britishmuseum.org/exhibitions-events/members-exclusive"
+                                                      href="/exhibitions-events/members-exclusive"
                                                       className="teaser__anchor"
                                                     >
                                                       <span>

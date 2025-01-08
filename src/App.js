@@ -76,6 +76,7 @@ import DeafLed from "./pages/DeafLed/DeafLed";
 import Nexus from "./pages/Nexus/Nexus";
 import LittleFeetExplore from "./pages/LittleFeetExplore/LittleFeetExplore";
 import Admonitions from "./pages/Admonitions/Admonitions";
+import ExhibitionEvents from "./pages/ExhibitionEvents/ExhibitionEvents";
 
 function App() {
   return (
@@ -219,6 +220,11 @@ function App() {
       <Route
         path="/exhibitions/admonitions-instructress-court-ladies"
         element={<Admonitions />}
+      />
+
+      <Route
+        path="/exhibitions-events/members-exclusive"
+        element={<ExhibitionEvents />}
       />
     </Routes>
   );
