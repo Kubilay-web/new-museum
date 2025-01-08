@@ -562,7 +562,7 @@ const Header = () => {
                                       </li>
                                       <li className="menu__item menu__item--level-1 menu__item--Koleksiyon homepage">
                                         <a
-                                          href="/"
+                                          href="/collection"
                                           className="menu__link menu__link--level-1 menu__toggle menu__link--Koleksiyon homepage js-Koleksiyon homepage"
                                         >
                                           <span>
