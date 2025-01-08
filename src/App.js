@@ -77,6 +77,7 @@ import Nexus from "./pages/Nexus/Nexus";
 import LittleFeetExplore from "./pages/LittleFeetExplore/LittleFeetExplore";
 import Admonitions from "./pages/Admonitions/Admonitions";
 import ExhibitionEvents from "./pages/ExhibitionEvents/ExhibitionEvents";
+import VisitMember from "./pages/VisitMember/VisitMember";
 
 function App() {
   return (
@@ -225,6 +226,11 @@ function App() {
       <Route
         path="/exhibitions-events/members-exclusive"
         element={<ExhibitionEvents />}
+      />
+
+      <Route
+        path="/membership/visiting-as-a-member"
+        element={<VisitMember />}
       />
     </Routes>
   );
