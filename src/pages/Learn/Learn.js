@@ -421,16 +421,7 @@ const Learn = () => {
           >
             Skip to main content
           </a>
-          {/* No JS Warning */}
-          <noscript>
-            &lt;div class="alert alert--warning" role="alert" style="display:
-            block;"&gt; &lt;div class="container"&gt; &lt;div
-            class="alert__inner"&gt; &lt;div class="alert__content"&gt;
-            &lt;p&gt;Please enable JavaScript in your web browser to get the
-            best experience.&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;
-            &lt;/div&gt;
-          </noscript>
-          {/* End of No JS Warning */}
+
           <div
             className="dialog-off-canvas-main-canvas"
             data-off-canvas-main-canvas
@@ -455,21 +446,21 @@ const Learn = () => {
                         <picture>
                           {/*[if IE 9]><video style="display: none;"><![endif]*/}
                           <source
-                            srcSet="images/140-BM_MangaLate-Jul19_2.jpg 1x"
+                            src="/images/Learn/image-01.webp"
                             media="all and (min-width: 1440px)"
                             type="image/jpeg"
                             width={1600}
                             height={1066}
                           />
                           <source
-                            srcSet="images/140-BM_MangaLate-Jul19_3.jpg 1x"
+                            src="/images/Learn/image-01.webp"
                             media="all and (min-width: 1024px)"
                             type="image/jpeg"
                             width={1300}
                             height={866}
                           />
                           <source
-                            srcSet="images/140-BM_MangaLate-Jul19_1.jpg 1x"
+                            src="/images/Learn/image-01.webp"
                             media="all and (min-width: 768px)"
                             type="image/jpeg"
                             width={1000}
@@ -481,7 +472,7 @@ const Learn = () => {
                             width={750}
                             height={750}
                             data-focal-position="center center"
-                            src="images/140-BM_MangaLate-Jul19.jpg"
+                            src="/images/Learn/image-01.webp"
                             alt=" Attendees of the Museum Manga Late event"
                           />
                         </picture>
@@ -661,30 +652,11 @@ const Learn = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=zIrGoo73"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=BR8ZFoq5 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=zIrGoo73 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=ZhnwFIkp 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=WopwEZ6I 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&itok=rnVXUyE5 1600w"
                                                     data-focal-position="center left"
                                                     alt="Students overlooking the Great Court"
+                                                    src="/images/Learn/image-01.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=BR8ZFoq5
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=zIrGoo73
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=ZhnwFIkp
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=WopwEZ6I
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=rnVXUyE5
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/SCHOOLS_Landingpage.jpg?h=c37b9f87&amp;itok=zIrGoo73"
-                                                    data-sizes="auto"
-                                                    alt="Students overlooking
-                                                    the Great Court" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -721,31 +693,11 @@ const Learn = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=NijlBTkf"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=WY6np_0y 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=NijlBTkf 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=4vXOxiVB 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=EI1XKlG- 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&itok=_4Gzf-J8 1600w"
                                                     data-focal-position="center right"
                                                     alt="Woman looking at objects behind glass at the Dersim Museum, Dersim."
+                                                    src="/images/Learn/image-02.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=WY6np_0y
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=NijlBTkf
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=4vXOxiVB
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=EI1XKlG-
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=_4Gzf-J8
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Communities%2C%20british%20museum.jpg?h=abd37bd6&amp;itok=NijlBTkf"
-                                                    data-sizes="auto" alt="Woman
-                                                    looking at objects behind
-                                                    glass at the Dersim Museum,
-                                                    Dersim." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -810,30 +762,11 @@ const Learn = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=BRO2-NsB"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=6pF12xmK 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=BRO2-NsB 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=YhjWFqod 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=Q9oAJgqb 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&itok=rEbmTQJA 1600w"
                                                     data-focal-position="center right"
                                                     alt="A father and son in Room 22"
+                                                    src="/images/Learn/image-03.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=6pF12xmK
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=BRO2-NsB
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=YhjWFqod
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=Q9oAJgqb
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=rEbmTQJA
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/R22%2021b%20Ancient%20Greece%20Rome%20Americas.jpg?h=e231277d&amp;itok=BRO2-NsB"
-                                                    data-sizes="auto" alt="A
-                                                    father and son in Room 22"
-                                                    /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -872,31 +805,11 @@ const Learn = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&itok=1_KkgedV"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&itok=hqM6nO80 400w, /sites/default/files/styles/16_9_media_small/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&itok=1_KkgedV 750w, /sites/default/files/styles/16_9_media_medium/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&itok=0OT2Ga8p 1000w, /sites/default/files/styles/16_9_media_large/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&itok=rmMpWC89 1300w, /sites/default/files/styles/16_9_media_huge/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&itok=pHc2V4fH 1600w"
                                                     data-focal-position="top center"
                                                     alt="Two people dressed up in manga costumes in the Great Court."
+                                                    src="/images/Learn/image-04.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&amp;itok=hqM6nO80
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&amp;itok=1_KkgedV
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&amp;itok=0OT2Ga8p
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&amp;itok=rmMpWC89
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&amp;itok=pHc2V4fH
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2021-01/manga-late-great-court-1000.jpg?h=835af228&amp;itok=1_KkgedV"
-                                                    data-sizes="auto" alt="Two
-                                                    people dressed up in manga
-                                                    costumes in the Great
-                                                    Court." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -936,31 +849,11 @@ const Learn = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=fwhPftg4"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=14GZkLTx 400w, /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=fwhPftg4 750w, /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=kFfk6CsW 1000w, /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=nhdP-qWZ 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&itok=wWuGIsNr 1600w"
                                                     data-focal-position="center center"
                                                     alt="Adult learning, Festivals, Lates & Special events at the Dersim Museum"
+                                                    src="/images/Learn/image-05.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=14GZkLTx
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=fwhPftg4
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=kFfk6CsW
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=nhdP-qWZ
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=wWuGIsNr
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-11/Adult%20learning%20festivals%20lates%20special%20events%2C%20british%20museum_0.jpg?h=56d0ca2e&amp;itok=fwhPftg4"
-                                                    data-sizes="auto" alt="Adult
-                                                    learning, Festivals, Lates
-                                                    &amp; Special events at the
-                                                    Dersim Museum" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1091,31 +984,11 @@ const Learn = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=IbbM3Aq- 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=_CG-sQ4q 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=xY1HpAuZ 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=eL-unViS 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&itok=gpQQNEw_ 1600w"
                                                     data-focal-position="center right"
                                                     alt="A wide shot of the Great Court with the roof and Reading Room in view"
+                                                    src="/images/Learn/image-07.jpg"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=IbbM3Aq-
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=xY1HpAuZ
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=eL-unViS
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=gpQQNEw_
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/Great%20Court%2004.jpg?h=b771c6d0&amp;itok=_CG-sQ4q"
-                                                    data-sizes="auto" alt="A
-                                                    wide shot of the Great Court
-                                                    with the roof and Reading
-                                                    Room in view" /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
@@ -1154,31 +1027,11 @@ const Learn = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=ldKZbOm9"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=x2IhsLSQ 400w, /sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=ldKZbOm9 750w, /sites/default/files/styles/16_9_media_medium/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=koBT6rU1 1000w, /sites/default/files/styles/16_9_media_large/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=ywOnfmC5 1300w, /sites/default/files/styles/16_9_media_huge/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&itok=9dttIUlT 1600w"
                                                     data-focal-position="center center"
                                                     alt="Two people handling a pot at a South Africa object handling session. "
+                                                    src="/images/Learn/image-08.webp"
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=x2IhsLSQ
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=ldKZbOm9
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=koBT6rU1
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=ywOnfmC5
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=9dttIUlT
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2019-10/south-africa-object-handling-session.jpg?h=f3e1135c&amp;itok=ldKZbOm9"
-                                                    data-sizes="auto" alt="Two
-                                                    people handling a pot at a
-                                                    South Africa object handling
-                                                    session. " /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">

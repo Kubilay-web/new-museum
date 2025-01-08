@@ -97,6 +97,8 @@ function App() {
       <Route path="/collection/galleries" element={<CollectionGalery />} />
       <Route path="/blog" element={<Blog />} />
       <Route path="/the-british-museum-podcast" element={<Podcast />} />
+
+      <Route path="/learn" element={<Learn />} />
       <Route path="/learn/schools" element={<LearnSchool />} />
       <Route path="/learn/communities" element={<Communities />} />
       <Route path="/learn/adult-learning" element={<AdultLearning />} />
