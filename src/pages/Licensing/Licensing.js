@@ -15,6 +15,10 @@ const Licensing = () => {
             type="text/javascript"
           />
           <script
+            src="/js-general/js_WOEKjVOITneU8eFtQ7PTWWT9nTrWxqBlQJvkeddhZp0.js"
+            type="text/javascript"
+          />
+          <script
             src="/js-general/js_SPkMj3SpZ70JzzRSNrXpOjN64UdICR25YexAv-ckrcM.js"
             type="text/javascript"
           />
@@ -967,7 +971,7 @@ const Licensing = () => {
                                           data-large-image-url="/images/Licensing/image-03.webp"
                                           data-large-image-width={1280}
                                           data-large-image-height={720}
-                                          data-description=" "
+                                          data-description="LaCollection NFTs"
                                           data-caption
                                           data-lang
                                         >
