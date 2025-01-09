@@ -498,9 +498,9 @@ const Header = () => {
                             </a>
                           </li>
                           <li className="menu__item menu__item--expanded menu__item--level-0">
-                            <div ref={dropdownRef2}>
+                            <div ref={dropdownRef}>
                               <button
-                                onClick={toggleDropDown2}
+                                onClick={toggleDropDown}
                                 className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                               >
                                 <span>Koleksiyon</span>
@@ -692,9 +692,9 @@ const Header = () => {
                             </div>
                           </li>
                           <li className="menu__item menu__item--expanded menu__item--level-0">
-                            <div ref={dropdownRef3}>
+                            <div ref={dropdownRef}>
                               <button
-                                onClick={toggleDropDown3}
+                                onClick={toggleDropDown}
                                 className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
                               >
                                 <span>Eğitim</span>
