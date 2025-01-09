@@ -8,7 +8,16 @@ const Visit = () => {
     <>
       <div>
         <Helmet>
-          <script src="js-general/jquery.min.js"></script>
+          <script src="/js-general/jquery.min.js" type="text/javascript" />
+          <script src="/js-general/uc.js" type="text/javascript" />
+          <script
+            src="/js-general/js_AHW1Gd1in6RiZJasw3hcMl6NiLhRChyCxmU4q_j0Uf4.js"
+            type="text/javascript"
+          />
+          <script
+            src="/js-general/js_SPkMj3SpZ70JzzRSNrXpOjN64UdICR25YexAv-ckrcM.js"
+            type="text/javascript"
+          />
         </Helmet>
         <meta charSet="utf-8" />
         <style
@@ -3902,10 +3911,6 @@ const Visit = () => {
                                         height={500}
                                         src="/images/Visit/image-museum.jpg"
                                       />
-                                      <figcaption>
-                                        Aerial photograph of the Dersim Museum
-                                        building.
-                                      </figcaption>
                                     </figure>
                                   </div>
                                 </aside>
@@ -4203,12 +4208,7 @@ const Visit = () => {
                                         width={1000}
                                         height={501}
                                         src="/images/Visit/edward-richards-bsl-tour-1000x500_0.jpg"
-                                        alt="BSL tour at the American dream exhibition"
                                       />
-                                      <figcaption>
-                                        BSL tour at the American dream
-                                        exhibition
-                                      </figcaption>
                                     </figure>
                                   </div>
                                 </aside>

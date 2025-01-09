@@ -1,3 +1,8 @@
+html,
+body {
+  overflow-x: hidden !important;
+}
+
 @media print {
   * {
     float: none !important;

@@ -1,4 +1,3 @@
-/* @license GNU-GPL-2.0-or-later https://www.drupal.org/licensing/faq */
 (() => {
   var e,
     t,
@@ -16554,15 +16553,49 @@
           window.addEventListener("fetch-finished", function () {
             (t = !1), i();
           }),
-          (Drupal.behaviors.progressIndicator = {
-            attach: function () {
-              i(),
-                void 0 !== Drupal.Ajax &&
-                  (Drupal.Ajax.prototype.setProgressIndicatorFullscreen =
-                    function () {
-                      n();
-                    });
-            },
+          document.addEventListener("DOMContentLoaded", function () {
+            // Ilerleme göstergesi fonksiyonu (örnek bir fonksiyon)
+            function showProgressIndicator() {
+              // Bu fonksiyon, tam ekran bir ilerleme göstergesi ekler.
+              const progressIndicator = document.createElement("div");
+              progressIndicator.style.position = "fixed";
+              progressIndicator.style.top = "0";
+              progressIndicator.style.left = "0";
+              progressIndicator.style.width = "100%";
+              progressIndicator.style.height = "100%";
+              progressIndicator.style.backgroundColor = "rgba(0, 0, 0, 0.5)";
+              progressIndicator.style.zIndex = "9999";
+              progressIndicator.innerHTML =
+                '<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">Yükleniyor...</div>';
+
+              document.body.appendChild(progressIndicator);
+            }
+
+            // İlerleme göstergesini kaldıran fonksiyon (örnek)
+            function hideProgressIndicator() {
+              const progressIndicator = document.querySelector(
+                'div[style*="z-index: 9999"]'
+              );
+              if (progressIndicator) {
+                progressIndicator.remove();
+              }
+            }
+
+            // AJAX işlemi başladığında ilerleme göstergesini ekle
+            function simulateAjaxRequest() {
+              showProgressIndicator(); // İlerleme göstergesi ekle
+
+              // Simülasyon olarak AJAX isteğini 3 saniye geciktiriyoruz.
+              setTimeout(function () {
+                hideProgressIndicator(); // İlerleme göstergesini kaldır
+              }, 3000);
+            }
+
+            // Örneğin bir form gönderildiğinde veya bir butona tıklandığında AJAX işlemi başlatılıyor:
+            const ajaxButton = document.getElementById("ajaxButton");
+            if (ajaxButton) {
+              ajaxButton.addEventListener("click", simulateAjaxRequest);
+            }
           });
       },
       2819: () => {
@@ -21683,12 +21716,19 @@
             Gi(or), lr(sr, or);
           },
         }),
-        (Drupal.behaviors.updateDropdownItemMarkup = {
-          attach: function (e) {
-            var n = t()(e).closest(".js-dropdown-item");
-            n.length && lr(sr, (or = n));
-          },
+        document.addEventListener("DOMContentLoaded", function () {
+          // Tüm .js-dropdown-item öğelerini seçiyoruz.
+          var dropdownItems = document.querySelectorAll(".js-dropdown-item");
+
+          // Her bir öğe üzerinde döngüye giriyoruz.
+          dropdownItems.forEach(function (item) {
+            // Eğer item (öğe) bulunmuşsa, 'lr' fonksiyonunu çağırıyoruz.
+            if (item) {
+              lr(sr, item);
+            }
+          });
         });
+
       var dr = t()(".js-button-menu"),
         cr = t()(".js-menu-container"),
         pr = "-is-active",
