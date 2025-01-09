@@ -16646,7 +16646,7 @@
         139: "93c63469634442c3c777",
         414: "3b988006d9d8ec76b66b",
         440: "2687bcc48f2f11ffdade",
-        544: "d4ee725bf1ebcf4c1980",
+        544: "fd3373b779b3e713cc1a",
         630: "67df876744a5e9201007",
       }[e] +
       ".js"),
@@ -23476,7 +23476,7 @@
         e.preventDefault();
         var n = t()("#email").val();
         t()("#return_page_footer").val(
-          "https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box?email=" +
+          "https://emails.britishmuseum.org/k/British-Museum/sign_up_form_from_website_box?email=" +
             n
         ),
           Rs.parsley(js).validate(),
@@ -23575,5 +23575,7 @@
         r(9073);
     })();
 })();
+
+
 
 

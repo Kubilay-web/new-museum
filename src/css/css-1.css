@@ -129,3 +129,7 @@ img.image-style {
   font-size: 0.7777777778rem;
   display: none !important;
 }
+
+span.footer-pre__top-link {
+  cursor: pointer;
+}

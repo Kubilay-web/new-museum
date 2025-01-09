@@ -12,8 +12,6 @@ const PrintMaker = () => {
             src="/js-general/js_WOEKjVOITneU8eFtQ7PTWWT9nTrWxqBlQJvkeddhZp0.js"
             type="text/javascript"
           />
-
-          <script src="/js-general/uc.js" type="text/javascript" />
         </Helmet>
         <meta charSet="utf-8" />
         <style

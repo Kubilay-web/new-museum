@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import $ from "jquery";
 
 const Footer = () => {
   // Sayfa kaydırma pozisyonunu takip etmek için state
@@ -17,6 +18,16 @@ const Footer = () => {
   useEffect(() => {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  useEffect(() => {
+    // jQuery scroll event'ini kapat
+    $(window).off("scroll");
+
+    // Temizleme işlemi
+    return () => {
+      $(window).off("scroll");
+    };
   }, []);
 
   // Sayfa en üstüne scroll yapma fonksiyonu
@@ -243,8 +254,8 @@ const Footer = () => {
                 <div className="footer-pre__content-item footer-pre__content-item--top-link">
                   <div className="footer-pre__top-link-container">
                     {isVisible && (
-                      <a
-                        href="#page-top"
+                      <span
+                        href="#page"
                         className="footer-pre__top-link"
                         onClick={(e) => {
                           e.preventDefault();
@@ -260,7 +271,7 @@ const Footer = () => {
                         >
                           <use xlinkHref="#sprite-icon-chevron" />
                         </svg>
-                      </a>
+                      </span>
                     )}
 
                     {/* <a href="#page-top" className="footer-pre__top-link">
