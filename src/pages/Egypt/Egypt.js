@@ -1,11 +1,18 @@
 import React from "react";
 import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
+import { Helmet } from "react-helmet";
 
 const Egypt = () => {
   return (
     <div>
       <div>
+        <Helmet>
+          <script
+            src="/js-general/js_WOEKjVOITneU8eFtQ7PTWWT9nTrWxqBlQJvkeddhZp0.js"
+            type="text/javascript"
+          />
+        </Helmet>
         <meta charSet="utf-8" />
         <style
           dangerouslySetInnerHTML={{
