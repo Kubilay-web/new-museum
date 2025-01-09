@@ -1,11 +1,24 @@
 import React from "react";
 import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
+import { Helmet } from "react-helmet";
 
 const HewLocke = () => {
   return (
     <div>
       <div>
+        <Helmet>
+          <script src="/js-general/jquery.min.js" type="text/javascript" />
+          <script src="/js-general/uc.js" type="text/javascript" />
+          <script
+            src="/js-general/js_AHW1Gd1in6RiZJasw3hcMl6NiLhRChyCxmU4q_j0Uf4.js"
+            type="text/javascript"
+          />
+          <script
+            src="/js-general/js_SPkMj3SpZ70JzzRSNrXpOjN64UdICR25YexAv-ckrcM.js"
+            type="text/javascript"
+          />
+        </Helmet>
         <meta charSet="utf-8" />
         <style
           dangerouslySetInnerHTML={{
@@ -3049,33 +3062,11 @@ const HewLocke = () => {
                                                     className="lazyload"
                                                     width={750}
                                                     height={422}
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&itok=IR6tNMdY"
                                                     data-sizes="auto"
-                                                    data-srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&itok=98BUKD0b 400w, /sites/default/files/styles/16_9_media_small/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&itok=IR6tNMdY 750w, /sites/default/files/styles/16_9_media_medium/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&itok=rKVqT1tn 1000w, /sites/default/files/styles/16_9_media_large/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&itok=Odfh_sVa 1300w, /sites/default/files/styles/16_9_media_huge/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&itok=kzH3okQS 1600w"
+                                                    src="/images/HewLocke/image-18.jpg"
                                                     data-focal-position="center center"
                                                     alt="An ornate gold circular plate standing on its edge with a raised circular pendant at its centre on a grey background."
                                                   />
-                                                  <noscript>
-                                                    &lt;img loading="eager"
-                                                    srcset="/sites/default/files/styles/16_9_media_tiny/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&amp;amp;itok=98BUKD0b
-                                                    400w,
-                                                    /sites/default/files/styles/16_9_media_small/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&amp;amp;itok=IR6tNMdY
-                                                    750w,
-                                                    /sites/default/files/styles/16_9_media_medium/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&amp;amp;itok=rKVqT1tn
-                                                    1000w,
-                                                    /sites/default/files/styles/16_9_media_large/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&amp;amp;itok=Odfh_sVa
-                                                    1300w,
-                                                    /sites/default/files/styles/16_9_media_huge/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&amp;amp;itok=kzH3okQS
-                                                    1600w" width="750"
-                                                    height="422"
-                                                    data-src="/sites/default/files/styles/16_9_media_small/public/2024-09/Silver-gilt_dish_teaser.jpg?h=d1cb525d&amp;amp;itok=IR6tNMdY"
-                                                    data-sizes="auto" alt="An
-                                                    ornate gold circular plate
-                                                    standing on its edge with a
-                                                    raised circular pendant at
-                                                    its centre on a grey
-                                                    background." /&gt;
-                                                  </noscript>
                                                 </div>
                                               </div>
                                               <div className="teaser__content">
