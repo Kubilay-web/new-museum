@@ -1,11 +1,15 @@
 import React from "react";
 import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
+import { Helmet } from "react-helmet";
 
 const Visit = () => {
   return (
     <>
       <div>
+        <Helmet>
+          <script src="js-general/jquery.min.js"></script>
+        </Helmet>
         <meta charSet="utf-8" />
         <style
           dangerouslySetInnerHTML={{

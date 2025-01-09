@@ -1,6 +1,29 @@
-import React from "react";
+import { useEffect, useState } from "react";
 
 const Footer = () => {
+  // Sayfa kaydırma pozisyonunu takip etmek için state
+  const [isVisible, setIsVisible] = useState(false);
+
+  // Sayfa kaydırıldıkça butonun görünür olmasını sağlamak
+  const handleScroll = () => {
+    if (window.scrollY > 300) {
+      setIsVisible(true);
+    } else {
+      setIsVisible(false);
+    }
+  };
+
+  // Sayfa kaydırma durumu değiştiğinde handleScroll fonksiyonunun çalışması
+  useEffect(() => {
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  // Sayfa en üstüne scroll yapma fonksiyonu
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   return (
     <div>
       <footer className="footer print-none | js-footer">
@@ -219,7 +242,28 @@ const Footer = () => {
                 </div>
                 <div className="footer-pre__content-item footer-pre__content-item--top-link">
                   <div className="footer-pre__top-link-container">
-                    <a href="#page-top" className="footer-pre__top-link">
+                    {isVisible && (
+                      <a
+                        href="#page-top"
+                        className="footer-pre__top-link"
+                        onClick={(e) => {
+                          e.preventDefault();
+                          scrollToTop();
+                        }}
+                      >
+                        <span>Yukarı Çık</span>
+                        <svg
+                          className="icon icon--chevron"
+                          role="presentation"
+                          focusable="false"
+                          aria-hidden="true"
+                        >
+                          <use xlinkHref="#sprite-icon-chevron" />
+                        </svg>
+                      </a>
+                    )}
+
+                    {/* <a href="#page-top" className="footer-pre__top-link">
                       <span>Yukarı Çık</span>
                       <svg
                         className="icon icon--chevron"
@@ -229,7 +273,7 @@ const Footer = () => {
                       >
                         <use xlinkHref="#sprite-icon-chevron" />
                       </svg>
-                    </a>
+                    </a> */}
                   </div>
                 </div>
               </div>
