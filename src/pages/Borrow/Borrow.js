@@ -1,11 +1,24 @@
 import React from "react";
 import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
+import { Helmet } from "react-helmet";
 
 const Borrow = () => {
   return (
     <div>
       <div>
+        <Helmet>
+          <script src="/js-general/jquery.min.js" type="text/javascript" />
+          <script src="/js-general/uc.js" type="text/javascript" />
+          <script
+            src="/js-general/js_AHW1Gd1in6RiZJasw3hcMl6NiLhRChyCxmU4q_j0Uf4.js"
+            type="text/javascript"
+          />
+          <script
+            src="/js-general/js_SPkMj3SpZ70JzzRSNrXpOjN64UdICR25YexAv-ckrcM.js"
+            type="text/javascript"
+          />
+        </Helmet>
         <meta charSet="utf-8" />
         <style
           dangerouslySetInnerHTML={{
