@@ -1009,7 +1009,7 @@ const Licensing = () => {
                                           data-large-image-url="/images/Licensing/image-04.jpg"
                                           data-large-image-width={1600}
                                           data-large-image-height={2400}
-                                          data-description=" "
+                                          data-description="Warehouse fashion"
                                           data-caption
                                           data-lang
                                         >
@@ -1047,7 +1047,7 @@ const Licensing = () => {
                                           data-large-image-url="/images/Licensing/image-05.webp"
                                           data-large-image-width={1273}
                                           data-large-image-height={630}
-                                          data-description=" "
+                                          data-description="Rosland Capital"
                                           data-caption
                                           data-lang
                                         >
@@ -1085,7 +1085,7 @@ const Licensing = () => {
                                           data-large-image-url="/images/Licensing/image-06.jpg"
                                           data-large-image-width={768}
                                           data-large-image-height={513}
-                                          data-description=" "
+                                          data-description="Onoto pen"
                                           data-caption
                                           data-lang
                                         >
@@ -1160,7 +1160,7 @@ const Licensing = () => {
                                           data-large-image-url="/images/Licensing/image-08.webp"
                                           data-large-image-width={480}
                                           data-large-image-height={720}
-                                          data-description=" "
+                                          data-description="H&amp;M home"
                                           data-caption
                                           data-lang
                                         >
@@ -1199,7 +1199,7 @@ const Licensing = () => {
                                           data-large-image-url="/images/Licensing/image-09.webp"
                                           data-large-image-width={1600}
                                           data-large-image-height={1329}
-                                          data-description=" "
+                                          data-description="Alfilo Brands"
                                           data-caption
                                           data-lang
                                         >
