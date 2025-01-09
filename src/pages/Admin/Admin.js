@@ -32,6 +32,14 @@ function Admin() {
 
   return (
     <div>
+      <Helmet>
+        <link rel="stylesheet" href="css/sb-admin-2.min.css" />
+        <link
+          href="vendor/fontawesome-free/css/all.min.css"
+          rel="stylesheet"
+          type="text/css"
+        />
+      </Helmet>
       <body id="page-top">
         {/*  <!-- Page Wrapper --> */}
         <div id="wrapper">
