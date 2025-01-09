@@ -5537,6 +5537,11 @@
   }
   .spacer--small-divider {
     height: 28.125vw;
+    background-image: url("/public/images/Masterplan/image-02.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
   }
   @media (min-width: 1024px) {
     .spacer--small-divider {
