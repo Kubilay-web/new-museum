@@ -1,11 +1,20 @@
 import React from "react";
 import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
+import { Helmet } from "react-helmet";
 
 const SilkRoad = () => {
   return (
     <div>
       <div>
+        <Helmet>
+          <script src="/js-general/jquery.min.js" type="text/javascript" />
+
+          <script
+            src="/js-general/js_SPkMj3SpZ70JzzRSNrXpOjN64UdICR25YexAv-ckrcM.js"
+            type="text/javascript"
+          />
+        </Helmet>
         <meta charSet="utf-8" />
         <style
           dangerouslySetInnerHTML={{
