@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./Admin.css";
+import { Helmet } from "react-helmet";
 
 function Admin() {
   const [style, setStyle] = useState(
