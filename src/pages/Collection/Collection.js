@@ -1,11 +1,24 @@
 import React from "react";
 import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
+import { Helmet } from "react-helmet";
 
 const Collection = () => {
   return (
     <div>
       <div>
+        <Helmet>
+          <script src="/js-general/jquery.min.js" type="text/javascript" />
+          <script src="/js-general/uc.js" type="text/javascript" />
+          <script
+            src="/js-general/js_AHW1Gd1in6RiZJasw3hcMl6NiLhRChyCxmU4q_j0Uf4.js"
+            type="text/javascript"
+          />
+          <script
+            src="/js-general/js_SPkMj3SpZ70JzzRSNrXpOjN64UdICR25YexAv-ckrcM.js"
+            type="text/javascript"
+          />
+        </Helmet>
         <meta charSet="utf-8" />
         <style
           dangerouslySetInnerHTML={{
@@ -2343,7 +2356,7 @@ const Collection = () => {
                             </li>
                             <li className="menu__item menu__item--level-0">
                               <a
-                                href="https://www.britishmuseum.org/collection"
+                                href="/collection"
                                 className="menu__link menu__link--level-0 menu__toggle"
                               >
                                 <span>Collection online</span>
