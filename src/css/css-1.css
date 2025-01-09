@@ -123,3 +123,9 @@ img.image-style {
     display: block !important;
   }
 }
+
+.pswp__caption small {
+  color: inherit;
+  font-size: 0.7777777778rem;
+  display: none !important;
+}

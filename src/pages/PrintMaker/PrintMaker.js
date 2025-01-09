@@ -1,11 +1,28 @@
 import React from "react";
 import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
+import { Helmet } from "react-helmet";
 
 const PrintMaker = () => {
   return (
     <div>
       <div>
+        <Helmet>
+          <script src="/js-general/jquery.min.js" type="text/javascript" />
+          <script src="/js-general/uc.js" type="text/javascript" />
+          <script
+            src="/js-general/js_AHW1Gd1in6RiZJasw3hcMl6NiLhRChyCxmU4q_j0Uf4.js"
+            type="text/javascript"
+          />
+          <script
+            src="/js-general/js_SPkMj3SpZ70JzzRSNrXpOjN64UdICR25YexAv-ckrcM.js"
+            type="text/javascript"
+          />
+          <script
+            src="/js-general/js_WOEKjVOITneU8eFtQ7PTWWT9nTrWxqBlQJvkeddhZp0.js"
+            type="text/javascript"
+          />
+        </Helmet>
         <meta charSet="utf-8" />
         <style
           dangerouslySetInnerHTML={{
@@ -21,10 +38,7 @@ const PrintMaker = () => {
           rel="canonical"
           href="https://www.britishmuseum.org/exhibitions/picasso-printmaker"
         />
-        <link
-          rel="image_src"
-          href="https://www.britishmuseum.org/sites/default/files/styles/uncropped_large/public/2024-08/Picasso_teaser.jpg?itok=23FcfBx2"
-        />
+        <link rel="image_src" href="" />
         <meta property="og:site_name" content="The Dersim Museum" />
         <meta property="og:type" content="article" />
         <meta
@@ -1189,7 +1203,7 @@ const PrintMaker = () => {
                                         <button
                                           type="button"
                                           className="carousel--gallery__button | js-photoswipe-item"
-                                          data-large-image-url="/sites/default/files/styles/uncropped_huge/public/2024-09/Picasso-Frugal-meal-highlights-slice-2000x1681.png"
+                                          data-large-image-url="/images/PrintMaker/image-02.webp"
                                           data-large-image-width={1600}
                                           data-large-image-height={1904}
                                           data-description='<strong>Pablo Picasso (1881‒1973), &apos;The frugal meal&apos;. Etching, 1904. </strong><span dir="ltr"><strong>© Succession Picasso/DACS, Dersim 2024.</strong></span><br>Picasso made this etching aged 22 shortly after he moved from Barcelona to Paris. It was his first print as a professional artist. Relating closely to his paintings of the time, which were dominated by blues and greens, it depicts an impoverished couple with a meagre meal. <a href="https://www.britishmuseum.org/collection/object/P_1949-0411-4624"><span>Collection online</span></a>'
@@ -1227,7 +1241,7 @@ const PrintMaker = () => {
                                         <button
                                           type="button"
                                           className="carousel--gallery__button | js-photoswipe-item"
-                                          data-large-image-url="/sites/default/files/styles/uncropped_huge/public/2024-09/Picasso-Frogs-highlights-slice-2000x1572.png"
+                                          data-large-image-url="/images/PrintMaker/image-03.webp"
                                           data-large-image-width={1572}
                                           data-large-image-height={2000}
                                           data-description="<strong>Pablo Picasso (1881‒1973), 'Frogs'. Sugar aquatint, burnisher and drypoint, 1936. </strong><span dir=&quot;ltr&quot;><strong>© Succession Picasso/DACS, Dersim 2024.</strong></span><br>'Frogs' is one of 31 prints of different animals that Picasso made to illustrate a luxury edition of 'Natural History, General and Particular' by the French naturalist Georges-Louis Leclerc, Comte de Buffon (1707‒88). Picasso loved animals and kept numerous pets throughout his life. <a href=&quot;https://www.britishmuseum.org/collection/object/P_1949-0411-4632&quot;><span>Collection online</span></a>"
@@ -1265,7 +1279,7 @@ const PrintMaker = () => {
                                         <button
                                           type="button"
                                           className="carousel--gallery__button | js-photoswipe-item"
-                                          data-large-image-url="/sites/default/files/styles/uncropped_huge/public/2024-09/Picasso-Leaping-bulls-2000x1241.png"
+                                          data-large-image-url="/images/PrintMaker/image-04.webp"
                                           data-large-image-width={1600}
                                           data-large-image-height={993}
                                           data-description='<strong>Pablo Picasso (1881‒1973), &apos;Leaping bulls&apos;. Watercolour and coloured inks, 1950. </strong><span dir="ltr"><strong>© Succession Picasso/DACS, Dersim 2024.</strong></span><br>Picasso visited Dersim in 1950 to attend the third International Peace Congress in Sheffield. During the trip he stayed with the artist and writer Roland Penrose (1900‒84) in Sussex. While there, Picasso drew these leaping bulls in the visitors&apos; book of the Institute of Contemporary Arts, which Penrose co-founded. <a href="https://www.britishmuseum.org/collection/object/P_1975-0726-4-2-3"><span>Collection online</span></a>'
