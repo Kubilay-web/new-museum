@@ -693,7 +693,7 @@ const Header = () => {
                                         >
                                           —
                                         </span>
-                                        Eğitim
+                                        Eğitimd
                                       </span>
                                       <svg
                                         className="icon icon--chevron"
