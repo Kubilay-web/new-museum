@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
 const Header = () => {
   // Dropdown menüsünün açılma/kapanma durumunu tutan state
   const [isOpen, setIsOpen] = useState(false);
@@ -24,9 +24,70 @@ const Header = () => {
     setIsOpen5(!isOpen5);
   };
   const toggleDropDown6 = () => {
-    console.log(setIsOpen6);
     setIsOpen6(!isOpen6);
   };
+
+  const menuRef = useRef(null);
+  const menuRef2 = useRef(null);
+  const menuRef3 = useRef(null);
+  const menuRef4 = useRef(null);
+  const menuRef5 = useRef(null);
+  const menuRef6 = useRef(null);
+
+  // Dışarıya tıklama algılaması
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (menuRef.current && !menuRef.current.contains(event.target)) {
+        setIsOpen(false);
+      }
+    };
+
+    const handleClickOutside2 = (event) => {
+      if (menuRef2.current && !menuRef2.current.contains(event.target)) {
+        setIsOpen2(false); // Menüyü kapat
+      }
+    };
+
+    const handleClickOutside3 = (event) => {
+      if (menuRef3.current && !menuRef3.current.contains(event.target)) {
+        setIsOpen3(false); // Menüyü kapat
+      }
+    };
+
+    const handleClickOutside4 = (event) => {
+      if (menuRef4.current && !menuRef4.current.contains(event.target)) {
+        setIsOpen4(false); // Menüyü kapat
+      }
+    };
+
+    const handleClickOutside5 = (event) => {
+      if (menuRef5.current && !menuRef5.current.contains(event.target)) {
+        setIsOpen5(false); // Menüyü kapat
+      }
+    };
+
+    const handleClickOutside6 = (event) => {
+      if (menuRef6.current && !menuRef6.current.contains(event.target)) {
+        setIsOpen6(false); // Menüyü kapat
+      }
+    };
+
+    document.addEventListener("mousedown", handleClickOutside);
+    document.addEventListener("mousedown", handleClickOutside2);
+    document.addEventListener("mousedown", handleClickOutside3);
+    document.addEventListener("mousedown", handleClickOutside4);
+    document.addEventListener("mousedown", handleClickOutside5);
+    document.addEventListener("mousedown", handleClickOutside6);
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+      document.removeEventListener("mousedown", handleClickOutside2);
+      document.removeEventListener("mousedown", handleClickOutside3);
+      document.removeEventListener("mousedown", handleClickOutside4);
+      document.removeEventListener("mousedown", handleClickOutside5);
+      document.removeEventListener("mousedown", handleClickOutside6);
+    };
+  }, []);
 
   return (
     <div>
@@ -51,6 +112,7 @@ const Header = () => {
                 </a>
               </div>
             </div>
+
             <button
               onClick={toggleDropDown6}
               className="header__button header__button--menu | js-button-menu"
@@ -442,7 +504,10 @@ const Header = () => {
                             </svg>
                           </a>
                         </li>
-                        <li className="menu__item menu__item--expanded menu__item--level-0">
+                        <li
+                          ref={menuRef2}
+                          className="menu__item menu__item--expanded menu__item--level-0"
+                        >
                           <button
                             onClick={toggleDropDown2}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
@@ -634,7 +699,10 @@ const Header = () => {
                             </div>
                           )}
                         </li>
-                        <li className="menu__item menu__item--expanded menu__item--level-0">
+                        <li
+                          ref={menuRef3}
+                          className="menu__item menu__item--expanded menu__item--level-0"
+                        >
                           <button
                             onClick={toggleDropDown3}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
@@ -826,7 +894,10 @@ const Header = () => {
                             </div>
                           )}
                         </li>
-                        <li className="menu__item menu__item--expanded menu__item--level-0">
+                        <li
+                          ref={menuRef4}
+                          className="menu__item menu__item--expanded menu__item--level-0"
+                        >
                           <button
                             onClick={toggleDropDown4}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
@@ -1018,7 +1089,10 @@ const Header = () => {
                             </div>
                           )}
                         </li>
-                        <li className="menu__item menu__item--expanded menu__item--level-0">
+                        <li
+                          ref={menuRef5}
+                          className="menu__item menu__item--expanded menu__item--level-0"
+                        >
                           <button
                             onClick={toggleDropDown5}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
@@ -1368,7 +1442,10 @@ const Header = () => {
                         {" "}
                         {/* required */}
                         <ul className="menu menu--level-0 js-drilldown-root">
-                          <li className="menu__item menu__item--expanded menu__item--level-0">
+                          <li
+                            ref={menuRef}
+                            className="menu__item menu__item--expanded menu__item--level-0"
+                          >
                             <button
                               onClick={toggleDropDown}
                               className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
@@ -1400,7 +1477,7 @@ const Header = () => {
                                         >
                                           <use xlinkHref="#sprite-icon-chevron" />
                                         </svg>
-                                        <span>
+                                        <span ref={menuRef}>
                                           Back{" "}
                                           <span className="visually-hidden">
                                             to previous menu
