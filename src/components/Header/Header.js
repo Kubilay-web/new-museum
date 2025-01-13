@@ -27,6 +27,59 @@ const Header = () => {
     setIsOpen6(!isOpen6);
   };
 
+  const menuRef = useRef(null);
+  const menuRef2 = useRef(null);
+  const menuRef3 = useRef(null);
+  const menuRef4 = useRef(null);
+  const menuRef5 = useRef(null);
+
+  // Dışarıya tıklama algılaması
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (menuRef.current && !menuRef.current.contains(event.target)) {
+        setIsOpen(false);
+      }
+    };
+
+    const handleClickOutside2 = (event) => {
+      if (menuRef2.current && !menuRef2.current.contains(event.target)) {
+        setIsOpen2(false); // Menüyü kapat
+      }
+    };
+
+    const handleClickOutside3 = (event) => {
+      if (menuRef3.current && !menuRef3.current.contains(event.target)) {
+        setIsOpen3(false); // Menüyü kapat
+      }
+    };
+
+    const handleClickOutside4 = (event) => {
+      if (menuRef4.current && !menuRef4.current.contains(event.target)) {
+        setIsOpen4(false); // Menüyü kapat
+      }
+    };
+
+    const handleClickOutside5 = (event) => {
+      if (menuRef5.current && !menuRef5.current.contains(event.target)) {
+        setIsOpen5(false); // Menüyü kapat
+      }
+    };
+
+    document.addEventListener("mousedown", handleClickOutside);
+    document.addEventListener("mousedown", handleClickOutside2);
+    document.addEventListener("mousedown", handleClickOutside3);
+    document.addEventListener("mousedown", handleClickOutside4);
+    document.addEventListener("mousedown", handleClickOutside5);
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+      document.removeEventListener("mousedown", handleClickOutside2);
+      document.removeEventListener("mousedown", handleClickOutside3);
+      document.removeEventListener("mousedown", handleClickOutside4);
+      document.removeEventListener("mousedown", handleClickOutside5);
+    };
+  }, []);
+
   return (
     <div>
       <header className="[ region region-header ] header print-none | js-header-main js-col-offset-item js-col-offset-item--main-header">
