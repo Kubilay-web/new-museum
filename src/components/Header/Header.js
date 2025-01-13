@@ -32,7 +32,6 @@ const Header = () => {
   const menuRef3 = useRef(null);
   const menuRef4 = useRef(null);
   const menuRef5 = useRef(null);
-  const menuRef6 = useRef(null);
 
   // Dışarıya tıklama algılaması
   useEffect(() => {
@@ -66,18 +65,11 @@ const Header = () => {
       }
     };
 
-    const handleClickOutside6 = (event) => {
-      if (menuRef6.current && !menuRef6.current.contains(event.target)) {
-        setIsOpen6(false); // Menüyü kapat
-      }
-    };
-
     document.addEventListener("mousedown", handleClickOutside);
     document.addEventListener("mousedown", handleClickOutside2);
     document.addEventListener("mousedown", handleClickOutside3);
     document.addEventListener("mousedown", handleClickOutside4);
     document.addEventListener("mousedown", handleClickOutside5);
-    document.addEventListener("mousedown", handleClickOutside6);
 
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
@@ -85,7 +77,6 @@ const Header = () => {
       document.removeEventListener("mousedown", handleClickOutside3);
       document.removeEventListener("mousedown", handleClickOutside4);
       document.removeEventListener("mousedown", handleClickOutside5);
-      document.removeEventListener("mousedown", handleClickOutside6);
     };
   }, []);
 
@@ -146,7 +137,10 @@ const Header = () => {
                       {" "}
                       {/* required */}
                       <ul className="menu menu--level-0 js-drilldown-root">
-                        <li className="menu__item menu__item--expanded menu__item--level-0">
+                        <li
+                          ref={menuRef}
+                          className="menu__item menu__item--expanded menu__item--level-0"
+                        >
                           <button
                             onClick={toggleDropDown}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
