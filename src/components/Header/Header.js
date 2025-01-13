@@ -498,10 +498,7 @@ const Header = () => {
                             </svg>
                           </a>
                         </li>
-                        <li
-                          ref={menuRef2}
-                          className="menu__item menu__item--expanded menu__item--level-0"
-                        >
+                        <li className="menu__item menu__item--expanded menu__item--level-0">
                           <button
                             onClick={toggleDropDown2}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
@@ -693,10 +690,7 @@ const Header = () => {
                             </div>
                           )}
                         </li>
-                        <li
-                          ref={menuRef3}
-                          className="menu__item menu__item--expanded menu__item--level-0"
-                        >
+                        <li className="menu__item menu__item--expanded menu__item--level-0">
                           <button
                             onClick={toggleDropDown3}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
@@ -888,10 +882,7 @@ const Header = () => {
                             </div>
                           )}
                         </li>
-                        <li
-                          ref={menuRef4}
-                          className="menu__item menu__item--expanded menu__item--level-0"
-                        >
+                        <li className="menu__item menu__item--expanded menu__item--level-0">
                           <button
                             onClick={toggleDropDown4}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
@@ -1083,10 +1074,7 @@ const Header = () => {
                             </div>
                           )}
                         </li>
-                        <li
-                          ref={menuRef5}
-                          className="menu__item menu__item--expanded menu__item--level-0"
-                        >
+                        <li className="menu__item menu__item--expanded menu__item--level-0">
                           <button
                             onClick={toggleDropDown5}
                             className="menu__link menu__link--level-0 menu__toggle menu__link--expanded js-drilldown-button"
@@ -1471,7 +1459,7 @@ const Header = () => {
                                         >
                                           <use xlinkHref="#sprite-icon-chevron" />
                                         </svg>
-                                        <span ref={menuRef}>
+                                        <span>
                                           Back{" "}
                                           <span className="visually-hidden">
                                             to previous menu
