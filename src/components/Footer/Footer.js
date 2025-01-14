@@ -3,6 +3,8 @@ import $ from "jquery";
 import axios from "axios";
 
 const Footer = () => {
+  const URL = process.env.REACT_APP_BACKEND_URL;
+
   // Sayfa kaydırma pozisyonunu takip etmek için state
   const [isVisible, setIsVisible] = useState(false);
 
@@ -48,7 +50,7 @@ const Footer = () => {
 
     try {
       // Backend API'ye form verisini gönderiyoruz
-      const response = await axios.post("http://localhost:5000/api/subscribe", {
+      const response = await axios.post(`${URL}/api/subscribe`, {
         email,
       });
       setSuccess(true);
