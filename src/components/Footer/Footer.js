@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 import $ from "jquery";
+import axios from "axios";
 
 const Footer = () => {
   // Sayfa kaydırma pozisyonunu takip etmek için state
   const [isVisible, setIsVisible] = useState(false);
 
-  // Sayfa kaydırıldıkça butonun görünür olmasını sağlamak
   const handleScroll = () => {
     if (window.scrollY > 300) {
       setIsVisible(true);
@@ -14,7 +14,6 @@ const Footer = () => {
     }
   };
 
-  // Sayfa kaydırma durumu değiştiğinde handleScroll fonksiyonunun çalışması
   useEffect(() => {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
@@ -35,6 +34,51 @@ const Footer = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
+  //Kayıt Formu
+
+  const [email, setEmail] = useState("");
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+  const [success, setSuccess] = useState(false);
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setLoading(true);
+    setError(null);
+
+    try {
+      // Backend API'ye form verisini gönderiyoruz
+      const response = await axios.post("http://localhost:5000/api/subscribe", {
+        email,
+      });
+      setSuccess(true);
+
+      // Formu sıfırlıyoruz
+      setEmail("");
+
+      // Başarı mesajını 4 saniye sonra kaybolacak şekilde ayarlıyoruz
+      setTimeout(() => {
+        setSuccess(false);
+      }, 4000); // 4 saniye sonra success mesajını gizle
+    } catch (err) {
+      // Eğer hata mesajı varsa, error mesajını göster
+      if (err.response && err.response.data && err.response.data.message) {
+        setError(err.response.data.message);
+      } else {
+        setError("Bir hata oluştu, lütfen tekrar deneyin.");
+      }
+
+      setEmail(""); // Hata durumunda input'u sıfırlıyoruz
+
+      // Hata mesajını gösterdikten sonra, 4 saniye sonra hata mesajını gizleyelim ve input'u sıfırlayalım
+      setTimeout(() => {
+        setError(null);
+      }, 4000); // 4000 ms = 4 saniye sonra hata mesajını ve input'u sıfırlıyoruz
+    } finally {
+      setLoading(false);
+    }
+  };
+
   return (
     <div>
       <footer className="footer print-none | js-footer">
@@ -46,37 +90,20 @@ const Footer = () => {
                   <h3 className="footer__title">Bizi Takip Edin</h3>
                 </div>
                 <div className="footer-pre__content-item footer-pre__content-item--newsletter">
-                  <form
-                    className="footer__form"
-                    id="adestra_footer_form"
-                    action="/"
-                    method="POST"
-                    target="_blank"
-                  >
-                    <input
-                      type="hidden"
-                      name="_account_id"
-                      defaultValue={1552}
-                    />
-                    <input type="hidden" name="_table_id" defaultValue={8} />
-                    <input type="hidden" name="_list_id" defaultValue={126} />
-                    <input type="hidden" name="_dedupe" defaultValue={1} />
-                    <input
-                      type="hidden"
-                      name="_static_update"
-                      defaultValue={1}
-                    />
-                    <input
-                      type="hidden"
-                      name="_email_field"
-                      defaultValue="8.email"
-                    />
+                  <form className="footer__form" onSubmit={handleSubmit}>
+                    <input type="hidden" name="_account_id" value={1552} />
+                    <input type="hidden" name="_table_id" value={8} />
+                    <input type="hidden" name="_list_id" value={126} />
+                    <input type="hidden" name="_dedupe" value={1} />
+                    <input type="hidden" name="_static_update" value={1} />
+                    <input type="hidden" name="_email_field" value="8.email" />
                     <input
                       type="hidden"
                       id="return_page_footer"
                       name="_rp"
-                      defaultValue="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box?email=[*data('email')*]"
+                      value="https://emails.britishmuseum.org/k/Dersim-Museum/sign_up_form_from_website_box?email=[*data('email')*]"
                     />
+
                     <label htmlFor="email">Email Adresinizi Girin</label>
                     <div className="footer__form-fields">
                       <input
@@ -87,19 +114,23 @@ const Footer = () => {
                         maxLength={64}
                         autoComplete="email"
                         required
+                        value={email}
+                        onChange={(e) => setEmail(e.target.value)}
                       />
                       <button
                         className="button button--white footer__form-submit"
                         type="submit"
                         id="footer_submit_button"
+                        disabled={loading}
                       >
-                        Kayıt Ol
-                        <span className="visually-hidden">
-                          {" "}
-                          - opens in a new window
-                        </span>
+                        {loading ? "Yükleniyor..." : "Kayıt Ol"}
                       </button>
                     </div>
+
+                    {error && <p className="error-message">{error}</p>}
+                    {success && (
+                      <p className="success-message">Başarıyla kaydoldunuz!</p>
+                    )}
                   </form>
                   <div className="js-email-validation-container" />
                 </div>
